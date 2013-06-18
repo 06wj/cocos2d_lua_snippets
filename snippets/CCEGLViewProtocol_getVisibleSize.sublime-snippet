@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLViewProtocol:getVisibleSize(${1:})
+]]></content>
+    <tabTrigger>CCEGLViewProtocol:getVisibleSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLViewProtocol:getVisibleSize</description>
+</snippet>
+

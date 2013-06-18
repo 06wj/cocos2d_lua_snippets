@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRGBAProtocol:getOpacity()
+]]></content>
+    <tabTrigger>CCRGBAProtocol:getOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRGBAProtocol:getOpacity</description>
+</snippet>
+

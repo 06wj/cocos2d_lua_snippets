@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFileUtils:addSearchResolutionsOrder(${1:const_char*_order})
+]]></content>
+    <tabTrigger>CCFileUtils:addSearchResolutionsOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFileUtils:addSearchResolutionsOrder</description>
+</snippet>
+

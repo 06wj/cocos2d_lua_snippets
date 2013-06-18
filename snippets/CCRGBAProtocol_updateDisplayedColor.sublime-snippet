@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRGBAProtocol:updateDisplayedColor(${1:const_ccColor3B&_color})
+]]></content>
+    <tabTrigger>CCRGBAProtocol:updateDisplayedColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRGBAProtocol:updateDisplayedColor</description>
+</snippet>
+

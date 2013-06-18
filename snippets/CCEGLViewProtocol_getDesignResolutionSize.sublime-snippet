@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLViewProtocol:getDesignResolutionSize(${1:})
+]]></content>
+    <tabTrigger>CCEGLViewProtocol:getDesignResolutionSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLViewProtocol:getDesignResolutionSize</description>
+</snippet>
+

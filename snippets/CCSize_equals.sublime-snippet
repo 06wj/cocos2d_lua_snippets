@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSize:equals(${1:const_CCSize_&_target})
+]]></content>
+    <tabTrigger>CCSize:equals</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSize:equals</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRGBAProtocol:isOpacityModifyRGB()
+]]></content>
+    <tabTrigger>CCRGBAProtocol:isOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRGBAProtocol:isOpacityModifyRGB</description>
+</snippet>
+

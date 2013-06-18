@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCApplication:sharedApplication(${1:})
+]]></content>
+    <tabTrigger>CCApplication:sharedApplication</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCApplication:sharedApplication</description>
+</snippet>
+

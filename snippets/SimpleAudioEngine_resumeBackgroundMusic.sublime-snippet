@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:resumeBackgroundMusic(${1:})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:resumeBackgroundMusic</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:resumeBackgroundMusic</description>
+</snippet>
+

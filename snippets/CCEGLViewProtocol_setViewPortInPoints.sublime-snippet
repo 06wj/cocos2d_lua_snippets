@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLViewProtocol:setViewPortInPoints(${1:float_x_},${2:float_y_},${3:float_w_},${4:float_h})
+]]></content>
+    <tabTrigger>CCEGLViewProtocol:setViewPortInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLViewProtocol:setViewPortInPoints</description>
+</snippet>
+

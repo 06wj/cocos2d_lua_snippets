@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRGBAProtocol:updateDisplayedOpacity(${1:GLubyte_opacity})
+]]></content>
+    <tabTrigger>CCRGBAProtocol:updateDisplayedOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRGBAProtocol:updateDisplayedOpacity</description>
+</snippet>
+

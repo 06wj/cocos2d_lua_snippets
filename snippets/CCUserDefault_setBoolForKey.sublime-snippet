@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCUserDefault:setBoolForKey(${1:const_char*_pKey},${2:bool_value})
+]]></content>
+    <tabTrigger>CCUserDefault:setBoolForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCUserDefault:setBoolForKey</description>
+</snippet>
+

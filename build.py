@@ -24,8 +24,11 @@ def cleanDir( Dir ):
 
 cleanDir(snippetsDir)
 
-klassP =  re.compile('class\s+(\w+)\s*:\s*.*?{(.*?)}', re.S)
-funcP = re.compile('\w+[\s\*]+(\w+)\((.*?)\)', re.S)
+#                     class    AAA    :    public BBB   {func }
+klassP =  re.compile('class\s+(\w+)\s*:*\s*\w*\s*\w*\s*{(.*?)}', re.S)
+
+#                   void       func(  int a, int b)
+funcP = re.compile('\w+[\s\*&]+(\w+)\((.*?)\)', re.S)
 
 def outPut(klass, func, args):
     tpl = template.replace("%class", klass)

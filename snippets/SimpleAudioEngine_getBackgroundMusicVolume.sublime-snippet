@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:getBackgroundMusicVolume(${1:})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:getBackgroundMusicVolume</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:getBackgroundMusicVolume</description>
+</snippet>
+

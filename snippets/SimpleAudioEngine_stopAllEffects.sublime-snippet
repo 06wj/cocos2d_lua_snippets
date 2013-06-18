@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:stopAllEffects(${1:})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:stopAllEffects</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:stopAllEffects</description>
+</snippet>
+

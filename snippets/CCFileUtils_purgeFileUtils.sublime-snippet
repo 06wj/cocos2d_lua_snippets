@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFileUtils:purgeFileUtils(${1:})
+]]></content>
+    <tabTrigger>CCFileUtils:purgeFileUtils</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFileUtils:purgeFileUtils</description>
+</snippet>
+

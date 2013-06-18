@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCUserDefault:flush(${1:})
+]]></content>
+    <tabTrigger>CCUserDefault:flush</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCUserDefault:flush</description>
+</snippet>
+

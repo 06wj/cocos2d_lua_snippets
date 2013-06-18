@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:stopBackgroundMusic(${1:bool_bReleaseData_=_false})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:stopBackgroundMusic</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:stopBackgroundMusic</description>
+</snippet>
+

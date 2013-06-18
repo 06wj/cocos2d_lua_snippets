@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRect:getMidX(${1:})
+]]></content>
+    <tabTrigger>CCRect:getMidX</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRect:getMidX</description>
+</snippet>
+

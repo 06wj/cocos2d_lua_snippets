@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:preloadBackgroundMusic(${1:const_char*_pszFilePath})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:preloadBackgroundMusic</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:preloadBackgroundMusic</description>
+</snippet>
+

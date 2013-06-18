@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLViewProtocol:getVisibleOrigin(${1:})
+]]></content>
+    <tabTrigger>CCEGLViewProtocol:getVisibleOrigin</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLViewProtocol:getVisibleOrigin</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:resumeAllEffects(${1:})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:resumeAllEffects</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:resumeAllEffects</description>
+</snippet>
+

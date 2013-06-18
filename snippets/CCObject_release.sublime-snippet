@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCObject:release()
+]]></content>
+    <tabTrigger>CCObject:release</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCObject:release</description>
+</snippet>
+

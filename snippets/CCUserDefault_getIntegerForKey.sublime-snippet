@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCUserDefault:getIntegerForKey(${1:const_char*_pKey})
+]]></content>
+    <tabTrigger>CCUserDefault:getIntegerForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCUserDefault:getIntegerForKey</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+SimpleAudioEngine:rewindBackgroundMusic(${1:})
+]]></content>
+    <tabTrigger>SimpleAudioEngine:rewindBackgroundMusic</tabTrigger>
+    <scope>source.lua</scope>
+    <description>SimpleAudioEngine:rewindBackgroundMusic</description>
+</snippet>
+

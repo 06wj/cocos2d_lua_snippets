@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCUserDefault:setDoubleForKey(${1:const_char*_pKey},${2:double_value})
+]]></content>
+    <tabTrigger>CCUserDefault:setDoubleForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCUserDefault:setDoubleForKey</description>
+</snippet>
+

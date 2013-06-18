@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLViewProtocol:getScaleX(${1:})
+]]></content>
+    <tabTrigger>CCEGLViewProtocol:getScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLViewProtocol:getScaleX</description>
+</snippet>
+
