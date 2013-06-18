@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:create()
+]]></content>
+    <tabTrigger>CCScene:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScene:create</description>
+</snippet>
+

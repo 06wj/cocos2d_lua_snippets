@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:getColor()
+]]></content>
+    <tabTrigger>CCLayerColor:getColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerColor:getColor</description>
+</snippet>
+

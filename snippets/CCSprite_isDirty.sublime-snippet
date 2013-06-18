@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:isDirty()
+]]></content>
+    <tabTrigger>CCSprite:isDirty</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:isDirty</description>
+</snippet>
+

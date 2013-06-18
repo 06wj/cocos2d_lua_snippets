@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setEnabled(${1:bool_value})
+]]></content>
+    <tabTrigger>CCMenu:setEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenu:setEnabled</description>
+</snippet>
+

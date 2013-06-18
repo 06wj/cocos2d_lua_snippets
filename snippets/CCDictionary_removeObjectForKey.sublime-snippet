@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:removeObjectForKey(${1:int_key})
+]]></content>
+    <tabTrigger>CCDictionary:removeObjectForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDictionary:removeObjectForKey</description>
+</snippet>
+

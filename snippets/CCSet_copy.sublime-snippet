@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSet:copy(${1:})
+]]></content>
+    <tabTrigger>CCSet:copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSet:copy</description>
+</snippet>
+

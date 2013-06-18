@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:reorderBatch(${1:bool_reorder})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:reorderBatch</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:reorderBatch</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:getAnimationInterval()
+]]></content>
+    <tabTrigger>CCDirector:getAnimationInterval</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:getAnimationInterval</description>
+</snippet>
+

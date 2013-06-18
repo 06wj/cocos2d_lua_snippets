@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:removeChildAtIndex(${1:unsigned_int_index},${2:bool_doCleanup})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:removeChildAtIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:removeChildAtIndex</description>
+</snippet>
+

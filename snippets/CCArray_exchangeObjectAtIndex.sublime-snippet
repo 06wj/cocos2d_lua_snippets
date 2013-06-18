@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:exchangeObjectAtIndex(${1:unsigned_int_index1},${2:unsigned_int_index2})
+]]></content>
+    <tabTrigger>CCArray:exchangeObjectAtIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray:exchangeObjectAtIndex</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getPositionType()
+]]></content>
+    <tabTrigger>CCParticleSystem:getPositionType</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getPositionType</description>
+</snippet>
+

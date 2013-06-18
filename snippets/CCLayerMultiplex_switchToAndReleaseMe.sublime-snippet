@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:switchToAndReleaseMe(${1:unsigned_int_n})
+]]></content>
+    <tabTrigger>CCLayerMultiplex:switchToAndReleaseMe</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerMultiplex:switchToAndReleaseMe</description>
+</snippet>
+

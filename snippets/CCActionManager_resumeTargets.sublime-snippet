@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionManager:resumeTargets(${1:CCSet*_targetsToResume})
+]]></content>
+    <tabTrigger>CCActionManager:resumeTargets</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionManager:resumeTargets</description>
+</snippet>
+

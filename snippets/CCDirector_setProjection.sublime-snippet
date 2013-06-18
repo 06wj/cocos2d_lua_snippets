@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:setProjection(${1:ccDirectorProjection_kProjection})
+]]></content>
+    <tabTrigger>CCDirector:setProjection</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:setProjection</description>
+</snippet>
+

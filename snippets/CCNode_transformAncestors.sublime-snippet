@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:transformAncestors()
+]]></content>
+    <tabTrigger>CCNode:transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:transformAncestors</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:getPixelsHigh(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:getPixelsHigh</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:getPixelsHigh</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:scheduleUpdateWithPriorityLua(${1:LUA_FUNCTION_nHandler},${2:int_priority})
+]]></content>
+    <tabTrigger>CCNode:scheduleUpdateWithPriorityLua</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:scheduleUpdateWithPriorityLua</description>
+</snippet>
+

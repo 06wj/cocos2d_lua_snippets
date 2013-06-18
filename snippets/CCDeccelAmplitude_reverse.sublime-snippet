@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDeccelAmplitude:reverse()
+]]></content>
+    <tabTrigger>CCDeccelAmplitude:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDeccelAmplitude:reverse</description>
+</snippet>
+

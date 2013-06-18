@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShow:reverse()
+]]></content>
+    <tabTrigger>CCShow:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShow:reverse</description>
+</snippet>
+

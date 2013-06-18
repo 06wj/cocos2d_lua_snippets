@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:isFlipY()
+]]></content>
+    <tabTrigger>CCSprite:isFlipY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:isFlipY</description>
+</snippet>
+

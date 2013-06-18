@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:setColor(${1:ccColor3B_color})
+]]></content>
+    <tabTrigger>CCAtlasNode:setColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAtlasNode:setColor</description>
+</snippet>
+

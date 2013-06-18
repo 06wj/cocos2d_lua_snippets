@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:getTileSet(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayer:getTileSet</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer:getTileSet</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:setNotificationNode(${1:CCNode_*node})
+]]></content>
+    <tabTrigger>CCDirector:setNotificationNode</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:setNotificationNode</description>
+</snippet>
+

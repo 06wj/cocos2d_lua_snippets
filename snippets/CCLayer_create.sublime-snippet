@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:create()
+]]></content>
+    <tabTrigger>CCLayer:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer:create</description>
+</snippet>
+

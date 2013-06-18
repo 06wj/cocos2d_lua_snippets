@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLiquid:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCLiquid:getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLiquid:getAmplitudeRate</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:getColor(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemToggle:getColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemToggle:getColor</description>
+</snippet>
+

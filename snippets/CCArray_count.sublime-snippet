@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:count(${1:})
+]]></content>
+    <tabTrigger>CCArray:count</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray:count</description>
+</snippet>
+

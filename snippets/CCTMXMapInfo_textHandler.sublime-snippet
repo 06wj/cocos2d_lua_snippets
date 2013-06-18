@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:textHandler(${1:void_*ctx},${2:const_char_*ch},${3:int_len})
+]]></content>
+    <tabTrigger>CCTMXMapInfo:textHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo:textHandler</description>
+</snippet>
+

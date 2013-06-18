@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:objectForKey(${1:int_key})
+]]></content>
+    <tabTrigger>CCDictionary:objectForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDictionary:objectForKey</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:setDirty(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCCamera:setDirty</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera:setDirty</description>
+</snippet>
+

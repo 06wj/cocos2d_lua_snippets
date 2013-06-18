@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:setEnabled(${1:bool_bEnabled})
+]]></content>
+    <tabTrigger>CCMenuItemSprite:setEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemSprite:setEnabled</description>
+</snippet>
+

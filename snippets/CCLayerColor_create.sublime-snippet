@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:create(${1:ccColor4B_color})
+]]></content>
+    <tabTrigger>CCLayerColor:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerColor:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:create(${1:CCActionInterval_*pAction},${2:float_fRate})
+]]></content>
+    <tabTrigger>CCSpeed:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpeed:create</description>
+</snippet>
+

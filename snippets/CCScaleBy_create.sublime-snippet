@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleBy:create(${1:float_duration},${2:float_sx},${3:float_sy})
+]]></content>
+    <tabTrigger>CCScaleBy:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScaleBy:create</description>
+</snippet>
+

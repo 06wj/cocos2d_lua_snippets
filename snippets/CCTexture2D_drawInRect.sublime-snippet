@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:drawInRect(${1:CCRect_rect})
+]]></content>
+    <tabTrigger>CCTexture2D:drawInRect</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:drawInRect</description>
+</snippet>
+

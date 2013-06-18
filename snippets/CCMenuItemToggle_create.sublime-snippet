@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:create(${1:CCMenuItem_*item})
+]]></content>
+    <tabTrigger>CCMenuItemToggle:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemToggle:create</description>
+</snippet>
+

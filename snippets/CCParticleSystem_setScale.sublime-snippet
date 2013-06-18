@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:setScale(${1:float_s})
+]]></content>
+    <tabTrigger>CCParticleSystem:setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:setScale</description>
+</snippet>
+

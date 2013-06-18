@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:resizeCapacity(${1:unsigned_int_n})
+]]></content>
+    <tabTrigger>CCTextureAtlas:resizeCapacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:resizeCapacity</description>
+</snippet>
+

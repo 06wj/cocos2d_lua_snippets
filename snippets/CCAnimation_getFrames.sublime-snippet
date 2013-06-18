@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimation:getFrames(${1:})
+]]></content>
+    <tabTrigger>CCAnimation:getFrames</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAnimation:getFrames</description>
+</snippet>
+

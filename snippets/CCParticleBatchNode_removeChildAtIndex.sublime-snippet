@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:removeChildAtIndex(${1:unsigned_int_index},${2:bool_doCleanup})
+]]></content>
+    <tabTrigger>CCParticleBatchNode:removeChildAtIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleBatchNode:removeChildAtIndex</description>
+</snippet>
+

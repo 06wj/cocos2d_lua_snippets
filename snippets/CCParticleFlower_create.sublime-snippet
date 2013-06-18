@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:create(${1:})
+]]></content>
+    <tabTrigger>CCParticleFlower:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleFlower:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:randomObject(${1:})
+]]></content>
+    <tabTrigger>CCArray:randomObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray:randomObject</description>
+</snippet>
+

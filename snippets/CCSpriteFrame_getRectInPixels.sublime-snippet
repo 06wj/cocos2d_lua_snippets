@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:getRectInPixels()
+]]></content>
+    <tabTrigger>CCSpriteFrame:getRectInPixels</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:getRectInPixels</description>
+</snippet>
+

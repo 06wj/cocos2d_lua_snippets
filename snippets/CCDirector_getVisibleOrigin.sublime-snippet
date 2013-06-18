@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:getVisibleOrigin(${1:})
+]]></content>
+    <tabTrigger>CCDirector:getVisibleOrigin</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:getVisibleOrigin</description>
+</snippet>
+

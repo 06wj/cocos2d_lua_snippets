@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCToggleVisibility:create(${1:})
+]]></content>
+    <tabTrigger>CCToggleVisibility:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCToggleVisibility:create</description>
+</snippet>
+

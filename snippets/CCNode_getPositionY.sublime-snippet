@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getPositionY(${1:})
+]]></content>
+    <tabTrigger>CCNode:getPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getPositionY</description>
+</snippet>
+

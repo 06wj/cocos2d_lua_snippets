@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveTo:create(${1:float_duration},${2:CCPoint_position})
+]]></content>
+    <tabTrigger>CCMoveTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMoveTo:create</description>
+</snippet>
+

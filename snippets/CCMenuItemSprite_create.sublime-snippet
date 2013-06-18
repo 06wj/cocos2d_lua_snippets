@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:create(${1:CCNode*_normalSprite},${2:CCNode*_selectedSprite})
+]]></content>
+    <tabTrigger>CCMenuItemSprite:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemSprite:create</description>
+</snippet>
+

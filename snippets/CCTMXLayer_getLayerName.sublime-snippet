@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:getLayerName(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayer:getLayerName</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer:getLayerName</description>
+</snippet>
+

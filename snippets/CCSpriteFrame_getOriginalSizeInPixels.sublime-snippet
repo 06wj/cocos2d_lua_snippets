@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:getOriginalSizeInPixels()
+]]></content>
+    <tabTrigger>CCSpriteFrame:getOriginalSizeInPixels</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:getOriginalSizeInPixels</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:getLabel(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemLabel:getLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemLabel:getLabel</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:resume(${1:})
+]]></content>
+    <tabTrigger>CCDirector:resume</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:resume</description>
+</snippet>
+

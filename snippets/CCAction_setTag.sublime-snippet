@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAction:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCAction:setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAction:setTag</description>
+</snippet>
+

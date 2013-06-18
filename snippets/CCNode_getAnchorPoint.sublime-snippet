@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getAnchorPoint(${1:})
+]]></content>
+    <tabTrigger>CCNode:getAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getAnchorPoint</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setSkewY(${1:float_sy})
+]]></content>
+    <tabTrigger>CCSprite:setSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setSkewY</description>
+</snippet>
+

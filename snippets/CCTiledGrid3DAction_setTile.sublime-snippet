@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTiledGrid3DAction:setTile(${1:CCPoint_pos},${2:ccQuad3_coords})
+]]></content>
+    <tabTrigger>CCTiledGrid3DAction:setTile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTiledGrid3DAction:setTile</description>
+</snippet>
+

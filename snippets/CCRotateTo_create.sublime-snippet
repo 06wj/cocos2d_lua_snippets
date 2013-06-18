@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateTo:create(${1:float_duration},${2:float_fDeltaAngle})
+]]></content>
+    <tabTrigger>CCRotateTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRotateTo:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCallFunc:create(${1:LUA_FUNCTION_funcID})
+]]></content>
+    <tabTrigger>CCCallFunc:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCallFunc:create</description>
+</snippet>
+

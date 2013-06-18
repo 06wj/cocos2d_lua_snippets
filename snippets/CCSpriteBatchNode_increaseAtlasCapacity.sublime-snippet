@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:increaseAtlasCapacity(${1:})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:increaseAtlasCapacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:increaseAtlasCapacity</description>
+</snippet>
+

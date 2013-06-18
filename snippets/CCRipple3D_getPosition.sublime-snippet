@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRipple3D:getPosition()
+]]></content>
+    <tabTrigger>CCRipple3D:getPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRipple3D:getPosition</description>
+</snippet>
+

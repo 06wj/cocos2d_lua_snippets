@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:sharedTextureCache(${1:})
+]]></content>
+    <tabTrigger>CCTextureCache:sharedTextureCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache:sharedTextureCache</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpBy:reverse()
+]]></content>
+    <tabTrigger>CCJumpBy:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCJumpBy:reverse</description>
+</snippet>
+

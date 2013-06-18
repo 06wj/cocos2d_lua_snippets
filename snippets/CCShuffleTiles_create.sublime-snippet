@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShuffleTiles:create(${1:float_duration},${2:CCSize_gridSize},${3:unsigned_int_seed})
+]]></content>
+    <tabTrigger>CCShuffleTiles:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShuffleTiles:create</description>
+</snippet>
+

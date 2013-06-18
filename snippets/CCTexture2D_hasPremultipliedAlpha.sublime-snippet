@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:hasPremultipliedAlpha(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:hasPremultipliedAlpha</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:hasPremultipliedAlpha</description>
+</snippet>
+

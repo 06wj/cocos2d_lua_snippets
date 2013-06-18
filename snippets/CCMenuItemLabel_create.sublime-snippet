@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:create(${1:CCNode*_label})
+]]></content>
+    <tabTrigger>CCMenuItemLabel:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemLabel:create</description>
+</snippet>
+

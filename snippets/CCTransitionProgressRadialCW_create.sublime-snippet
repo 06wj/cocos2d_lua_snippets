@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCW:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCW:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionProgressRadialCW:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFiniteTimeAction:getDuration()
+]]></content>
+    <tabTrigger>CCFiniteTimeAction:getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFiniteTimeAction:getDuration</description>
+</snippet>
+

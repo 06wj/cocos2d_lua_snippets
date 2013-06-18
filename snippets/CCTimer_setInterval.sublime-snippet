@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTimer:setInterval(${1:float_fInterval})
+]]></content>
+    <tabTrigger>CCTimer:setInterval</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTimer:setInterval</description>
+</snippet>
+

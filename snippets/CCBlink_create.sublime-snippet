@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:create(${1:float_duration},${2:unsigned_int_uBlinks})
+]]></content>
+    <tabTrigger>CCBlink:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCBlink:create</description>
+</snippet>
+

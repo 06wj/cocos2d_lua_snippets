@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:create(${1:float_duration},${2:CCSize_gridSize},${3:CCPoint_position},${4:unsigned_int_twirls},${5:float_amplitude})
+]]></content>
+    <tabTrigger>CCTwirl:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTwirl:create</description>
+</snippet>
+

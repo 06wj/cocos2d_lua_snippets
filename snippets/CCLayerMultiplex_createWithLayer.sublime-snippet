@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:createWithLayer(${1:CCLayer*_layer})
+]]></content>
+    <tabTrigger>CCLayerMultiplex:createWithLayer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerMultiplex:createWithLayer</description>
+</snippet>
+

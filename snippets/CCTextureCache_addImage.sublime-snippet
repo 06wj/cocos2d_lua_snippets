@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:addImage(${1:const_char*_fileimage})
+]]></content>
+    <tabTrigger>CCTextureCache:addImage</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache:addImage</description>
+</snippet>
+

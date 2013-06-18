@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpTiles3D:getAmplitude()
+]]></content>
+    <tabTrigger>CCJumpTiles3D:getAmplitude</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCJumpTiles3D:getAmplitude</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerRGBA:isCascadeOpacityEnabled(${1:})
+]]></content>
+    <tabTrigger>CCLayerRGBA:isCascadeOpacityEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerRGBA:isCascadeOpacityEnabled</description>
+</snippet>
+

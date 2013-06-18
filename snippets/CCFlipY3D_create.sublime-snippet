@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY3D:create(${1:float_duration})
+]]></content>
+    <tabTrigger>CCFlipY3D:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFlipY3D:create</description>
+</snippet>
+

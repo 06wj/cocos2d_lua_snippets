@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:removeAllChildrenWithCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCParallaxNode:removeAllChildrenWithCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParallaxNode:removeAllChildrenWithCleanup</description>
+</snippet>
+

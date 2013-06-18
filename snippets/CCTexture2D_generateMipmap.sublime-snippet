@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:generateMipmap(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:generateMipmap</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:generateMipmap</description>
+</snippet>
+

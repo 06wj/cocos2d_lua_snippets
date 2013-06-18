@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:getAccelerometer(${1:})
+]]></content>
+    <tabTrigger>CCDirector:getAccelerometer</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:getAccelerometer</description>
+</snippet>
+

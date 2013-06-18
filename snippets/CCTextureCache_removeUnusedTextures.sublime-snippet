@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:removeUnusedTextures(${1:})
+]]></content>
+    <tabTrigger>CCTextureCache:removeUnusedTextures</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache:removeUnusedTextures</description>
+</snippet>
+

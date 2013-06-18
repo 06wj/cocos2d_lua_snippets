@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShuffleTiles:placeTile(${1:CCPoint_pos},${2:Tile_*t})
+]]></content>
+    <tabTrigger>CCShuffleTiles:placeTile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShuffleTiles:placeTile</description>
+</snippet>
+

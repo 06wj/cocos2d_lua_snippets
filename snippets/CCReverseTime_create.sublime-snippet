@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCReverseTime:create(${1:CCFiniteTimeAction_*pAction})
+]]></content>
+    <tabTrigger>CCReverseTime:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCReverseTime:create</description>
+</snippet>
+

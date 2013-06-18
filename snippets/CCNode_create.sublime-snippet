@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:create()
+]]></content>
+    <tabTrigger>CCNode:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:create</description>
+</snippet>
+

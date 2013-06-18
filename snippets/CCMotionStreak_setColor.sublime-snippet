@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:setColor(${1:const_ccColor3B&_color})
+]]></content>
+    <tabTrigger>CCMotionStreak:setColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMotionStreak:setColor</description>
+</snippet>
+

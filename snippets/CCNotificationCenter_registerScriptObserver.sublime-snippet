@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNotificationCenter:registerScriptObserver(${1:LUA_FUNCTION_handler})
+]]></content>
+    <tabTrigger>CCNotificationCenter:registerScriptObserver</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNotificationCenter:registerScriptObserver</description>
+</snippet>
+

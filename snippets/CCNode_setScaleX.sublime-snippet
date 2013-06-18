@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCNode:setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:setScaleX</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerRGBA:setColor(${1:const_ccColor3B&_color})
+]]></content>
+    <tabTrigger>CCLayerRGBA:setColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerRGBA:setColor</description>
+</snippet>
+

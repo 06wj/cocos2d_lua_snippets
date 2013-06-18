@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:defaultAlphaPixelFormat(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:defaultAlphaPixelFormat</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:defaultAlphaPixelFormat</description>
+</snippet>
+

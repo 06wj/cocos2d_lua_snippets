@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getLifeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getLifeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getLifeVar</description>
+</snippet>
+

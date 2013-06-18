@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:create(${1:const_char*_value},${2:const_char*_charMapFile},${3:int_itemWidth},${4:int_itemHeight},${5:char_startCharMap})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemAtlasFont:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:getZEye()
+]]></content>
+    <tabTrigger>CCDirector:getZEye</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDirector:getZEye</description>
+</snippet>
+

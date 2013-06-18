@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXObjectGroup:getObjects(${1:})
+]]></content>
+    <tabTrigger>CCTMXObjectGroup:getObjects</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXObjectGroup:getObjects</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setFlipX(${1:bool_bFlipX})
+]]></content>
+    <tabTrigger>CCSprite:setFlipX</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setFlipX</description>
+</snippet>
+

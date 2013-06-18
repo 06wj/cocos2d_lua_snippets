@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:parentToNodeTransform()
+]]></content>
+    <tabTrigger>CCNode:parentToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:parentToNodeTransform</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:getUpXYZ(${1:float_*pUpX},${2:float_*pUpY},${3:float_*pUpZ})
+]]></content>
+    <tabTrigger>CCCamera:getUpXYZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera:getUpXYZ</description>
+</snippet>
+

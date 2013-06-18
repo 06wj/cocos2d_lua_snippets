@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCardinalSplineTo:setPoints(${1:CCPointArray*_points})
+]]></content>
+    <tabTrigger>CCCardinalSplineTo:setPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCardinalSplineTo:setPoints</description>
+</snippet>
+

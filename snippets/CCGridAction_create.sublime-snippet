@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGridAction:create(${1:float_duration},${2:CCSize_gridSize})
+]]></content>
+    <tabTrigger>CCGridAction:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCGridAction:create</description>
+</snippet>
+

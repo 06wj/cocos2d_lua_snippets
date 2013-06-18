@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:reverseObjects(${1:})
+]]></content>
+    <tabTrigger>CCArray:reverseObjects</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray:reverseObjects</description>
+</snippet>
+

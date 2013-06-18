@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:highestAtlasIndexInChild(${1:CCSprite_*sprite})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:highestAtlasIndexInChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:highestAtlasIndexInChild</description>
+</snippet>
+

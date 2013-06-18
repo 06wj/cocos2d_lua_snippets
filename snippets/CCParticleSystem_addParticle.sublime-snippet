@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:addParticle(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:addParticle</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:addParticle</description>
+</snippet>
+

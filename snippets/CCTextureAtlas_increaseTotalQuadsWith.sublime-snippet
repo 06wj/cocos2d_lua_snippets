@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:increaseTotalQuadsWith(${1:unsigned_int_amount})
+]]></content>
+    <tabTrigger>CCTextureAtlas:increaseTotalQuadsWith</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:increaseTotalQuadsWith</description>
+</snippet>
+

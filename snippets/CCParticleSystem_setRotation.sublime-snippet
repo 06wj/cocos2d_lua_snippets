@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCParticleSystem:setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:setRotation</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:setPosition(${1:CCPoint_position})
+]]></content>
+    <tabTrigger>CCTwirl:setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTwirl:setPosition</description>
+</snippet>
+

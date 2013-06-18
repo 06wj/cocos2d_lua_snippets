@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getTag(${1:})
+]]></content>
+    <tabTrigger>CCNode:getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getTag</description>
+</snippet>
+

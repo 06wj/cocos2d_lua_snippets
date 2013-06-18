@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNotificationCenter:sharedNotificationCenter()
+]]></content>
+    <tabTrigger>CCNotificationCenter:sharedNotificationCenter</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNotificationCenter:sharedNotificationCenter</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRepeatForever:reverse()
+]]></content>
+    <tabTrigger>CCRepeatForever:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRepeatForever:reverse</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:getVector()
+]]></content>
+    <tabTrigger>CCLayerGradient:getVector</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerGradient:getVector</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:getTouchPriority(${1:})
+]]></content>
+    <tabTrigger>CCLayer:getTouchPriority</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer:getTouchPriority</description>
+</snippet>
+

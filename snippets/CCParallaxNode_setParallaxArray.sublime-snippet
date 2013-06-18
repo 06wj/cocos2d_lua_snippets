@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:setParallaxArray(${1:struct__ccArray_*_pval})
+]]></content>
+    <tabTrigger>CCParallaxNode:setParallaxArray</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParallaxNode:setParallaxArray</description>
+</snippet>
+

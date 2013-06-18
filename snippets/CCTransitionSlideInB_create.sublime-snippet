@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInB:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionSlideInB:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionSlideInB:create</description>
+</snippet>
+

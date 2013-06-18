@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:reset(${1:})
+]]></content>
+    <tabTrigger>CCMotionStreak:reset</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMotionStreak:reset</description>
+</snippet>
+

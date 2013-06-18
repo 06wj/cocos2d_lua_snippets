@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:worldToNodeTransform()
+]]></content>
+    <tabTrigger>CCNode:worldToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:worldToNodeTransform</description>
+</snippet>
+

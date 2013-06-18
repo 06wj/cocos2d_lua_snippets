@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:stopSystem(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:stopSystem</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:stopSystem</description>
+</snippet>
+

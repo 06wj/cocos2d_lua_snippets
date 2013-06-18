@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:getPercentage()
+]]></content>
+    <tabTrigger>CCProgressTimer:getPercentage</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProgressTimer:getPercentage</description>
+</snippet>
+

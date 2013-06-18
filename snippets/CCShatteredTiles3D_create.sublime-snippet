@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShatteredTiles3D:create(${1:float_duration},${2:CCSize_gridSize},${3:int_nRange},${4:bool_bShatterZ})
+]]></content>
+    <tabTrigger>CCShatteredTiles3D:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShatteredTiles3D:create</description>
+</snippet>
+

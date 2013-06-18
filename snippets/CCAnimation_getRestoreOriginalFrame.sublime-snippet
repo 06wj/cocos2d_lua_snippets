@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimation:getRestoreOriginalFrame(${1:})
+]]></content>
+    <tabTrigger>CCAnimation:getRestoreOriginalFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAnimation:getRestoreOriginalFrame</description>
+</snippet>
+

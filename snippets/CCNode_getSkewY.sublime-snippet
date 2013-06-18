@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getSkewY(${1:})
+]]></content>
+    <tabTrigger>CCNode:getSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getSkewY</description>
+</snippet>
+

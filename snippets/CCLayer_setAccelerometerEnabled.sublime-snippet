@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:setAccelerometerEnabled(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCLayer:setAccelerometerEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer:setAccelerometerEnabled</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:insertQuadFromIndex(${1:unsigned_int_fromIndex},${2:unsigned_int_newIndex})
+]]></content>
+    <tabTrigger>CCTextureAtlas:insertQuadFromIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:insertQuadFromIndex</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:isDirty()
+]]></content>
+    <tabTrigger>CCCamera:isDirty</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera:isDirty</description>
+</snippet>
+

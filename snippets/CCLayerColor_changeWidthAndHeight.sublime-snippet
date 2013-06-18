@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:changeWidthAndHeight(${1:GLfloat_w_},${2:GLfloat_h})
+]]></content>
+    <tabTrigger>CCLayerColor:changeWidthAndHeight</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerColor:changeWidthAndHeight</description>
+</snippet>
+

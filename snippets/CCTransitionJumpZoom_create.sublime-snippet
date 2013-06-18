@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionJumpZoom:create</description>
+</snippet>
+

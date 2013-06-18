@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:formatWithXML(${1:const_char_*tmxString},${2:const_char*_resourcePath})
+]]></content>
+    <tabTrigger>CCTMXMapInfo:formatWithXML</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo:formatWithXML</description>
+</snippet>
+

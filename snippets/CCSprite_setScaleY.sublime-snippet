@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setScaleY(${1:float_fScaleY})
+]]></content>
+    <tabTrigger>CCSprite:setScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setScaleY</description>
+</snippet>
+

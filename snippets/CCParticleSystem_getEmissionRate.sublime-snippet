@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getEmissionRate(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getEmissionRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getEmissionRate</description>
+</snippet>
+

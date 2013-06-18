@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:rect(${1:})
+]]></content>
+    <tabTrigger>CCMenuItem:rect</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItem:rect</description>
+</snippet>
+

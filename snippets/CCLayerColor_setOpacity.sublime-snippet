@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:setOpacity(${1:GLubyte_var})
+]]></content>
+    <tabTrigger>CCLayerColor:setOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerColor:setOpacity</description>
+</snippet>
+

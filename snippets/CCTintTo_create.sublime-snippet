@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintTo:create(${1:float_duration},${2:GLubyte_red},${3:GLubyte_green},${4:GLubyte_blue})
+]]></content>
+    <tabTrigger>CCTintTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTintTo:create</description>
+</snippet>
+

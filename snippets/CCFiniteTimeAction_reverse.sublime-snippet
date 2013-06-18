@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFiniteTimeAction:reverse()
+]]></content>
+    <tabTrigger>CCFiniteTimeAction:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFiniteTimeAction:reverse</description>
+</snippet>
+

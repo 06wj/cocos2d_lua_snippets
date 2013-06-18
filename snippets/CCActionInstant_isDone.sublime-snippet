@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInstant:isDone()
+]]></content>
+    <tabTrigger>CCActionInstant:isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionInstant:isDone</description>
+</snippet>
+

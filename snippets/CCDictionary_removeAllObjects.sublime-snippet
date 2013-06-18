@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:removeAllObjects(${1:})
+]]></content>
+    <tabTrigger>CCDictionary:removeAllObjects</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDictionary:removeAllObjects</description>
+</snippet>
+

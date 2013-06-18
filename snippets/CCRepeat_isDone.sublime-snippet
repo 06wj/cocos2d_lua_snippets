@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRepeat:isDone()
+]]></content>
+    <tabTrigger>CCRepeat:isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRepeat:isDone</description>
+</snippet>
+

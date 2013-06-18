@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:registerScriptTapHandler(${1:LUA_FUNCTION_funcID})
+]]></content>
+    <tabTrigger>CCMenuItem:registerScriptTapHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItem:registerScriptTapHandler</description>
+</snippet>
+

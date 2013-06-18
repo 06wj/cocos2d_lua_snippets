@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:releaseMap(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayer:releaseMap</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer:releaseMap</description>
+</snippet>
+

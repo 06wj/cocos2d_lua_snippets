@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSkewTo:create(${1:float_t},${2:float_sx},${3:float_sy})
+]]></content>
+    <tabTrigger>CCSkewTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSkewTo:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getTexture()
+]]></content>
+    <tabTrigger>CCParticleSystem:getTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getTexture</description>
+</snippet>
+

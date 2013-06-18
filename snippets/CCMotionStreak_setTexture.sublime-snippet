@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:setTexture(${1:CCTexture2D_*texture})
+]]></content>
+    <tabTrigger>CCMotionStreak:setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMotionStreak:setTexture</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:insertObject(${1:CCObject*_object},${2:unsigned_int_index})
+]]></content>
+    <tabTrigger>CCArray:insertObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray:insertObject</description>
+</snippet>
+

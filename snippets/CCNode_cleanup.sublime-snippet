@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:cleanup()
+]]></content>
+    <tabTrigger>CCNode:cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:cleanup</description>
+</snippet>
+

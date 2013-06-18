@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:reverse()
+]]></content>
+    <tabTrigger>CCSpeed:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpeed:reverse</description>
+</snippet>
+

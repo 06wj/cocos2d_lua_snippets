@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShaky3D:create(${1:float_duration},${2:CCSize_gridSize},${3:int_range},${4:bool_shakeZ})
+]]></content>
+    <tabTrigger>CCShaky3D:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShaky3D:create</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrameCache:removeSpriteFrames()
+]]></content>
+    <tabTrigger>CCSpriteFrameCache:removeSpriteFrames</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrameCache:removeSpriteFrames</description>
+</snippet>
+

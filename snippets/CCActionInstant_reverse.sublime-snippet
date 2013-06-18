@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInstant:reverse()
+]]></content>
+    <tabTrigger>CCActionInstant:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionInstant:reverse</description>
+</snippet>
+

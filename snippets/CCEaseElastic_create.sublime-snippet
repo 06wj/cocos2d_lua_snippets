@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElastic:create(${1:CCActionInterval_*pAction},${2:float_fPeriod_=_0.3})
+]]></content>
+    <tabTrigger>CCEaseElastic:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseElastic:create</description>
+</snippet>
+

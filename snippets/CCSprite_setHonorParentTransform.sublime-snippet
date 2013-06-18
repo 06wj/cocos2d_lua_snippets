@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setHonorParentTransform(${1:ccHonorParentTransform_eHonorParentTransform})
+]]></content>
+    <tabTrigger>CCSprite:setHonorParentTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setHonorParentTransform</description>
+</snippet>
+

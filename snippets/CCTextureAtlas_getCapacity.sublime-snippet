@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:getCapacity(${1:})
+]]></content>
+    <tabTrigger>CCTextureAtlas:getCapacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:getCapacity</description>
+</snippet>
+

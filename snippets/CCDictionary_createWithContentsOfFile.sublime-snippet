@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:createWithContentsOfFile(${1:const_char_*pFileName})
+]]></content>
+    <tabTrigger>CCDictionary:createWithContentsOfFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDictionary:createWithContentsOfFile</description>
+</snippet>
+

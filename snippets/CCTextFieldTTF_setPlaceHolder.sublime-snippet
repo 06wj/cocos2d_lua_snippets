@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setPlaceHolder(${1:const_char_*_text})
+]]></content>
+    <tabTrigger>CCTextFieldTTF:setPlaceHolder</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextFieldTTF:setPlaceHolder</description>
+</snippet>
+

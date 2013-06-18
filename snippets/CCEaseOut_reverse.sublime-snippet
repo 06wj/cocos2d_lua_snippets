@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseOut:reverse()
+]]></content>
+    <tabTrigger>CCEaseOut:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseOut:reverse</description>
+</snippet>
+

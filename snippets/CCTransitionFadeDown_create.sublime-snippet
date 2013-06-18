@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeDown:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionFadeDown:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionFadeDown:create</description>
+</snippet>
+

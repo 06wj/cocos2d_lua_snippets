@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:getAtlasIndex()
+]]></content>
+    <tabTrigger>CCSprite:getAtlasIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:getAtlasIndex</description>
+</snippet>
+

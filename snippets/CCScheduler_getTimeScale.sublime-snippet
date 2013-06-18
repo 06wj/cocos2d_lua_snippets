@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScheduler:getTimeScale()
+]]></content>
+    <tabTrigger>CCScheduler:getTimeScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScheduler:getTimeScale</description>
+</snippet>
+

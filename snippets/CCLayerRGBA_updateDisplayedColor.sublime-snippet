@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerRGBA:updateDisplayedColor(${1:const_ccColor3B&_parentColor})
+]]></content>
+    <tabTrigger>CCLayerRGBA:updateDisplayedColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerRGBA:updateDisplayedColor</description>
+</snippet>
+

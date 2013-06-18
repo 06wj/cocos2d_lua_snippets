@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:propertyNamed(${1:const_char_*propertyName})
+]]></content>
+    <tabTrigger>CCTMXTiledMap:propertyNamed</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap:propertyNamed</description>
+</snippet>
+

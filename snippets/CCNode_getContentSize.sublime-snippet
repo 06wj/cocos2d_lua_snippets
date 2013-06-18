@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCNode:getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getContentSize</description>
+</snippet>
+

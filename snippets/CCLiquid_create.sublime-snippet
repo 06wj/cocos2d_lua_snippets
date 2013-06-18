@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLiquid:create(${1:float_duration},${2:CCSize_gridSize},${3:unsigned_int_waves},${4:float_amplitude})
+]]></content>
+    <tabTrigger>CCLiquid:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLiquid:create</description>
+</snippet>
+

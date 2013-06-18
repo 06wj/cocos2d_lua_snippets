@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:create(${1:})
+]]></content>
+    <tabTrigger>CCParticleSpiral:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSpiral:create</description>
+</snippet>
+

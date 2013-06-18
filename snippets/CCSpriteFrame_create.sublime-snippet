@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:create(${1:const_char*_filename},${2:CCRect_rect})
+]]></content>
+    <tabTrigger>CCSpriteFrame:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:create</description>
+</snippet>
+

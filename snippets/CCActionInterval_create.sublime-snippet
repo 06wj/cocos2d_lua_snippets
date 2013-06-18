@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInterval:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCActionInterval:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionInterval:create</description>
+</snippet>
+

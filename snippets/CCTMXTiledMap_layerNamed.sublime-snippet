@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:layerNamed(${1:const_char_*layerName})
+]]></content>
+    <tabTrigger>CCTMXTiledMap:layerNamed</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap:layerNamed</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLView:sharedOpenGLView()
+]]></content>
+    <tabTrigger>CCEGLView:sharedOpenGLView</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEGLView:sharedOpenGLView</description>
+</snippet>
+

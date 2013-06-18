@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:removeChild(${1:CCNode*_pChild},${2:bool_bCleanUp})
+]]></content>
+    <tabTrigger>CCSprite:removeChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:removeChild</description>
+</snippet>
+

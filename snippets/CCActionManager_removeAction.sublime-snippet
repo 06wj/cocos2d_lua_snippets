@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionManager:removeAction(${1:CCAction_*pAction})
+]]></content>
+    <tabTrigger>CCActionManager:removeAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionManager:removeAction</description>
+</snippet>
+

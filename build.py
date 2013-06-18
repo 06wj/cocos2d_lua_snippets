@@ -25,19 +25,40 @@ def cleanDir( Dir ):
 cleanDir(snippetsDir)
 
 klassP =  re.compile('class\s+(\w+)\s*:\s*.*?{(.*?)}', re.S)
-funcP = re.compile('\w+\s+(\w+)\((.+?)\)', re.S)
+funcP = re.compile('\w+[\s\*]+(\w+)\((.*?)\)', re.S)
+
+def outPut(klass, func, args):
+    tpl = template.replace("%class", klass)
+    tpl = tpl.replace("%func", func)
+    argList = args.split(",")
+    args = ""
+    i = 1
+    if len(argList)==0 or argList[0]=="void":
+        args = ""
+    else:
+        for arg in argList:
+            args += "${" + str(i) + ":" + arg + "}" + ","
+            i+=1
+        args = args[:-1]
+    tpl = tpl.replace("%args", args)
+    ff = codecs.open(os.path.join(snippetsDir, klass+"_"+func)+".sublime-snippet", "w", "utf-8")
+    ff.write(tpl)
+    ff.close()
 
 def getData(file):
-	text = codecs.open(file, "r", "utf-8").read()
-	klasses = klassP.findall(text)
-	for klass in klasses:
-		print(klass[0])
-		funcs = funcP.findall(klass[1])
-		for func in funcs:
-			print(klass[0]+":"+func[0]+":"+func[1])
-
+    text = codecs.open(file, "r", "utf-8").read()
+    klasses = klassP.findall(text)
+    for klass in klasses:
+        klassName = klass[0]
+        print(klassName)
+        funcs = funcP.findall(klass[1])
+        for func in funcs:
+            funcName = func[0]
+            args = re.sub(r",[\n\r\s]+", ",", func[1])
+            args = re.sub(r"\s+", "_", args)
+            outPut(klassName, funcName, args)
 
 for file in os.listdir(luaDir):
-	if(splitext(file)[1]==".pkg"):
-		getData(os.path.join(luaDir, file))
+    if(splitext(file)[1]==".pkg"):
+        getData(os.path.join(luaDir, file))
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCNode:getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getChildByTag</description>
+</snippet>
+

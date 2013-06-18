@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:setRotatePerSecondVar(${1:float_degrees})
+]]></content>
+    <tabTrigger>CCParticleSystem:setRotatePerSecondVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:setRotatePerSecondVar</description>
+</snippet>
+

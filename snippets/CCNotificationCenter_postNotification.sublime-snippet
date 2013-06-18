@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNotificationCenter:postNotification(${1:const_char_*name})
+]]></content>
+    <tabTrigger>CCNotificationCenter:postNotification</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNotificationCenter:postNotification</description>
+</snippet>
+

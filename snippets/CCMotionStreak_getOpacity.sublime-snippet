@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:getOpacity()
+]]></content>
+    <tabTrigger>CCMotionStreak:getOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMotionStreak:getOpacity</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFollow:isBoundarySet()
+]]></content>
+    <tabTrigger>CCFollow:isBoundarySet</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFollow:isBoundarySet</description>
+</snippet>
+

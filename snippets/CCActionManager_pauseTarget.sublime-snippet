@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionManager:pauseTarget(${1:CCObject_*pTarget})
+]]></content>
+    <tabTrigger>CCActionManager:pauseTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionManager:pauseTarget</description>
+</snippet>
+

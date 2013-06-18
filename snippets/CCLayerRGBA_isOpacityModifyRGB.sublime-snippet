@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerRGBA:isOpacityModifyRGB(${1:})
+]]></content>
+    <tabTrigger>CCLayerRGBA:isOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerRGBA:isOpacityModifyRGB</description>
+</snippet>
+

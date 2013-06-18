@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:beginWithClear(${1:float_r},${2:float_g},${3:float_b},${4:float_a},${5:float_depthValue},${6:int_stencilValue})
+]]></content>
+    <tabTrigger>CCRenderTexture:beginWithClear</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRenderTexture:beginWithClear</description>
+</snippet>
+

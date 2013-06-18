@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setVertexZ(${1:float_fVertexZ})
+]]></content>
+    <tabTrigger>CCSprite:setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setVertexZ</description>
+</snippet>
+

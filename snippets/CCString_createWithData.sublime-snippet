@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCString:createWithData(${1:unsigned_char*_pData},${2:unsigned_long_nLen})
+]]></content>
+    <tabTrigger>CCString:createWithData</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCString:createWithData</description>
+</snippet>
+

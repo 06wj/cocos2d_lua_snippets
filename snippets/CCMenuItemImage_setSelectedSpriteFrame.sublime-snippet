@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:setSelectedSpriteFrame(${1:CCSpriteFrame*_frame})
+]]></content>
+    <tabTrigger>CCMenuItemImage:setSelectedSpriteFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemImage:setSelectedSpriteFrame</description>
+</snippet>
+

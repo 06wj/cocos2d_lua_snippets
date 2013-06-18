@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:textureForKey(${1:const_char*_key})
+]]></content>
+    <tabTrigger>CCTextureCache:textureForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache:textureForKey</description>
+</snippet>
+

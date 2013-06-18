@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCNode:stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:stopAction</description>
+</snippet>
+

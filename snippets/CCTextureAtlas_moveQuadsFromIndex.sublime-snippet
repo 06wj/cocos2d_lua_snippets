@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:moveQuadsFromIndex(${1:unsigned_int_index},${2:unsigned_int_newIndex})
+]]></content>
+    <tabTrigger>CCTextureAtlas:moveQuadsFromIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:moveQuadsFromIndex</description>
+</snippet>
+

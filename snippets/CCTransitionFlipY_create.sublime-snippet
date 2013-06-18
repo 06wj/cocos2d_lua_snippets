@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:create(${1:float_t},${2:CCScene*_s},${3:tOrientation_o_=_kCCTransitionOrientationUpOver})
+]]></content>
+    <tabTrigger>CCTransitionFlipY:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionFlipY:create</description>
+</snippet>
+

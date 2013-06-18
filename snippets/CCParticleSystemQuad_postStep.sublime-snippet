@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:postStep(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad:postStep</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystemQuad:postStep</description>
+</snippet>
+

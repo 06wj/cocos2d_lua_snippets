@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getSourcePosition(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getSourcePosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getSourcePosition</description>
+</snippet>
+

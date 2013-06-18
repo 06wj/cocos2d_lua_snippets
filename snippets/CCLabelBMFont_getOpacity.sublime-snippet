@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:getOpacity()
+]]></content>
+    <tabTrigger>CCLabelBMFont:getOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelBMFont:getOpacity</description>
+</snippet>
+

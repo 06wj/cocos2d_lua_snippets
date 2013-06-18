@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:create(${1:const_char*_tile},${2:unsigned_int_tileWidth},${3:unsigned_int_tileHeight},${4:unsigned_int_itemsToRender})
+]]></content>
+    <tabTrigger>CCAtlasNode:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAtlasNode:create</description>
+</snippet>
+

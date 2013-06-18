@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setOpacityModifyRGB(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCSprite:setOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setOpacityModifyRGB</description>
+</snippet>
+

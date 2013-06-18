@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNodeRGBA:init(${1:})
+]]></content>
+    <tabTrigger>CCNodeRGBA:init</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNodeRGBA:init</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:getTexture()
+]]></content>
+    <tabTrigger>CCSpriteFrame:getTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:getTexture</description>
+</snippet>
+

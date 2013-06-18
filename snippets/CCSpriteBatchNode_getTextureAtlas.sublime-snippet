@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:getTextureAtlas()
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:getTextureAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:getTextureAtlas</description>
+</snippet>
+

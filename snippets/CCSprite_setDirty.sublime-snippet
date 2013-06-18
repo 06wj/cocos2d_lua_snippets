@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setDirty(${1:bool_bDirty})
+]]></content>
+    <tabTrigger>CCSprite:setDirty</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:setDirty</description>
+</snippet>
+

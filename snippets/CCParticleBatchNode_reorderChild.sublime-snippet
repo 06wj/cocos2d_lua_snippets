@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
+]]></content>
+    <tabTrigger>CCParticleBatchNode:reorderChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleBatchNode:reorderChild</description>
+</snippet>
+

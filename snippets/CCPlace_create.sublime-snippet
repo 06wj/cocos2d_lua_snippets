@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPlace:create(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCPlace:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPlace:create</description>
+</snippet>
+

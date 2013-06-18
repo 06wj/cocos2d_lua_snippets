@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:getString()
+]]></content>
+    <tabTrigger>CCTextFieldTTF:getString</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextFieldTTF:getString</description>
+</snippet>
+

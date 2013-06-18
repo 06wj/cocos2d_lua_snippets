@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:getQuad()
+]]></content>
+    <tabTrigger>CCSprite:getQuad</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:getQuad</description>
+</snippet>
+

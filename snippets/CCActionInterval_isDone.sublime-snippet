@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInterval:isDone()
+]]></content>
+    <tabTrigger>CCActionInterval:isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionInterval:isDone</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:getTexture(${1:})
+]]></content>
+    <tabTrigger>CCRibbon:getTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRibbon:getTexture</description>
+</snippet>
+

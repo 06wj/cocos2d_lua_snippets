@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTargetedAction:create(${1:CCNode*_pTarget},${2:CCFiniteTimeAction*_pAction})
+]]></content>
+    <tabTrigger>CCTargetedAction:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTargetedAction:create</description>
+</snippet>
+

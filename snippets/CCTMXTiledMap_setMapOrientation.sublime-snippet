@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:setMapOrientation(${1:int_val})
+]]></content>
+    <tabTrigger>CCTMXTiledMap:setMapOrientation</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap:setMapOrientation</description>
+</snippet>
+

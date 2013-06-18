@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:create(${1:float_duration},${2:CCScene*_scene},${3:ccColor3B_color_=_ccBLACK})
+]]></content>
+    <tabTrigger>CCTransitionFade:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionFade:create</description>
+</snippet>
+

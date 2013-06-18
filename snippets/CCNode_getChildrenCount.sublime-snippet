@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getChildrenCount()
+]]></content>
+    <tabTrigger>CCNode:getChildrenCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getChildrenCount</description>
+</snippet>
+

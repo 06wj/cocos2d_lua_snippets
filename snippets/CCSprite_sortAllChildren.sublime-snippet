@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:sortAllChildren(${1:})
+]]></content>
+    <tabTrigger>CCSprite:sortAllChildren</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite:sortAllChildren</description>
+</snippet>
+

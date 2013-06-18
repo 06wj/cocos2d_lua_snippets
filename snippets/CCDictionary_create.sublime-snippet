@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:create(${1:})
+]]></content>
+    <tabTrigger>CCDictionary:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDictionary:create</description>
+</snippet>
+

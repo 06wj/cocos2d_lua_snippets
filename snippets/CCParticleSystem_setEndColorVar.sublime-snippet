@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:setEndColorVar(${1:const_ccColor4F_var})
+]]></content>
+    <tabTrigger>CCParticleSystem:setEndColorVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:setEndColorVar</description>
+</snippet>
+

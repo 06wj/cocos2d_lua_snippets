@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:setPosition(${1:CCPoint_position})
+]]></content>
+    <tabTrigger>CCLens3D:setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLens3D:setPosition</description>
+</snippet>
+

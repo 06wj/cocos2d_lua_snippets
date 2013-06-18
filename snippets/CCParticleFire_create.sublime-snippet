@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:create(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleFire:create</description>
+</snippet>
+

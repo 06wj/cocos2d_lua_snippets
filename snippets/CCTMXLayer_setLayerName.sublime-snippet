@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:setLayerName(${1:const_char_*layerName})
+]]></content>
+    <tabTrigger>CCTMXLayer:setLayerName</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer:setLayerName</description>
+</snippet>
+

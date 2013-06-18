@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionCamera:startWithTarget(${1:CCNode_*pTarget})
+]]></content>
+    <tabTrigger>CCActionCamera:startWithTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCActionCamera:startWithTarget</description>
+</snippet>
+

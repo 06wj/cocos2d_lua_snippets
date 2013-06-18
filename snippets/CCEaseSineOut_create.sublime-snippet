@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseSineOut:create(${1:CCActionInterval*_pAction})
+]]></content>
+    <tabTrigger>CCEaseSineOut:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseSineOut:create</description>
+</snippet>
+

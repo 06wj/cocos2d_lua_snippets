@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:releaseMap(${1:})
+]]></content>
+    <tabTrigger>CCTileMapAtlas:releaseMap</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTileMapAtlas:releaseMap</description>
+</snippet>
+

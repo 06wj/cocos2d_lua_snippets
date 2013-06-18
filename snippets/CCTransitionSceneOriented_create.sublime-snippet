@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSceneOriented:create(${1:float_t},${2:CCScene*_scene},${3:tOrientation_o})
+]]></content>
+    <tabTrigger>CCTransitionSceneOriented:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionSceneOriented:create</description>
+</snippet>
+

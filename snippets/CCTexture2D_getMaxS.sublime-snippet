@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:getMaxS(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:getMaxS</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:getMaxS</description>
+</snippet>
+

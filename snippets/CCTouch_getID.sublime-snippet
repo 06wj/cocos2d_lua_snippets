@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTouch:getID(${1:})
+]]></content>
+    <tabTrigger>CCTouch:getID</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTouch:getID</description>
+</snippet>
+

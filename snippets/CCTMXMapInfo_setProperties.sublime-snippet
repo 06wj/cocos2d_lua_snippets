@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:setProperties(${1:CCDictionary*_pval})
+]]></content>
+    <tabTrigger>CCTMXMapInfo:setProperties</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo:setProperties</description>
+</snippet>
+

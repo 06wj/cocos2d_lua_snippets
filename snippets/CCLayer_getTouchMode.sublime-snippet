@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:getTouchMode(${1:})
+]]></content>
+    <tabTrigger>CCLayer:getTouchMode</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer:getTouchMode</description>
+</snippet>
+

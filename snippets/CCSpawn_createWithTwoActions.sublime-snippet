@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:createWithTwoActions(${1:CCFiniteTimeAction_*pAction1},${2:CCFiniteTimeAction_*pAction2})
+]]></content>
+    <tabTrigger>CCSpawn:createWithTwoActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpawn:createWithTwoActions</description>
+</snippet>
+

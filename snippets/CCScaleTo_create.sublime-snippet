@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleTo:create(${1:float_duration},${2:float_s})
+]]></content>
+    <tabTrigger>CCScaleTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCScaleTo:create</description>
+</snippet>
+

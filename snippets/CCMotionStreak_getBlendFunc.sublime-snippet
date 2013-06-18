@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:getBlendFunc()
+]]></content>
+    <tabTrigger>CCMotionStreak:getBlendFunc</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMotionStreak:getBlendFunc</description>
+</snippet>
+

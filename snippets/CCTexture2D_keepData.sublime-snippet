@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:keepData(${1:void*_data},${2:unsigned_int_length})
+]]></content>
+    <tabTrigger>CCTexture2D:keepData</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:keepData</description>
+</snippet>
+

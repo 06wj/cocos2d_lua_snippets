@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrameCache:addSpriteFramesWithFile(${1:const_char_*pszPlist},${2:CCTexture2D_*pobTexture})
+]]></content>
+    <tabTrigger>CCSpriteFrameCache:addSpriteFramesWithFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrameCache:addSpriteFramesWithFile</description>
+</snippet>
+

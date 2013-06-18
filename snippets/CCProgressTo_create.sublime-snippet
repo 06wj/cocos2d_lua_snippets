@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTo:create(${1:float_duration},${2:float_fPercent})
+]]></content>
+    <tabTrigger>CCProgressTo:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCProgressTo:create</description>
+</snippet>
+

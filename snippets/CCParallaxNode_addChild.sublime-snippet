@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:addChild(${1:CCNode_*_child},${2:unsigned_int_zOrder},${3:int_tag})
+]]></content>
+    <tabTrigger>CCParallaxNode:addChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParallaxNode:addChild</description>
+</snippet>
+

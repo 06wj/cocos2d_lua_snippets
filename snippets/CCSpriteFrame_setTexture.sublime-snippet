@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:setTexture(${1:CCTexture2D*_pobTexture})
+]]></content>
+    <tabTrigger>CCSpriteFrame:setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:setTexture</description>
+</snippet>
+

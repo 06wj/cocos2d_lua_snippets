@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:isOpacityModifyRGB()
+]]></content>
+    <tabTrigger>CCMenuItemLabel:isOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemLabel:isOpacityModifyRGB</description>
+</snippet>
+

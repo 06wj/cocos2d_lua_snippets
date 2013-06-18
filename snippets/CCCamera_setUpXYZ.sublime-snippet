@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:setUpXYZ(${1:float_fUpX},${2:float_fUpY},${3:float_fUpZ})
+]]></content>
+    <tabTrigger>CCCamera:setUpXYZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera:setUpXYZ</description>
+</snippet>
+

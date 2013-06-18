@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:begin(${1:})
+]]></content>
+    <tabTrigger>CCRenderTexture:begin</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRenderTexture:begin</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:setTextureWithRect(${1:CCTexture2D_*texture},${2:const_CCRect&_rect})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad:setTextureWithRect</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystemQuad:setTextureWithRect</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipX3D:create(${1:float_duration})
+]]></content>
+    <tabTrigger>CCFlipX3D:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCFlipX3D:create</description>
+</snippet>
+

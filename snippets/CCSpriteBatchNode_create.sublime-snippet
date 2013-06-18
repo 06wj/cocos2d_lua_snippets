@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:create(${1:const_char*_fileImage})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteBatchNode:create</description>
+</snippet>
+

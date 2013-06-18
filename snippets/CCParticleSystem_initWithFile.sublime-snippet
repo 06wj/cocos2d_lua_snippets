@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:initWithFile(${1:const_char*_plistFile})
+]]></content>
+    <tabTrigger>CCParticleSystem:initWithFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:initWithFile</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCatmullRomBy:create(${1:float_dt},${2:CCPointArray*_points})
+]]></content>
+    <tabTrigger>CCCatmullRomBy:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCatmullRomBy:create</description>
+</snippet>
+

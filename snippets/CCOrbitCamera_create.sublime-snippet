@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCOrbitCamera:create(${1:float_t},${2:float_radius},${3:float_deltaRadius},${4:float_angleZ},${5:float_deltaAngleZ},${6:float_angleX},${7:float_deltaAngleX})
+]]></content>
+    <tabTrigger>CCOrbitCamera:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCOrbitCamera:create</description>
+</snippet>
+

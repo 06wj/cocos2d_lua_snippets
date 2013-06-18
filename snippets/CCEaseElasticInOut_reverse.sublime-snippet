@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElasticInOut:reverse()
+]]></content>
+    <tabTrigger>CCEaseElasticInOut:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseElasticInOut:reverse</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:getContentSize()
+]]></content>
+    <tabTrigger>CCTexture2D:getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:getContentSize</description>
+</snippet>
+

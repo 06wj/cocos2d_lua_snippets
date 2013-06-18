@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:create(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSun:create</description>
+</snippet>
+

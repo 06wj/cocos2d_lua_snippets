@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTimer:getInterval()
+]]></content>
+    <tabTrigger>CCTimer:getInterval</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTimer:getInterval</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:removeAllChildrenWithCleanup(${1:bool_doCleanup})
+]]></content>
+    <tabTrigger>CCParticleBatchNode:removeAllChildrenWithCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleBatchNode:removeAllChildrenWithCleanup</description>
+</snippet>
+

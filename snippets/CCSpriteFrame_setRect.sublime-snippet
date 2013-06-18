@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrame:setRect(${1:CCRect_rect})
+]]></content>
+    <tabTrigger>CCSpriteFrame:setRect</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrame:setRect</description>
+</snippet>
+

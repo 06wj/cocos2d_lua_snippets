@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:setString(${1:const_char_*label})
+]]></content>
+    <tabTrigger>CCLabelAtlas:setString</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelAtlas:setString</description>
+</snippet>
+

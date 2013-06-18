@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:setEndRadius(${1:float_endRadius})
+]]></content>
+    <tabTrigger>CCParticleSystem:setEndRadius</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:setEndRadius</description>
+</snippet>
+

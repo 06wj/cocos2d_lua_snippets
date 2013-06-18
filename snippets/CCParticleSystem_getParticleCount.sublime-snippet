@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getParticleCount(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getParticleCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getParticleCount</description>
+</snippet>
+

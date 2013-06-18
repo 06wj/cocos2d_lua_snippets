@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:getSprite(${1:})
+]]></content>
+    <tabTrigger>CCRenderTexture:getSprite</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRenderTexture:getSprite</description>
+</snippet>
+

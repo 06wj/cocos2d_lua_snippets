@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:objectGroupNamed(${1:const_char_*groupName})
+]]></content>
+    <tabTrigger>CCTMXTiledMap:objectGroupNamed</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap:objectGroupNamed</description>
+</snippet>
+

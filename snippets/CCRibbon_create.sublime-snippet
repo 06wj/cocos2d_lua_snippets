@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:create(${1:float_w},${2:const_char_*path},${3:float_length},${4:ccColor4B_color},${5:float_fade})
+]]></content>
+    <tabTrigger>CCRibbon:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRibbon:create</description>
+</snippet>
+

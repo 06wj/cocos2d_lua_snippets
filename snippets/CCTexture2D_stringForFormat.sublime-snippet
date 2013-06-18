@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:stringForFormat(${1:})
+]]></content>
+    <tabTrigger>CCTexture2D:stringForFormat</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTexture2D:stringForFormat</description>
+</snippet>
+

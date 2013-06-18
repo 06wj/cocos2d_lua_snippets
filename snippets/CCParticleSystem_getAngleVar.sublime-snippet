@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getAngleVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getAngleVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getAngleVar</description>
+</snippet>
+

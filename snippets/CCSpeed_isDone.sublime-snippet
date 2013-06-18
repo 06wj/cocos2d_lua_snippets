@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:isDone()
+]]></content>
+    <tabTrigger>CCSpeed:isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpeed:isDone</description>
+</snippet>
+

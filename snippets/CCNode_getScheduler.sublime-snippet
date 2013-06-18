@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getScheduler(${1:})
+]]></content>
+    <tabTrigger>CCNode:getScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getScheduler</description>
+</snippet>
+

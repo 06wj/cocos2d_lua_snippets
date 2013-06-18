@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDeccelAmplitude:create(${1:CCAction_*pAction},${2:float_duration})
+]]></content>
+    <tabTrigger>CCDeccelAmplitude:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCDeccelAmplitude:create</description>
+</snippet>
+

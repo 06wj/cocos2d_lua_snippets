@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:getMapSize(${1:})
+]]></content>
+    <tabTrigger>CCTMXTiledMap:getMapSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXTiledMap:getMapSize</description>
+</snippet>
+

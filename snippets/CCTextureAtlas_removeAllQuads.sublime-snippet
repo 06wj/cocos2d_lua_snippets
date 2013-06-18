@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:removeAllQuads(${1:})
+]]></content>
+    <tabTrigger>CCTextureAtlas:removeAllQuads</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:removeAllQuads</description>
+</snippet>
+

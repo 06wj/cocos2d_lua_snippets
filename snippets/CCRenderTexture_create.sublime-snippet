@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:create(${1:int_w},${2:int_h})
+]]></content>
+    <tabTrigger>CCRenderTexture:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRenderTexture:create</description>
+</snippet>
+

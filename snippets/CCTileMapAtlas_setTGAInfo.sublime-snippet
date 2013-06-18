@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:setTGAInfo(${1:struct_sImageTGA*_val})
+]]></content>
+    <tabTrigger>CCTileMapAtlas:setTGAInfo</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTileMapAtlas:setTGAInfo</description>
+</snippet>
+

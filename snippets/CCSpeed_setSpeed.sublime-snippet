@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:setSpeed(${1:float_fSpeed})
+]]></content>
+    <tabTrigger>CCSpeed:setSpeed</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpeed:setSpeed</description>
+</snippet>
+

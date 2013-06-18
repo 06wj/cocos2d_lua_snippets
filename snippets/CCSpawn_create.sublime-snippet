@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:create(${1:CCArray_*actions})
+]]></content>
+    <tabTrigger>CCSpawn:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpawn:create</description>
+</snippet>
+

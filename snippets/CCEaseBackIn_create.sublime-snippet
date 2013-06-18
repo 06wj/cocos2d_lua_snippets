@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBackIn:create(${1:CCActionInterval*_pAction})
+]]></content>
+    <tabTrigger>CCEaseBackIn:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseBackIn:create</description>
+</snippet>
+

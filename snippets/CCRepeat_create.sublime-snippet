@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRepeat:create(${1:CCFiniteTimeAction_*pAction},${2:unsigned_int_times})
+]]></content>
+    <tabTrigger>CCRepeat:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRepeat:create</description>
+</snippet>
+

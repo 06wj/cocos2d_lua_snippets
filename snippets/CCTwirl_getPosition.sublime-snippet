@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:getPosition()
+]]></content>
+    <tabTrigger>CCTwirl:getPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTwirl:getPosition</description>
+</snippet>
+

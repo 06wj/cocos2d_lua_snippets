@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:getZEye(${1:})
+]]></content>
+    <tabTrigger>CCCamera:getZEye</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCCamera:getZEye</description>
+</snippet>
+

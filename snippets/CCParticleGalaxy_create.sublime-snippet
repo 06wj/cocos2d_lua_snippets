@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:create(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleGalaxy:create</description>
+</snippet>
+

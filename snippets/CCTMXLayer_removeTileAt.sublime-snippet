@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:removeTileAt(${1:CCPoint_tileCoordinate})
+]]></content>
+    <tabTrigger>CCTMXLayer:removeTileAt</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayer:removeTileAt</description>
+</snippet>
+

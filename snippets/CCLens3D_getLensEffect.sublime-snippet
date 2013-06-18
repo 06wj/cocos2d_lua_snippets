@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:getLensEffect()
+]]></content>
+    <tabTrigger>CCLens3D:getLensEffect</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLens3D:getLensEffect</description>
+</snippet>
+

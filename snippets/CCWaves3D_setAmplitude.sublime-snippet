@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves3D:setAmplitude(${1:float_fAmplitude})
+]]></content>
+    <tabTrigger>CCWaves3D:setAmplitude</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCWaves3D:setAmplitude</description>
+</snippet>
+

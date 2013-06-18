@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimation:getLoops(${1:})
+]]></content>
+    <tabTrigger>CCAnimation:getLoops</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAnimation:getLoops</description>
+</snippet>
+

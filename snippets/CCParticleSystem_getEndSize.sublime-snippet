@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getEndSize(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem:getEndSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCParticleSystem:getEndSize</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:selected(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemSprite:selected</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCMenuItemSprite:selected</description>
+</snippet>
+

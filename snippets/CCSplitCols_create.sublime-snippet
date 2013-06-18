@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSplitCols:create(${1:float_duration},${2:unsigned_int_nCols})
+]]></content>
+    <tabTrigger>CCSplitCols:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSplitCols:create</description>
+</snippet>
+

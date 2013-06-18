@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrameCache:addSpriteFramesWithDictionary(${1:CCDictionary<std::string},${2:CCObject*>_*pobDictionary},${3:CCTexture2D_*pobTexture})
+]]></content>
+    <tabTrigger>CCSpriteFrameCache:addSpriteFramesWithDictionary</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrameCache:addSpriteFramesWithDictionary</description>
+</snippet>
+

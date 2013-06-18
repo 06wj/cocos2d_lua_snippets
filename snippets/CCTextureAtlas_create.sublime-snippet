@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:create(${1:const_char*_file_},${2:unsigned_int_capacity})
+]]></content>
+    <tabTrigger>CCTextureAtlas:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureAtlas:create</description>
+</snippet>
+

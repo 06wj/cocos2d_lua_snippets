@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseExponentialIn:reverse()
+]]></content>
+    <tabTrigger>CCEaseExponentialIn:reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseExponentialIn:reverse</description>
+</snippet>
+

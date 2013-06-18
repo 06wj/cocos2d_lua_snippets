@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrameCache:sharedSpriteFrameCache()
+]]></content>
+    <tabTrigger>CCSpriteFrameCache:sharedSpriteFrameCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSpriteFrameCache:sharedSpriteFrameCache</description>
+</snippet>
+

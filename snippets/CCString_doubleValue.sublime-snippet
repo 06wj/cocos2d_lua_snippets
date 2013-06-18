@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCString:doubleValue(${1:})
+]]></content>
+    <tabTrigger>CCString:doubleValue</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCString:doubleValue</description>
+</snippet>
+

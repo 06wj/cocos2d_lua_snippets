@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgress:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionProgress:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionProgress:create</description>
+</snippet>
+

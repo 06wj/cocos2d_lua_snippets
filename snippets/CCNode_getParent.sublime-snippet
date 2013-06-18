@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getParent(${1:})
+]]></content>
+    <tabTrigger>CCNode:getParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getParent</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCNode:numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:numberOfRunningActions</description>
+</snippet>
+

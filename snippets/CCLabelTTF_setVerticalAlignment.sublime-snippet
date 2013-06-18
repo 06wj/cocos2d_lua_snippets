@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setVerticalAlignment(${1:CCVerticalTextAlignment_verticalAlignment})
+]]></content>
+    <tabTrigger>CCLabelTTF:setVerticalAlignment</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelTTF:setVerticalAlignment</description>
+</snippet>
+

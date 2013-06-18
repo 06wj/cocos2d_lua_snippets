@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:isAccelerometerEnabled(${1:})
+]]></content>
+    <tabTrigger>CCLayer:isAccelerometerEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayer:isAccelerometerEnabled</description>
+</snippet>
+

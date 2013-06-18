@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimationCache:sharedAnimationCache()
+]]></content>
+    <tabTrigger>CCAnimationCache:sharedAnimationCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAnimationCache:sharedAnimationCache</description>
+</snippet>
+

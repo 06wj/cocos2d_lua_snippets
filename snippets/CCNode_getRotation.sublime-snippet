@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:getRotation(${1:})
+]]></content>
+    <tabTrigger>CCNode:getRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:getRotation</description>
+</snippet>
+

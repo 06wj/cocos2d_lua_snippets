@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getString()
+]]></content>
+    <tabTrigger>CCLabelTTF:getString</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLabelTTF:getString</description>
+</snippet>
+

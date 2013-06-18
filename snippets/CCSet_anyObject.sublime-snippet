@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSet:anyObject(${1:})
+]]></content>
+    <tabTrigger>CCSet:anyObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSet:anyObject</description>
+</snippet>
+

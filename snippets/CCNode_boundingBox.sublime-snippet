@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:boundingBox()
+]]></content>
+    <tabTrigger>CCNode:boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNode:boundingBox</description>
+</snippet>
+

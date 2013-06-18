@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAction:setOriginalTarget(${1:CCNode_*pOriginalTarget})
+]]></content>
+    <tabTrigger>CCAction:setOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAction:setOriginalTarget</description>
+</snippet>
+

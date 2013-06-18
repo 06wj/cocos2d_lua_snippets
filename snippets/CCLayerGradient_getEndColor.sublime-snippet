@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:getEndColor()
+]]></content>
+    <tabTrigger>CCLayerGradient:getEndColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCLayerGradient:getEndColor</description>
+</snippet>
+

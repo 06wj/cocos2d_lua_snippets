@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:parseXMLString(${1:const_char_*xmlString})
+]]></content>
+    <tabTrigger>CCTMXMapInfo:parseXMLString</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo:parseXMLString</description>
+</snippet>
+

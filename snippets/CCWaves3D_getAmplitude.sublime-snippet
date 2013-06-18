@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves3D:getAmplitude()
+]]></content>
+    <tabTrigger>CCWaves3D:getAmplitude</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCWaves3D:getAmplitude</description>
+</snippet>
+

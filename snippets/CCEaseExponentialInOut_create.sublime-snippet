@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseExponentialInOut:create(${1:CCActionInterval*_pAction})
+]]></content>
+    <tabTrigger>CCEaseExponentialInOut:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCEaseExponentialInOut:create</description>
+</snippet>
+

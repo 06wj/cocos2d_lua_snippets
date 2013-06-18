@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:create(${1:float_t},${2:CCScene*_scene})
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTransitionShrinkGrow:create</description>
+</snippet>
+

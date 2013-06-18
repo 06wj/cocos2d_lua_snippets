@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimationCache:addAnimationsWithDictionary(${1:CCDictionary*_dictionary})
+]]></content>
+    <tabTrigger>CCAnimationCache:addAnimationsWithDictionary</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCAnimationCache:addAnimationsWithDictionary</description>
+</snippet>
+

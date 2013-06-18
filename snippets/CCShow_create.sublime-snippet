@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShow:create(${1:})
+]]></content>
+    <tabTrigger>CCShow:create</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCShow:create</description>
+</snippet>
+

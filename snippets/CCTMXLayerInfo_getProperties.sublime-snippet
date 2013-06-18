@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayerInfo:getProperties(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayerInfo:getProperties</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXLayerInfo:getProperties</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:setParentGID(${1:unsigned_int_val})
+]]></content>
+    <tabTrigger>CCTMXMapInfo:setParentGID</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTMXMapInfo:setParentGID</description>
+</snippet>
+

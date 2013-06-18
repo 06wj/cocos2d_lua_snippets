@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:purgeSharedTextureCache(${1:})
+]]></content>
+    <tabTrigger>CCTextureCache:purgeSharedTextureCache</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCTextureCache:purgeSharedTextureCache</description>
+</snippet>
+
