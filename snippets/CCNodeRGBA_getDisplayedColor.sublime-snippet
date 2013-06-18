@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNodeRGBA:getDisplayedColor(${1:})
+]]></content>
+    <tabTrigger>CCNodeRGBA:getDisplayedColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNodeRGBA:getDisplayedColor</description>
+</snippet>
+
