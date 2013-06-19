@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipX:boundingBox()
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipX_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:retainCount()
+]]></content>
+    <tabTrigger>CCRibbon_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

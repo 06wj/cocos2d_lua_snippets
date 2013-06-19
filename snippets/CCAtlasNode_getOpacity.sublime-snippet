@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAtlasNode:getOpacity(${1:})
 ]]></content>
-    <tabTrigger>CCAtlasNode:getOpacity</tabTrigger>
+    <tabTrigger>CCAtlasNode_getOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAtlasNode:getOpacity</description>
+    <description></description>
 </snippet>
 

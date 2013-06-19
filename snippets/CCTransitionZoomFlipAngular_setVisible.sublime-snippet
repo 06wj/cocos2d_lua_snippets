@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipAngular:setVisible(${1:bool_var})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipAngular_setVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

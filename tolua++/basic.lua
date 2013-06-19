@@ -8,7 +8,6 @@ _push_functions = _push_functions or {}
 local CCObjectTypes = {
     "CCObject",
     "CCAction",
-    "CCImage",
     "CCFiniteTimeAction",
     "CCActionInstant",
     "CCCallFunc",

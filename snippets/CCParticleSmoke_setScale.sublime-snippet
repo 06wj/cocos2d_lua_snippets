@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:setScale(${1:float_scale})
+]]></content>
+    <tabTrigger>CCParticleSmoke_setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

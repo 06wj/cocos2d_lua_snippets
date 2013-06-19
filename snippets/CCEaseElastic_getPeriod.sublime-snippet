@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseElastic:getPeriod()
 ]]></content>
-    <tabTrigger>CCEaseElastic:getPeriod</tabTrigger>
+    <tabTrigger>CCEaseElastic_getPeriod</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseElastic:getPeriod</description>
+    <description></description>
 </snippet>
 

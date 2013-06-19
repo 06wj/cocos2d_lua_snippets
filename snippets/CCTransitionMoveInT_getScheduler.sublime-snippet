@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInT:getScheduler(${1:})
+]]></content>
+    <tabTrigger>CCTransitionMoveInT_getScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

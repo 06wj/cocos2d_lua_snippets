@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDelayTime:reverse()
 ]]></content>
-    <tabTrigger>CCDelayTime:reverse</tabTrigger>
+    <tabTrigger>CCDelayTime_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDelayTime:reverse</description>
+    <description></description>
 </snippet>
 

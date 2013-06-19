@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeUp:setTag(${1:int_var})
+]]></content>
+    <tabTrigger>CCTransitionFadeUp_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

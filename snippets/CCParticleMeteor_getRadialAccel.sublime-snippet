@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getRadialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getRadialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

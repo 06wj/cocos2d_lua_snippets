@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTwirl:setAmplitudeRate(${1:float_fAmplitudeRate})
+CCTwirl:setAmplitudeRate(${1:float_amp})
 ]]></content>
-    <tabTrigger>CCTwirl:setAmplitudeRate</tabTrigger>
+    <tabTrigger>CCTwirl_setAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTwirl:setAmplitudeRate</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemSprite:setColor(${1:ccColor3B_color})
 ]]></content>
-    <tabTrigger>CCMenuItemSprite:setColor</tabTrigger>
+    <tabTrigger>CCMenuItemSprite_setColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemSprite:setColor</description>
+    <description></description>
 </snippet>
 

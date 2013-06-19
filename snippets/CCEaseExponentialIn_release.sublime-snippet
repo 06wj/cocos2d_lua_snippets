@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseExponentialIn:release()
+]]></content>
+    <tabTrigger>CCEaseExponentialIn_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

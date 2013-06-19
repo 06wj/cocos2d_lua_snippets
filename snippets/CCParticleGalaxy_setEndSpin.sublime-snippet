@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setEndSpin(${1:float_var})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setEndSpin</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

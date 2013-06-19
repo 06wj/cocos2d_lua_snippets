@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:cleanup()
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

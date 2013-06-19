@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getSkewX(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

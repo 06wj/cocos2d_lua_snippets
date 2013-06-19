@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveTo:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCMoveTo_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInT:unscheduleUpdate()
+]]></content>
+    <tabTrigger>CCTransitionSlideInT_unscheduleUpdate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

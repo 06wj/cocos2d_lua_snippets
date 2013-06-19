@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:isAutoRemoveOnFinish(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_isAutoRemoveOnFinish</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

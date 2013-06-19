@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelTTF:getFontSize(${1:})
 ]]></content>
-    <tabTrigger>CCLabelTTF:getFontSize</tabTrigger>
+    <tabTrigger>CCLabelTTF_getFontSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelTTF:getFontSize</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:getPositionType()
+]]></content>
+    <tabTrigger>CCParticleSnow_getPositionType</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

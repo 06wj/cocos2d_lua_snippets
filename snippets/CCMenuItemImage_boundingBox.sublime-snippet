@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:boundingBox()
+]]></content>
+    <tabTrigger>CCMenuItemImage_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

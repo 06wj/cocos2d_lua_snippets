@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:getMidX(${1:})
 ]]></content>
-    <tabTrigger>CCRect:getMidX</tabTrigger>
+    <tabTrigger>CCRect_getMidX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:getMidX</description>
+    <description></description>
 </snippet>
 

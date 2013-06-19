@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getBlendFunc()
+]]></content>
+    <tabTrigger>CCParticleSmoke_getBlendFunc</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

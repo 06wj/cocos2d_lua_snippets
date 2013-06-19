@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCParticleFire_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

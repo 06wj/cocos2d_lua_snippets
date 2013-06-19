@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTexture2D:getPixelFormat(${1:})
 ]]></content>
-    <tabTrigger>CCTexture2D:getPixelFormat</tabTrigger>
+    <tabTrigger>CCTexture2D_getPixelFormat</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTexture2D:getPixelFormat</description>
+    <description></description>
 </snippet>
 

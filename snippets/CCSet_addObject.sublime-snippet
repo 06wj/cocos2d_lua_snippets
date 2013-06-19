@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSet:addObject(${1:CCObject_*pObject})
 ]]></content>
-    <tabTrigger>CCSet:addObject</tabTrigger>
+    <tabTrigger>CCSet_addObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSet:addObject</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:isVisible(${1:})
 ]]></content>
-    <tabTrigger>CCNode:isVisible</tabTrigger>
+    <tabTrigger>CCNode_isVisible</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:isVisible</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:stopActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCMotionStreak_stopActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

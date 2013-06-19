@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipY:getVertexZ(${1:})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipY_getVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

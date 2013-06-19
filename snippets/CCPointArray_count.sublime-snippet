@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCPointArray:count(${1:})
 ]]></content>
-    <tabTrigger>CCPointArray:count</tabTrigger>
+    <tabTrigger>CCPointArray_count</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPointArray:count</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setGrid(${1:CCGridBase*_pGrid})
 ]]></content>
-    <tabTrigger>CCNode:setGrid</tabTrigger>
+    <tabTrigger>CCNode_setGrid</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setGrid</description>
+    <description></description>
 </snippet>
 

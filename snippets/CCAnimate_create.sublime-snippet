@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCAnimate:create(${1:CCAnimation_*pAnimation})
+CCAnimate:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCAnimate:create</tabTrigger>
+    <tabTrigger>CCAnimate_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimate:create</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:getSkewX(${1:})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_getSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

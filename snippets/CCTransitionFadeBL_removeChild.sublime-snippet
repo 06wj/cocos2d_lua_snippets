@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:removeChild(${1:CCNode*_child},${2:bool_cleanup})
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_removeChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

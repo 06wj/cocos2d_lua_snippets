@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:setContentSize(${1:const_CCSize_&_size})
+]]></content>
+    <tabTrigger>CCTransitionFade_setContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

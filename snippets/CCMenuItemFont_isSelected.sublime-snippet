@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:isSelected(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemFont_isSelected</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

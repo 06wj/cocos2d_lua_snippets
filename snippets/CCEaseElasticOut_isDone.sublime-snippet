@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElasticOut:isDone()
+]]></content>
+    <tabTrigger>CCEaseElasticOut_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

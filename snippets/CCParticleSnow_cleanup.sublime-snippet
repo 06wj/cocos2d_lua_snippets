@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:cleanup()
+]]></content>
+    <tabTrigger>CCParticleSnow_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

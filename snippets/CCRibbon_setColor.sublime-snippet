@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRibbon:setColor(${1:ccColor4B_val})
 ]]></content>
-    <tabTrigger>CCRibbon:setColor</tabTrigger>
+    <tabTrigger>CCRibbon_setColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRibbon:setColor</description>
+    <description></description>
 </snippet>
 

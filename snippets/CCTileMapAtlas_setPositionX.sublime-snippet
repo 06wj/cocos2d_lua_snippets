@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

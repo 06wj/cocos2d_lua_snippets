@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:getSpeedVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_getSpeedVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

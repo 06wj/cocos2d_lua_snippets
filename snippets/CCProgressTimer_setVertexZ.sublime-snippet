@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCProgressTimer_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:getParent(${1:})
+]]></content>
+    <tabTrigger>CCRibbon_getParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

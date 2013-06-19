@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:getZOrder(${1:})
+]]></content>
+    <tabTrigger>CCParallaxNode_getZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

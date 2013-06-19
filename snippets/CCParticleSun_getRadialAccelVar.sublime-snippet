@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:getRadialAccelVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun_getRadialAccelVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

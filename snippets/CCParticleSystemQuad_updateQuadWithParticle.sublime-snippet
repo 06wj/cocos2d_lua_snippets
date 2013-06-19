@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystemQuad:updateQuadWithParticle(${1:tCCParticle*_particle},${2:const_CCPoint&_newPosition})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:updateQuadWithParticle</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_updateQuadWithParticle</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:updateQuadWithParticle</description>
+    <description></description>
 </snippet>
 

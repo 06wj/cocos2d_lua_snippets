@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:initWithFile(${1:const_char*_plistFile})
 ]]></content>
-    <tabTrigger>CCParticleSystem:initWithFile</tabTrigger>
+    <tabTrigger>CCParticleSystem_initWithFile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:initWithFile</description>
+    <description></description>
 </snippet>
 

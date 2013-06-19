@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayerInfo:retain()
+]]></content>
+    <tabTrigger>CCTMXLayerInfo_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

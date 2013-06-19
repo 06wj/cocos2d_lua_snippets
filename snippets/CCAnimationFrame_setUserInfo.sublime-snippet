@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimationFrame:setUserInfo(${1:CCDictionary*_pDict})
 ]]></content>
-    <tabTrigger>CCAnimationFrame:setUserInfo</tabTrigger>
+    <tabTrigger>CCAnimationFrame_setUserInfo</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimationFrame:setUserInfo</description>
+    <description></description>
 </snippet>
 

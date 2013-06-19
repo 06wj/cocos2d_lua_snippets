@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

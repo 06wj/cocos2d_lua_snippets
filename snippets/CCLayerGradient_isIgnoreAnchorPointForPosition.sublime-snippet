@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:isIgnoreAnchorPointForPosition(${1:})
+]]></content>
+    <tabTrigger>CCLayerGradient_isIgnoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

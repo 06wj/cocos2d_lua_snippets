@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCBlink:reverse()
 ]]></content>
-    <tabTrigger>CCBlink:reverse</tabTrigger>
+    <tabTrigger>CCBlink_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCBlink:reverse</description>
+    <description></description>
 </snippet>
 

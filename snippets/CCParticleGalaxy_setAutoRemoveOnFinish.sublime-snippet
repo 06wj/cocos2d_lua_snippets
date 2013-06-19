@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setAutoRemoveOnFinish(${1:bool_var})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setAutoRemoveOnFinish</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

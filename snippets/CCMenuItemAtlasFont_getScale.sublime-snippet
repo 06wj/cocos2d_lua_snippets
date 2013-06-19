@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:getScale(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_getScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

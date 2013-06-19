@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeIn:getDuration()
+]]></content>
+    <tabTrigger>CCFadeIn_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

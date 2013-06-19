@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSmoke:create(${1:})
+CCParticleSmoke:create()
 ]]></content>
-    <tabTrigger>CCParticleSmoke:create</tabTrigger>
+    <tabTrigger>CCParticleSmoke_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSmoke:create</description>
+    <description></description>
 </snippet>
 

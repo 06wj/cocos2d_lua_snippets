@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:convertTouchToNodeSpace(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCMenuItemImage_convertTouchToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

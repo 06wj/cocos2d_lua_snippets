@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerColor:changeWidth(${1:GLfloat_w})
 ]]></content>
-    <tabTrigger>CCLayerColor:changeWidth</tabTrigger>
+    <tabTrigger>CCLayerColor_changeWidth</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerColor:changeWidth</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:setDelayPerUnit(${1:float_fDelayPerUnits})
 ]]></content>
-    <tabTrigger>CCAnimation:setDelayPerUnit</tabTrigger>
+    <tabTrigger>CCAnimation_setDelayPerUnit</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:setDelayPerUnit</description>
+    <description></description>
 </snippet>
 

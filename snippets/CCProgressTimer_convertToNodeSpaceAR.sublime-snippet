@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCProgressTimer_convertToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

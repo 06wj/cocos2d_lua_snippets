@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:cleanup()
+]]></content>
+    <tabTrigger>CCParticleSpiral_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

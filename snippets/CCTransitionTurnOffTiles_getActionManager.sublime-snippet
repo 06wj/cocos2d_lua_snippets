@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:getActionManager(${1:})
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_getActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

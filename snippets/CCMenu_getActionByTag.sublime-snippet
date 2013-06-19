@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:getActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCMenu_getActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

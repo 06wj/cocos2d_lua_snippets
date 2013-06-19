@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getCamera(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getCamera</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setLayerAttribs(${1:int_val})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setLayerAttribs</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setLayerAttribs</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setLayerAttribs</description>
+    <description></description>
 </snippet>
 

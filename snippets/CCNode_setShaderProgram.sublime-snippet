@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
 ]]></content>
-    <tabTrigger>CCNode:setShaderProgram</tabTrigger>
+    <tabTrigger>CCNode_setShaderProgram</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setShaderProgram</description>
+    <description></description>
 </snippet>
 

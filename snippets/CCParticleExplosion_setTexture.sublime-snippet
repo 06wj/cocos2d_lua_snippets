@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setTexture(${1:CCTexture2D*_var})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

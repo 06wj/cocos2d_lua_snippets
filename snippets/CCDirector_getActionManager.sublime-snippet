@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getActionManager(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getActionManager</tabTrigger>
+    <tabTrigger>CCDirector_getActionManager</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getActionManager</description>
+    <description></description>
 </snippet>
 

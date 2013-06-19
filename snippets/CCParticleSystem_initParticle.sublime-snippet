@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:initParticle(${1:tCCParticle*_particle})
 ]]></content>
-    <tabTrigger>CCParticleSystem:initParticle</tabTrigger>
+    <tabTrigger>CCParticleSystem_initParticle</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:initParticle</description>
+    <description></description>
 </snippet>
 

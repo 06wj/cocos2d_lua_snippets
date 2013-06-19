@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCEaseExponentialIn:create(${1:CCActionInterval*_pAction})
+CCEaseExponentialIn:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCEaseExponentialIn:create</tabTrigger>
+    <tabTrigger>CCEaseExponentialIn_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseExponentialIn:create</description>
+    <description></description>
 </snippet>
 

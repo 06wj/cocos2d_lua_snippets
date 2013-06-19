@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionZoomFlipAngular:create(${1:float_t},${2:CCScene*_s},${3:tOrientation_o_=_kCCTransitionOrientationRightOver})
+CCTransitionZoomFlipAngular:create()
 ]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular:create</tabTrigger>
+    <tabTrigger>CCTransitionZoomFlipAngular_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionZoomFlipAngular:create</description>
+    <description></description>
 </snippet>
 

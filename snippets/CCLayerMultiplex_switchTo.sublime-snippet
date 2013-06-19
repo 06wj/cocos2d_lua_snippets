@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerMultiplex:switchTo(${1:unsigned_int_n})
 ]]></content>
-    <tabTrigger>CCLayerMultiplex:switchTo</tabTrigger>
+    <tabTrigger>CCLayerMultiplex_switchTo</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerMultiplex:switchTo</description>
+    <description></description>
 </snippet>
 

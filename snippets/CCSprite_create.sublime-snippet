@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:create(${1:})
+CCSprite:create()
 ]]></content>
-    <tabTrigger>CCSprite:create</tabTrigger>
+    <tabTrigger>CCSprite_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:create</description>
+    <description></description>
 </snippet>
 

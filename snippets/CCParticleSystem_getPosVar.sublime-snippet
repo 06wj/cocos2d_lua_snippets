@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getPosVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getPosVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getPosVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getPosVar</description>
+    <description></description>
 </snippet>
 

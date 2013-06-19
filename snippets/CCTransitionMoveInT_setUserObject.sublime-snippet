@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInT:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionMoveInT_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

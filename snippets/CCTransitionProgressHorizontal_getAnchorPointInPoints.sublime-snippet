@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

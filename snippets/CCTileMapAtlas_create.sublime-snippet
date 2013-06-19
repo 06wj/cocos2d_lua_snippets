@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTileMapAtlas:create(${1:const_char_*tile},${2:const_char_*mapFile},${3:int_tileWidth},${4:int_tileHeight})
+CCTileMapAtlas:create()
 ]]></content>
-    <tabTrigger>CCTileMapAtlas:create</tabTrigger>
+    <tabTrigger>CCTileMapAtlas_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTileMapAtlas:create</description>
+    <description></description>
 </snippet>
 

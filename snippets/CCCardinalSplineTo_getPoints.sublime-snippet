@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCardinalSplineTo:getPoints(${1:})
 ]]></content>
-    <tabTrigger>CCCardinalSplineTo:getPoints</tabTrigger>
+    <tabTrigger>CCCardinalSplineTo_getPoints</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCardinalSplineTo:getPoints</description>
+    <description></description>
 </snippet>
 

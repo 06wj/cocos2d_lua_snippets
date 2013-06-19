@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipY:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipY_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

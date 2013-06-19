@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:indexOfObject(${1:CCObject*_object})
 ]]></content>
-    <tabTrigger>CCArray:indexOfObject</tabTrigger>
+    <tabTrigger>CCArray_indexOfObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:indexOfObject</description>
+    <description></description>
 </snippet>
 

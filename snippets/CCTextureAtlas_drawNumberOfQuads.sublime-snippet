@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureAtlas:drawNumberOfQuads(${1:unsigned_int_n},${2:unsigned_int_start})
 ]]></content>
-    <tabTrigger>CCTextureAtlas:drawNumberOfQuads</tabTrigger>
+    <tabTrigger>CCTextureAtlas_drawNumberOfQuads</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureAtlas:drawNumberOfQuads</description>
+    <description></description>
 </snippet>
 

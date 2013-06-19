@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimate:getAnimation()
 ]]></content>
-    <tabTrigger>CCAnimate:getAnimation</tabTrigger>
+    <tabTrigger>CCAnimate_getAnimation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimate:getAnimation</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:isCompressedInterpolation()
 ]]></content>
-    <tabTrigger>CCLayerGradient:isCompressedInterpolation</tabTrigger>
+    <tabTrigger>CCLayerGradient_isCompressedInterpolation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:isCompressedInterpolation</description>
+    <description></description>
 </snippet>
 

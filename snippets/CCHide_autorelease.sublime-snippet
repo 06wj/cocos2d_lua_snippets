@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCHide:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCHide_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

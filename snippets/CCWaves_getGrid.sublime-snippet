@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves:getGrid()
+]]></content>
+    <tabTrigger>CCWaves_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

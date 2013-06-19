@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerColor:getBlendFunc()
 ]]></content>
-    <tabTrigger>CCLayerColor:getBlendFunc</tabTrigger>
+    <tabTrigger>CCLayerColor_getBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerColor:getBlendFunc</description>
+    <description></description>
 </snippet>
 

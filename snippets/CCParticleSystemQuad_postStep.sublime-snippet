@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystemQuad:postStep(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:postStep</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_postStep</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:postStep</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseExponentialInOut:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCEaseExponentialInOut_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

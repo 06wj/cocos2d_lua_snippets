@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNotificationCenter:retain()
+]]></content>
+    <tabTrigger>CCNotificationCenter_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

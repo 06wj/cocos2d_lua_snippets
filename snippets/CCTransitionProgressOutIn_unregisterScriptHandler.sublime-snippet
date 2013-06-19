@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:unregisterScriptHandler()
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_unregisterScriptHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

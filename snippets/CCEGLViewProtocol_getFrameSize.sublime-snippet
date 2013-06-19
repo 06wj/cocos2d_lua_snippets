@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getFrameSize(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getFrameSize</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getFrameSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getFrameSize</description>
+    <description></description>
 </snippet>
 

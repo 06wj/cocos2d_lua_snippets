@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:setNormalImage(${1:CCNode*_pImage})
+]]></content>
+    <tabTrigger>CCMenuItemImage_setNormalImage</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

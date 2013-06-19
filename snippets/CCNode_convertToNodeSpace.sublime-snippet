@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:convertToNodeSpace(${1:CCPoint_worldPoint})
 ]]></content>
-    <tabTrigger>CCNode:convertToNodeSpace</tabTrigger>
+    <tabTrigger>CCNode_convertToNodeSpace</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:convertToNodeSpace</description>
+    <description></description>
 </snippet>
 

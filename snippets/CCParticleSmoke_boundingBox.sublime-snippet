@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:boundingBox()
+]]></content>
+    <tabTrigger>CCParticleSmoke_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

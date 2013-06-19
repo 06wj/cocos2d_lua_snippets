@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:runAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCRenderTexture_runAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

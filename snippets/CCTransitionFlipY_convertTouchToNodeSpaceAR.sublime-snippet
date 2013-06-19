@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_convertTouchToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

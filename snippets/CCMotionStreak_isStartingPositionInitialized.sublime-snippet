@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:isStartingPositionInitialized(${1:})
 ]]></content>
-    <tabTrigger>CCMotionStreak:isStartingPositionInitialized</tabTrigger>
+    <tabTrigger>CCMotionStreak_isStartingPositionInitialized</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:isStartingPositionInitialized</description>
+    <description></description>
 </snippet>
 

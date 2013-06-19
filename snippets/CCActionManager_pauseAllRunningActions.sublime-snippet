@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionManager:pauseAllRunningActions(${1:})
 ]]></content>
-    <tabTrigger>CCActionManager:pauseAllRunningActions</tabTrigger>
+    <tabTrigger>CCActionManager_pauseAllRunningActions</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionManager:pauseAllRunningActions</description>
+    <description></description>
 </snippet>
 

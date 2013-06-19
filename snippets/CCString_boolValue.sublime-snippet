@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:boolValue(${1:})
 ]]></content>
-    <tabTrigger>CCString:boolValue</tabTrigger>
+    <tabTrigger>CCString_boolValue</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:boolValue</description>
+    <description></description>
 </snippet>
 

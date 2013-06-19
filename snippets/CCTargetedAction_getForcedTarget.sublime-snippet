@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTargetedAction:getForcedTarget()
 ]]></content>
-    <tabTrigger>CCTargetedAction:getForcedTarget</tabTrigger>
+    <tabTrigger>CCTargetedAction_getForcedTarget</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTargetedAction:getForcedTarget</description>
+    <description></description>
 </snippet>
 

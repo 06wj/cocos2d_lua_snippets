@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:removeSpriteFromAtlas(${1:CCSprite_*sprite})
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:removeSpriteFromAtlas</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_removeSpriteFromAtlas</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:removeSpriteFromAtlas</description>
+    <description></description>
 </snippet>
 

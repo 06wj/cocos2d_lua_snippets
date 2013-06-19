@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:transform()
+]]></content>
+    <tabTrigger>CCLayerMultiplex_transform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

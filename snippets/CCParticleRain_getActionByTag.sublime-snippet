@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:getActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCParticleRain_getActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

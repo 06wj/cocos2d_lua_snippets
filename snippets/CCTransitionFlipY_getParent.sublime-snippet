@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:getParent(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_getParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

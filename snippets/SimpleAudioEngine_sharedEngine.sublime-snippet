@@ -2,8 +2,8 @@
     <content><![CDATA[
 SimpleAudioEngine:sharedEngine(${1:})
 ]]></content>
-    <tabTrigger>SimpleAudioEngine:sharedEngine</tabTrigger>
+    <tabTrigger>SimpleAudioEngine_sharedEngine</tabTrigger>
     <scope>source.lua</scope>
-    <description>SimpleAudioEngine:sharedEngine</description>
+    <description></description>
 </snippet>
 

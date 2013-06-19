@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:getAtlasIndex()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_getAtlasIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

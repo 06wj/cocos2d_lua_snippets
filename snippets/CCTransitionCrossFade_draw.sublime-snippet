@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:draw()
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

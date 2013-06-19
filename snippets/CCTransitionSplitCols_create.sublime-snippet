@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionSplitCols:create(${1:float_t},${2:CCScene*_scene})
+CCTransitionSplitCols:create()
 ]]></content>
-    <tabTrigger>CCTransitionSplitCols:create</tabTrigger>
+    <tabTrigger>CCTransitionSplitCols_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionSplitCols:create</description>
+    <description></description>
 </snippet>
 

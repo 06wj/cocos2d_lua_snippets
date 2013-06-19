@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCatmullRomBy:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCCatmullRomBy_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpBy:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCJumpBy_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

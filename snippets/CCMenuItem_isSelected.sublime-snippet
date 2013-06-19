@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItem:isSelected(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItem:isSelected</tabTrigger>
+    <tabTrigger>CCMenuItem_isSelected</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItem:isSelected</description>
+    <description></description>
 </snippet>
 

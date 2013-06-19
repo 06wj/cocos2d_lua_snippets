@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:setFrames(${1:CCArray*_pFrames})
 ]]></content>
-    <tabTrigger>CCAnimation:setFrames</tabTrigger>
+    <tabTrigger>CCAnimation_setFrames</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:setFrames</description>
+    <description></description>
 </snippet>
 

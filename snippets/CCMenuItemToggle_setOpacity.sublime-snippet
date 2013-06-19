@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemToggle:setOpacity(${1:GLubyte_opacity})
 ]]></content>
-    <tabTrigger>CCMenuItemToggle:setOpacity</tabTrigger>
+    <tabTrigger>CCMenuItemToggle_setOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemToggle:setOpacity</description>
+    <description></description>
 </snippet>
 

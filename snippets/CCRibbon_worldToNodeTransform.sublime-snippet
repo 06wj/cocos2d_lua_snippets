@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:worldToNodeTransform()
+]]></content>
+    <tabTrigger>CCRibbon_worldToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

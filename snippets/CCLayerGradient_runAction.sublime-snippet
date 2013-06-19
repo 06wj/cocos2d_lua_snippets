@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:runAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCLayerGradient_runAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

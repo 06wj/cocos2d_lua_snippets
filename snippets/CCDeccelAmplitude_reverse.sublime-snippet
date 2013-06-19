@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDeccelAmplitude:reverse()
 ]]></content>
-    <tabTrigger>CCDeccelAmplitude:reverse</tabTrigger>
+    <tabTrigger>CCDeccelAmplitude_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDeccelAmplitude:reverse</description>
+    <description></description>
 </snippet>
 

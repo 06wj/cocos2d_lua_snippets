@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFiniteTimeAction:getDuration()
 ]]></content>
-    <tabTrigger>CCFiniteTimeAction:getDuration</tabTrigger>
+    <tabTrigger>CCFiniteTimeAction_getDuration</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFiniteTimeAction:getDuration</description>
+    <description></description>
 </snippet>
 

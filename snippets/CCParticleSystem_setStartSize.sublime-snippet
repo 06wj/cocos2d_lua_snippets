@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setStartSize(${1:float_size})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setStartSize</tabTrigger>
+    <tabTrigger>CCParticleSystem_setStartSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setStartSize</description>
+    <description></description>
 </snippet>
 

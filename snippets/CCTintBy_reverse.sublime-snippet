@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTintBy:reverse()
 ]]></content>
-    <tabTrigger>CCTintBy:reverse</tabTrigger>
+    <tabTrigger>CCTintBy_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTintBy:reverse</description>
+    <description></description>
 </snippet>
 

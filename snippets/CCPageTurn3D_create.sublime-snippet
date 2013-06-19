@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCPageTurn3D:create(${1:float_duration},${2:CCSize_gridSize})
+CCPageTurn3D:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCPageTurn3D:create</tabTrigger>
+    <tabTrigger>CCPageTurn3D_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPageTurn3D:create</description>
+    <description></description>
 </snippet>
 

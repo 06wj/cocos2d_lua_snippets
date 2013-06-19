@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseExponentialInOut:reverse()
 ]]></content>
-    <tabTrigger>CCEaseExponentialInOut:reverse</tabTrigger>
+    <tabTrigger>CCEaseExponentialInOut_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseExponentialInOut:reverse</description>
+    <description></description>
 </snippet>
 

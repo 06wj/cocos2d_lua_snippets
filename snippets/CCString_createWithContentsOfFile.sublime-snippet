@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:createWithContentsOfFile(${1:const_char*_pszFileName})
 ]]></content>
-    <tabTrigger>CCString:createWithContentsOfFile</tabTrigger>
+    <tabTrigger>CCString_createWithContentsOfFile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:createWithContentsOfFile</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getAtlasIndex()
+]]></content>
+    <tabTrigger>CCLabelTTF_getAtlasIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

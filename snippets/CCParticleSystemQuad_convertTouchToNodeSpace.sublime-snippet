@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:convertTouchToNodeSpace(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_convertTouchToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

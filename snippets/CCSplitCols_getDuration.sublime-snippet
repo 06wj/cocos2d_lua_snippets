@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSplitCols:getDuration()
+]]></content>
+    <tabTrigger>CCSplitCols_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

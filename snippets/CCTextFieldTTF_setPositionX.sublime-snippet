@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

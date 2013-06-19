@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setPosVar(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleSnow_setPosVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

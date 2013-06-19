@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeDown:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCTransitionFadeDown_stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

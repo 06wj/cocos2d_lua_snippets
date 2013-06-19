@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCLayerColor_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

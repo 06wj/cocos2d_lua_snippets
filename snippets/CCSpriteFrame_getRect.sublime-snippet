@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrame:getRect()
 ]]></content>
-    <tabTrigger>CCSpriteFrame:getRect</tabTrigger>
+    <tabTrigger>CCSpriteFrame_getRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrame:getRect</description>
+    <description></description>
 </snippet>
 

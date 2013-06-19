@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionPageTurn:create(${1:float_t},${2:CCScene*_scene},${3:bool_backwards})
+CCTransitionPageTurn:create()
 ]]></content>
-    <tabTrigger>CCTransitionPageTurn:create</tabTrigger>
+    <tabTrigger>CCTransitionPageTurn_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionPageTurn:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDeccelAmplitude:getRate()
 ]]></content>
-    <tabTrigger>CCDeccelAmplitude:getRate</tabTrigger>
+    <tabTrigger>CCDeccelAmplitude_getRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDeccelAmplitude:getRate</description>
+    <description></description>
 </snippet>
 

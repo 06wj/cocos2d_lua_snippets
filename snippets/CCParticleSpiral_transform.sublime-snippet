@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:transform()
+]]></content>
+    <tabTrigger>CCParticleSpiral_transform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

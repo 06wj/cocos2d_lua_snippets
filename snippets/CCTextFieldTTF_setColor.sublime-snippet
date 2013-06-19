@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setColor(${1:ccColor3B_color3})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:restore()
 ]]></content>
-    <tabTrigger>CCCamera:restore</tabTrigger>
+    <tabTrigger>CCCamera_restore</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:restore</description>
+    <description></description>
 </snippet>
 

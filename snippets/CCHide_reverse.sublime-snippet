@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCHide:reverse()
 ]]></content>
-    <tabTrigger>CCHide:reverse</tabTrigger>
+    <tabTrigger>CCHide_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCHide:reverse</description>
+    <description></description>
 </snippet>
 

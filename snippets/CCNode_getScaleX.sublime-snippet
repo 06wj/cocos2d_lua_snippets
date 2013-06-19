@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getScaleX(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getScaleX</tabTrigger>
+    <tabTrigger>CCNode_getScaleX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getScaleX</description>
+    <description></description>
 </snippet>
 

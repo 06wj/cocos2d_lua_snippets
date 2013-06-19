@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCRibbon_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

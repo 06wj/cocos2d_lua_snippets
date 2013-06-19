@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:pause(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:pause</tabTrigger>
+    <tabTrigger>CCDirector_pause</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:pause</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:transformAncestors()
+]]></content>
+    <tabTrigger>CCParticleSmoke_transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

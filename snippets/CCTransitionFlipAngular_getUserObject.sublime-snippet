@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:getUserObject(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_getUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCOrbitCamera:getTag()
+]]></content>
+    <tabTrigger>CCOrbitCamera_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

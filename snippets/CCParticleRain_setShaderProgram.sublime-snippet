@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
+]]></content>
+    <tabTrigger>CCParticleRain_setShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

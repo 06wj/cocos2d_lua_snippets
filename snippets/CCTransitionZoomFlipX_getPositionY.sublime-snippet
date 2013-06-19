@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipX:getPositionY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipX_getPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

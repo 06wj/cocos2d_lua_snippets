@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTMXLayer:create(${1:CCTMXTilesetInfo_*tilesetInfo},${2:CCTMXLayerInfo_*layerInfo},${3:CCTMXMapInfo_*mapInfo})
+CCTMXLayer:create()
 ]]></content>
-    <tabTrigger>CCTMXLayer:create</tabTrigger>
+    <tabTrigger>CCTMXLayer_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:create</description>
+    <description></description>
 </snippet>
 

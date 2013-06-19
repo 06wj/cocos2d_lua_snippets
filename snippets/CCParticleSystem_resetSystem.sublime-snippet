@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:resetSystem(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:resetSystem</tabTrigger>
+    <tabTrigger>CCParticleSystem_resetSystem</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:resetSystem</description>
+    <description></description>
 </snippet>
 

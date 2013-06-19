@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:unscheduleUpdate()
+]]></content>
+    <tabTrigger>CCLayerColor_unscheduleUpdate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

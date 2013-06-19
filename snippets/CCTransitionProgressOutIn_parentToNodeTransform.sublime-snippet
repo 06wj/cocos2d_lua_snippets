@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:parentToNodeTransform()
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_parentToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

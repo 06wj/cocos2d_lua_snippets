@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLens3D:create(${1:float_duration},${2:CCSize_gridSize},${3:CCPoint_position},${4:float_radius})
+CCLens3D:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCLens3D:create</tabTrigger>
+    <tabTrigger>CCLens3D_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLens3D:create</description>
+    <description></description>
 </snippet>
 

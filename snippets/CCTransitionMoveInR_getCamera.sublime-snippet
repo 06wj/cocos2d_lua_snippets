@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:getCamera(${1:})
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_getCamera</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCMenuItemImage:create(${1:})
+CCMenuItemImage:create()
 ]]></content>
-    <tabTrigger>CCMenuItemImage:create</tabTrigger>
+    <tabTrigger>CCMenuItemImage_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemImage:create</description>
+    <description></description>
 </snippet>
 

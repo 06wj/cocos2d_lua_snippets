@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:getUserObject(${1:})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_getUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

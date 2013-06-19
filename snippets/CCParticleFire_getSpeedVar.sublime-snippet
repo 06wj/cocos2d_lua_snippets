@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getSpeedVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getSpeedVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

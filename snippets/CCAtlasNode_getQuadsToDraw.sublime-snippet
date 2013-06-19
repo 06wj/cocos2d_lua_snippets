@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAtlasNode:getQuadsToDraw(${1:})
 ]]></content>
-    <tabTrigger>CCAtlasNode:getQuadsToDraw</tabTrigger>
+    <tabTrigger>CCAtlasNode_getQuadsToDraw</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAtlasNode:getQuadsToDraw</description>
+    <description></description>
 </snippet>
 

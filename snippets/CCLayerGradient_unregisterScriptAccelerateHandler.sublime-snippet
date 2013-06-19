@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:unregisterScriptAccelerateHandler()
+]]></content>
+    <tabTrigger>CCLayerGradient_unregisterScriptAccelerateHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

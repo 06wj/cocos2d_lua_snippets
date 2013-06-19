@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setScaleY(${1:float_newScaleY})
 ]]></content>
-    <tabTrigger>CCNode:setScaleY</tabTrigger>
+    <tabTrigger>CCNode_setScaleY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setScaleY</description>
+    <description></description>
 </snippet>
 

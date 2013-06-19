@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPlace:copy(${1:})
+]]></content>
+    <tabTrigger>CCPlace_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

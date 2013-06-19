@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:removeLastObject(${1:bool_bReleaseObj_=_true})
 ]]></content>
-    <tabTrigger>CCArray:removeLastObject</tabTrigger>
+    <tabTrigger>CCArray_removeLastObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:removeLastObject</description>
+    <description></description>
 </snippet>
 

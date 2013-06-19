@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:exchangeObject(${1:CCObject*_object1},${2:CCObject*_object2})
 ]]></content>
-    <tabTrigger>CCArray:exchangeObject</tabTrigger>
+    <tabTrigger>CCArray_exchangeObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:exchangeObject</description>
+    <description></description>
 </snippet>
 

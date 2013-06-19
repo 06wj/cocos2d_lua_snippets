@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:getPositionY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow_getPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setActionManager(${1:CCActionManager*_pActionMgr})
 ]]></content>
-    <tabTrigger>CCNode:setActionManager</tabTrigger>
+    <tabTrigger>CCNode_setActionManager</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setActionManager</description>
+    <description></description>
 </snippet>
 

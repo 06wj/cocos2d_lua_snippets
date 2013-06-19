@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCScene:create()
 ]]></content>
-    <tabTrigger>CCScene:create</tabTrigger>
+    <tabTrigger>CCScene_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCScene:create</description>
+    <description></description>
 </snippet>
 

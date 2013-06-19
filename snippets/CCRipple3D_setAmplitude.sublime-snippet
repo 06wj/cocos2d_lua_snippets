@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRipple3D:setAmplitude(${1:float_fAmplitude})
 ]]></content>
-    <tabTrigger>CCRipple3D:setAmplitude</tabTrigger>
+    <tabTrigger>CCRipple3D_setAmplitude</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRipple3D:setAmplitude</description>
+    <description></description>
 </snippet>
 

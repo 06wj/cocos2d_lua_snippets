@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParallaxNode:removeChild(${1:CCNode*_child},${2:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCParallaxNode:removeChild</tabTrigger>
+    <tabTrigger>CCParallaxNode_removeChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParallaxNode:removeChild</description>
+    <description></description>
 </snippet>
 

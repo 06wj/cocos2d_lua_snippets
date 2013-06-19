@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getScale(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

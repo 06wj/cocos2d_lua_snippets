@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierBy:isSingleReference()
+]]></content>
+    <tabTrigger>CCBezierBy_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

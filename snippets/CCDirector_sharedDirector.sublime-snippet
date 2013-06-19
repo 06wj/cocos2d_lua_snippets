@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:sharedDirector()
 ]]></content>
-    <tabTrigger>CCDirector:sharedDirector</tabTrigger>
+    <tabTrigger>CCDirector_sharedDirector</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:sharedDirector</description>
+    <description></description>
 </snippet>
 

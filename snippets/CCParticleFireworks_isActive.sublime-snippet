@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:isActive(${1:})
+]]></content>
+    <tabTrigger>CCParticleFireworks_isActive</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

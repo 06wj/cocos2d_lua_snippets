@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInT:getVertexZ(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSlideInT_getVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

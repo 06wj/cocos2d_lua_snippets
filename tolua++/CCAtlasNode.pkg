@@ -1,5 +1,5 @@
 
-class CCAtlasNode : public CCNodeRGBA
+class CCAtlasNode : public CCNode
 {
 	CCTextureAtlas* getTextureAtlas();
 	void setTextureAtlas(CCTextureAtlas* atlas);

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:removeSpriteFromAtlas(${1:CCSprite_*sprite})
+]]></content>
+    <tabTrigger>CCTMXLayer_removeSpriteFromAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

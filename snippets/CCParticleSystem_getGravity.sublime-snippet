@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getGravity(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getGravity</tabTrigger>
+    <tabTrigger>CCParticleSystem_getGravity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getGravity</description>
+    <description></description>
 </snippet>
 

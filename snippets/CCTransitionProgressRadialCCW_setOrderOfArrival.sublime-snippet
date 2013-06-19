@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCCW:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCCW_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

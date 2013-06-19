@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setFlipY(${1:bool_bFlipY})
 ]]></content>
-    <tabTrigger>CCSprite:setFlipY</tabTrigger>
+    <tabTrigger>CCSprite_setFlipY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setFlipY</description>
+    <description></description>
 </snippet>
 

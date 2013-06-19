@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:getObjectGroups(${1:})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:getObjectGroups</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_getObjectGroups</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:getObjectGroups</description>
+    <description></description>
 </snippet>
 

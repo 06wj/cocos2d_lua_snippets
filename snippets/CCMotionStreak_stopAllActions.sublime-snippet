@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:stopAllActions()
+]]></content>
+    <tabTrigger>CCMotionStreak_stopAllActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

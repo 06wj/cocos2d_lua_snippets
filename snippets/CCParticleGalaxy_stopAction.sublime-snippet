@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

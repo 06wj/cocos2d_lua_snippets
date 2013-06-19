@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionCamera:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCActionCamera_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

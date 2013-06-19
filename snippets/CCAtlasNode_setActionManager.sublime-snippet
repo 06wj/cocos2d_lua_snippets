@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:setActionManager(${1:CCActionManager*_pActionMgr})
+]]></content>
+    <tabTrigger>CCAtlasNode_setActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCCardinalSplineTo:reverse(${1:})
+CCCardinalSplineTo:reverse()
 ]]></content>
-    <tabTrigger>CCCardinalSplineTo:reverse</tabTrigger>
+    <tabTrigger>CCCardinalSplineTo_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCardinalSplineTo:reverse</description>
+    <description></description>
 </snippet>
 

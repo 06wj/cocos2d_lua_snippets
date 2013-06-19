@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSystemQuad:setBatchNode(${1:CCParticleBatchNode*_batchNode})
+CCParticleSystemQuad:setBatchNode(${1:CCParticleBatchNode*_node})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:setBatchNode</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_setBatchNode</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:setBatchNode</description>
+    <description></description>
 </snippet>
 

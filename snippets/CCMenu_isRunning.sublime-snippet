@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:isRunning(${1:})
+]]></content>
+    <tabTrigger>CCMenu_isRunning</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:transformAncestors()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

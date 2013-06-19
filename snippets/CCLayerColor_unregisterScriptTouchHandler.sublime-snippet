@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:unregisterScriptTouchHandler(${1:})
+]]></content>
+    <tabTrigger>CCLayerColor_unregisterScriptTouchHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getTexture()
 ]]></content>
-    <tabTrigger>CCParticleSystem:getTexture</tabTrigger>
+    <tabTrigger>CCParticleSystem_getTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getTexture</description>
+    <description></description>
 </snippet>
 

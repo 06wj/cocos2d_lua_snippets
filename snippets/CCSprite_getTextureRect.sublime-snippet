@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getTextureRect()
 ]]></content>
-    <tabTrigger>CCSprite:getTextureRect</tabTrigger>
+    <tabTrigger>CCSprite_getTextureRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getTextureRect</description>
+    <description></description>
 </snippet>
 

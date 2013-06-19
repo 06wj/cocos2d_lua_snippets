@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:setTag(${1:int_var})
+]]></content>
+    <tabTrigger>CCLabelAtlas_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

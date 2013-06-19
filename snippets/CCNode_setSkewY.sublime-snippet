@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setSkewY(${1:float_skewY})
 ]]></content>
-    <tabTrigger>CCNode:setSkewY</tabTrigger>
+    <tabTrigger>CCNode_setSkewY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setSkewY</description>
+    <description></description>
 </snippet>
 

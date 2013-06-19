@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTexture2D:hasMipmaps(${1:})
 ]]></content>
-    <tabTrigger>CCTexture2D:hasMipmaps</tabTrigger>
+    <tabTrigger>CCTexture2D_hasMipmaps</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTexture2D:hasMipmaps</description>
+    <description></description>
 </snippet>
 

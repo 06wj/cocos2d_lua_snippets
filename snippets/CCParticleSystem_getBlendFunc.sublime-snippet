@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getBlendFunc()
 ]]></content>
-    <tabTrigger>CCParticleSystem:getBlendFunc</tabTrigger>
+    <tabTrigger>CCParticleSystem_getBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getBlendFunc</description>
+    <description></description>
 </snippet>
 

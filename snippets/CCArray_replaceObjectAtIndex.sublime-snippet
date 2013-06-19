@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:replaceObjectAtIndex(${1:unsigned_int_uIndex},${2:CCObject*_pObject},${3:bool_bReleaseObject_=_true})
 ]]></content>
-    <tabTrigger>CCArray:replaceObjectAtIndex</tabTrigger>
+    <tabTrigger>CCArray_replaceObjectAtIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:replaceObjectAtIndex</description>
+    <description></description>
 </snippet>
 

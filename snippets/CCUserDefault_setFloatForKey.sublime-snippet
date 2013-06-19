@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:setFloatForKey(${1:const_char*_pKey},${2:float_value})
 ]]></content>
-    <tabTrigger>CCUserDefault:setFloatForKey</tabTrigger>
+    <tabTrigger>CCUserDefault_setFloatForKey</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:setFloatForKey</description>
+    <description></description>
 </snippet>
 

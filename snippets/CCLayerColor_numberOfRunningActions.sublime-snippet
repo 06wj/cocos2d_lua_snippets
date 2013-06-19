@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCLayerColor_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

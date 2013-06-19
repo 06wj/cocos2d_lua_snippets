@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCWavesTiles3D:getAmplitudeRate()
 ]]></content>
-    <tabTrigger>CCWavesTiles3D:getAmplitudeRate</tabTrigger>
+    <tabTrigger>CCWavesTiles3D_getAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCWavesTiles3D:getAmplitudeRate</description>
+    <description></description>
 </snippet>
 

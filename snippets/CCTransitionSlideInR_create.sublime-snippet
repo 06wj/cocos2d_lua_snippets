@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionSlideInR:create(${1:float_t},${2:CCScene*_scene})
+CCTransitionSlideInR:create()
 ]]></content>
-    <tabTrigger>CCTransitionSlideInR:create</tabTrigger>
+    <tabTrigger>CCTransitionSlideInR_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionSlideInR:create</description>
+    <description></description>
 </snippet>
 

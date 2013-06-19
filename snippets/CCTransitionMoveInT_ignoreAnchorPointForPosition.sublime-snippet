@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInT:ignoreAnchorPointForPosition(${1:bool_newValue})
+]]></content>
+    <tabTrigger>CCTransitionMoveInT_ignoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

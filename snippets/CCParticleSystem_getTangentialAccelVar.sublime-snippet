@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getTangentialAccelVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getTangentialAccelVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getTangentialAccelVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getTangentialAccelVar</description>
+    <description></description>
 </snippet>
 

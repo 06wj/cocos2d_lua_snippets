@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLens3D:setPosition(${1:CCPoint_position})
 ]]></content>
-    <tabTrigger>CCLens3D:setPosition</tabTrigger>
+    <tabTrigger>CCLens3D_setPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLens3D:setPosition</description>
+    <description></description>
 </snippet>
 

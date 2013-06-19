@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCMenu_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

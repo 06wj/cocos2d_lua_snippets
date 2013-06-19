@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFadeOut:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCFadeOut:create</tabTrigger>
+    <tabTrigger>CCFadeOut_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFadeOut:create</description>
+    <description></description>
 </snippet>
 

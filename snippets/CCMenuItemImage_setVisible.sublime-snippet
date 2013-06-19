@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:setVisible(${1:bool_var})
+]]></content>
+    <tabTrigger>CCMenuItemImage_setVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

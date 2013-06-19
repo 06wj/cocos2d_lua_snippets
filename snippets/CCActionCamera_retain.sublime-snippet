@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionCamera:retain()
+]]></content>
+    <tabTrigger>CCActionCamera_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

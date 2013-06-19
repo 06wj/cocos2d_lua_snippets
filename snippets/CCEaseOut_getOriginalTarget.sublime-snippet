@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseOut:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCEaseOut_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

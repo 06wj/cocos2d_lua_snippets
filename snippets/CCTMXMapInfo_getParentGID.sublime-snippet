@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:getParentGID(${1:})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:getParentGID</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_getParentGID</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:getParentGID</description>
+    <description></description>
 </snippet>
 

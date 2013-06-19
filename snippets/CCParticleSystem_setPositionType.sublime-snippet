@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setPositionType(${1:tCCPositionType_type})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setPositionType</tabTrigger>
+    <tabTrigger>CCParticleSystem_setPositionType</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setPositionType</description>
+    <description></description>
 </snippet>
 

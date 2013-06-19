@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCLens3D_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

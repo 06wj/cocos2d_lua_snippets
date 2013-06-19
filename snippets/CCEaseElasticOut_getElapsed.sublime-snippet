@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElasticOut:getElapsed()
+]]></content>
+    <tabTrigger>CCEaseElasticOut_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

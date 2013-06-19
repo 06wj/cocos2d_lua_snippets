@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:removeFromParentAndCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_removeFromParentAndCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

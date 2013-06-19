@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRenderTexture:newCCImage(${1:})
 ]]></content>
-    <tabTrigger>CCRenderTexture:newCCImage</tabTrigger>
+    <tabTrigger>CCRenderTexture_newCCImage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRenderTexture:newCCImage</description>
+    <description></description>
 </snippet>
 

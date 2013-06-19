@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCRepeat:create(${1:CCFiniteTimeAction_*pAction},${2:unsigned_int_times})
+CCRepeat:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCRepeat:create</tabTrigger>
+    <tabTrigger>CCRepeat_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRepeat:create</description>
+    <description></description>
 </snippet>
 

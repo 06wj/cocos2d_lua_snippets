@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:createWithCapacity(${1:unsigned_int_capacity})
 ]]></content>
-    <tabTrigger>CCArray:createWithCapacity</tabTrigger>
+    <tabTrigger>CCArray_createWithCapacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:createWithCapacity</description>
+    <description></description>
 </snippet>
 

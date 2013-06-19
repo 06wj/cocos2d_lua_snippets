@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLView:sharedOpenGLView()
 ]]></content>
-    <tabTrigger>CCEGLView:sharedOpenGLView</tabTrigger>
+    <tabTrigger>CCEGLView_sharedOpenGLView</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLView:sharedOpenGLView</description>
+    <description></description>
 </snippet>
 

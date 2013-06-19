@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateTo:isDone()
+]]></content>
+    <tabTrigger>CCRotateTo_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

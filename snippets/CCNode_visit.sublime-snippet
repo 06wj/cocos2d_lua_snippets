@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:visit()
 ]]></content>
-    <tabTrigger>CCNode:visit</tabTrigger>
+    <tabTrigger>CCNode_visit</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:visit</description>
+    <description></description>
 </snippet>
 

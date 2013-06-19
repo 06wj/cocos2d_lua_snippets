@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCScene_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:unregisterScriptTouchHandler(${1:})
+]]></content>
+    <tabTrigger>CCMenu_unregisterScriptTouchHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

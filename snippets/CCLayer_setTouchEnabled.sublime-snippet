@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:setTouchEnabled(${1:bool_bValue})
 ]]></content>
-    <tabTrigger>CCLayer:setTouchEnabled</tabTrigger>
+    <tabTrigger>CCLayer_setTouchEnabled</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:setTouchEnabled</description>
+    <description></description>
 </snippet>
 

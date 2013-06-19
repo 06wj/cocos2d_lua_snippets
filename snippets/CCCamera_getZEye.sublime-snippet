@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:getZEye(${1:})
 ]]></content>
-    <tabTrigger>CCCamera:getZEye</tabTrigger>
+    <tabTrigger>CCCamera_getZEye</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:getZEye</description>
+    <description></description>
 </snippet>
 

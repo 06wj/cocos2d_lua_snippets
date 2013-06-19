@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseRateAction:retainCount()
+]]></content>
+    <tabTrigger>CCEaseRateAction_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

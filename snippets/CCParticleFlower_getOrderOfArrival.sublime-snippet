@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCParticleFlower_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCObject:copy(${1:})
 ]]></content>
-    <tabTrigger>CCObject:copy</tabTrigger>
+    <tabTrigger>CCObject_copy</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCObject:copy</description>
+    <description></description>
 </snippet>
 

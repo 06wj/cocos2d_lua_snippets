@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCReverseTime:isSingleReference()
+]]></content>
+    <tabTrigger>CCReverseTime_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

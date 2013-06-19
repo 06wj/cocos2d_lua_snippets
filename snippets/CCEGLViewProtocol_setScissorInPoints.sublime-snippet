@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:setScissorInPoints(${1:float_x_},${2:float_y_},${3:float_w_},${4:float_h})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:setScissorInPoints</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_setScissorInPoints</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:setScissorInPoints</description>
+    <description></description>
 </snippet>
 

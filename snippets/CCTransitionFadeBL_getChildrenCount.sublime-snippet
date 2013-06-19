@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:getChildrenCount()
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_getChildrenCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

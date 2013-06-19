@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

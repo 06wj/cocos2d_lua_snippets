@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCCardinalSplineBy:create(${1:float_duration},${2:CCPointArray*_points},${3:float_tension})
+CCCardinalSplineBy:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCCardinalSplineBy:create</tabTrigger>
+    <tabTrigger>CCCardinalSplineBy_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCardinalSplineBy:create</description>
+    <description></description>
 </snippet>
 

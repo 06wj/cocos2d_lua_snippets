@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:convertToNodeSpace(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_convertToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

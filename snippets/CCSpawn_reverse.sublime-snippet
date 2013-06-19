@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpawn:reverse()
 ]]></content>
-    <tabTrigger>CCSpawn:reverse</tabTrigger>
+    <tabTrigger>CCSpawn_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpawn:reverse</description>
+    <description></description>
 </snippet>
 

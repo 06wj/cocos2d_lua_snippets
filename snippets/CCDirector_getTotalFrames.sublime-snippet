@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getTotalFrames()
 ]]></content>
-    <tabTrigger>CCDirector:getTotalFrames</tabTrigger>
+    <tabTrigger>CCDirector_getTotalFrames</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getTotalFrames</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:getAnchorPoint(${1:})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_getAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:intersectsRect(${1:const_CCRect_&_rect})
 ]]></content>
-    <tabTrigger>CCRect:intersectsRect</tabTrigger>
+    <tabTrigger>CCRect_intersectsRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:intersectsRect</description>
+    <description></description>
 </snippet>
 

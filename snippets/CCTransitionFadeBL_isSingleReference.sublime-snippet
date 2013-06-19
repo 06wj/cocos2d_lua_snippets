@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:isSingleReference()
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

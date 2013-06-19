@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipY:getCamera(${1:})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipY_getCamera</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

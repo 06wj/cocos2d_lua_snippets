@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:positionAt(${1:CCPoint_tileCoordinate})
 ]]></content>
-    <tabTrigger>CCTMXLayer:positionAt</tabTrigger>
+    <tabTrigger>CCTMXLayer_positionAt</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:positionAt</description>
+    <description></description>
 </snippet>
 

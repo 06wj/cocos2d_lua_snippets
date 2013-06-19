@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:cleanup()
 ]]></content>
-    <tabTrigger>CCNode:cleanup</tabTrigger>
+    <tabTrigger>CCNode_cleanup</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:cleanup</description>
+    <description></description>
 </snippet>
 

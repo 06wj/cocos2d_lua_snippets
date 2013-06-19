@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseOut:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCEaseOut_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

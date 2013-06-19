@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCallFuncN:release()
+]]></content>
+    <tabTrigger>CCCallFuncN_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

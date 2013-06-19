@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setFontSize(${1:float_fontSize})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setFontSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

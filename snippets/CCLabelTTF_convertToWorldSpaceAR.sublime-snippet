@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCLabelTTF_convertToWorldSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:retain()
+]]></content>
+    <tabTrigger>CCTileMapAtlas_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

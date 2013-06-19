@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:setProperties(${1:CCDictionary*_pval})
 ]]></content>
-    <tabTrigger>CCTMXLayer:setProperties</tabTrigger>
+    <tabTrigger>CCTMXLayer_setProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:setProperties</description>
+    <description></description>
 </snippet>
 

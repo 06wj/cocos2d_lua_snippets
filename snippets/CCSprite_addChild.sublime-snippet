@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:addChild(${1:CCNode*_pChild},${2:int_zOrder},${3:int_tag})
+CCSprite:addChild(${1:CCNode_*_child},${2:int_zOrder},${3:int_tag})
 ]]></content>
-    <tabTrigger>CCSprite:addChild</tabTrigger>
+    <tabTrigger>CCSprite_addChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:addChild</description>
+    <description></description>
 </snippet>
 

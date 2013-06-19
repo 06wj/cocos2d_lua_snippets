@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleBy:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCScaleBy_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

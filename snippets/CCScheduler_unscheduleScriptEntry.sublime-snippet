@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCScheduler:unscheduleScriptEntry(${1:unsigned_int_uScheduleScriptEntryID})
 ]]></content>
-    <tabTrigger>CCScheduler:unscheduleScriptEntry</tabTrigger>
+    <tabTrigger>CCScheduler_unscheduleScriptEntry</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCScheduler:unscheduleScriptEntry</description>
+    <description></description>
 </snippet>
 

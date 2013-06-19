@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemLabel:setDisabledColor(${1:const_ccColor3B_&_color})
 ]]></content>
-    <tabTrigger>CCMenuItemLabel:setDisabledColor</tabTrigger>
+    <tabTrigger>CCMenuItemLabel_setDisabledColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemLabel:setDisabledColor</description>
+    <description></description>
 </snippet>
 

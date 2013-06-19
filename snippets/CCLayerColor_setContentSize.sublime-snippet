@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLayerColor:setContentSize(${1:const_CCSize_&_var})
+CCLayerColor:setContentSize(${1:const_CCSize_&_size})
 ]]></content>
-    <tabTrigger>CCLayerColor:setContentSize</tabTrigger>
+    <tabTrigger>CCLayerColor_setContentSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerColor:setContentSize</description>
+    <description></description>
 </snippet>
 

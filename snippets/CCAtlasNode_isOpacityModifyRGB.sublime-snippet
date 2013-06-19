@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAtlasNode:isOpacityModifyRGB(${1:})
 ]]></content>
-    <tabTrigger>CCAtlasNode:isOpacityModifyRGB</tabTrigger>
+    <tabTrigger>CCAtlasNode_isOpacityModifyRGB</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAtlasNode:isOpacityModifyRGB</description>
+    <description></description>
 </snippet>
 

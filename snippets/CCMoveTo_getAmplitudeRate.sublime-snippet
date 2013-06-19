@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveTo:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCMoveTo_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

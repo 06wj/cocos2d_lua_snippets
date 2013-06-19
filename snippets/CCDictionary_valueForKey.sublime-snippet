@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDictionary:valueForKey(${1:int_key})
 ]]></content>
-    <tabTrigger>CCDictionary:valueForKey</tabTrigger>
+    <tabTrigger>CCDictionary_valueForKey</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDictionary:valueForKey</description>
+    <description></description>
 </snippet>
 

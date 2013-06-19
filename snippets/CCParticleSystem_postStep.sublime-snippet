@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:postStep(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:postStep</tabTrigger>
+    <tabTrigger>CCParticleSystem_postStep</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:postStep</description>
+    <description></description>
 </snippet>
 

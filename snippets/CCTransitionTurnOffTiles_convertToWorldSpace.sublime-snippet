@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:convertToWorldSpace(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_convertToWorldSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

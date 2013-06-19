@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getTag(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getTag</tabTrigger>
+    <tabTrigger>CCNode_getTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getTag</description>
+    <description></description>
 </snippet>
 

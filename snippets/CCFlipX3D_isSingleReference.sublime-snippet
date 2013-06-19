@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipX3D:isSingleReference()
+]]></content>
+    <tabTrigger>CCFlipX3D_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

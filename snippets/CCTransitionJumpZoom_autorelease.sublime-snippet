@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

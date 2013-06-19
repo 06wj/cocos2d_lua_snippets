@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:setAnchorPoint(${1:const_CCPoint_&_anchor})
+CCSprite:setAnchorPoint(${1:CCPoint_point})
 ]]></content>
-    <tabTrigger>CCSprite:setAnchorPoint</tabTrigger>
+    <tabTrigger>CCSprite_setAnchorPoint</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setAnchorPoint</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:isVisible(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_isVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

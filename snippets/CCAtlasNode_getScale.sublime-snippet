@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:getScale(${1:})
+]]></content>
+    <tabTrigger>CCAtlasNode_getScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

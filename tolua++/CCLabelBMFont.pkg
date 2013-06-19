@@ -3,11 +3,8 @@ enum {
     kCCLabelAutomaticWidth = -1,
 };
 
-class CCLabelBMFont : public CCSpriteBatchNode
+class CCLabelBMFont : public CCNode
 {
-    CCLabelBMFont();
-    ~CCLabelBMFont();
-    bool init();
     void setString(const char *label);
 	void setString(const char *label, bool fromUpdate);
     void setCString(const char *label);

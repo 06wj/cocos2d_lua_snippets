@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:copy(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

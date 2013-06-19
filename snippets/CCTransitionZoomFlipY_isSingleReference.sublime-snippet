@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipY:isSingleReference()
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipY_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

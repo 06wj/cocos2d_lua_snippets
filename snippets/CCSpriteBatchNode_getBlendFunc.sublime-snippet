@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:getBlendFunc()
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:getBlendFunc</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_getBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:getBlendFunc</description>
+    <description></description>
 </snippet>
 

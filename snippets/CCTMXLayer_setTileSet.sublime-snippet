@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:setTileSet(${1:CCTMXTilesetInfo*_pval})
 ]]></content>
-    <tabTrigger>CCTMXLayer:setTileSet</tabTrigger>
+    <tabTrigger>CCTMXLayer_setTileSet</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:setTileSet</description>
+    <description></description>
 </snippet>
 

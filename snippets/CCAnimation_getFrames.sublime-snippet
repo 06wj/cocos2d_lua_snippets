@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:getFrames(${1:})
 ]]></content>
-    <tabTrigger>CCAnimation:getFrames</tabTrigger>
+    <tabTrigger>CCAnimation_getFrames</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:getFrames</description>
+    <description></description>
 </snippet>
 

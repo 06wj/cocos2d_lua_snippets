@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGrid3DAction:isSingleReference()
+]]></content>
+    <tabTrigger>CCGrid3DAction_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

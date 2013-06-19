@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:setOpacity(${1:GLubyte_opacity})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_setOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

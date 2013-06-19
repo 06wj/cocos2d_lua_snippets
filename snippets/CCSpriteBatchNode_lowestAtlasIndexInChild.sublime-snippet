@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:lowestAtlasIndexInChild(${1:CCSprite_*sprite})
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:lowestAtlasIndexInChild</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_lowestAtlasIndexInChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:lowestAtlasIndexInChild</description>
+    <description></description>
 </snippet>
 

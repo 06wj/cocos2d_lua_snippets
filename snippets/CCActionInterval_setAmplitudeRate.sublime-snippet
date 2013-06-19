@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionInterval:setAmplitudeRate(${1:float_amp})
 ]]></content>
-    <tabTrigger>CCActionInterval:setAmplitudeRate</tabTrigger>
+    <tabTrigger>CCActionInterval_setAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionInterval:setAmplitudeRate</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRepeat:isDone()
 ]]></content>
-    <tabTrigger>CCRepeat:isDone</tabTrigger>
+    <tabTrigger>CCRepeat_isDone</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRepeat:isDone</description>
+    <description></description>
 </snippet>
 

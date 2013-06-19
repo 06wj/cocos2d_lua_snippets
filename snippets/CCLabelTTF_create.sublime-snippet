@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLabelTTF:create(${1:})
+CCLabelTTF:create()
 ]]></content>
-    <tabTrigger>CCLabelTTF:create</tabTrigger>
+    <tabTrigger>CCLabelTTF_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelTTF:create</description>
+    <description></description>
 </snippet>
 

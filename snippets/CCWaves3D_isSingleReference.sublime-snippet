@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves3D:isSingleReference()
+]]></content>
+    <tabTrigger>CCWaves3D_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

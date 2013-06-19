@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleFireworks:create(${1:})
+CCParticleFireworks:create()
 ]]></content>
-    <tabTrigger>CCParticleFireworks:create</tabTrigger>
+    <tabTrigger>CCParticleFireworks_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleFireworks:create</description>
+    <description></description>
 </snippet>
 

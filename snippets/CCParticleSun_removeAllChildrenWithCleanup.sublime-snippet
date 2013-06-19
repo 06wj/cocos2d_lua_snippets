@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:removeAllChildrenWithCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCParticleSun_removeAllChildrenWithCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

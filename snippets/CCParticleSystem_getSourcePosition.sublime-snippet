@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getSourcePosition(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getSourcePosition</tabTrigger>
+    <tabTrigger>CCParticleSystem_getSourcePosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getSourcePosition</description>
+    <description></description>
 </snippet>
 

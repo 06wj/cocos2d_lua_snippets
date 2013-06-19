@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getZOrder(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getZOrder</tabTrigger>
+    <tabTrigger>CCNode_getZOrder</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getZOrder</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:popScene()
 ]]></content>
-    <tabTrigger>CCDirector:popScene</tabTrigger>
+    <tabTrigger>CCDirector_popScene</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:popScene</description>
+    <description></description>
 </snippet>
 

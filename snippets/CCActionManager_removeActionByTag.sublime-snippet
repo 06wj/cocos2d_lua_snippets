@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionManager:removeActionByTag(${1:unsigned_int_tag},${2:CCObject_*pTarget})
 ]]></content>
-    <tabTrigger>CCActionManager:removeActionByTag</tabTrigger>
+    <tabTrigger>CCActionManager_removeActionByTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionManager:removeActionByTag</description>
+    <description></description>
 </snippet>
 

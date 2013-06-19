@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleExplosion:create(${1:})
+CCParticleExplosion:create()
 ]]></content>
-    <tabTrigger>CCParticleExplosion:create</tabTrigger>
+    <tabTrigger>CCParticleExplosion_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleExplosion:create</description>
+    <description></description>
 </snippet>
 

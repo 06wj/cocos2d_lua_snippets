@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:getTotalDelayUnits(${1:})
 ]]></content>
-    <tabTrigger>CCAnimation:getTotalDelayUnits</tabTrigger>
+    <tabTrigger>CCAnimation_getTotalDelayUnits</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:getTotalDelayUnits</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXObjectGroup:getProperties(${1:})
 ]]></content>
-    <tabTrigger>CCTMXObjectGroup:getProperties</tabTrigger>
+    <tabTrigger>CCTMXObjectGroup_getProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXObjectGroup:getProperties</description>
+    <description></description>
 </snippet>
 

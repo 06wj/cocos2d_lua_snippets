@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCAtlasNode_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setOpacity(${1:GLubyte_opacity})
 ]]></content>
-    <tabTrigger>CCSprite:setOpacity</tabTrigger>
+    <tabTrigger>CCSprite_setOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setOpacity</description>
+    <description></description>
 </snippet>
 

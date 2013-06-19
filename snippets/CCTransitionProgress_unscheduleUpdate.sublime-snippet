@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgress:unscheduleUpdate()
+]]></content>
+    <tabTrigger>CCTransitionProgress_unscheduleUpdate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

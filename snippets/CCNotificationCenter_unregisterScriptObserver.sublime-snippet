@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNotificationCenter:unregisterScriptObserver()
 ]]></content>
-    <tabTrigger>CCNotificationCenter:unregisterScriptObserver</tabTrigger>
+    <tabTrigger>CCNotificationCenter_unregisterScriptObserver</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNotificationCenter:unregisterScriptObserver</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:ignoreAnchorPointForPosition(${1:bool_newValue})
 ]]></content>
-    <tabTrigger>CCSprite:ignoreAnchorPointForPosition</tabTrigger>
+    <tabTrigger>CCSprite_ignoreAnchorPointForPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:ignoreAnchorPointForPosition</description>
+    <description></description>
 </snippet>
 

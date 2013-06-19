@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getTextureAtlas()
 ]]></content>
-    <tabTrigger>CCSprite:getTextureAtlas</tabTrigger>
+    <tabTrigger>CCSprite_getTextureAtlas</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getTextureAtlas</description>
+    <description></description>
 </snippet>
 

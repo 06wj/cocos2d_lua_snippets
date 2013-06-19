@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCPointArray:addControlPoint(${1:CCPoint_controlPoint})
 ]]></content>
-    <tabTrigger>CCPointArray:addControlPoint</tabTrigger>
+    <tabTrigger>CCPointArray_addControlPoint</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPointArray:addControlPoint</description>
+    <description></description>
 </snippet>
 

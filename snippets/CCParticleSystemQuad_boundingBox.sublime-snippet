@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:boundingBox()
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

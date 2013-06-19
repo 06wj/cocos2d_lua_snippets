@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipAngular:ignoreAnchorPointForPosition(${1:bool_newValue})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipAngular_ignoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

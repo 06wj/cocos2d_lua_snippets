@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCToggleVisibility:release()
+]]></content>
+    <tabTrigger>CCToggleVisibility_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

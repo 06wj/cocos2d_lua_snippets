@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
+]]></content>
+    <tabTrigger>CCMenuItemLabel_reorderChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

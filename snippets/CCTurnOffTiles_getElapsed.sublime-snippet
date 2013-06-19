@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTurnOffTiles:getElapsed()
+]]></content>
+    <tabTrigger>CCTurnOffTiles_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

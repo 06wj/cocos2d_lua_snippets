@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:capacity(${1:})
 ]]></content>
-    <tabTrigger>CCArray:capacity</tabTrigger>
+    <tabTrigger>CCArray_capacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:capacity</description>
+    <description></description>
 </snippet>
 

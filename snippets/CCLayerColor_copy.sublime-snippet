@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:copy(${1:})
+]]></content>
+    <tabTrigger>CCLayerColor_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

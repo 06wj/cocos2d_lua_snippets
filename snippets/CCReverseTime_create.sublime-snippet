@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCReverseTime:create(${1:CCFiniteTimeAction_*pAction})
+CCReverseTime:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCReverseTime:create</tabTrigger>
+    <tabTrigger>CCReverseTime_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCReverseTime:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCObject:isSingleReference()
 ]]></content>
-    <tabTrigger>CCObject:isSingleReference</tabTrigger>
+    <tabTrigger>CCObject_isSingleReference</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCObject:isSingleReference</description>
+    <description></description>
 </snippet>
 

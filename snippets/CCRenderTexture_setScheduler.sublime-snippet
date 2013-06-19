@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCRenderTexture_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

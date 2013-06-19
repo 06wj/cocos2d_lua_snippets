@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getColor()
 ]]></content>
-    <tabTrigger>CCSprite:getColor</tabTrigger>
+    <tabTrigger>CCSprite_getColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getColor</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleBatchNode:getTexture()
 ]]></content>
-    <tabTrigger>CCParticleBatchNode:getTexture</tabTrigger>
+    <tabTrigger>CCParticleBatchNode_getTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleBatchNode:getTexture</description>
+    <description></description>
 </snippet>
 

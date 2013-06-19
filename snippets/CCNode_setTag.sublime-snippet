@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setTag(${1:int_var})
 ]]></content>
-    <tabTrigger>CCNode:setTag</tabTrigger>
+    <tabTrigger>CCNode_setTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setTag</description>
+    <description></description>
 </snippet>
 

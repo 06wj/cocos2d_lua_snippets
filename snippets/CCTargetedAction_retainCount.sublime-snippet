@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTargetedAction:retainCount()
+]]></content>
+    <tabTrigger>CCTargetedAction_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setDuration(${1:float_d})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setDuration</tabTrigger>
+    <tabTrigger>CCParticleSystem_setDuration</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setDuration</description>
+    <description></description>
 </snippet>
 

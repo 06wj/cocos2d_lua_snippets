@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenu:alignItemsHorizontally(${1:})
 ]]></content>
-    <tabTrigger>CCMenu:alignItemsHorizontally</tabTrigger>
+    <tabTrigger>CCMenu_alignItemsHorizontally</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenu:alignItemsHorizontally</description>
+    <description></description>
 </snippet>
 

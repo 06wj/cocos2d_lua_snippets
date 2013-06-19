@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLabelBMFont:setScaleY(${1:float_scaleY})
+CCLabelBMFont:setScaleY(${1:float_newScaleY})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:setScaleY</tabTrigger>
+    <tabTrigger>CCLabelBMFont_setScaleY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:setScaleY</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelAtlas:setString(${1:const_char_*label})
 ]]></content>
-    <tabTrigger>CCLabelAtlas:setString</tabTrigger>
+    <tabTrigger>CCLabelAtlas_setString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:setString</description>
+    <description></description>
 </snippet>
 

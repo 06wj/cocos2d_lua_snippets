@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:isDirty()
 ]]></content>
-    <tabTrigger>CCCamera:isDirty</tabTrigger>
+    <tabTrigger>CCCamera_isDirty</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:isDirty</description>
+    <description></description>
 </snippet>
 

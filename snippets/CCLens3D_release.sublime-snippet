@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:release()
+]]></content>
+    <tabTrigger>CCLens3D_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

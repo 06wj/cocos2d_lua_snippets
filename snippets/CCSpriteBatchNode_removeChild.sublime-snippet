@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:removeChild(${1:CCNode*_child},${2:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:removeChild</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_removeChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:removeChild</description>
+    <description></description>
 </snippet>
 

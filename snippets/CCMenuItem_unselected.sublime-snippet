@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItem:unselected(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItem:unselected</tabTrigger>
+    <tabTrigger>CCMenuItem_unselected</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItem:unselected</description>
+    <description></description>
 </snippet>
 

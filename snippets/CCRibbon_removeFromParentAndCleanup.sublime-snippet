@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:removeFromParentAndCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCRibbon_removeFromParentAndCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

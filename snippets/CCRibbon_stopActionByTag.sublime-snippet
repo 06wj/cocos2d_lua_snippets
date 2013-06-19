@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:stopActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCRibbon_stopActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

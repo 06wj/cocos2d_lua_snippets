@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCMotionStreak_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

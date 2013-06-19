@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCCW:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCCW_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

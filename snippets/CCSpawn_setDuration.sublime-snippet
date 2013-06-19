@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCSpawn_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

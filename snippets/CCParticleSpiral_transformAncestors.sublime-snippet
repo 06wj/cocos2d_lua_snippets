@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:transformAncestors()
+]]></content>
+    <tabTrigger>CCParticleSpiral_transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

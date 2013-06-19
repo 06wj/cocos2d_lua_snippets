@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCParticleSun_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAccelDeccelAmplitude:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCAccelDeccelAmplitude_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

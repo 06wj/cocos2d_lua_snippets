@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCScheduler:scheduleScriptFunc(${1:LUA_FUNCTION_funcID},${2:float_fInterval},${3:bool_bPaused})
 ]]></content>
-    <tabTrigger>CCScheduler:scheduleScriptFunc</tabTrigger>
+    <tabTrigger>CCScheduler_scheduleScriptFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCScheduler:scheduleScriptFunc</description>
+    <description></description>
 </snippet>
 

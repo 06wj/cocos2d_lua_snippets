@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInR:getSkewX(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSlideInR_getSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

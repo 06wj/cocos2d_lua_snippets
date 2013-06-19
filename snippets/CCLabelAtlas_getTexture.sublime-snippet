@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelAtlas:getTexture()
 ]]></content>
-    <tabTrigger>CCLabelAtlas:getTexture</tabTrigger>
+    <tabTrigger>CCLabelAtlas_getTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:getTexture</description>
+    <description></description>
 </snippet>
 

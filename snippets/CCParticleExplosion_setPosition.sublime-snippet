@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

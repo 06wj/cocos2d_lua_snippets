@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionRotoZoom:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCTransitionRotoZoom_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

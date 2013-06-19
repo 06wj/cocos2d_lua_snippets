@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCEaseSineIn:create(${1:CCActionInterval*_pAction})
+CCEaseSineIn:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCEaseSineIn:create</tabTrigger>
+    <tabTrigger>CCEaseSineIn_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseSineIn:create</description>
+    <description></description>
 </snippet>
 

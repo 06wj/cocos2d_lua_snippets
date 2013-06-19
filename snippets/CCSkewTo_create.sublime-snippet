@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSkewTo:create(${1:float_t},${2:float_sx},${3:float_sy})
+CCSkewTo:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCSkewTo:create</tabTrigger>
+    <tabTrigger>CCSkewTo_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSkewTo:create</description>
+    <description></description>
 </snippet>
 

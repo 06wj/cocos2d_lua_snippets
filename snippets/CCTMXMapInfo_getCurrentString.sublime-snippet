@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:getCurrentString(${1:})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:getCurrentString</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_getCurrentString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:getCurrentString</description>
+    <description></description>
 </snippet>
 

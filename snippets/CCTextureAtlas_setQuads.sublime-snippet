@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureAtlas:setQuads(${1:ccV3F_C4B_T2F_Quad*_val})
 ]]></content>
-    <tabTrigger>CCTextureAtlas:setQuads</tabTrigger>
+    <tabTrigger>CCTextureAtlas_setQuads</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureAtlas:setQuads</description>
+    <description></description>
 </snippet>
 

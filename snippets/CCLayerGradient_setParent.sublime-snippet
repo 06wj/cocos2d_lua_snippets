@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCLayerGradient_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

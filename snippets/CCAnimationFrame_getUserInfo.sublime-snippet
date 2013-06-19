@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimationFrame:getUserInfo(${1:})
 ]]></content>
-    <tabTrigger>CCAnimationFrame:getUserInfo</tabTrigger>
+    <tabTrigger>CCAnimationFrame_getUserInfo</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimationFrame:getUserInfo</description>
+    <description></description>
 </snippet>
 

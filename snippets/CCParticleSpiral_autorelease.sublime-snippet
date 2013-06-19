@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCParticleSpiral_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

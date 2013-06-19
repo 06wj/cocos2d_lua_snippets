@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelAtlas:getString()
 ]]></content>
-    <tabTrigger>CCLabelAtlas:getString</tabTrigger>
+    <tabTrigger>CCLabelAtlas_getString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:getString</description>
+    <description></description>
 </snippet>
 

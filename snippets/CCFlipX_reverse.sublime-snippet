@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFlipX:reverse()
 ]]></content>
-    <tabTrigger>CCFlipX:reverse</tabTrigger>
+    <tabTrigger>CCFlipX_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFlipX:reverse</description>
+    <description></description>
 </snippet>
 

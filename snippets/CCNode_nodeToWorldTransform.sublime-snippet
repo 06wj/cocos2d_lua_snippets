@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:nodeToWorldTransform()
 ]]></content>
-    <tabTrigger>CCNode:nodeToWorldTransform</tabTrigger>
+    <tabTrigger>CCNode_nodeToWorldTransform</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:nodeToWorldTransform</description>
+    <description></description>
 </snippet>
 

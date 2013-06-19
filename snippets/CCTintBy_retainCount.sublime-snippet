@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintBy:retainCount()
+]]></content>
+    <tabTrigger>CCTintBy_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

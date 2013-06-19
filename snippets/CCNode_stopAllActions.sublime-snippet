@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:stopAllActions()
 ]]></content>
-    <tabTrigger>CCNode:stopAllActions</tabTrigger>
+    <tabTrigger>CCNode_stopAllActions</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:stopAllActions</description>
+    <description></description>
 </snippet>
 

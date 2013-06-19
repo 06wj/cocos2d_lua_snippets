@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpBy:getElapsed()
+]]></content>
+    <tabTrigger>CCJumpBy_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

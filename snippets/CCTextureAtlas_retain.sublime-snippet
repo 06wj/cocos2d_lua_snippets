@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:retain()
+]]></content>
+    <tabTrigger>CCTextureAtlas_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

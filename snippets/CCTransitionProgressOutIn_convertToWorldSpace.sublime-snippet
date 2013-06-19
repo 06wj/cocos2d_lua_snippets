@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:convertToWorldSpace(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_convertToWorldSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

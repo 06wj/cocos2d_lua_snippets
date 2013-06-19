@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrameCache:removeSpriteFramesFromTexture(${1:CCTexture2D*_texture})
 ]]></content>
-    <tabTrigger>CCSpriteFrameCache:removeSpriteFramesFromTexture</tabTrigger>
+    <tabTrigger>CCSpriteFrameCache_removeSpriteFramesFromTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrameCache:removeSpriteFramesFromTexture</description>
+    <description></description>
 </snippet>
 

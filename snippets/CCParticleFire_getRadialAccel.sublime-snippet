@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getRadialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getRadialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

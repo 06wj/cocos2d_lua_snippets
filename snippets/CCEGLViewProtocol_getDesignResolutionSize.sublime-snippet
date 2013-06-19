@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getDesignResolutionSize(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getDesignResolutionSize</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getDesignResolutionSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getDesignResolutionSize</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:getUserObject(${1:})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_getUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

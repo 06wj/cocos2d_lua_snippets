@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getRotatePerSecond(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getRotatePerSecond</tabTrigger>
+    <tabTrigger>CCParticleSystem_getRotatePerSecond</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getRotatePerSecond</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeDown:getSkewY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeDown_getSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

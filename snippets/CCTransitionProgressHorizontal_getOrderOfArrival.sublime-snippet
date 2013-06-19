@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

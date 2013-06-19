@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrame:getOriginalSize(${1:})
 ]]></content>
-    <tabTrigger>CCSpriteFrame:getOriginalSize</tabTrigger>
+    <tabTrigger>CCSpriteFrame_getOriginalSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrame:getOriginalSize</description>
+    <description></description>
 </snippet>
 

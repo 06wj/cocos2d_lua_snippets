@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getStartColorVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSmoke_getStartColorVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

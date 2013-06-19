@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCLayerGradient_convertToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

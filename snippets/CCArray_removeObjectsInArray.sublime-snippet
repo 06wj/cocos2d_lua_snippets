@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:removeObjectsInArray(${1:CCArray*_otherArray})
 ]]></content>
-    <tabTrigger>CCArray:removeObjectsInArray</tabTrigger>
+    <tabTrigger>CCArray_removeObjectsInArray</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:removeObjectsInArray</description>
+    <description></description>
 </snippet>
 

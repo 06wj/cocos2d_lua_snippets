@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:isFull(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:isFull</tabTrigger>
+    <tabTrigger>CCParticleSystem_isFull</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:isFull</description>
+    <description></description>
 </snippet>
 

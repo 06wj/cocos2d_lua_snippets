@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:getMinX(${1:})
 ]]></content>
-    <tabTrigger>CCRect:getMinX</tabTrigger>
+    <tabTrigger>CCRect_getMinX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:getMinX</description>
+    <description></description>
 </snippet>
 

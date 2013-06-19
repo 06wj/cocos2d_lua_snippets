@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setScheduler(${1:CCScheduler*_pScheduler})
 ]]></content>
-    <tabTrigger>CCNode:setScheduler</tabTrigger>
+    <tabTrigger>CCNode_setScheduler</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setScheduler</description>
+    <description></description>
 </snippet>
 

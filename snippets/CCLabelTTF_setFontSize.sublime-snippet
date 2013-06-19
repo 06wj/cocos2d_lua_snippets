@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelTTF:setFontSize(${1:float_fontSize})
 ]]></content>
-    <tabTrigger>CCLabelTTF:setFontSize</tabTrigger>
+    <tabTrigger>CCLabelTTF_setFontSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelTTF:setFontSize</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRepeat:getElapsed()
+]]></content>
+    <tabTrigger>CCRepeat_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

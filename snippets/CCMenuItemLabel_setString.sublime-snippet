@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemLabel:setString(${1:const_char*_label})
 ]]></content>
-    <tabTrigger>CCMenuItemLabel:setString</tabTrigger>
+    <tabTrigger>CCMenuItemLabel_setString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemLabel:setString</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGridAction:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCGridAction_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

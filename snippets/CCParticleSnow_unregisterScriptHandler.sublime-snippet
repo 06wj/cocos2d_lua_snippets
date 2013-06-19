@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:unregisterScriptHandler()
+]]></content>
+    <tabTrigger>CCParticleSnow_unregisterScriptHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

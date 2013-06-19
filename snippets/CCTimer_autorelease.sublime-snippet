@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTimer:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCTimer_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCRenderTexture_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

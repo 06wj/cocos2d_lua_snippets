@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

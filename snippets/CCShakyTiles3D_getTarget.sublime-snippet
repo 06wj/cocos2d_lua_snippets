@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShakyTiles3D:getTarget()
+]]></content>
+    <tabTrigger>CCShakyTiles3D_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

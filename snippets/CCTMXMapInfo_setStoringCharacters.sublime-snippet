@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setStoringCharacters(${1:bool_val})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setStoringCharacters</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setStoringCharacters</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setStoringCharacters</description>
+    <description></description>
 </snippet>
 

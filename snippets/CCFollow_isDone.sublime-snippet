@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFollow:isDone()
 ]]></content>
-    <tabTrigger>CCFollow:isDone</tabTrigger>
+    <tabTrigger>CCFollow_isDone</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFollow:isDone</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:draw()
+]]></content>
+    <tabTrigger>CCParallaxNode_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

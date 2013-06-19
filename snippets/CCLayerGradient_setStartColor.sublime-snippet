@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:setStartColor(${1:ccColor3B_colors})
 ]]></content>
-    <tabTrigger>CCLayerGradient:setStartColor</tabTrigger>
+    <tabTrigger>CCLayerGradient_setStartColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:setStartColor</description>
+    <description></description>
 </snippet>
 

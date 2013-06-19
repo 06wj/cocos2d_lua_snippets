@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:setTag(${1:int_var})
+]]></content>
+    <tabTrigger>CCParticleFlower_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

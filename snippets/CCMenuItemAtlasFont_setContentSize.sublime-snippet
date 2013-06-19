@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:setContentSize(${1:const_CCSize_&_size})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_setContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

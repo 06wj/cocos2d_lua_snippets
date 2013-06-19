@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTMXTiledMap:create(${1:const_char_*tmxFile})
+CCTMXTiledMap:create()
 ]]></content>
-    <tabTrigger>CCTMXTiledMap:create</tabTrigger>
+    <tabTrigger>CCTMXTiledMap_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXTiledMap:create</description>
+    <description></description>
 </snippet>
 

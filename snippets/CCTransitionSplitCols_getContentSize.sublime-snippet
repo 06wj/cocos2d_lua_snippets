@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

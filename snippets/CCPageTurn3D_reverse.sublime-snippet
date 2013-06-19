@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPageTurn3D:reverse()
+]]></content>
+    <tabTrigger>CCPageTurn3D_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

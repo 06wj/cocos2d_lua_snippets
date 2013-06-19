@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCatmullRomBy:release()
+]]></content>
+    <tabTrigger>CCCatmullRomBy_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:worldToNodeTransform()
+]]></content>
+    <tabTrigger>CCTileMapAtlas_worldToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCProgressTimer:getPercentage()
 ]]></content>
-    <tabTrigger>CCProgressTimer:getPercentage</tabTrigger>
+    <tabTrigger>CCProgressTimer_getPercentage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCProgressTimer:getPercentage</description>
+    <description></description>
 </snippet>
 

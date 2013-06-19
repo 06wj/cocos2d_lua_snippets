@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:unselected(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_unselected</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

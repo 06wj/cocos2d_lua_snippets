@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getVisibleSize(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getVisibleSize</tabTrigger>
+    <tabTrigger>CCDirector_getVisibleSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getVisibleSize</description>
+    <description></description>
 </snippet>
 

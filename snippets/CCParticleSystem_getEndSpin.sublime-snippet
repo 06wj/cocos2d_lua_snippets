@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getEndSpin(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getEndSpin</tabTrigger>
+    <tabTrigger>CCParticleSystem_getEndSpin</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getEndSpin</description>
+    <description></description>
 </snippet>
 

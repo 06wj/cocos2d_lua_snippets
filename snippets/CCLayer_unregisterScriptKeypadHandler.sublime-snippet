@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:unregisterScriptKeypadHandler()
 ]]></content>
-    <tabTrigger>CCLayer:unregisterScriptKeypadHandler</tabTrigger>
+    <tabTrigger>CCLayer_unregisterScriptKeypadHandler</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:unregisterScriptKeypadHandler</description>
+    <description></description>
 </snippet>
 

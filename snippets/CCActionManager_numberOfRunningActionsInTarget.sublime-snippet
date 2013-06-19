@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionManager:numberOfRunningActionsInTarget(${1:CCObject_*pTarget})
 ]]></content>
-    <tabTrigger>CCActionManager:numberOfRunningActionsInTarget</tabTrigger>
+    <tabTrigger>CCActionManager_numberOfRunningActionsInTarget</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionManager:numberOfRunningActionsInTarget</description>
+    <description></description>
 </snippet>
 

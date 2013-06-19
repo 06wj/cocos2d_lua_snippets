@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCStopGrid:create()
 ]]></content>
-    <tabTrigger>CCStopGrid:create</tabTrigger>
+    <tabTrigger>CCStopGrid_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCStopGrid:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:stopAction(${1:CCAction*_action})
 ]]></content>
-    <tabTrigger>CCNode:stopAction</tabTrigger>
+    <tabTrigger>CCNode_stopAction</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:stopAction</description>
+    <description></description>
 </snippet>
 

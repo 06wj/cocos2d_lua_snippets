@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTiledGrid3DAction:getDuration()
+]]></content>
+    <tabTrigger>CCTiledGrid3DAction_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

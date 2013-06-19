@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:objectAtIndex(${1:unsigned_int_index})
 ]]></content>
-    <tabTrigger>CCArray:objectAtIndex</tabTrigger>
+    <tabTrigger>CCArray_objectAtIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:objectAtIndex</description>
+    <description></description>
 </snippet>
 

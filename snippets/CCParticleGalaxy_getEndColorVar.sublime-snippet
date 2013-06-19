@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getEndColorVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getEndColorVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

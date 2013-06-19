@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTexture2D:drawAtPoint(${1:CCPoint_point})
 ]]></content>
-    <tabTrigger>CCTexture2D:drawAtPoint</tabTrigger>
+    <tabTrigger>CCTexture2D_drawAtPoint</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTexture2D:drawAtPoint</description>
+    <description></description>
 </snippet>
 

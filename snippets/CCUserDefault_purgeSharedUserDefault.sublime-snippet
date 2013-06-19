@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:purgeSharedUserDefault(${1:})
 ]]></content>
-    <tabTrigger>CCUserDefault:purgeSharedUserDefault</tabTrigger>
+    <tabTrigger>CCUserDefault_purgeSharedUserDefault</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:purgeSharedUserDefault</description>
+    <description></description>
 </snippet>
 

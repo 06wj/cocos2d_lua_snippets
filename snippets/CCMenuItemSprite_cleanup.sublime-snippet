@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:cleanup()
+]]></content>
+    <tabTrigger>CCMenuItemSprite_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

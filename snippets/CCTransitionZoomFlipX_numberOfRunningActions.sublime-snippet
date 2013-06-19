@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipX:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipX_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

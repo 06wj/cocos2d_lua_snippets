@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:getCString(${1:})
 ]]></content>
-    <tabTrigger>CCString:getCString</tabTrigger>
+    <tabTrigger>CCString_getCString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:getCString</description>
+    <description></description>
 </snippet>
 

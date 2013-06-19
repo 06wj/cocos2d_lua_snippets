@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:rebuildIndexInOrder(${1:CCSprite_*parent},${2:unsigned_int_index})
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:rebuildIndexInOrder</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_rebuildIndexInOrder</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:rebuildIndexInOrder</description>
+    <description></description>
 </snippet>
 

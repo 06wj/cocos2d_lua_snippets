@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:worldToNodeTransform()
+]]></content>
+    <tabTrigger>CCLabelAtlas_worldToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

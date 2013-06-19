@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getPosition(${1:float*_x_=_0},${2:float*_y_=_0})
 ]]></content>
-    <tabTrigger>CCNode:getPosition</tabTrigger>
+    <tabTrigger>CCNode_getPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getPosition</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:isDirty()
 ]]></content>
-    <tabTrigger>CCSprite:isDirty</tabTrigger>
+    <tabTrigger>CCSprite_isDirty</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:isDirty</description>
+    <description></description>
 </snippet>
 

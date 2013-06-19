@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCParticleSnow_stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

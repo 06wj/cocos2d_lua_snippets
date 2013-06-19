@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:unscheduleUpdate()
+]]></content>
+    <tabTrigger>CCParticleSpiral_unscheduleUpdate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

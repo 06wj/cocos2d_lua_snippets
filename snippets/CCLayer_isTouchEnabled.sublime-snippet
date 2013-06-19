@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:isTouchEnabled(${1:})
 ]]></content>
-    <tabTrigger>CCLayer:isTouchEnabled</tabTrigger>
+    <tabTrigger>CCLayer_isTouchEnabled</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:isTouchEnabled</description>
+    <description></description>
 </snippet>
 

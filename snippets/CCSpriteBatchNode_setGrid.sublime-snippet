@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:setGrid(${1:CCGridBase*_pGrid})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_setGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

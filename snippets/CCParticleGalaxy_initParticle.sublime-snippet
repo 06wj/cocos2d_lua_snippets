@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:initParticle(${1:tCCParticle*_particle})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_initParticle</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

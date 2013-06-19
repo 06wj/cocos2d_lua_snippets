@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:unregisterScriptAccelerateHandler()
+]]></content>
+    <tabTrigger>CCLayerColor_unregisterScriptAccelerateHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

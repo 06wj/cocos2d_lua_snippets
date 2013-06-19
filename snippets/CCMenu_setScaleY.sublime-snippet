@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setScaleY(${1:float_newScaleY})
+]]></content>
+    <tabTrigger>CCMenu_setScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

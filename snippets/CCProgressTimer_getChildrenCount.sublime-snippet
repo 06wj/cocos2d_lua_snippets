@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:getChildrenCount()
+]]></content>
+    <tabTrigger>CCProgressTimer_getChildrenCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateBy:retain()
+]]></content>
+    <tabTrigger>CCRotateBy_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

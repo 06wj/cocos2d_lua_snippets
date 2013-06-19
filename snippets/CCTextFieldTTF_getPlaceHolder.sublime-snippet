@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextFieldTTF:getPlaceHolder()
 ]]></content>
-    <tabTrigger>CCTextFieldTTF:getPlaceHolder</tabTrigger>
+    <tabTrigger>CCTextFieldTTF_getPlaceHolder</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextFieldTTF:getPlaceHolder</description>
+    <description></description>
 </snippet>
 

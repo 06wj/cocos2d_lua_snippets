@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCSprite_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

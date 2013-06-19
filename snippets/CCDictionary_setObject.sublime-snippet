@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDictionary:setObject(${1:CCObject*_pObject},${2:int_key})
 ]]></content>
-    <tabTrigger>CCDictionary:setObject</tabTrigger>
+    <tabTrigger>CCDictionary_setObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDictionary:setObject</description>
+    <description></description>
 </snippet>
 

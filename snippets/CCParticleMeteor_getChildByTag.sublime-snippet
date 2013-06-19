@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

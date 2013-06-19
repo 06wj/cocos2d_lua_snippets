@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCTransitionFade_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

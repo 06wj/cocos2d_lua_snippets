@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeDown:getActionManager(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeDown_getActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

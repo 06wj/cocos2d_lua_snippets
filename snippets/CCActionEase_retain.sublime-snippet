@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionEase:retain()
+]]></content>
+    <tabTrigger>CCActionEase_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

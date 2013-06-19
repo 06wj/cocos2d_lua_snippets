@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBackOut:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCEaseBackOut_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

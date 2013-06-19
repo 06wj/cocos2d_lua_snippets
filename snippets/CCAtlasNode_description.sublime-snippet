@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAtlasNode:description()
+]]></content>
+    <tabTrigger>CCAtlasNode_description</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

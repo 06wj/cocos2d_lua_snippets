@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:getActionManager(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayer_getActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getUserData(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getUserData</tabTrigger>
+    <tabTrigger>CCNode_getUserData</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getUserData</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShaky3D:getGrid()
+]]></content>
+    <tabTrigger>CCShaky3D_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDelayTime:retainCount()
+]]></content>
+    <tabTrigger>CCDelayTime_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

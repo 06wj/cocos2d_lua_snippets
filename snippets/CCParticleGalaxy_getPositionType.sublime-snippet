@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getPositionType()
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getPositionType</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

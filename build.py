@@ -3,12 +3,17 @@ import codecs
 import os
 import re
 from os.path import getsize, splitext
+import json
 
-luaDir = os.path.join("tolua++")
-snippetsDir = os.path.join("snippets")
+luaDir = "tolua++"
+# snippetsDir = "C://Users//06wj//AppData//Roaming//Sublime Text 2//Packages//User//snippets"
+snippetsDir = "snippets"
 template = codecs.open("template.sublime-snippet", "r", "utf-8").read()
+data = {}
 
 def cleanDir( Dir ):
+    print("cleanDir:", Dir)
+    print("wait...")
     if os.path.isdir( Dir ):
         paths = os.listdir( Dir )
         for path in paths:
@@ -25,12 +30,13 @@ def cleanDir( Dir ):
 cleanDir(snippetsDir)
 
 #                     class    AAA    :       {func }
-klassP =  re.compile('class\s+(\w+)\s*:*\s*.*?\s*{(.*?)}', re.S)
+klassP =  re.compile('class\s+(\w+)\s*:?\s*(.*?)\s*{(.*?)}', re.S)
 
 #                   void       func(  int a, int b)
 funcP = re.compile('\w+[\s\*&]+(\w+)\((.*?)\)', re.S)
 
 def outPut(klass, func, args):
+    print("write:", klass,func)
     tpl = template.replace("%class", klass)
     tpl = tpl.replace("%func", func)
     argList = args.split(",")
@@ -48,20 +54,82 @@ def outPut(klass, func, args):
     ff.write(tpl)
     ff.close()
 
+def getSuperKlass(str):
+    if str == "":
+        return []
+    else:
+        return re.sub(r"\s*public\s*", "", str).split(",")
+
 def getData(file):
     text = codecs.open(file, "r", "utf-8").read()
+    text = re.sub(r"/\*[\S\s]*?\*/", "", text)
+    text = re.sub(r"//[^\t\n]*", "", text)
     klasses = klassP.findall(text)
     for klass in klasses:
-        klassName = klass[0]
-        print(klassName)
-        funcs = funcP.findall(klass[1])
+        klassData = {}
+        superKlass = ""
+        if len(klass) == 2:
+            klassName = klass[0]
+            funcStr = klass[1]
+        else:
+            klassName = klass[0]
+            superKlass = klass[1]
+            funcStr = klass[2]
+        klassData["klass"] = klassName
+        klassData["super"] = getSuperKlass(superKlass)
+        funcData = klassData["func"] = {}
+        print(klassName,":", klassData["super"])
+        funcs = funcP.findall(funcStr)
         for func in funcs:
             funcName = func[0]
             args = re.sub(r",[\n\r\s]+", ",", func[1])
             args = re.sub(r"\s+", "_", args)
-            outPut(klassName, funcName, args)
+            funcData[funcName] = args
+        data[klassName] = klassData
 
 for file in os.listdir(luaDir):
     if(splitext(file)[1]==".pkg"):
         getData(os.path.join(luaDir, file))
 
+
+tree = {}
+
+    
+def extends(childKlassData, superKlass):
+    if superKlass not in data:
+        tree[superKlass] = {
+            "klass":superKlass,
+            "func":"",
+            "super":[]
+        }
+    if superKlass not in tree and len(data[superKlass]["super"]) == 0:
+        tree[superKlass] = data[superKlass]
+    if superKlass in tree:
+        for func in tree[superKlass]["func"]:
+            childKlassData["func"][func] = tree[superKlass]["func"][func]
+    else:
+        for func in data[superKlass]["func"]:
+            childKlassData["func"][func] = data[superKlass]["func"][func]
+            for superName in data[superKlass]["super"]:
+                extends(childKlassData, superName)
+    tree[childKlassData["klass"]] = childKlassData
+
+
+for klass in data:
+    print("________________________", klass, "___________________")
+    if len(data[klass]["super"]) == 0:
+        tree[klass] = data[klass]
+    else:
+        for superName in data[klass]["super"]:
+            print(superName)
+            extends(data[klass], superName)
+
+
+for klass in tree:
+    for func in tree[klass]["func"]:
+        outPut(klass, func, tree[klass]["func"][func])
+
+
+
+if os.name == "nt":
+    os.system("pause")

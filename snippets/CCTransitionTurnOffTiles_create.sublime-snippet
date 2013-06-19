@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionTurnOffTiles:create(${1:float_t},${2:CCScene*_scene})
+CCTransitionTurnOffTiles:create()
 ]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles:create</tabTrigger>
+    <tabTrigger>CCTransitionTurnOffTiles_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionTurnOffTiles:create</description>
+    <description></description>
 </snippet>
 

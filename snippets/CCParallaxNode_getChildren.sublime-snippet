@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:getChildren(${1:})
+]]></content>
+    <tabTrigger>CCParallaxNode_getChildren</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

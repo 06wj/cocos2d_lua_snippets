@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBackInOut:getTarget()
+]]></content>
+    <tabTrigger>CCEaseBackInOut_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

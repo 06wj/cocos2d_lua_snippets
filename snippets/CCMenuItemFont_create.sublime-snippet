@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCMenuItemFont:create(${1:const_char*_value})
+CCMenuItemFont:create()
 ]]></content>
-    <tabTrigger>CCMenuItemFont:create</tabTrigger>
+    <tabTrigger>CCMenuItemFont_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemFont:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTimer:update(${1:float_dt})
 ]]></content>
-    <tabTrigger>CCTimer:update</tabTrigger>
+    <tabTrigger>CCTimer_update</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTimer:update</description>
+    <description></description>
 </snippet>
 

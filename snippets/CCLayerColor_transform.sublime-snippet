@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:transform()
+]]></content>
+    <tabTrigger>CCLayerColor_transform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

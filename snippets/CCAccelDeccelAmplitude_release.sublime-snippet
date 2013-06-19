@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAccelDeccelAmplitude:release()
+]]></content>
+    <tabTrigger>CCAccelDeccelAmplitude_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

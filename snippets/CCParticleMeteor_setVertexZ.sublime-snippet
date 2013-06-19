@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

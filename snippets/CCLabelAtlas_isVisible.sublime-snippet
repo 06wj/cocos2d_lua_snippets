@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:isVisible(${1:})
+]]></content>
+    <tabTrigger>CCLabelAtlas_isVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

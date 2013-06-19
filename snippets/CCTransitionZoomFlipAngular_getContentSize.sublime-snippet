@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipAngular:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipAngular_getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

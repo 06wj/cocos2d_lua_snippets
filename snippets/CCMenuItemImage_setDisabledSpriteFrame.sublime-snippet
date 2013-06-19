@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemImage:setDisabledSpriteFrame(${1:CCSpriteFrame*_frame})
 ]]></content>
-    <tabTrigger>CCMenuItemImage:setDisabledSpriteFrame</tabTrigger>
+    <tabTrigger>CCMenuItemImage_setDisabledSpriteFrame</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemImage:setDisabledSpriteFrame</description>
+    <description></description>
 </snippet>
 

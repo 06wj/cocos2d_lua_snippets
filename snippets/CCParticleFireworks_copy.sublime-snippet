@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:copy(${1:})
+]]></content>
+    <tabTrigger>CCParticleFireworks_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

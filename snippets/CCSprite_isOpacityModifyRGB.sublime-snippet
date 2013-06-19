@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:isOpacityModifyRGB()
 ]]></content>
-    <tabTrigger>CCSprite:isOpacityModifyRGB</tabTrigger>
+    <tabTrigger>CCSprite_isOpacityModifyRGB</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:isOpacityModifyRGB</description>
+    <description></description>
 </snippet>
 

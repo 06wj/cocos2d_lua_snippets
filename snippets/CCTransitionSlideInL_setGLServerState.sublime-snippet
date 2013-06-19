@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInL:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCTransitionSlideInL_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

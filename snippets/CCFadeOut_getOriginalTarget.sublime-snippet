@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOut:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCFadeOut_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

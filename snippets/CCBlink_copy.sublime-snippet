@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:copy(${1:})
+]]></content>
+    <tabTrigger>CCBlink_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

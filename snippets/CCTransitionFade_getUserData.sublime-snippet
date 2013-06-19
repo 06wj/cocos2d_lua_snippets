@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:getUserData(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFade_getUserData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

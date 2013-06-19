@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:isSingleReference()
+]]></content>
+    <tabTrigger>CCMenu_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

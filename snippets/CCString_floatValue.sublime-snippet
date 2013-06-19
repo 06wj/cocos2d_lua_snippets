@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:floatValue(${1:})
 ]]></content>
-    <tabTrigger>CCString:floatValue</tabTrigger>
+    <tabTrigger>CCString_floatValue</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:floatValue</description>
+    <description></description>
 </snippet>
 

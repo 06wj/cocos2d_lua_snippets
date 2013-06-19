@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInstant:retainCount()
+]]></content>
+    <tabTrigger>CCActionInstant_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

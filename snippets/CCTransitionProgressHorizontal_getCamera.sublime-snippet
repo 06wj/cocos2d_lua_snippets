@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:getCamera(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_getCamera</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

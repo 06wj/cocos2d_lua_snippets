@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:create()
 ]]></content>
-    <tabTrigger>CCLayer:create</tabTrigger>
+    <tabTrigger>CCLayer_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:getDoubleForKey(${1:const_char*_pKey})
 ]]></content>
-    <tabTrigger>CCUserDefault:getDoubleForKey</tabTrigger>
+    <tabTrigger>CCUserDefault_getDoubleForKey</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:getDoubleForKey</description>
+    <description></description>
 </snippet>
 

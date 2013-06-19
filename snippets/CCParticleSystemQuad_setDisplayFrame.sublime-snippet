@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystemQuad:setDisplayFrame(${1:CCSpriteFrame*_spriteFrame})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:setDisplayFrame</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_setDisplayFrame</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:setDisplayFrame</description>
+    <description></description>
 </snippet>
 

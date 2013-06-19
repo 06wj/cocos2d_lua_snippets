@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemImage:getColor(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemImage:getColor</tabTrigger>
+    <tabTrigger>CCMenuItemImage_getColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemImage:getColor</description>
+    <description></description>
 </snippet>
 

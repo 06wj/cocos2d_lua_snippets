@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:boundingBox()
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

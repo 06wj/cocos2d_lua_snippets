@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:visit()
+]]></content>
+    <tabTrigger>CCScene_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

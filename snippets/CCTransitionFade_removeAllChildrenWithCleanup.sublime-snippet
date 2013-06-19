@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:removeAllChildrenWithCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCTransitionFade_removeAllChildrenWithCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

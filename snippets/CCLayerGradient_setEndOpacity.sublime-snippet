@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:setEndOpacity(${1:GLubyte_Value})
 ]]></content>
-    <tabTrigger>CCLayerGradient:setEndOpacity</tabTrigger>
+    <tabTrigger>CCLayerGradient_setEndOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:setEndOpacity</description>
+    <description></description>
 </snippet>
 

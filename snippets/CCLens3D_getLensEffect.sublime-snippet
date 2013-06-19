@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLens3D:getLensEffect()
 ]]></content>
-    <tabTrigger>CCLens3D:getLensEffect</tabTrigger>
+    <tabTrigger>CCLens3D_getLensEffect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLens3D:getLensEffect</description>
+    <description></description>
 </snippet>
 

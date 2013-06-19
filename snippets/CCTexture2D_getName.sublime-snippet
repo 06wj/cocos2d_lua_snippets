@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTexture2D:getName(${1:})
 ]]></content>
-    <tabTrigger>CCTexture2D:getName</tabTrigger>
+    <tabTrigger>CCTexture2D_getName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTexture2D:getName</description>
+    <description></description>
 </snippet>
 

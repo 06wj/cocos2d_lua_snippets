@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:getSkewY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow_getSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

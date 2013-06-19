@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:getOpacity()
 ]]></content>
-    <tabTrigger>CCMotionStreak:getOpacity</tabTrigger>
+    <tabTrigger>CCMotionStreak_getOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:getOpacity</description>
+    <description></description>
 </snippet>
 

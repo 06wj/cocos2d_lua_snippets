@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:getAnchorPoint(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_getAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

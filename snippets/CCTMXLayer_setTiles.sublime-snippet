@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:setTiles(${1:unsigned_int*_pval})
 ]]></content>
-    <tabTrigger>CCTMXLayer:setTiles</tabTrigger>
+    <tabTrigger>CCTMXLayer_setTiles</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:setTiles</description>
+    <description></description>
 </snippet>
 

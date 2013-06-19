@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getStartRadius(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getStartRadius</tabTrigger>
+    <tabTrigger>CCParticleSystem_getStartRadius</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getStartRadius</description>
+    <description></description>
 </snippet>
 

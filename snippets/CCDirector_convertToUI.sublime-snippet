@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:convertToUI(${1:CCPoint_obPoint})
 ]]></content>
-    <tabTrigger>CCDirector:convertToUI</tabTrigger>
+    <tabTrigger>CCDirector_convertToUI</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:convertToUI</description>
+    <description></description>
 </snippet>
 

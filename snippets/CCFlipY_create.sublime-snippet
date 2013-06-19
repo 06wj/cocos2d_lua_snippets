@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFlipY:create(${1:bool_y})
 ]]></content>
-    <tabTrigger>CCFlipY:create</tabTrigger>
+    <tabTrigger>CCFlipY_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFlipY:create</description>
+    <description></description>
 </snippet>
 

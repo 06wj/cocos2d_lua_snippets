@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setTilesets(${1:CCArray*_pval})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setTilesets</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setTilesets</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setTilesets</description>
+    <description></description>
 </snippet>
 

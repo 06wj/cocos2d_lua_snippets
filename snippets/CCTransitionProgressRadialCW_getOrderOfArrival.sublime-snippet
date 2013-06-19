@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCW:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCW_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

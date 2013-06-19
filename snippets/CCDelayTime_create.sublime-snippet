@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDelayTime:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCDelayTime:create</tabTrigger>
+    <tabTrigger>CCDelayTime_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDelayTime:create</description>
+    <description></description>
 </snippet>
 

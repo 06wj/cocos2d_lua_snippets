@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:setColor(${1:const_ccColor3B&_color})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:setColor</tabTrigger>
+    <tabTrigger>CCLabelBMFont_setColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:setColor</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:unregisterScriptHandler()
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_unregisterScriptHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

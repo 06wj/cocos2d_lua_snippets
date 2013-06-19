@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

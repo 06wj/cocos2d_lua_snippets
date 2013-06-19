@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionInterval:getElapsed()
 ]]></content>
-    <tabTrigger>CCActionInterval:getElapsed</tabTrigger>
+    <tabTrigger>CCActionInterval_getElapsed</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionInterval:getElapsed</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getActionManager(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

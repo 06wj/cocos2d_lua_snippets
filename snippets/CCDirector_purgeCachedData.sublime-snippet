@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:purgeCachedData()
 ]]></content>
-    <tabTrigger>CCDirector:purgeCachedData</tabTrigger>
+    <tabTrigger>CCDirector_purgeCachedData</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:purgeCachedData</description>
+    <description></description>
 </snippet>
 

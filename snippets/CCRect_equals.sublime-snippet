@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:equals(${1:const_CCRect_&_rect})
 ]]></content>
-    <tabTrigger>CCRect:equals</tabTrigger>
+    <tabTrigger>CCRect_equals</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:equals</description>
+    <description></description>
 </snippet>
 

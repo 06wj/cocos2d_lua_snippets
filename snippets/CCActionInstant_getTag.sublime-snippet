@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInstant:getTag()
+]]></content>
+    <tabTrigger>CCActionInstant_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

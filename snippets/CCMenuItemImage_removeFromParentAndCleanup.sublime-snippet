@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:removeFromParentAndCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCMenuItemImage_removeFromParentAndCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

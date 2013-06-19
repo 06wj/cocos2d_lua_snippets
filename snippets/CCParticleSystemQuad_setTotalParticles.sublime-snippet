@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystemQuad:setTotalParticles(${1:unsigned_int_tp})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:setTotalParticles</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_setTotalParticles</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:setTotalParticles</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLens3D:getPosition()
 ]]></content>
-    <tabTrigger>CCLens3D:getPosition</tabTrigger>
+    <tabTrigger>CCLens3D_getPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLens3D:getPosition</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setAutoRemoveOnFinish(${1:bool_var})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setAutoRemoveOnFinish</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLayerGradient:create(${1:})
+CCLayerGradient:create()
 ]]></content>
-    <tabTrigger>CCLayerGradient:create</tabTrigger>
+    <tabTrigger>CCLayerGradient_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:create</description>
+    <description></description>
 </snippet>
 

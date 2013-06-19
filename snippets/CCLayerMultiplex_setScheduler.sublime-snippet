@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

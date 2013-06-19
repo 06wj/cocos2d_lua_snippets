@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:getGLServerState()
+]]></content>
+    <tabTrigger>CCLabelBMFont_getGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

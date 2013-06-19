@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setStartColorVar(${1:const_ccColor4F_var})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setStartColorVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

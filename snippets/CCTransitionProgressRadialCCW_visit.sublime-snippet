@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCCW:visit()
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCCW_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

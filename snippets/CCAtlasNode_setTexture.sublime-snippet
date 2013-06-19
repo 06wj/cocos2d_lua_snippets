@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAtlasNode:setTexture(${1:CCTexture2D_*texture})
 ]]></content>
-    <tabTrigger>CCAtlasNode:setTexture</tabTrigger>
+    <tabTrigger>CCAtlasNode_setTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAtlasNode:setTexture</description>
+    <description></description>
 </snippet>
 

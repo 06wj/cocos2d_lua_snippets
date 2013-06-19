@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getBatchNode(${1:})
 ]]></content>
-    <tabTrigger>CCSprite:getBatchNode</tabTrigger>
+    <tabTrigger>CCSprite_getBatchNode</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getBatchNode</description>
+    <description></description>
 </snippet>
 

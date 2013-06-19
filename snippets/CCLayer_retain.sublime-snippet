@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:retain()
+]]></content>
+    <tabTrigger>CCLayer_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

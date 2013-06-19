@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:tintWithColor(${1:ccColor3B_colors})
 ]]></content>
-    <tabTrigger>CCMotionStreak:tintWithColor</tabTrigger>
+    <tabTrigger>CCMotionStreak_tintWithColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:tintWithColor</description>
+    <description></description>
 </snippet>
 

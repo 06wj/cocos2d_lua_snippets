@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOutUpTiles:retain()
+]]></content>
+    <tabTrigger>CCFadeOutUpTiles_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

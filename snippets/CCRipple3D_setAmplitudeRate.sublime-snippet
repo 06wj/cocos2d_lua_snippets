@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCRipple3D:setAmplitudeRate(${1:float_fAmplitudeRate})
+CCRipple3D:setAmplitudeRate(${1:float_amp})
 ]]></content>
-    <tabTrigger>CCRipple3D:setAmplitudeRate</tabTrigger>
+    <tabTrigger>CCRipple3D_setAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRipple3D:setAmplitudeRate</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTurnOffTiles:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCTurnOffTiles_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

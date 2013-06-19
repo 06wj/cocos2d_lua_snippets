@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPlace:isSingleReference()
+]]></content>
+    <tabTrigger>CCPlace_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

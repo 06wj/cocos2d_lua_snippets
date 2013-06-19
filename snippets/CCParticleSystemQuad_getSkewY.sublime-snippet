@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:getSkewY(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_getSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

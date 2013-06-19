@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:isAutoRemoveOnFinish(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_isAutoRemoveOnFinish</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

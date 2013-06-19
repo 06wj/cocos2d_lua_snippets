@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRotateBy:reverse()
 ]]></content>
-    <tabTrigger>CCRotateBy:reverse</tabTrigger>
+    <tabTrigger>CCRotateBy_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRotateBy:reverse</description>
+    <description></description>
 </snippet>
 

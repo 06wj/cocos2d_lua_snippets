@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelAtlas:setTexture(${1:CCTexture2D_*texture})
 ]]></content>
-    <tabTrigger>CCLabelAtlas:setTexture</tabTrigger>
+    <tabTrigger>CCLabelAtlas_setTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:setTexture</description>
+    <description></description>
 </snippet>
 

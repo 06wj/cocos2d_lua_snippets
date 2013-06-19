@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setRadialAccel(${1:float_t})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setRadialAccel</tabTrigger>
+    <tabTrigger>CCParticleSystem_setRadialAccel</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setRadialAccel</description>
+    <description></description>
 </snippet>
 

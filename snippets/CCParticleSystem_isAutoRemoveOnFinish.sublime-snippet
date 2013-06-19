@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:isAutoRemoveOnFinish(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:isAutoRemoveOnFinish</tabTrigger>
+    <tabTrigger>CCParticleSystem_isAutoRemoveOnFinish</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:isAutoRemoveOnFinish</description>
+    <description></description>
 </snippet>
 

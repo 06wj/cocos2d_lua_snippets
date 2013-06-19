@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureCache:dumpCachedTextureInfo(${1:})
 ]]></content>
-    <tabTrigger>CCTextureCache:dumpCachedTextureInfo</tabTrigger>
+    <tabTrigger>CCTextureCache_dumpCachedTextureInfo</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureCache:dumpCachedTextureInfo</description>
+    <description></description>
 </snippet>
 

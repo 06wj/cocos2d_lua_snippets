@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setSpeedVar(${1:float_speed})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setSpeedVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

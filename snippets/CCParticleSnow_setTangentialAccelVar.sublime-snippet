@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setTangentialAccelVar(${1:float_t})
+]]></content>
+    <tabTrigger>CCParticleSnow_setTangentialAccelVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

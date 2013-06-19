@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTouch:getDelta(${1:})
 ]]></content>
-    <tabTrigger>CCTouch:getDelta</tabTrigger>
+    <tabTrigger>CCTouch_getDelta</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTouch:getDelta</description>
+    <description></description>
 </snippet>
 

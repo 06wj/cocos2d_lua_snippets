@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:getTag(${1:})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

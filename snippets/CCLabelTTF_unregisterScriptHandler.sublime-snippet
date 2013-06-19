@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:unregisterScriptHandler()
+]]></content>
+    <tabTrigger>CCLabelTTF_unregisterScriptHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

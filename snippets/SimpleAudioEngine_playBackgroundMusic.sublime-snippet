@@ -2,8 +2,8 @@
     <content><![CDATA[
 SimpleAudioEngine:playBackgroundMusic(${1:const_char*_pszFilePath},${2:bool_bLoop_=_false})
 ]]></content>
-    <tabTrigger>SimpleAudioEngine:playBackgroundMusic</tabTrigger>
+    <tabTrigger>SimpleAudioEngine_playBackgroundMusic</tabTrigger>
     <scope>source.lua</scope>
-    <description>SimpleAudioEngine:playBackgroundMusic</description>
+    <description></description>
 </snippet>
 

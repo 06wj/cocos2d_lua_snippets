@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getZEye()
 ]]></content>
-    <tabTrigger>CCDirector:getZEye</tabTrigger>
+    <tabTrigger>CCDirector_getZEye</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getZEye</description>
+    <description></description>
 </snippet>
 

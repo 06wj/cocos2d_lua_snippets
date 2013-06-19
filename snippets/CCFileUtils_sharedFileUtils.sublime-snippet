@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFileUtils:sharedFileUtils(${1:})
 ]]></content>
-    <tabTrigger>CCFileUtils:sharedFileUtils</tabTrigger>
+    <tabTrigger>CCFileUtils_sharedFileUtils</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFileUtils:sharedFileUtils</description>
+    <description></description>
 </snippet>
 

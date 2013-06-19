@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:reverse()
+]]></content>
+    <tabTrigger>CCTwirl_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

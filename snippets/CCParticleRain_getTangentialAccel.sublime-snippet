@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:getTangentialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleRain_getTangentialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

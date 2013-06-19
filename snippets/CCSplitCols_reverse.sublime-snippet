@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSplitCols:reverse()
+]]></content>
+    <tabTrigger>CCSplitCols_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

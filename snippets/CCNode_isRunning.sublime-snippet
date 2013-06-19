@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:isRunning(${1:})
 ]]></content>
-    <tabTrigger>CCNode:isRunning</tabTrigger>
+    <tabTrigger>CCNode_isRunning</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:isRunning</description>
+    <description></description>
 </snippet>
 

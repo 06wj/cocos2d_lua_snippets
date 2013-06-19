@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:transform()
 ]]></content>
-    <tabTrigger>CCNode:transform</tabTrigger>
+    <tabTrigger>CCNode_transform</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:transform</description>
+    <description></description>
 </snippet>
 

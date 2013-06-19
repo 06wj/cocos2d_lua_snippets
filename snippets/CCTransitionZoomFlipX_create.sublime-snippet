@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionZoomFlipX:create(${1:float_t},${2:CCScene*_s},${3:tOrientation_o_=_kCCTransitionOrientationRightOver})
+CCTransitionZoomFlipX:create()
 ]]></content>
-    <tabTrigger>CCTransitionZoomFlipX:create</tabTrigger>
+    <tabTrigger>CCTransitionZoomFlipX_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionZoomFlipX:create</description>
+    <description></description>
 </snippet>
 

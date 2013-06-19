@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setEmitterMode(${1:int_mode})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setEmitterMode</tabTrigger>
+    <tabTrigger>CCParticleSystem_setEmitterMode</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setEmitterMode</description>
+    <description></description>
 </snippet>
 

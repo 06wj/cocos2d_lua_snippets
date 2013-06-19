@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:sharedUserDefault(${1:})
 ]]></content>
-    <tabTrigger>CCUserDefault:sharedUserDefault</tabTrigger>
+    <tabTrigger>CCUserDefault_sharedUserDefault</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:sharedUserDefault</description>
+    <description></description>
 </snippet>
 

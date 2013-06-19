@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:getDuration(${1:})
 ]]></content>
-    <tabTrigger>CCAnimation:getDuration</tabTrigger>
+    <tabTrigger>CCAnimation_getDuration</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:getDuration</description>
+    <description></description>
 </snippet>
 

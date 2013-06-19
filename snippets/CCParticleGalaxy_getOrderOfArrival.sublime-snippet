@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

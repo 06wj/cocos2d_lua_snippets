@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_convertToWorldSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

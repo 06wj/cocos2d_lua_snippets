@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getBlendFunc()
 ]]></content>
-    <tabTrigger>CCSprite:getBlendFunc</tabTrigger>
+    <tabTrigger>CCSprite_getBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getBlendFunc</description>
+    <description></description>
 </snippet>
 

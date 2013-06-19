@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:addSpriteFrameWithTexture(${1:CCTexture2D*_pobTexture},${2:const_CCRect&_rect})
 ]]></content>
-    <tabTrigger>CCAnimation:addSpriteFrameWithTexture</tabTrigger>
+    <tabTrigger>CCAnimation_addSpriteFrameWithTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:addSpriteFrameWithTexture</description>
+    <description></description>
 </snippet>
 

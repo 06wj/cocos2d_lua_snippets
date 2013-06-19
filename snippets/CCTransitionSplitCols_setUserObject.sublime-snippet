@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

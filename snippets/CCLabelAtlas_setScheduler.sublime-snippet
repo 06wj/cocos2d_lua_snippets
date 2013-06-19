@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCLabelAtlas_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

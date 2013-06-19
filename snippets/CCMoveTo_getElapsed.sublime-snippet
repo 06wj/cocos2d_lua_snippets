@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveTo:getElapsed()
+]]></content>
+    <tabTrigger>CCMoveTo_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

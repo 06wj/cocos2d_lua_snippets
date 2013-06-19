@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSkewBy:reverse()
 ]]></content>
-    <tabTrigger>CCSkewBy:reverse</tabTrigger>
+    <tabTrigger>CCSkewBy_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSkewBy:reverse</description>
+    <description></description>
 </snippet>
 

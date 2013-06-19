@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInB:setUserData(${1:void_*var})
+]]></content>
+    <tabTrigger>CCTransitionSlideInB_setUserData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

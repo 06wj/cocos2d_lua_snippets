@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setTotalParticles(${1:unsigned_int_tp})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setTotalParticles</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

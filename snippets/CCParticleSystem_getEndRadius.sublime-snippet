@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getEndRadius(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getEndRadius</tabTrigger>
+    <tabTrigger>CCParticleSystem_getEndRadius</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getEndRadius</description>
+    <description></description>
 </snippet>
 

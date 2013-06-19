@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAccelAmplitude:getRate()
 ]]></content>
-    <tabTrigger>CCAccelAmplitude:getRate</tabTrigger>
+    <tabTrigger>CCAccelAmplitude_getRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAccelAmplitude:getRate</description>
+    <description></description>
 </snippet>
 

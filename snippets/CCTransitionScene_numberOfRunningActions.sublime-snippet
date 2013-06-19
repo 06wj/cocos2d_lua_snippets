@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionScene:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCTransitionScene_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

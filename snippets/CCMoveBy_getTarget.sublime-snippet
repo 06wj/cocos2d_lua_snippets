@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveBy:getTarget()
+]]></content>
+    <tabTrigger>CCMoveBy_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

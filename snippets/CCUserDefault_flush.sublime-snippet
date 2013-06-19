@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:flush(${1:})
 ]]></content>
-    <tabTrigger>CCUserDefault:flush</tabTrigger>
+    <tabTrigger>CCUserDefault_flush</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:flush</description>
+    <description></description>
 </snippet>
 

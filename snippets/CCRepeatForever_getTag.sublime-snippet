@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRepeatForever:getTag()
+]]></content>
+    <tabTrigger>CCRepeatForever_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

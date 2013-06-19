@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getStartSizeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSmoke_getStartSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

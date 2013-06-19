@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getTexture()
 ]]></content>
-    <tabTrigger>CCSprite:getTexture</tabTrigger>
+    <tabTrigger>CCSprite_getTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getTexture</description>
+    <description></description>
 </snippet>
 

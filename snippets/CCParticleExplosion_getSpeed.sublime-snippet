@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:getSpeed(${1:})
+]]></content>
+    <tabTrigger>CCParticleExplosion_getSpeed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

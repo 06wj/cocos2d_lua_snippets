@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setOrderOfArrival(${1:int_order})
 ]]></content>
-    <tabTrigger>CCNode:setOrderOfArrival</tabTrigger>
+    <tabTrigger>CCNode_setOrderOfArrival</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setOrderOfArrival</description>
+    <description></description>
 </snippet>
 

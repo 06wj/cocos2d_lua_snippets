@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionCrossFade:create(${1:float_t},${2:CCScene*_scene})
+CCTransitionCrossFade:create()
 ]]></content>
-    <tabTrigger>CCTransitionCrossFade:create</tabTrigger>
+    <tabTrigger>CCTransitionCrossFade_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionCrossFade:create</description>
+    <description></description>
 </snippet>
 

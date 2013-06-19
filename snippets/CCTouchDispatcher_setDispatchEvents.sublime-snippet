@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTouchDispatcher:setDispatchEvents(${1:bool_bDispatchEvents})
 ]]></content>
-    <tabTrigger>CCTouchDispatcher:setDispatchEvents</tabTrigger>
+    <tabTrigger>CCTouchDispatcher_setDispatchEvents</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTouchDispatcher:setDispatchEvents</description>
+    <description></description>
 </snippet>
 

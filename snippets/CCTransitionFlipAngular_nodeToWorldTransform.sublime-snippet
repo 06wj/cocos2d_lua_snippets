@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:nodeToWorldTransform()
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_nodeToWorldTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

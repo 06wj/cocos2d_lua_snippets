@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElastic:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCEaseElastic_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

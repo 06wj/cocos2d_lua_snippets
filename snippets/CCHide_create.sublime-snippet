@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCHide:create(${1:})
 ]]></content>
-    <tabTrigger>CCHide:create</tabTrigger>
+    <tabTrigger>CCHide_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCHide:create</description>
+    <description></description>
 </snippet>
 

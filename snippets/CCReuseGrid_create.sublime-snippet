@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCReuseGrid:create(${1:int_times})
 ]]></content>
-    <tabTrigger>CCReuseGrid:create</tabTrigger>
+    <tabTrigger>CCReuseGrid_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCReuseGrid:create</description>
+    <description></description>
 </snippet>
 

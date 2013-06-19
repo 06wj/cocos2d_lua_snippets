@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInB:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSlideInB_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

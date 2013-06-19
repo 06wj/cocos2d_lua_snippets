@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipX:transformAncestors()
+]]></content>
+    <tabTrigger>CCTransitionFlipX_transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipX:getActionManager(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFlipX_getActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

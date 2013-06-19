@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCShuffleTiles:getDelta(${1:CCSize_pos})
 ]]></content>
-    <tabTrigger>CCShuffleTiles:getDelta</tabTrigger>
+    <tabTrigger>CCShuffleTiles_getDelta</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCShuffleTiles:getDelta</description>
+    <description></description>
 </snippet>
 

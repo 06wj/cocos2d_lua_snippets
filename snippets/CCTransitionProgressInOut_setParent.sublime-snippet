@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressInOut:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCTransitionProgressInOut_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

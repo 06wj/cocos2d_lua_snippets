@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:isActive(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:isActive</tabTrigger>
+    <tabTrigger>CCParticleSystem_isActive</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:isActive</description>
+    <description></description>
 </snippet>
 

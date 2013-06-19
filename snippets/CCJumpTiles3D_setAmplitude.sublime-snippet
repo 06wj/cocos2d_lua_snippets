@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCJumpTiles3D:setAmplitude(${1:float_fAmplitude})
 ]]></content>
-    <tabTrigger>CCJumpTiles3D:setAmplitude</tabTrigger>
+    <tabTrigger>CCJumpTiles3D_setAmplitude</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCJumpTiles3D:setAmplitude</description>
+    <description></description>
 </snippet>
 

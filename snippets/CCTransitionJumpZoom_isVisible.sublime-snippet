@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:isVisible(${1:})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_isVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemFont:fontName(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemFont:fontName</tabTrigger>
+    <tabTrigger>CCMenuItemFont_fontName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemFont:fontName</description>
+    <description></description>
 </snippet>
 

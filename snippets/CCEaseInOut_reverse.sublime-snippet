@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseInOut:reverse()
 ]]></content>
-    <tabTrigger>CCEaseInOut:reverse</tabTrigger>
+    <tabTrigger>CCEaseInOut_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseInOut:reverse</description>
+    <description></description>
 </snippet>
 

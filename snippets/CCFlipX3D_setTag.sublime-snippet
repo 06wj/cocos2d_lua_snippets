@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipX3D:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCFlipX3D_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

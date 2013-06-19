@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPageTurn3D:release()
+]]></content>
+    <tabTrigger>CCPageTurn3D_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

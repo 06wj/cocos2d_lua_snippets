@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setStartRadiusVar(${1:float_startRadiusVar})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setStartRadiusVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_setStartRadiusVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setStartRadiusVar</description>
+    <description></description>
 </snippet>
 

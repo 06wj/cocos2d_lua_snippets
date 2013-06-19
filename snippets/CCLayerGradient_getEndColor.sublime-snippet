@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:getEndColor()
 ]]></content>
-    <tabTrigger>CCLayerGradient:getEndColor</tabTrigger>
+    <tabTrigger>CCLayerGradient_getEndColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:getEndColor</description>
+    <description></description>
 </snippet>
 

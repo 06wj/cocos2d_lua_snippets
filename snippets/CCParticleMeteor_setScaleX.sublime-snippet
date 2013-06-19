@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

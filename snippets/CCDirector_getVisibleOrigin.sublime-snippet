@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getVisibleOrigin(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getVisibleOrigin</tabTrigger>
+    <tabTrigger>CCDirector_getVisibleOrigin</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getVisibleOrigin</description>
+    <description></description>
 </snippet>
 

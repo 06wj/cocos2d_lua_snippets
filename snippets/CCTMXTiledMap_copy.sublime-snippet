@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:copy(${1:})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

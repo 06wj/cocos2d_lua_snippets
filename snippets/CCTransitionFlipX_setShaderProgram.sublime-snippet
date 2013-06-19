@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipX:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
+]]></content>
+    <tabTrigger>CCTransitionFlipX_setShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

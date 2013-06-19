@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:setActionManager(${1:CCActionManager*_pActionMgr})
+]]></content>
+    <tabTrigger>CCRibbon_setActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

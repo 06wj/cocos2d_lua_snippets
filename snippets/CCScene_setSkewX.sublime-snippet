@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCScene_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

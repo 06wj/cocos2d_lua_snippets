@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTiledGrid3DAction:tile(${1:CCPoint_pos})
 ]]></content>
-    <tabTrigger>CCTiledGrid3DAction:tile</tabTrigger>
+    <tabTrigger>CCTiledGrid3DAction_tile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTiledGrid3DAction:tile</description>
+    <description></description>
 </snippet>
 

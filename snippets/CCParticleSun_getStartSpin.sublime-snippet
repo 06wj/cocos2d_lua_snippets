@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:getStartSpin(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun_getStartSpin</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

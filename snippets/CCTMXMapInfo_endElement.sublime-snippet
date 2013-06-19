@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:endElement(${1:void_*ctx},${2:const_char_*name})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:endElement</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_endElement</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:endElement</description>
+    <description></description>
 </snippet>
 

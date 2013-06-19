@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenu:alignItemsVertically(${1:})
 ]]></content>
-    <tabTrigger>CCMenu:alignItemsVertically</tabTrigger>
+    <tabTrigger>CCMenu_alignItemsVertically</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenu:alignItemsVertically</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGridAction:getTarget()
+]]></content>
+    <tabTrigger>CCGridAction_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

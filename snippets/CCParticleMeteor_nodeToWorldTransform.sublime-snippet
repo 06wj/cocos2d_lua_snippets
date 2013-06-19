@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:nodeToWorldTransform()
+]]></content>
+    <tabTrigger>CCParticleMeteor_nodeToWorldTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

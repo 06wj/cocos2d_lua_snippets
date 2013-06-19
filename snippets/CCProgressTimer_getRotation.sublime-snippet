@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:getRotation(${1:})
+]]></content>
+    <tabTrigger>CCProgressTimer_getRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

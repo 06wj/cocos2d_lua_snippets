@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintTo:copy(${1:})
+]]></content>
+    <tabTrigger>CCTintTo_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

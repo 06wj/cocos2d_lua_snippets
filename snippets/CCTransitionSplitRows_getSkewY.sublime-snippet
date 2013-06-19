@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:getSkewY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_getSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

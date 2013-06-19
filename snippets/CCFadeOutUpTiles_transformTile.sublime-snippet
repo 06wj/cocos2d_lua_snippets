@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFadeOutUpTiles:transformTile(${1:CCPoint_pos},${2:float_distance})
 ]]></content>
-    <tabTrigger>CCFadeOutUpTiles:transformTile</tabTrigger>
+    <tabTrigger>CCFadeOutUpTiles_transformTile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFadeOutUpTiles:transformTile</description>
+    <description></description>
 </snippet>
 

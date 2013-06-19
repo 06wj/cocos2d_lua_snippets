@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCMotionStreak:create(${1:float_fade},${2:float_minSeg},${3:float_stroke},${4:ccColor3B_color},${5:CCTexture2D*_texture})
+CCMotionStreak:create()
 ]]></content>
-    <tabTrigger>CCMotionStreak:create</tabTrigger>
+    <tabTrigger>CCMotionStreak_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:create</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:registerScriptKeypadHandler(${1:LUA_FUNCTION_nHandler})
+]]></content>
+    <tabTrigger>CCLayerGradient_registerScriptKeypadHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

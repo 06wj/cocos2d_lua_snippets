@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:getGLServerState()
+]]></content>
+    <tabTrigger>CCMotionStreak_getGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:removeFromParentAndCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCScene_removeFromParentAndCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

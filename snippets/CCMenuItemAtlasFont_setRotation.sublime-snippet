@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

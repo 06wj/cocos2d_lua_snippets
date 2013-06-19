@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOutTRTiles:getGrid()
+]]></content>
+    <tabTrigger>CCFadeOutTRTiles_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

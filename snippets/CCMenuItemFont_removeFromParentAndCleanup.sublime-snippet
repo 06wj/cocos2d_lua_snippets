@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:removeFromParentAndCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCMenuItemFont_removeFromParentAndCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

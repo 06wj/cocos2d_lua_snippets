@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:unregisterScriptTouchHandler(${1:})
 ]]></content>
-    <tabTrigger>CCLayer:unregisterScriptTouchHandler</tabTrigger>
+    <tabTrigger>CCLayer_unregisterScriptTouchHandler</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:unregisterScriptTouchHandler</description>
+    <description></description>
 </snippet>
 

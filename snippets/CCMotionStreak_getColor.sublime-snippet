@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:getColor()
 ]]></content>
-    <tabTrigger>CCMotionStreak:getColor</tabTrigger>
+    <tabTrigger>CCMotionStreak_getColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:getColor</description>
+    <description></description>
 </snippet>
 

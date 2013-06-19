@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSpawn:create(${1:CCArray_*actions})
+CCSpawn:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCSpawn:create</tabTrigger>
+    <tabTrigger>CCSpawn_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpawn:create</description>
+    <description></description>
 </snippet>
 

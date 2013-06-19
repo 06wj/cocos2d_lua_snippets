@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCPointArray:removeControlPointAtIndex(${1:unsigned_int_index})
 ]]></content>
-    <tabTrigger>CCPointArray:removeControlPointAtIndex</tabTrigger>
+    <tabTrigger>CCPointArray_removeControlPointAtIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPointArray:removeControlPointAtIndex</description>
+    <description></description>
 </snippet>
 

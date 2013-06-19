@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLiquid:release()
+]]></content>
+    <tabTrigger>CCLiquid_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:getParent(${1:})
+]]></content>
+    <tabTrigger>CCLabelAtlas_getParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

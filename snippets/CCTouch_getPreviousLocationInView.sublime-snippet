@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTouch:getPreviousLocationInView(${1:})
 ]]></content>
-    <tabTrigger>CCTouch:getPreviousLocationInView</tabTrigger>
+    <tabTrigger>CCTouch_getPreviousLocationInView</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTouch:getPreviousLocationInView</description>
+    <description></description>
 </snippet>
 

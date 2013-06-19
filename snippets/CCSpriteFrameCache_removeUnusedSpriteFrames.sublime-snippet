@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrameCache:removeUnusedSpriteFrames()
 ]]></content>
-    <tabTrigger>CCSpriteFrameCache:removeUnusedSpriteFrames</tabTrigger>
+    <tabTrigger>CCSpriteFrameCache_removeUnusedSpriteFrames</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrameCache:removeUnusedSpriteFrames</description>
+    <description></description>
 </snippet>
 

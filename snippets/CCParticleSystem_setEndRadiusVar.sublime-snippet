@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setEndRadiusVar(${1:float_endRadiusVar})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setEndRadiusVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_setEndRadiusVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setEndRadiusVar</description>
+    <description></description>
 </snippet>
 

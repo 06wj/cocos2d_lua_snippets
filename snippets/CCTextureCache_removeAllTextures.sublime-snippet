@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureCache:removeAllTextures(${1:})
 ]]></content>
-    <tabTrigger>CCTextureCache:removeAllTextures</tabTrigger>
+    <tabTrigger>CCTextureCache_removeAllTextures</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureCache:removeAllTextures</description>
+    <description></description>
 </snippet>
 

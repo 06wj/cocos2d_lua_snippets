@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:setScale(${1:float_scale})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:setScale</tabTrigger>
+    <tabTrigger>CCLabelBMFont_setScale</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:setScale</description>
+    <description></description>
 </snippet>
 

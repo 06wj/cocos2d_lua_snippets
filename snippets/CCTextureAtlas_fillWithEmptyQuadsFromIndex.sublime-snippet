@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureAtlas:fillWithEmptyQuadsFromIndex(${1:unsigned_int_index},${2:unsigned_int_amount})
 ]]></content>
-    <tabTrigger>CCTextureAtlas:fillWithEmptyQuadsFromIndex</tabTrigger>
+    <tabTrigger>CCTextureAtlas_fillWithEmptyQuadsFromIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureAtlas:fillWithEmptyQuadsFromIndex</description>
+    <description></description>
 </snippet>
 

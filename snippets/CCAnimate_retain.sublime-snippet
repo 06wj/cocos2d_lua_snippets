@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimate:retain()
+]]></content>
+    <tabTrigger>CCAnimate_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

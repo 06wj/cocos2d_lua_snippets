@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:setOpacity(${1:GLubyte_opacity})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:setOpacity</tabTrigger>
+    <tabTrigger>CCLabelBMFont_setOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:setOpacity</description>
+    <description></description>
 </snippet>
 

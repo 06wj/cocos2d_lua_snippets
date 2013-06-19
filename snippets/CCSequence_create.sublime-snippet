@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSequence:create(${1:CCArray_*actions})
+CCSequence:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCSequence:create</tabTrigger>
+    <tabTrigger>CCSequence_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSequence:create</description>
+    <description></description>
 </snippet>
 

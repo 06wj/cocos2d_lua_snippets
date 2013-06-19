@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:visit()
+]]></content>
+    <tabTrigger>CCParticleSpiral_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

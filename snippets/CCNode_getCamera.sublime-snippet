@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getCamera(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getCamera</tabTrigger>
+    <tabTrigger>CCNode_getCamera</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getCamera</description>
+    <description></description>
 </snippet>
 

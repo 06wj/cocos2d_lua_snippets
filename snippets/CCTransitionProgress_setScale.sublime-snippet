@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgress:setScale(${1:float_scale})
+]]></content>
+    <tabTrigger>CCTransitionProgress_setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

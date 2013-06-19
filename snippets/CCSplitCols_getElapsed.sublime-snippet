@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSplitCols:getElapsed()
+]]></content>
+    <tabTrigger>CCSplitCols_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

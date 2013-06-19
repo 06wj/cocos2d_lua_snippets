@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:copy(${1:})
+]]></content>
+    <tabTrigger>CCSpawn_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

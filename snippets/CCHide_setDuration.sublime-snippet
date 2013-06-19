@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCHide:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCHide_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:createWithSpriteFrameName(${1:const_char_*pszSpriteFrameName})
 ]]></content>
-    <tabTrigger>CCSprite:createWithSpriteFrameName</tabTrigger>
+    <tabTrigger>CCSprite_createWithSpriteFrameName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:createWithSpriteFrameName</description>
+    <description></description>
 </snippet>
 

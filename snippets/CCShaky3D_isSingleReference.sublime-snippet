@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShaky3D:isSingleReference()
+]]></content>
+    <tabTrigger>CCShaky3D_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

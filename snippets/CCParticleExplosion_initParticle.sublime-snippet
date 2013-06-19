@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:initParticle(${1:tCCParticle*_particle})
+]]></content>
+    <tabTrigger>CCParticleExplosion_initParticle</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

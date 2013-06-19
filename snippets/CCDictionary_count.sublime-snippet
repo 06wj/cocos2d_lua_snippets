@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDictionary:count(${1:})
 ]]></content>
-    <tabTrigger>CCDictionary:count</tabTrigger>
+    <tabTrigger>CCDictionary_count</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDictionary:count</description>
+    <description></description>
 </snippet>
 

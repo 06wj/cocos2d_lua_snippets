@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:getOffsetPosition()
 ]]></content>
-    <tabTrigger>CCSprite:getOffsetPosition</tabTrigger>
+    <tabTrigger>CCSprite_getOffsetPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:getOffsetPosition</description>
+    <description></description>
 </snippet>
 

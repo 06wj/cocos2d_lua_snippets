@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:updateTransform()
 ]]></content>
-    <tabTrigger>CCSprite:updateTransform</tabTrigger>
+    <tabTrigger>CCSprite_updateTransform</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:updateTransform</description>
+    <description></description>
 </snippet>
 

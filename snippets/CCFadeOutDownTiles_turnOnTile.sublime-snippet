@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOutDownTiles:turnOnTile(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCFadeOutDownTiles_turnOnTile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

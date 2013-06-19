@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInR:copy(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSlideInR_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCMenu:addChild(${1:CCMenuItem*_child},${2:int_zOrder_=_0},${3:int_tag_=_-1})
+CCMenu:addChild(${1:CCNode_*_child},${2:int_zOrder},${3:int_tag})
 ]]></content>
-    <tabTrigger>CCMenu:addChild</tabTrigger>
+    <tabTrigger>CCMenu_addChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenu:addChild</description>
+    <description></description>
 </snippet>
 

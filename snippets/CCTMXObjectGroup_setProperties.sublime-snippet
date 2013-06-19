@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXObjectGroup:setProperties(${1:CCDictionary*_pval})
 ]]></content>
-    <tabTrigger>CCTMXObjectGroup:setProperties</tabTrigger>
+    <tabTrigger>CCTMXObjectGroup_setProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXObjectGroup:setProperties</description>
+    <description></description>
 </snippet>
 

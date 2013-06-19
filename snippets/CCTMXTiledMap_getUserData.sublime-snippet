@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:getUserData(${1:})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_getUserData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

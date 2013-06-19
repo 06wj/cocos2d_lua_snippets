@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:displayFrame()
 ]]></content>
-    <tabTrigger>CCSprite:displayFrame</tabTrigger>
+    <tabTrigger>CCSprite_displayFrame</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:displayFrame</description>
+    <description></description>
 </snippet>
 

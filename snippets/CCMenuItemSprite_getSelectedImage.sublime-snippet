@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemSprite:getSelectedImage(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemSprite:getSelectedImage</tabTrigger>
+    <tabTrigger>CCMenuItemSprite_getSelectedImage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemSprite:getSelectedImage</description>
+    <description></description>
 </snippet>
 

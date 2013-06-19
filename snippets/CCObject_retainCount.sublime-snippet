@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCObject:retainCount()
 ]]></content>
-    <tabTrigger>CCObject:retainCount</tabTrigger>
+    <tabTrigger>CCObject_retainCount</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCObject:retainCount</description>
+    <description></description>
 </snippet>
 

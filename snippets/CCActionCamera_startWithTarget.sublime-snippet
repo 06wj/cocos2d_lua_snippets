@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionCamera:startWithTarget(${1:CCNode_*pTarget})
 ]]></content>
-    <tabTrigger>CCActionCamera:startWithTarget</tabTrigger>
+    <tabTrigger>CCActionCamera_startWithTarget</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionCamera:startWithTarget</description>
+    <description></description>
 </snippet>
 

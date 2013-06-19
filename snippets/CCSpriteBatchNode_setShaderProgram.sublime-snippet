@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_setShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

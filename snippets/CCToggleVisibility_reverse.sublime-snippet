@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCToggleVisibility:reverse()
+]]></content>
+    <tabTrigger>CCToggleVisibility_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

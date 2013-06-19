@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:copy(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

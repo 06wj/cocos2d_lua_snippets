@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateTo:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCRotateTo_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

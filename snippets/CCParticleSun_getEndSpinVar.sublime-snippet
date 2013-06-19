@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:getEndSpinVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun_getEndSpinVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

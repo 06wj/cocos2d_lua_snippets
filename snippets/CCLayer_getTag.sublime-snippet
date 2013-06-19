@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:getTag(${1:})
+]]></content>
+    <tabTrigger>CCLayer_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

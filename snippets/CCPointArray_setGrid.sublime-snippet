@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:setGrid(${1:CCGridBase*_pGrid})
+]]></content>
+    <tabTrigger>CCPointArray_setGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

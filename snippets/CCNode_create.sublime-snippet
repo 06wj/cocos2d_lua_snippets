@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:create()
 ]]></content>
-    <tabTrigger>CCNode:create</tabTrigger>
+    <tabTrigger>CCNode_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:create</description>
+    <description></description>
 </snippet>
 

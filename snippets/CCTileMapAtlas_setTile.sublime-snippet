@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTileMapAtlas:setTile(${1:ccColor3B_tile},${2:CCPoint_position})
 ]]></content>
-    <tabTrigger>CCTileMapAtlas:setTile</tabTrigger>
+    <tabTrigger>CCTileMapAtlas_setTile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTileMapAtlas:setTile</description>
+    <description></description>
 </snippet>
 

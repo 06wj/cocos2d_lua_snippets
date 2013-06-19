@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCParticleSystem_convertToWorldSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

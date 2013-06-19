@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:getScaleX(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_getScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

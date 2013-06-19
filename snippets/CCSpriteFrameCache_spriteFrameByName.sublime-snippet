@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrameCache:spriteFrameByName(${1:const_char_*pszName})
 ]]></content>
-    <tabTrigger>CCSpriteFrameCache:spriteFrameByName</tabTrigger>
+    <tabTrigger>CCSpriteFrameCache_spriteFrameByName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrameCache:spriteFrameByName</description>
+    <description></description>
 </snippet>
 

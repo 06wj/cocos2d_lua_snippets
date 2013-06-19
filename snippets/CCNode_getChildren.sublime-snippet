@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getChildren(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getChildren</tabTrigger>
+    <tabTrigger>CCNode_getChildren</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getChildren</description>
+    <description></description>
 </snippet>
 

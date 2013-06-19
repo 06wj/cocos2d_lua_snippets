@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:isOpacityModifyRGB(${1:})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:isOpacityModifyRGB</tabTrigger>
+    <tabTrigger>CCLabelBMFont_isOpacityModifyRGB</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:isOpacityModifyRGB</description>
+    <description></description>
 </snippet>
 

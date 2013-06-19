@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTiledGrid3DAction:create(${1:float_duration},${2:const_CCSize&_gridSize})
+CCTiledGrid3DAction:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCTiledGrid3DAction:create</tabTrigger>
+    <tabTrigger>CCTiledGrid3DAction_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTiledGrid3DAction:create</description>
+    <description></description>
 </snippet>
 

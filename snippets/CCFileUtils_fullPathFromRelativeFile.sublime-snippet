@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFileUtils:fullPathFromRelativeFile(${1:const_char_*pszFilename},${2:const_char_*pszRelativeFile})
 ]]></content>
-    <tabTrigger>CCFileUtils:fullPathFromRelativeFile</tabTrigger>
+    <tabTrigger>CCFileUtils_fullPathFromRelativeFile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFileUtils:fullPathFromRelativeFile</description>
+    <description></description>
 </snippet>
 

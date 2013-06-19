@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:nodeToParentTransform()
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_nodeToParentTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

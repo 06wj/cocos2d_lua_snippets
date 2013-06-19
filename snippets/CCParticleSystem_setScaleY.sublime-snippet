@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setScaleY(${1:float_newScaleY})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setScaleY</tabTrigger>
+    <tabTrigger>CCParticleSystem_setScaleY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setScaleY</description>
+    <description></description>
 </snippet>
 

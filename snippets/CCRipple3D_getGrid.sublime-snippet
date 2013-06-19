@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRipple3D:getGrid()
+]]></content>
+    <tabTrigger>CCRipple3D_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:getTag(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

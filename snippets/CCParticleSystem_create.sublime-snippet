@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSystem:create(${1:const_char_*plistFile})
+CCParticleSystem:create()
 ]]></content>
-    <tabTrigger>CCParticleSystem:create</tabTrigger>
+    <tabTrigger>CCParticleSystem_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:create</description>
+    <description></description>
 </snippet>
 

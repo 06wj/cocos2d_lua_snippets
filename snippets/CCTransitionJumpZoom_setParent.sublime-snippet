@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

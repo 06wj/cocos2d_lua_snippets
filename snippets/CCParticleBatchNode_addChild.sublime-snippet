@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleBatchNode:addChild(${1:CCNode_*_child},${2:int_zOrder},${3:int_tag})
 ]]></content>
-    <tabTrigger>CCParticleBatchNode:addChild</tabTrigger>
+    <tabTrigger>CCParticleBatchNode_addChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleBatchNode:addChild</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:formatWithTMXFile(${1:const_char_*tmxFile})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:formatWithTMXFile</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_formatWithTMXFile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:formatWithTMXFile</description>
+    <description></description>
 </snippet>
 

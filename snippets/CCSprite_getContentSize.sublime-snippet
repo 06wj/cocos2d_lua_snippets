@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCSprite_getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

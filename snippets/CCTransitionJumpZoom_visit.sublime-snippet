@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:visit()
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

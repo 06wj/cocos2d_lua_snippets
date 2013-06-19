@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSystemQuad:create(${1:})
+CCParticleSystemQuad:create()
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:create</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:create</description>
+    <description></description>
 </snippet>
 

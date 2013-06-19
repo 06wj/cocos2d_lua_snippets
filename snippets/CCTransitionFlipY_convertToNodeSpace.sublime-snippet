@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:convertToNodeSpace(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_convertToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

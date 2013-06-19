@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setParent(${1:CCNode_*_var})
 ]]></content>
-    <tabTrigger>CCNode:setParent</tabTrigger>
+    <tabTrigger>CCNode_setParent</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setParent</description>
+    <description></description>
 </snippet>
 

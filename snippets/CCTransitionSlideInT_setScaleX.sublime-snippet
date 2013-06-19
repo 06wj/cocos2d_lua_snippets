@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInT:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCTransitionSlideInT_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

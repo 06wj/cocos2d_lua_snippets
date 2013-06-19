@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:getPositionX(${1:})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_getPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

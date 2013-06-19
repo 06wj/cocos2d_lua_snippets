@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setTMXFileName(${1:const_char_*fileName})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setTMXFileName</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setTMXFileName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setTMXFileName</description>
+    <description></description>
 </snippet>
 

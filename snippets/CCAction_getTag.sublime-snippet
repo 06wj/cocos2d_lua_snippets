@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAction:getTag()
 ]]></content>
-    <tabTrigger>CCAction:getTag</tabTrigger>
+    <tabTrigger>CCAction_getTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAction:getTag</description>
+    <description></description>
 </snippet>
 

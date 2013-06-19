@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayer:isKeypadEnabled(${1:})
 ]]></content>
-    <tabTrigger>CCLayer:isKeypadEnabled</tabTrigger>
+    <tabTrigger>CCLayer_isKeypadEnabled</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayer:isKeypadEnabled</description>
+    <description></description>
 </snippet>
 

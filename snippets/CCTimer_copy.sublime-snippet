@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTimer:copy(${1:})
+]]></content>
+    <tabTrigger>CCTimer_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:release()
+]]></content>
+    <tabTrigger>CCMenuItem_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

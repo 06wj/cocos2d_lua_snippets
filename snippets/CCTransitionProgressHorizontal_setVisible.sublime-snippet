@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:setVisible(${1:bool_var})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_setVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

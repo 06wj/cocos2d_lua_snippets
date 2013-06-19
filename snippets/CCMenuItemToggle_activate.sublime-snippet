@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemToggle:activate(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemToggle:activate</tabTrigger>
+    <tabTrigger>CCMenuItemToggle_activate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemToggle:activate</description>
+    <description></description>
 </snippet>
 

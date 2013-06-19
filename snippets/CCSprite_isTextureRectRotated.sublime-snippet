@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:isTextureRectRotated()
 ]]></content>
-    <tabTrigger>CCSprite:isTextureRectRotated</tabTrigger>
+    <tabTrigger>CCSprite_isTextureRectRotated</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:isTextureRectRotated</description>
+    <description></description>
 </snippet>
 

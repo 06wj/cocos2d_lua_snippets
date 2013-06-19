@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemImage:setNormalSpriteFrame(${1:CCSpriteFrame*_frame})
 ]]></content>
-    <tabTrigger>CCMenuItemImage:setNormalSpriteFrame</tabTrigger>
+    <tabTrigger>CCMenuItemImage_setNormalSpriteFrame</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemImage:setNormalSpriteFrame</description>
+    <description></description>
 </snippet>
 

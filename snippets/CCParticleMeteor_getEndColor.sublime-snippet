@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getEndColor(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getEndColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

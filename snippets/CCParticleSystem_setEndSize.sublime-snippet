@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setEndSize(${1:float_size})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setEndSize</tabTrigger>
+    <tabTrigger>CCParticleSystem_setEndSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setEndSize</description>
+    <description></description>
 </snippet>
 

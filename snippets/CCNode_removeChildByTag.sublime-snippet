@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:removeChildByTag(${1:int_tag},${2:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCNode:removeChildByTag</tabTrigger>
+    <tabTrigger>CCNode_removeChildByTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:removeChildByTag</description>
+    <description></description>
 </snippet>
 

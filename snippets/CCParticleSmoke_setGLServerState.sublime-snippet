@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCParticleSmoke_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

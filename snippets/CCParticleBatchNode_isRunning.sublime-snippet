@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:isRunning(${1:})
+]]></content>
+    <tabTrigger>CCParticleBatchNode_isRunning</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

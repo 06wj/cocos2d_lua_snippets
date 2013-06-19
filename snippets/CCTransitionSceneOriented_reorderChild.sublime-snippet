@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSceneOriented:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
+]]></content>
+    <tabTrigger>CCTransitionSceneOriented_reorderChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

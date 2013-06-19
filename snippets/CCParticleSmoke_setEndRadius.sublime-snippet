@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:setEndRadius(${1:float_endRadius})
+]]></content>
+    <tabTrigger>CCParticleSmoke_setEndRadius</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

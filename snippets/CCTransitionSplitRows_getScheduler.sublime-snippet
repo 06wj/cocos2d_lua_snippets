@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:getScheduler(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_getScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrame:isRotated()
 ]]></content>
-    <tabTrigger>CCSpriteFrame:isRotated</tabTrigger>
+    <tabTrigger>CCSpriteFrame_isRotated</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrame:isRotated</description>
+    <description></description>
 </snippet>
 

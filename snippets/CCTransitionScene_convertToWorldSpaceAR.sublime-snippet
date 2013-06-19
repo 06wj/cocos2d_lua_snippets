@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionScene:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCTransitionScene_convertToWorldSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

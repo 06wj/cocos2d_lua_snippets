@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTurnOffTiles:create(${1:float_duration},${2:CCSize_gridSize},${3:unsigned_int_seed})
+CCTurnOffTiles:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCTurnOffTiles:create</tabTrigger>
+    <tabTrigger>CCTurnOffTiles_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTurnOffTiles:create</description>
+    <description></description>
 </snippet>
 

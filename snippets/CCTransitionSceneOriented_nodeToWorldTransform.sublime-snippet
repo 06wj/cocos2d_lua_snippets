@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSceneOriented:nodeToWorldTransform()
+]]></content>
+    <tabTrigger>CCTransitionSceneOriented_nodeToWorldTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getNotificationNode(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getNotificationNode</tabTrigger>
+    <tabTrigger>CCDirector_getNotificationNode</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getNotificationNode</description>
+    <description></description>
 </snippet>
 

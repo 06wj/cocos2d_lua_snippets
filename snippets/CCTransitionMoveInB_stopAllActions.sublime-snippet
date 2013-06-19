@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInB:stopAllActions()
+]]></content>
+    <tabTrigger>CCTransitionMoveInB_stopAllActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

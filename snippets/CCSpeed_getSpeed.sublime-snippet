@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpeed:getSpeed()
 ]]></content>
-    <tabTrigger>CCSpeed:getSpeed</tabTrigger>
+    <tabTrigger>CCSpeed_getSpeed</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpeed:getSpeed</description>
+    <description></description>
 </snippet>
 

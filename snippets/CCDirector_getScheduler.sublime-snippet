@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getScheduler(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getScheduler</tabTrigger>
+    <tabTrigger>CCDirector_getScheduler</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getScheduler</description>
+    <description></description>
 </snippet>
 

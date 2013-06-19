@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOutUpTiles:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCFadeOutUpTiles_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

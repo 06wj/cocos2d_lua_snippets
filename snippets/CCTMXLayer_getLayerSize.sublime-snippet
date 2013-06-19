@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:getLayerSize(${1:})
 ]]></content>
-    <tabTrigger>CCTMXLayer:getLayerSize</tabTrigger>
+    <tabTrigger>CCTMXLayer_getLayerSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:getLayerSize</description>
+    <description></description>
 </snippet>
 

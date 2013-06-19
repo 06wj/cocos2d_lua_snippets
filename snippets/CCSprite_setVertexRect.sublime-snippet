@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setVertexRect(${1:CCRect_rect})
 ]]></content>
-    <tabTrigger>CCSprite:setVertexRect</tabTrigger>
+    <tabTrigger>CCSprite_setVertexRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setVertexRect</description>
+    <description></description>
 </snippet>
 

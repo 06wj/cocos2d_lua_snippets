@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getAngleVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getAngleVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getAngleVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getAngleVar</description>
+    <description></description>
 </snippet>
 

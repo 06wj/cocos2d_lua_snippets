@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScheduler:isSingleReference()
+]]></content>
+    <tabTrigger>CCScheduler_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

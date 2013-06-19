@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:setCompressedInterpolation(${1:bool_Value})
 ]]></content>
-    <tabTrigger>CCLayerGradient:setCompressedInterpolation</tabTrigger>
+    <tabTrigger>CCLayerGradient_setCompressedInterpolation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:setCompressedInterpolation</description>
+    <description></description>
 </snippet>
 

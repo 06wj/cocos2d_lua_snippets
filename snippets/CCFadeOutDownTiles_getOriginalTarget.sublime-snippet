@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeOutDownTiles:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCFadeOutDownTiles_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

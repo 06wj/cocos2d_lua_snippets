@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getShaderProgram(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getShaderProgram</tabTrigger>
+    <tabTrigger>CCNode_getShaderProgram</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getShaderProgram</description>
+    <description></description>
 </snippet>
 

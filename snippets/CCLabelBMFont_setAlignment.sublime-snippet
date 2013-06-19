@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:setAlignment(${1:CCTextAlignment_alignment})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:setAlignment</tabTrigger>
+    <tabTrigger>CCLabelBMFont_setAlignment</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:setAlignment</description>
+    <description></description>
 </snippet>
 

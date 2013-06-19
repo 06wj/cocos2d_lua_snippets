@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:getLayerOrientation(${1:})
 ]]></content>
-    <tabTrigger>CCTMXLayer:getLayerOrientation</tabTrigger>
+    <tabTrigger>CCTMXLayer_getLayerOrientation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:getLayerOrientation</description>
+    <description></description>
 </snippet>
 

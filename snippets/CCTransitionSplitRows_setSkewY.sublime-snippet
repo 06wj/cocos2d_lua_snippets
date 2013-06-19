@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:setSkewY(${1:float_skewY})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_setSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

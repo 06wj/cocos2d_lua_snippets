@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:visit()
+]]></content>
+    <tabTrigger>CCTileMapAtlas_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

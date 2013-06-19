@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteFrameCache:release()
+]]></content>
+    <tabTrigger>CCSpriteFrameCache_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

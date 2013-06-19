@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXTiledMap:setProperties(${1:CCDictionary*_pval})
 ]]></content>
-    <tabTrigger>CCTMXTiledMap:setProperties</tabTrigger>
+    <tabTrigger>CCTMXTiledMap_setProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXTiledMap:setProperties</description>
+    <description></description>
 </snippet>
 

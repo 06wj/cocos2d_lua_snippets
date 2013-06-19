@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRibbon:setBlendFunc(${1:ccBlendFunc_val})
 ]]></content>
-    <tabTrigger>CCRibbon:setBlendFunc</tabTrigger>
+    <tabTrigger>CCRibbon_setBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRibbon:setBlendFunc</description>
+    <description></description>
 </snippet>
 

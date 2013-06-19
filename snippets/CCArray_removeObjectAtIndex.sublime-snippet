@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:removeObjectAtIndex(${1:unsigned_int_index},${2:bool_bReleaseObj_=_true})
 ]]></content>
-    <tabTrigger>CCArray:removeObjectAtIndex</tabTrigger>
+    <tabTrigger>CCArray_removeObjectAtIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:removeObjectAtIndex</description>
+    <description></description>
 </snippet>
 

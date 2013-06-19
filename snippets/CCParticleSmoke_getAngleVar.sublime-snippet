@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getAngleVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSmoke_getAngleVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

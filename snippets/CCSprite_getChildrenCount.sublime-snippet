@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:getChildrenCount()
+]]></content>
+    <tabTrigger>CCSprite_getChildrenCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimationCache:sharedAnimationCache()
 ]]></content>
-    <tabTrigger>CCAnimationCache:sharedAnimationCache</tabTrigger>
+    <tabTrigger>CCAnimationCache_sharedAnimationCache</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimationCache:sharedAnimationCache</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCW:convertToNodeSpace(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCW_convertToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

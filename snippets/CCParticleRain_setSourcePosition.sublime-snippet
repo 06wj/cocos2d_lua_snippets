@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:setSourcePosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleRain_setSourcePosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

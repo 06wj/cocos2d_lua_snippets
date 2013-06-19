@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:copy(${1:})
+]]></content>
+    <tabTrigger>CCParticleSpiral_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

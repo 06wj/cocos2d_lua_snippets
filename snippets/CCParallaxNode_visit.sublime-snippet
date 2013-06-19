@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParallaxNode:visit()
 ]]></content>
-    <tabTrigger>CCParallaxNode:visit</tabTrigger>
+    <tabTrigger>CCParallaxNode_visit</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParallaxNode:visit</description>
+    <description></description>
 </snippet>
 

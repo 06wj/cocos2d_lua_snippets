@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCBezierTo:create(${1:float_t},${2:ccBezierConfig_c})
+CCBezierTo:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCBezierTo:create</tabTrigger>
+    <tabTrigger>CCBezierTo_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCBezierTo:create</description>
+    <description></description>
 </snippet>
 

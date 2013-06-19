@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:getScheduler(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemToggle_getScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

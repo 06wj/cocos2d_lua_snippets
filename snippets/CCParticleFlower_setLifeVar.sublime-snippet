@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:setLifeVar(${1:float_lifeVar})
+]]></content>
+    <tabTrigger>CCParticleFlower_setLifeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

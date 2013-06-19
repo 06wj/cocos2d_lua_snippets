@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setEndSpin(${1:float_var})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setEndSpin</tabTrigger>
+    <tabTrigger>CCParticleSystem_setEndSpin</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setEndSpin</description>
+    <description></description>
 </snippet>
 

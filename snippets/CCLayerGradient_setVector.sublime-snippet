@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerGradient:setVector(${1:CCPoint_Value})
 ]]></content>
-    <tabTrigger>CCLayerGradient:setVector</tabTrigger>
+    <tabTrigger>CCLayerGradient_setVector</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerGradient:setVector</description>
+    <description></description>
 </snippet>
 

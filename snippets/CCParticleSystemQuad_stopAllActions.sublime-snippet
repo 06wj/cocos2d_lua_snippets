@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:stopAllActions()
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_stopAllActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

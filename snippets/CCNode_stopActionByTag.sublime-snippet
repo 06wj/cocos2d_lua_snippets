@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:stopActionByTag(${1:int_tag})
 ]]></content>
-    <tabTrigger>CCNode:stopActionByTag</tabTrigger>
+    <tabTrigger>CCNode_stopActionByTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:stopActionByTag</description>
+    <description></description>
 </snippet>
 

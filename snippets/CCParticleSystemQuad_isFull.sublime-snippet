@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:isFull(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_isFull</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

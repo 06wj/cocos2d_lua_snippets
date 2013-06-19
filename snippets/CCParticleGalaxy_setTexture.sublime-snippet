@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setTexture(${1:CCTexture2D*_var})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

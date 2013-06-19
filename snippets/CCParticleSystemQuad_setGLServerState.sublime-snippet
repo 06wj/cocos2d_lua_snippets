@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

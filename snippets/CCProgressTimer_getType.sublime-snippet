@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCProgressTimer:getType()
 ]]></content>
-    <tabTrigger>CCProgressTimer:getType</tabTrigger>
+    <tabTrigger>CCProgressTimer_getType</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCProgressTimer:getType</description>
+    <description></description>
 </snippet>
 

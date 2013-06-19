@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY3D:release()
+]]></content>
+    <tabTrigger>CCFlipY3D_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:stopAllActions()
+]]></content>
+    <tabTrigger>CCLayerColor_stopAllActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

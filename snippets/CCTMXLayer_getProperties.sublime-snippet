@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:getProperties(${1:})
 ]]></content>
-    <tabTrigger>CCTMXLayer:getProperties</tabTrigger>
+    <tabTrigger>CCTMXLayer_getProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:getProperties</description>
+    <description></description>
 </snippet>
 

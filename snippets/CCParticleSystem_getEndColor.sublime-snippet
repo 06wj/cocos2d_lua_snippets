@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getEndColor(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getEndColor</tabTrigger>
+    <tabTrigger>CCParticleSystem_getEndColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getEndColor</description>
+    <description></description>
 </snippet>
 

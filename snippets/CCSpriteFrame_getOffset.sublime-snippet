@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteFrame:getOffset(${1:})
 ]]></content>
-    <tabTrigger>CCSpriteFrame:getOffset</tabTrigger>
+    <tabTrigger>CCSpriteFrame_getOffset</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteFrame:getOffset</description>
+    <description></description>
 </snippet>
 

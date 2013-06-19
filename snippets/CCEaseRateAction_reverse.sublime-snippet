@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseRateAction:reverse()
 ]]></content>
-    <tabTrigger>CCEaseRateAction:reverse</tabTrigger>
+    <tabTrigger>CCEaseRateAction_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseRateAction:reverse</description>
+    <description></description>
 </snippet>
 

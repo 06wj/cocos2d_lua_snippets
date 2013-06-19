@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCObject:autorelease(${1:})
 ]]></content>
-    <tabTrigger>CCObject:autorelease</tabTrigger>
+    <tabTrigger>CCObject_autorelease</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCObject:autorelease</description>
+    <description></description>
 </snippet>
 

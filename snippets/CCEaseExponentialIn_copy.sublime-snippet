@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseExponentialIn:copy(${1:})
+]]></content>
+    <tabTrigger>CCEaseExponentialIn_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

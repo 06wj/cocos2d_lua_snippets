@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getViewPortRect(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getViewPortRect</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getViewPortRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getViewPortRect</description>
+    <description></description>
 </snippet>
 

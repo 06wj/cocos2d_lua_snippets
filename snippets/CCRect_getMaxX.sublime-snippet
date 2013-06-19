@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:getMaxX(${1:})
 ]]></content>
-    <tabTrigger>CCRect:getMaxX</tabTrigger>
+    <tabTrigger>CCRect_getMaxX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:getMaxX</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:setScaleY(${1:float_newScaleY})
+]]></content>
+    <tabTrigger>CCRibbon_setScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

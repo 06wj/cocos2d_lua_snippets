@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCParticleSpiral_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

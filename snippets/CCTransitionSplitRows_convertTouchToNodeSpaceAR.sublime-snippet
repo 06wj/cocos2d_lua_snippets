@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_convertTouchToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

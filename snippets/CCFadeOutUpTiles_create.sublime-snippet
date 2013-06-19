@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCFadeOutUpTiles:create(${1:float_duration},${2:CCSize_gridSize})
+CCFadeOutUpTiles:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCFadeOutUpTiles:create</tabTrigger>
+    <tabTrigger>CCFadeOutUpTiles_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFadeOutUpTiles:create</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCParticleSmoke_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

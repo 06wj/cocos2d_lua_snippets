@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCArray:lastObject(${1:})
 ]]></content>
-    <tabTrigger>CCArray:lastObject</tabTrigger>
+    <tabTrigger>CCArray_lastObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCArray:lastObject</description>
+    <description></description>
 </snippet>
 

@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:setScaleX(${1:float_fScaleX})
+CCSprite:setScaleX(${1:float_newScaleX})
 ]]></content>
-    <tabTrigger>CCSprite:setScaleX</tabTrigger>
+    <tabTrigger>CCSprite_setScaleX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setScaleX</description>
+    <description></description>
 </snippet>
 

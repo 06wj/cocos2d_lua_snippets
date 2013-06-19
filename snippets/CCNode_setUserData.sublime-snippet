@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setUserData(${1:void_*var})
 ]]></content>
-    <tabTrigger>CCNode:setUserData</tabTrigger>
+    <tabTrigger>CCNode_setUserData</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setUserData</description>
+    <description></description>
 </snippet>
 

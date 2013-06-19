@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCParallaxNode_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

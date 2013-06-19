@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseBounceInOut:reverse()
 ]]></content>
-    <tabTrigger>CCEaseBounceInOut:reverse</tabTrigger>
+    <tabTrigger>CCEaseBounceInOut_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseBounceInOut:reverse</description>
+    <description></description>
 </snippet>
 

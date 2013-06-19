@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextFieldTTF:detachWithIME(${1:})
 ]]></content>
-    <tabTrigger>CCTextFieldTTF:detachWithIME</tabTrigger>
+    <tabTrigger>CCTextFieldTTF_detachWithIME</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextFieldTTF:detachWithIME</description>
+    <description></description>
 </snippet>
 

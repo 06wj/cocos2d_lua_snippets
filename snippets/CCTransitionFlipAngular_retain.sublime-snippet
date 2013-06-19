@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:retain()
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

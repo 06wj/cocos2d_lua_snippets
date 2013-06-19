@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

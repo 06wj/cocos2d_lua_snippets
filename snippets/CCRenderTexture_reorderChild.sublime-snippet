@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
+]]></content>
+    <tabTrigger>CCRenderTexture_reorderChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

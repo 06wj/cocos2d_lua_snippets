@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemSprite:getDisabledImage(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemSprite:getDisabledImage</tabTrigger>
+    <tabTrigger>CCMenuItemSprite_getDisabledImage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemSprite:getDisabledImage</description>
+    <description></description>
 </snippet>
 

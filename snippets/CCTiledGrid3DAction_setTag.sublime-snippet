@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTiledGrid3DAction:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCTiledGrid3DAction_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

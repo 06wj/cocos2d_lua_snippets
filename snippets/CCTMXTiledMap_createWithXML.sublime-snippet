@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXTiledMap:createWithXML(${1:const_char*_tmxString},${2:const_char*_resourcePath})
 ]]></content>
-    <tabTrigger>CCTMXTiledMap:createWithXML</tabTrigger>
+    <tabTrigger>CCTMXTiledMap_createWithXML</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXTiledMap:createWithXML</description>
+    <description></description>
 </snippet>
 

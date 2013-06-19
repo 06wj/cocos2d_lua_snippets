@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseOut:getDuration()
+]]></content>
+    <tabTrigger>CCEaseOut_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

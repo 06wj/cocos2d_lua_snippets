@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeTR:convertToNodeSpace(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCTransitionFadeTR_convertToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:setIntegerForKey(${1:const_char*_pKey},${2:int_value})
 ]]></content>
-    <tabTrigger>CCUserDefault:setIntegerForKey</tabTrigger>
+    <tabTrigger>CCUserDefault_setIntegerForKey</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:setIntegerForKey</description>
+    <description></description>
 </snippet>
 

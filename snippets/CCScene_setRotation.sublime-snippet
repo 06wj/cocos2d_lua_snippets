@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCScene_setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

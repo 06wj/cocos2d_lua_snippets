@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:getRotatePerSecond(${1:})
+]]></content>
+    <tabTrigger>CCParticleSnow_getRotatePerSecond</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

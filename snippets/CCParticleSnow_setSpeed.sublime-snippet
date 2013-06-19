@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setSpeed(${1:float_speed})
+]]></content>
+    <tabTrigger>CCParticleSnow_setSpeed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

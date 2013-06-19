@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:getMapSize(${1:})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:getMapSize</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_getMapSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:getMapSize</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:isOpacityModifyRGB()
 ]]></content>
-    <tabTrigger>CCMotionStreak:isOpacityModifyRGB</tabTrigger>
+    <tabTrigger>CCMotionStreak_isOpacityModifyRGB</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:isOpacityModifyRGB</description>
+    <description></description>
 </snippet>
 

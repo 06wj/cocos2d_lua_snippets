@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTileMapAtlas:tileAt(${1:const_CCPoint_&_pos})
 ]]></content>
-    <tabTrigger>CCTileMapAtlas:tileAt</tabTrigger>
+    <tabTrigger>CCTileMapAtlas_tileAt</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTileMapAtlas:tileAt</description>
+    <description></description>
 </snippet>
 

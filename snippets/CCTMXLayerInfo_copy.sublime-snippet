@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayerInfo:copy(${1:})
+]]></content>
+    <tabTrigger>CCTMXLayerInfo_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

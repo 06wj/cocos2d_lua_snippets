@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCParticleFlower_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

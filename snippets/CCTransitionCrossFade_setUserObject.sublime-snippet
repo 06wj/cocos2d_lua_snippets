@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

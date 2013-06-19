@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:convertToNodeSpace(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_convertToNodeSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

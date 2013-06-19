@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCApplication:getCurrentLanguage(${1:})
 ]]></content>
-    <tabTrigger>CCApplication:getCurrentLanguage</tabTrigger>
+    <tabTrigger>CCApplication_getCurrentLanguage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCApplication:getCurrentLanguage</description>
+    <description></description>
 </snippet>
 

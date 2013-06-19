@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeDown:getScaleY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeDown_getScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getEndSizeVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getEndSizeVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getEndSizeVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getEndSizeVar</description>
+    <description></description>
 </snippet>
 

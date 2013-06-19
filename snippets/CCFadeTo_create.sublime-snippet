@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCFadeTo:create(${1:float_duration},${2:GLubyte_opacity})
+CCFadeTo:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCFadeTo:create</tabTrigger>
+    <tabTrigger>CCFadeTo_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFadeTo:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:unregisterScriptHandler()
 ]]></content>
-    <tabTrigger>CCNode:unregisterScriptHandler</tabTrigger>
+    <tabTrigger>CCNode_unregisterScriptHandler</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:unregisterScriptHandler</description>
+    <description></description>
 </snippet>
 

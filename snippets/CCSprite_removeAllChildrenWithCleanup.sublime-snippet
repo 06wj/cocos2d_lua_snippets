@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:removeAllChildrenWithCleanup(${1:bool_bCleanup})
+CCSprite:removeAllChildrenWithCleanup(${1:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCSprite:removeAllChildrenWithCleanup</tabTrigger>
+    <tabTrigger>CCSprite_removeAllChildrenWithCleanup</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:removeAllChildrenWithCleanup</description>
+    <description></description>
 </snippet>
 

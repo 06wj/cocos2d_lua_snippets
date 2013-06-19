@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:retain()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

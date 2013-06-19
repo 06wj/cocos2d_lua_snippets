@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:boundingBox()
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_boundingBox</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

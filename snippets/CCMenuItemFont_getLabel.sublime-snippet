@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:getLabel(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemFont_getLabel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

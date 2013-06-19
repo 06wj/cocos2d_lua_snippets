@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionRotoZoom:retainCount()
+]]></content>
+    <tabTrigger>CCTransitionRotoZoom_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

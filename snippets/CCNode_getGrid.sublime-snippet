@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getGrid(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getGrid</tabTrigger>
+    <tabTrigger>CCNode_getGrid</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getGrid</description>
+    <description></description>
 </snippet>
 

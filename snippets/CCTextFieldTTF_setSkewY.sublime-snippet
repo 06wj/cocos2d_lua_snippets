@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setSkewY(${1:float_skewY})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

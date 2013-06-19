@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setTileProperties(${1:CCDictionary*_tileProperties})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setTileProperties</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setTileProperties</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setTileProperties</description>
+    <description></description>
 </snippet>
 

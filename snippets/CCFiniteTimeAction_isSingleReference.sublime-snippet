@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFiniteTimeAction:isSingleReference()
+]]></content>
+    <tabTrigger>CCFiniteTimeAction_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

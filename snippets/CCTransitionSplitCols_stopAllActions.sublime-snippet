@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:stopAllActions()
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_stopAllActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCScheduler:setTimeScale(${1:float_fTimeScale})
 ]]></content>
-    <tabTrigger>CCScheduler:setTimeScale</tabTrigger>
+    <tabTrigger>CCScheduler_setTimeScale</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCScheduler:setTimeScale</description>
+    <description></description>
 </snippet>
 

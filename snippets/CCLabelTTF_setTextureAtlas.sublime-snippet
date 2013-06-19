@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setTextureAtlas(${1:CCTextureAtlas_*pobTextureAtlas})
+]]></content>
+    <tabTrigger>CCLabelTTF_setTextureAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

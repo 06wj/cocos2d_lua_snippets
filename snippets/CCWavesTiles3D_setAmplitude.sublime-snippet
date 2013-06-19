@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCWavesTiles3D:setAmplitude(${1:float_fAmplitude})
 ]]></content>
-    <tabTrigger>CCWavesTiles3D:setAmplitude</tabTrigger>
+    <tabTrigger>CCWavesTiles3D_setAmplitude</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCWavesTiles3D:setAmplitude</description>
+    <description></description>
 </snippet>
 

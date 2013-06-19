@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInL:retain()
+]]></content>
+    <tabTrigger>CCTransitionSlideInL_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFileUtils:fullPathForFilename(${1:const_char_*pszFileName})
 ]]></content>
-    <tabTrigger>CCFileUtils:fullPathForFilename</tabTrigger>
+    <tabTrigger>CCFileUtils_fullPathForFilename</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFileUtils:fullPathForFilename</description>
+    <description></description>
 </snippet>
 

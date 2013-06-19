@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSpiral:create(${1:})
+CCParticleSpiral:create()
 ]]></content>
-    <tabTrigger>CCParticleSpiral:create</tabTrigger>
+    <tabTrigger>CCParticleSpiral_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSpiral:create</description>
+    <description></description>
 </snippet>
 

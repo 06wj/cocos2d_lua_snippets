@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:removeAllChildrenWithCleanup(${1:bool_cleanup})
+]]></content>
+    <tabTrigger>CCParticleSpiral_removeAllChildrenWithCleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:getStartSizeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleExplosion_getStartSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

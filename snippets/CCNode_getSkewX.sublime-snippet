@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getSkewX(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getSkewX</tabTrigger>
+    <tabTrigger>CCNode_getSkewX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getSkewX</description>
+    <description></description>
 </snippet>
 

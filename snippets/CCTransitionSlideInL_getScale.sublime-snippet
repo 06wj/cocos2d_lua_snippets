@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInL:getScale(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSlideInL_getScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

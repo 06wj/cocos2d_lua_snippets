@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLiquid:setVertex(${1:const_CCPoint&_pos},${2:const_ccVertex3F&_vertex})
+]]></content>
+    <tabTrigger>CCLiquid_setVertex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

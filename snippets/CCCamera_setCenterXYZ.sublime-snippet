@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:setCenterXYZ(${1:float_fCenterX},${2:float_fCenterY},${3:float_fCenterZ})
 ]]></content>
-    <tabTrigger>CCCamera:setCenterXYZ</tabTrigger>
+    <tabTrigger>CCCamera_setCenterXYZ</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:setCenterXYZ</description>
+    <description></description>
 </snippet>
 

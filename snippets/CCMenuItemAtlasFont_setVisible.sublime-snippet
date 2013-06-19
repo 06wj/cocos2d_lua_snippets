@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:setVisible(${1:bool_var})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_setVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

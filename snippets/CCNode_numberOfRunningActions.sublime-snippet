@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:numberOfRunningActions()
 ]]></content>
-    <tabTrigger>CCNode:numberOfRunningActions</tabTrigger>
+    <tabTrigger>CCNode_numberOfRunningActions</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:numberOfRunningActions</description>
+    <description></description>
 </snippet>
 

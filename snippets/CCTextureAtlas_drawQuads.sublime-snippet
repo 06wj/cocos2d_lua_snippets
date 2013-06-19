@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureAtlas:drawQuads(${1:})
 ]]></content>
-    <tabTrigger>CCTextureAtlas:drawQuads</tabTrigger>
+    <tabTrigger>CCTextureAtlas_drawQuads</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureAtlas:drawQuads</description>
+    <description></description>
 </snippet>
 

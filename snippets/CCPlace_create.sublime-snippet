@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCPlace:create(${1:CCPoint_pos})
 ]]></content>
-    <tabTrigger>CCPlace:create</tabTrigger>
+    <tabTrigger>CCPlace_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPlace:create</description>
+    <description></description>
 </snippet>
 

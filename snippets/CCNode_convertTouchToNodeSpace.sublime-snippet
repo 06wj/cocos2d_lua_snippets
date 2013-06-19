@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:convertTouchToNodeSpace(${1:CCTouch_*_touch})
 ]]></content>
-    <tabTrigger>CCNode:convertTouchToNodeSpace</tabTrigger>
+    <tabTrigger>CCNode_convertTouchToNodeSpace</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:convertTouchToNodeSpace</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:isRunning(${1:})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_isRunning</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

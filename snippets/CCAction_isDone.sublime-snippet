@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAction:isDone()
 ]]></content>
-    <tabTrigger>CCAction:isDone</tabTrigger>
+    <tabTrigger>CCAction_isDone</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAction:isDone</description>
+    <description></description>
 </snippet>
 

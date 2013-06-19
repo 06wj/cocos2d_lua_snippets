@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBounceIn:release()
+]]></content>
+    <tabTrigger>CCEaseBounceIn_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

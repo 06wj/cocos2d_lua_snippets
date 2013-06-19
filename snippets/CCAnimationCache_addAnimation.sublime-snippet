@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimationCache:addAnimation(${1:CCAnimation_*animation},${2:const_char_*_name})
 ]]></content>
-    <tabTrigger>CCAnimationCache:addAnimation</tabTrigger>
+    <tabTrigger>CCAnimationCache_addAnimation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimationCache:addAnimation</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemSprite:selected(${1:})
 ]]></content>
-    <tabTrigger>CCMenuItemSprite:selected</tabTrigger>
+    <tabTrigger>CCMenuItemSprite_selected</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemSprite:selected</description>
+    <description></description>
 </snippet>
 

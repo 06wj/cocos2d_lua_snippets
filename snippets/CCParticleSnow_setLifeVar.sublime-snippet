@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setLifeVar(${1:float_lifeVar})
+]]></content>
+    <tabTrigger>CCParticleSnow_setLifeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

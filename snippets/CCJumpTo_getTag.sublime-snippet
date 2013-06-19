@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpTo:getTag()
+]]></content>
+    <tabTrigger>CCJumpTo_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

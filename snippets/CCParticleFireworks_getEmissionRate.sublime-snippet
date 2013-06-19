@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:getEmissionRate(${1:})
+]]></content>
+    <tabTrigger>CCParticleFireworks_getEmissionRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

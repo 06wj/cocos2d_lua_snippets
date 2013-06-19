@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:create(${1:const_char*_pStr})
 ]]></content>
-    <tabTrigger>CCString:create</tabTrigger>
+    <tabTrigger>CCString_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDictionary:allKeysForObject(${1:CCObject*_object})
 ]]></content>
-    <tabTrigger>CCDictionary:allKeysForObject</tabTrigger>
+    <tabTrigger>CCDictionary_allKeysForObject</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDictionary:allKeysForObject</description>
+    <description></description>
 </snippet>
 

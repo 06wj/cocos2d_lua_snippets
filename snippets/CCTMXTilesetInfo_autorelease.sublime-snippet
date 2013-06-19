@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTilesetInfo:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCTMXTilesetInfo_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

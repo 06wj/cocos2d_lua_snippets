@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureCache:addUIImage(${1:CCImage_*image},${2:const_char_*key})
 ]]></content>
-    <tabTrigger>CCTextureCache:addUIImage</tabTrigger>
+    <tabTrigger>CCTextureCache_addUIImage</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureCache:addUIImage</description>
+    <description></description>
 </snippet>
 

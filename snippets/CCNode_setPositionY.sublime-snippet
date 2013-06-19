@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setPositionY(${1:float_y})
 ]]></content>
-    <tabTrigger>CCNode:setPositionY</tabTrigger>
+    <tabTrigger>CCNode_setPositionY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setPositionY</description>
+    <description></description>
 </snippet>
 

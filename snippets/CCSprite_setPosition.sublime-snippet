@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setPosition(${1:CCPoint_pos})
 ]]></content>
-    <tabTrigger>CCSprite:setPosition</tabTrigger>
+    <tabTrigger>CCSprite_setPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setPosition</description>
+    <description></description>
 </snippet>
 

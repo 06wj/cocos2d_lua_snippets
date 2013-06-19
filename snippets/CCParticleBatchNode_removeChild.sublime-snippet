@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleBatchNode:removeChild(${1:CCNode*_child},${2:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCParticleBatchNode:removeChild</tabTrigger>
+    <tabTrigger>CCParticleBatchNode_removeChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleBatchNode:removeChild</description>
+    <description></description>
 </snippet>
 

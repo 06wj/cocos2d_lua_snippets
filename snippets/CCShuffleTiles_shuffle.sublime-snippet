@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCShuffleTiles:shuffle(${1:unsigned_int_*pArray},${2:int_nLen})
 ]]></content>
-    <tabTrigger>CCShuffleTiles:shuffle</tabTrigger>
+    <tabTrigger>CCShuffleTiles_shuffle</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCShuffleTiles:shuffle</description>
+    <description></description>
 </snippet>
 

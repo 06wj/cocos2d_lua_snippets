@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:description()
 ]]></content>
-    <tabTrigger>CCCamera:description</tabTrigger>
+    <tabTrigger>CCCamera_description</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:description</description>
+    <description></description>
 </snippet>
 

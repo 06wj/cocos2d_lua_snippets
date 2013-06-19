@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenu:alignItemsHorizontallyWithPadding(${1:float_padding})
 ]]></content>
-    <tabTrigger>CCMenu:alignItemsHorizontallyWithPadding</tabTrigger>
+    <tabTrigger>CCMenu_alignItemsHorizontallyWithPadding</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenu:alignItemsHorizontallyWithPadding</description>
+    <description></description>
 </snippet>
 

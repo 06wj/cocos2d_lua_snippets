@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCWaves:getAmplitudeRate()
 ]]></content>
-    <tabTrigger>CCWaves:getAmplitudeRate</tabTrigger>
+    <tabTrigger>CCWaves_getAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCWaves:getAmplitudeRate</description>
+    <description></description>
 </snippet>
 

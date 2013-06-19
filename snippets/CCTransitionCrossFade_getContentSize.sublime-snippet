@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getContentSize(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCMenuItemToggle_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

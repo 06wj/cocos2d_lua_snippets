@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRepeatForever:reverse()
 ]]></content>
-    <tabTrigger>CCRepeatForever:reverse</tabTrigger>
+    <tabTrigger>CCRepeatForever_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRepeatForever:reverse</description>
+    <description></description>
 </snippet>
 

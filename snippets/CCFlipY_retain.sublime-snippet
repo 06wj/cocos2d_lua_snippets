@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY:retain()
+]]></content>
+    <tabTrigger>CCFlipY_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

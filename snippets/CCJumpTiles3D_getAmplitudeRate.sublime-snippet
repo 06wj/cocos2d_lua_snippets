@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCJumpTiles3D:getAmplitudeRate()
 ]]></content>
-    <tabTrigger>CCJumpTiles3D:getAmplitudeRate</tabTrigger>
+    <tabTrigger>CCJumpTiles3D_getAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCJumpTiles3D:getAmplitudeRate</description>
+    <description></description>
 </snippet>
 

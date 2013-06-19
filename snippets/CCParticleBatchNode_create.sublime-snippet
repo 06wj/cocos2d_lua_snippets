@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleBatchNode:create(${1:const_char*_fileImage},${2:unsigned_int_capacity_=_kCCParticleDefaultCapacity})
+CCParticleBatchNode:create()
 ]]></content>
-    <tabTrigger>CCParticleBatchNode:create</tabTrigger>
+    <tabTrigger>CCParticleBatchNode_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleBatchNode:create</description>
+    <description></description>
 </snippet>
 

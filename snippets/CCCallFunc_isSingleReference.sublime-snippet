@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCallFunc:isSingleReference()
+]]></content>
+    <tabTrigger>CCCallFunc_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

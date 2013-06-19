@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:setKeypadEnabled(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCLayerGradient_setKeypadEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:getFntFile(${1:})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:getFntFile</tabTrigger>
+    <tabTrigger>CCLabelBMFont_getFntFile</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:getFntFile</description>
+    <description></description>
 </snippet>
 

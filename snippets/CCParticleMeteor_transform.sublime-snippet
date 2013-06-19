@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:transform()
+]]></content>
+    <tabTrigger>CCParticleMeteor_transform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

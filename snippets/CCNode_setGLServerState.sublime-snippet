@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setGLServerState(${1:ccGLServerState_state})
 ]]></content>
-    <tabTrigger>CCNode:setGLServerState</tabTrigger>
+    <tabTrigger>CCNode_setGLServerState</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setGLServerState</description>
+    <description></description>
 </snippet>
 

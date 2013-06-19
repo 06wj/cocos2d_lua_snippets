@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getZOrder(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

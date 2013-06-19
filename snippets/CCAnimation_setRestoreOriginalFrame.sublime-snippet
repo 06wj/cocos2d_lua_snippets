@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:setRestoreOriginalFrame(${1:bool_bRestoreFrame})
 ]]></content>
-    <tabTrigger>CCAnimation:setRestoreOriginalFrame</tabTrigger>
+    <tabTrigger>CCAnimation_setRestoreOriginalFrame</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:setRestoreOriginalFrame</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 SimpleAudioEngine:preloadEffect(${1:const_char*_pszFilePath})
 ]]></content>
-    <tabTrigger>SimpleAudioEngine:preloadEffect</tabTrigger>
+    <tabTrigger>SimpleAudioEngine_preloadEffect</tabTrigger>
     <scope>source.lua</scope>
-    <description>SimpleAudioEngine:preloadEffect</description>
+    <description></description>
 </snippet>
 

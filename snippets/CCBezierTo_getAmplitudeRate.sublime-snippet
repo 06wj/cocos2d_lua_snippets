@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierTo:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCBezierTo_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

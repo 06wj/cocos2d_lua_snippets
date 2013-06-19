@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getVertexZ(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

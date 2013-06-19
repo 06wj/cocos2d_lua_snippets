@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextFieldTTF:attachWithIME(${1:})
 ]]></content>
-    <tabTrigger>CCTextFieldTTF:attachWithIME</tabTrigger>
+    <tabTrigger>CCTextFieldTTF_attachWithIME</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextFieldTTF:attachWithIME</description>
+    <description></description>
 </snippet>
 

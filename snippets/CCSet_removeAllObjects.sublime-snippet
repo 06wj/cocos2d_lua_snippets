@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSet:removeAllObjects(${1:})
 ]]></content>
-    <tabTrigger>CCSet:removeAllObjects</tabTrigger>
+    <tabTrigger>CCSet_removeAllObjects</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSet:removeAllObjects</description>
+    <description></description>
 </snippet>
 

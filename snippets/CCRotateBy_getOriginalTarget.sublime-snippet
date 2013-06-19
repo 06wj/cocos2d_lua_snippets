@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateBy:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCRotateBy_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

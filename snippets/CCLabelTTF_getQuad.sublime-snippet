@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getQuad()
+]]></content>
+    <tabTrigger>CCLabelTTF_getQuad</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

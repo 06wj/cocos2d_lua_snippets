@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelBMFont:purgeCachedData(${1:})
 ]]></content>
-    <tabTrigger>CCLabelBMFont:purgeCachedData</tabTrigger>
+    <tabTrigger>CCLabelBMFont_purgeCachedData</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelBMFont:purgeCachedData</description>
+    <description></description>
 </snippet>
 

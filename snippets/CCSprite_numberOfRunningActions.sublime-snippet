@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCSprite_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

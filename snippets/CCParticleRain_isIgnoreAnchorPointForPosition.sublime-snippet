@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:isIgnoreAnchorPointForPosition(${1:})
+]]></content>
+    <tabTrigger>CCParticleRain_isIgnoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

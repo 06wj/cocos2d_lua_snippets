@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getVisibleOrigin(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getVisibleOrigin</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getVisibleOrigin</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getVisibleOrigin</description>
+    <description></description>
 </snippet>
 

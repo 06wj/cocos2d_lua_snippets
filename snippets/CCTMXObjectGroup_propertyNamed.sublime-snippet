@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXObjectGroup:propertyNamed(${1:const_char*_propertyName})
 ]]></content>
-    <tabTrigger>CCTMXObjectGroup:propertyNamed</tabTrigger>
+    <tabTrigger>CCTMXObjectGroup_propertyNamed</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXObjectGroup:propertyNamed</description>
+    <description></description>
 </snippet>
 

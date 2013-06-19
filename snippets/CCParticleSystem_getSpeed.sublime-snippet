@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getSpeed(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getSpeed</tabTrigger>
+    <tabTrigger>CCParticleSystem_getSpeed</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getSpeed</description>
+    <description></description>
 </snippet>
 

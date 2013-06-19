@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFileUtils:getWritablePath(${1:})
 ]]></content>
-    <tabTrigger>CCFileUtils:getWritablePath</tabTrigger>
+    <tabTrigger>CCFileUtils_getWritablePath</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFileUtils:getWritablePath</description>
+    <description></description>
 </snippet>
 

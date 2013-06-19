@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getContentScaleFactor()
 ]]></content>
-    <tabTrigger>CCDirector:getContentScaleFactor</tabTrigger>
+    <tabTrigger>CCDirector_getContentScaleFactor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getContentScaleFactor</description>
+    <description></description>
 </snippet>
 

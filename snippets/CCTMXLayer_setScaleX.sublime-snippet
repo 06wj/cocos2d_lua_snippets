@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCTMXLayer_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

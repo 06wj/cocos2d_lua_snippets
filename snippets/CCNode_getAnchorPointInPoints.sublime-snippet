@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getAnchorPointInPoints(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getAnchorPointInPoints</tabTrigger>
+    <tabTrigger>CCNode_getAnchorPointInPoints</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getAnchorPointInPoints</description>
+    <description></description>
 </snippet>
 

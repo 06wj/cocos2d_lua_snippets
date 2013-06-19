@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:setTouchDelegate(${1:EGLTouchDelegate_*_pDelegate})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:setTouchDelegate</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_setTouchDelegate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:setTouchDelegate</description>
+    <description></description>
 </snippet>
 

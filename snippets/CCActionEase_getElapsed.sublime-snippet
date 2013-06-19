@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionEase:getElapsed()
+]]></content>
+    <tabTrigger>CCActionEase_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

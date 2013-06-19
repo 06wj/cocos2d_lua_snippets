@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCLabelAtlas:create(${1:const_char_*sring},${2:const_char_*fntFile})
+CCLabelAtlas:create()
 ]]></content>
-    <tabTrigger>CCLabelAtlas:create</tabTrigger>
+    <tabTrigger>CCLabelAtlas_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:create</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:getScale(${1:})
+]]></content>
+    <tabTrigger>CCParticleBatchNode_getScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

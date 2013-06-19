@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemLabel:setEnabled(${1:bool_enabled})
 ]]></content>
-    <tabTrigger>CCMenuItemLabel:setEnabled</tabTrigger>
+    <tabTrigger>CCMenuItemLabel_setEnabled</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemLabel:setEnabled</description>
+    <description></description>
 </snippet>
 

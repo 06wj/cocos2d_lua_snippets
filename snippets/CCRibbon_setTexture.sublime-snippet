@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRibbon:setTexture(${1:CCTexture2D*_val})
 ]]></content>
-    <tabTrigger>CCRibbon:setTexture</tabTrigger>
+    <tabTrigger>CCRibbon_setTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRibbon:setTexture</description>
+    <description></description>
 </snippet>
 

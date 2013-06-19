@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getScaleY(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getScaleY</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getScaleY</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getScaleY</description>
+    <description></description>
 </snippet>
 

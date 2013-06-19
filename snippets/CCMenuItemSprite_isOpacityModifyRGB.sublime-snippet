@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemSprite:isOpacityModifyRGB()
 ]]></content>
-    <tabTrigger>CCMenuItemSprite:isOpacityModifyRGB</tabTrigger>
+    <tabTrigger>CCMenuItemSprite_isOpacityModifyRGB</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemSprite:isOpacityModifyRGB</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTouch:setTouchInfo(${1:int_id},${2:float_x},${3:float_y})
 ]]></content>
-    <tabTrigger>CCTouch:setTouchInfo</tabTrigger>
+    <tabTrigger>CCTouch_setTouchInfo</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTouch:setTouchInfo</description>
+    <description></description>
 </snippet>
 

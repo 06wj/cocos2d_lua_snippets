@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCMenuItemLabel_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

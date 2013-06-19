@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCJumpBy:create(${1:float_duration},${2:CCPoint_position},${3:float_height},${4:int_jumps})
+CCJumpBy:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCJumpBy:create</tabTrigger>
+    <tabTrigger>CCJumpBy_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCJumpBy:create</description>
+    <description></description>
 </snippet>
 

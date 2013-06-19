@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionRotoZoom:numberOfRunningActions()
+]]></content>
+    <tabTrigger>CCTransitionRotoZoom_numberOfRunningActions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

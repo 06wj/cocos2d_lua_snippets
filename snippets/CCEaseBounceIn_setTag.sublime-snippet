@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBounceIn:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCEaseBounceIn_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

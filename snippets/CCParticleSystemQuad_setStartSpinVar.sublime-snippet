@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:setStartSpinVar(${1:float_var})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_setStartSpinVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCRibbon_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

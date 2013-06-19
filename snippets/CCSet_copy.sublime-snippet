@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSet:copy(${1:})
 ]]></content>
-    <tabTrigger>CCSet:copy</tabTrigger>
+    <tabTrigger>CCSet_copy</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSet:copy</description>
+    <description></description>
 </snippet>
 

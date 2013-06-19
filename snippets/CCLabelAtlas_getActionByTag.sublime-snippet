@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:getActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCLabelAtlas_getActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

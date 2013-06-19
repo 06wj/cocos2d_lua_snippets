@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCParticleRain_convertToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

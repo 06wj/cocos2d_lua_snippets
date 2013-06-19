@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getChildrenCount()
+]]></content>
+    <tabTrigger>CCLabelTTF_getChildrenCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

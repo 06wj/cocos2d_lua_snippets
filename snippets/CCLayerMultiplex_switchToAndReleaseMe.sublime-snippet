@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerMultiplex:switchToAndReleaseMe(${1:unsigned_int_n})
 ]]></content>
-    <tabTrigger>CCLayerMultiplex:switchToAndReleaseMe</tabTrigger>
+    <tabTrigger>CCLayerMultiplex_switchToAndReleaseMe</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerMultiplex:switchToAndReleaseMe</description>
+    <description></description>
 </snippet>
 

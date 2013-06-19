@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getTouchDispatcher(${1:})
 ]]></content>
-    <tabTrigger>CCDirector:getTouchDispatcher</tabTrigger>
+    <tabTrigger>CCDirector_getTouchDispatcher</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getTouchDispatcher</description>
+    <description></description>
 </snippet>
 

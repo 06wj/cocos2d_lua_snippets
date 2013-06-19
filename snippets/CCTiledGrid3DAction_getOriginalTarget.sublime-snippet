@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTiledGrid3DAction:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCTiledGrid3DAction_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

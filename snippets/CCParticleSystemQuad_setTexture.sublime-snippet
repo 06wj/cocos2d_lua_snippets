@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCParticleSystemQuad:setTexture(${1:CCTexture2D*_texture})
+CCParticleSystemQuad:setTexture(${1:CCTexture2D*_var})
 ]]></content>
-    <tabTrigger>CCParticleSystemQuad:setTexture</tabTrigger>
+    <tabTrigger>CCParticleSystemQuad_setTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystemQuad:setTexture</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCGridAction:reverse()
 ]]></content>
-    <tabTrigger>CCGridAction:reverse</tabTrigger>
+    <tabTrigger>CCGridAction_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCGridAction:reverse</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXTilesetInfo:rectForGID(${1:unsigned_int_gid})
 ]]></content>
-    <tabTrigger>CCTMXTilesetInfo:rectForGID</tabTrigger>
+    <tabTrigger>CCTMXTilesetInfo_rectForGID</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXTilesetInfo:rectForGID</description>
+    <description></description>
 </snippet>
 

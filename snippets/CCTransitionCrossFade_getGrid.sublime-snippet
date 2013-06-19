@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getGrid(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

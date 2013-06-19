@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEaseElastic:setPeriod(${1:float_fPeriod})
 ]]></content>
-    <tabTrigger>CCEaseElastic:setPeriod</tabTrigger>
+    <tabTrigger>CCEaseElastic_setPeriod</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseElastic:setPeriod</description>
+    <description></description>
 </snippet>
 

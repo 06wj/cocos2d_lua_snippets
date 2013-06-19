@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:setDesignResolutionSize(${1:float_width},${2:float_height},${3:ResolutionPolicy_resolutionPolicy})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:setDesignResolutionSize</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_setDesignResolutionSize</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:setDesignResolutionSize</description>
+    <description></description>
 </snippet>
 

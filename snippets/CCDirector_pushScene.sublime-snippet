@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:pushScene(${1:CCScene_*pScene})
 ]]></content>
-    <tabTrigger>CCDirector:pushScene</tabTrigger>
+    <tabTrigger>CCDirector_pushScene</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:pushScene</description>
+    <description></description>
 </snippet>
 

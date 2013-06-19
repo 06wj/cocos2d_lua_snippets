@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:setRotation(${1:float_rotation})
+CCSprite:setRotation(${1:float_newRotation})
 ]]></content>
-    <tabTrigger>CCSprite:setRotation</tabTrigger>
+    <tabTrigger>CCSprite_setRotation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setRotation</description>
+    <description></description>
 </snippet>
 

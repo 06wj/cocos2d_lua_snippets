@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:setStartColorVar(${1:const_ccColor4F_var})
 ]]></content>
-    <tabTrigger>CCParticleSystem:setStartColorVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_setStartColorVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:setStartColorVar</description>
+    <description></description>
 </snippet>
 

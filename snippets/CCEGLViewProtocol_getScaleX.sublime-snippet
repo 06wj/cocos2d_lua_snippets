@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCEGLViewProtocol:getScaleX(${1:})
 ]]></content>
-    <tabTrigger>CCEGLViewProtocol:getScaleX</tabTrigger>
+    <tabTrigger>CCEGLViewProtocol_getScaleX</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEGLViewProtocol:getScaleX</description>
+    <description></description>
 </snippet>
 

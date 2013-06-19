@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCJumpTiles3D:create(${1:float_duration},${2:CCSize_gridSize},${3:unsigned_int_numberOfJumps},${4:float_amplitude})
+CCJumpTiles3D:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCJumpTiles3D:create</tabTrigger>
+    <tabTrigger>CCJumpTiles3D_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCJumpTiles3D:create</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getRadialAccelVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getRadialAccelVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getRadialAccelVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getRadialAccelVar</description>
+    <description></description>
 </snippet>
 

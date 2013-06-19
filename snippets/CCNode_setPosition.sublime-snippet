@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:setPosition(${1:CCPoint_pos})
 ]]></content>
-    <tabTrigger>CCNode:setPosition</tabTrigger>
+    <tabTrigger>CCNode_setPosition</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:setPosition</description>
+    <description></description>
 </snippet>
 

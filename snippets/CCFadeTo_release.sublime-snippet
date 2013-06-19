@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeTo:release()
+]]></content>
+    <tabTrigger>CCFadeTo_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

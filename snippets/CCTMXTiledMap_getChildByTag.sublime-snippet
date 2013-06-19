@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

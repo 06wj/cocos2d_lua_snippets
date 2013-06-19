@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

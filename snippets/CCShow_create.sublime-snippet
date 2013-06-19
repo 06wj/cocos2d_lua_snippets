@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCShow:create(${1:})
 ]]></content>
-    <tabTrigger>CCShow:create</tabTrigger>
+    <tabTrigger>CCShow_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCShow:create</description>
+    <description></description>
 </snippet>
 

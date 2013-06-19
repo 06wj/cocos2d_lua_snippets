@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXObjectGroup:setPositionOffset(${1:CCPoint_pt})
 ]]></content>
-    <tabTrigger>CCTMXObjectGroup:setPositionOffset</tabTrigger>
+    <tabTrigger>CCTMXObjectGroup_setPositionOffset</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXObjectGroup:setPositionOffset</description>
+    <description></description>
 </snippet>
 

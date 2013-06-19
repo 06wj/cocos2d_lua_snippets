@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCApplication:sharedApplication(${1:})
 ]]></content>
-    <tabTrigger>CCApplication:sharedApplication</tabTrigger>
+    <tabTrigger>CCApplication_sharedApplication</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCApplication:sharedApplication</description>
+    <description></description>
 </snippet>
 

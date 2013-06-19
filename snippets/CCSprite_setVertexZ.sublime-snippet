@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:setVertexZ(${1:float_fVertexZ})
+CCSprite:setVertexZ(${1:float_var})
 ]]></content>
-    <tabTrigger>CCSprite:setVertexZ</tabTrigger>
+    <tabTrigger>CCSprite_setVertexZ</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setVertexZ</description>
+    <description></description>
 </snippet>
 

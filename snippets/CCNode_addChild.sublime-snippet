@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:addChild(${1:CCNode_*_child},${2:int_zOrder},${3:int_tag})
 ]]></content>
-    <tabTrigger>CCNode:addChild</tabTrigger>
+    <tabTrigger>CCNode_addChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:addChild</description>
+    <description></description>
 </snippet>
 

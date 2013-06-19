@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCPoint:equals(${1:const_CCPoint_&_target})
 ]]></content>
-    <tabTrigger>CCPoint:equals</tabTrigger>
+    <tabTrigger>CCPoint_equals</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCPoint:equals</description>
+    <description></description>
 </snippet>
 

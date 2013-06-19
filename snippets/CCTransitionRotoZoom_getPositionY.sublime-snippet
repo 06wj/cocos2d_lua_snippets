@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionRotoZoom:getPositionY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionRotoZoom_getPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

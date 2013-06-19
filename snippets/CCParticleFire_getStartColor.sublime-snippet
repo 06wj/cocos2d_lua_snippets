@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getStartColor(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getStartColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:setScale(${1:float_scale})
+]]></content>
+    <tabTrigger>CCProgressTimer_setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

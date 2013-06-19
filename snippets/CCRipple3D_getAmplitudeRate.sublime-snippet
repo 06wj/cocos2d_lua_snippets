@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRipple3D:getAmplitudeRate()
 ]]></content>
-    <tabTrigger>CCRipple3D:getAmplitudeRate</tabTrigger>
+    <tabTrigger>CCRipple3D_getAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRipple3D:getAmplitudeRate</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

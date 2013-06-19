@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLayerColor:changeHeight(${1:GLfloat_h})
 ]]></content>
-    <tabTrigger>CCLayerColor:changeHeight</tabTrigger>
+    <tabTrigger>CCLayerColor_changeHeight</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLayerColor:changeHeight</description>
+    <description></description>
 </snippet>
 

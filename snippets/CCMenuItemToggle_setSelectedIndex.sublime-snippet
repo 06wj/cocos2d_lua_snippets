@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemToggle:setSelectedIndex(${1:unsigned_int_index})
 ]]></content>
-    <tabTrigger>CCMenuItemToggle:setSelectedIndex</tabTrigger>
+    <tabTrigger>CCMenuItemToggle_setSelectedIndex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemToggle:setSelectedIndex</description>
+    <description></description>
 </snippet>
 

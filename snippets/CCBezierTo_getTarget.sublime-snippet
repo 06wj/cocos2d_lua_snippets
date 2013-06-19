@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierTo:getTarget()
+]]></content>
+    <tabTrigger>CCBezierTo_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

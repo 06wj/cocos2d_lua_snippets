@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAction:getOriginalTarget()
 ]]></content>
-    <tabTrigger>CCAction:getOriginalTarget</tabTrigger>
+    <tabTrigger>CCAction_getOriginalTarget</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAction:getOriginalTarget</description>
+    <description></description>
 </snippet>
 

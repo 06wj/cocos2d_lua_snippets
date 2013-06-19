@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTextureCache:reloadAllTextures(${1:})
 ]]></content>
-    <tabTrigger>CCTextureCache:reloadAllTextures</tabTrigger>
+    <tabTrigger>CCTextureCache_reloadAllTextures</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextureCache:reloadAllTextures</description>
+    <description></description>
 </snippet>
 

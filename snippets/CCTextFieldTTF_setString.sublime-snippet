@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTextFieldTTF:setString(${1:const_char_*text})
+CCTextFieldTTF:setString(${1:const_char_*label})
 ]]></content>
-    <tabTrigger>CCTextFieldTTF:setString</tabTrigger>
+    <tabTrigger>CCTextFieldTTF_setString</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTextFieldTTF:setString</description>
+    <description></description>
 </snippet>
 

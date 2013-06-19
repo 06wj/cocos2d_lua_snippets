@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:isRunning(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_isRunning</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

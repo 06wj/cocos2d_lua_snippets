@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGrid3DAction:reverse()
+]]></content>
+    <tabTrigger>CCGrid3DAction_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

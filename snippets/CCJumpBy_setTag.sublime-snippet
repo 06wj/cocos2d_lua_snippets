@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpBy:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCJumpBy_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

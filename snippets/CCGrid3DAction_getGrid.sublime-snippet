@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCGrid3DAction:getGrid()
 ]]></content>
-    <tabTrigger>CCGrid3DAction:getGrid</tabTrigger>
+    <tabTrigger>CCGrid3DAction_getGrid</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCGrid3DAction:getGrid</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setDisplayFrameWithAnimationName(${1:const_char_*animationName},${2:int_frameIndex})
 ]]></content>
-    <tabTrigger>CCSprite:setDisplayFrameWithAnimationName</tabTrigger>
+    <tabTrigger>CCSprite_setDisplayFrameWithAnimationName</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setDisplayFrameWithAnimationName</description>
+    <description></description>
 </snippet>
 

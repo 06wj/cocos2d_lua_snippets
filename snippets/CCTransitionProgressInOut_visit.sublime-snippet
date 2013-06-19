@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressInOut:visit()
+]]></content>
+    <tabTrigger>CCTransitionProgressInOut_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

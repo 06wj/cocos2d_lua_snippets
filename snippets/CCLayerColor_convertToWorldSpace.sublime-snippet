@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:convertToWorldSpace(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCLayerColor_convertToWorldSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

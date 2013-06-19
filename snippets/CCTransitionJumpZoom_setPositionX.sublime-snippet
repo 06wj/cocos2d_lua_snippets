@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionJumpZoom:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCTransitionJumpZoom_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:getStartSpinVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleRain_getStartSpinVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCGrid3DAction:vertex(${1:const_CCPoint&_pos})
 ]]></content>
-    <tabTrigger>CCGrid3DAction:vertex</tabTrigger>
+    <tabTrigger>CCGrid3DAction_vertex</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCGrid3DAction:vertex</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getVertexZ(${1:})
 ]]></content>
-    <tabTrigger>CCNode:getVertexZ</tabTrigger>
+    <tabTrigger>CCNode_getVertexZ</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getVertexZ</description>
+    <description></description>
 </snippet>
 

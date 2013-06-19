@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:nodeToParentTransform()
+]]></content>
+    <tabTrigger>CCTMXLayer_nodeToParentTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

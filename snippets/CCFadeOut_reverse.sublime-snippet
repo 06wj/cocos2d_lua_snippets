@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCFadeOut:reverse()
 ]]></content>
-    <tabTrigger>CCFadeOut:reverse</tabTrigger>
+    <tabTrigger>CCFadeOut_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCFadeOut:reverse</description>
+    <description></description>
 </snippet>
 

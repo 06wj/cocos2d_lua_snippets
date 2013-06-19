@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelAtlas:updateAtlasValues(${1:})
 ]]></content>
-    <tabTrigger>CCLabelAtlas:updateAtlasValues</tabTrigger>
+    <tabTrigger>CCLabelAtlas_updateAtlasValues</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelAtlas:updateAtlasValues</description>
+    <description></description>
 </snippet>
 

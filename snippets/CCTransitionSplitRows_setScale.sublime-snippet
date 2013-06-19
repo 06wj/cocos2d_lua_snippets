@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:setScale(${1:float_scale})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

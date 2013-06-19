@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseSineIn:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCEaseSineIn_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

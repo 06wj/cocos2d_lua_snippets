@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAccelAmplitude:isSingleReference()
+]]></content>
+    <tabTrigger>CCAccelAmplitude_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

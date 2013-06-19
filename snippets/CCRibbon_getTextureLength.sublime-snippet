@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRibbon:getTextureLength(${1:})
 ]]></content>
-    <tabTrigger>CCRibbon:getTextureLength</tabTrigger>
+    <tabTrigger>CCRibbon_getTextureLength</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRibbon:getTextureLength</description>
+    <description></description>
 </snippet>
 

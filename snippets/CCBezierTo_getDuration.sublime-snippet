@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierTo:getDuration()
+]]></content>
+    <tabTrigger>CCBezierTo_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

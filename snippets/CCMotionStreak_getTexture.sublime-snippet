@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMotionStreak:getTexture()
 ]]></content>
-    <tabTrigger>CCMotionStreak:getTexture</tabTrigger>
+    <tabTrigger>CCMotionStreak_getTexture</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMotionStreak:getTexture</description>
+    <description></description>
 </snippet>
 

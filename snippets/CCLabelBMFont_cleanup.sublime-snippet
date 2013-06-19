@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:cleanup()
+]]></content>
+    <tabTrigger>CCLabelBMFont_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

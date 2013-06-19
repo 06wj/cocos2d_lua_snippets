@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getTangentialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleSmoke_getTangentialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

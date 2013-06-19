@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSkewTo:getTag()
+]]></content>
+    <tabTrigger>CCSkewTo_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

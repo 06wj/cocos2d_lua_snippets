@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXTiledMap:propertiesForGID(${1:int_GID})
 ]]></content>
-    <tabTrigger>CCTMXTiledMap:propertiesForGID</tabTrigger>
+    <tabTrigger>CCTMXTiledMap_propertiesForGID</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXTiledMap:propertiesForGID</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpTo:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCJumpTo_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

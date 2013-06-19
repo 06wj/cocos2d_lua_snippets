@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:setLayerOrientation(${1:unsigned_int_val})
 ]]></content>
-    <tabTrigger>CCTMXLayer:setLayerOrientation</tabTrigger>
+    <tabTrigger>CCTMXLayer_setLayerOrientation</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:setLayerOrientation</description>
+    <description></description>
 </snippet>
 

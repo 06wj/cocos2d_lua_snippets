@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY3D:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCFlipY3D_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

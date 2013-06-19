@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCParticleMeteor_convertToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

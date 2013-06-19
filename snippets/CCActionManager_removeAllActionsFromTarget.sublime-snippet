@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCActionManager:removeAllActionsFromTarget(${1:CCObject_*pTarget})
 ]]></content>
-    <tabTrigger>CCActionManager:removeAllActionsFromTarget</tabTrigger>
+    <tabTrigger>CCActionManager_removeAllActionsFromTarget</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCActionManager:removeAllActionsFromTarget</description>
+    <description></description>
 </snippet>
 

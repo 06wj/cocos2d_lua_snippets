@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSpriteBatchNode:getDescendants()
 ]]></content>
-    <tabTrigger>CCSpriteBatchNode:getDescendants</tabTrigger>
+    <tabTrigger>CCSpriteBatchNode_getDescendants</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSpriteBatchNode:getDescendants</description>
+    <description></description>
 </snippet>
 

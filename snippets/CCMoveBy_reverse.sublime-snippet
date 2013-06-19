@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMoveBy:reverse()
 ]]></content>
-    <tabTrigger>CCMoveBy:reverse</tabTrigger>
+    <tabTrigger>CCMoveBy_reverse</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMoveBy:reverse</description>
+    <description></description>
 </snippet>
 

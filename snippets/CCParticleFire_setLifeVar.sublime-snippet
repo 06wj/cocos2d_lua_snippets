@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:setLifeVar(${1:float_lifeVar})
+]]></content>
+    <tabTrigger>CCParticleFire_setLifeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:removeFromParentAndCleanup(${1:bool_cleanup})
 ]]></content>
-    <tabTrigger>CCNode:removeFromParentAndCleanup</tabTrigger>
+    <tabTrigger>CCNode_removeFromParentAndCleanup</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:removeFromParentAndCleanup</description>
+    <description></description>
 </snippet>
 

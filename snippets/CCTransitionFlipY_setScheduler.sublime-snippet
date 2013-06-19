@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

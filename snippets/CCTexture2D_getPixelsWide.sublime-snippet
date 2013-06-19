@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTexture2D:getPixelsWide(${1:})
 ]]></content>
-    <tabTrigger>CCTexture2D:getPixelsWide</tabTrigger>
+    <tabTrigger>CCTexture2D_getPixelsWide</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTexture2D:getPixelsWide</description>
+    <description></description>
 </snippet>
 

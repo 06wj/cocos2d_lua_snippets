@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierTo:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCBezierTo_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCLabelTTF:getDimensions(${1:})
 ]]></content>
-    <tabTrigger>CCLabelTTF:getDimensions</tabTrigger>
+    <tabTrigger>CCLabelTTF_getDimensions</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCLabelTTF:getDimensions</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCProgressTimer:getSprite()
 ]]></content>
-    <tabTrigger>CCProgressTimer:getSprite</tabTrigger>
+    <tabTrigger>CCProgressTimer_getSprite</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCProgressTimer:getSprite</description>
+    <description></description>
 </snippet>
 

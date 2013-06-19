@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDictionary:create(${1:})
 ]]></content>
-    <tabTrigger>CCDictionary:create</tabTrigger>
+    <tabTrigger>CCDictionary_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDictionary:create</description>
+    <description></description>
 </snippet>
 

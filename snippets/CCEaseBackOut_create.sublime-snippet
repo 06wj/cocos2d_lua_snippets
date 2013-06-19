@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCEaseBackOut:create(${1:CCActionInterval*_pAction})
+CCEaseBackOut:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCEaseBackOut:create</tabTrigger>
+    <tabTrigger>CCEaseBackOut_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCEaseBackOut:create</description>
+    <description></description>
 </snippet>
 

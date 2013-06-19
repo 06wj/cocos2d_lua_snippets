@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:draw()
 ]]></content>
-    <tabTrigger>CCNode:draw</tabTrigger>
+    <tabTrigger>CCNode_draw</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:draw</description>
+    <description></description>
 </snippet>
 

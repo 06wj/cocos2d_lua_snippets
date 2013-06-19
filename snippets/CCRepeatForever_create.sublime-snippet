@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCRepeatForever:create(${1:CCActionInterval_*pAction})
+CCRepeatForever:create(${1:float_d})
 ]]></content>
-    <tabTrigger>CCRepeatForever:create</tabTrigger>
+    <tabTrigger>CCRepeatForever_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRepeatForever:create</description>
+    <description></description>
 </snippet>
 

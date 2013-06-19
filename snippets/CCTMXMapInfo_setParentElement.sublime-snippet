@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXMapInfo:setParentElement(${1:int_val})
 ]]></content>
-    <tabTrigger>CCTMXMapInfo:setParentElement</tabTrigger>
+    <tabTrigger>CCTMXMapInfo_setParentElement</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXMapInfo:setParentElement</description>
+    <description></description>
 </snippet>
 

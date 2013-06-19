@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
 ]]></content>
-    <tabTrigger>CCNode:reorderChild</tabTrigger>
+    <tabTrigger>CCNode_reorderChild</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:reorderChild</description>
+    <description></description>
 </snippet>
 

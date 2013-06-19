@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:getTextureAtlas()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_getTextureAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

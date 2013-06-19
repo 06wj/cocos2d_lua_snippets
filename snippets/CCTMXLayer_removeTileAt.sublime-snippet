@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTMXLayer:removeTileAt(${1:CCPoint_tileCoordinate})
 ]]></content>
-    <tabTrigger>CCTMXLayer:removeTileAt</tabTrigger>
+    <tabTrigger>CCTMXLayer_removeTileAt</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTMXLayer:removeTileAt</description>
+    <description></description>
 </snippet>
 

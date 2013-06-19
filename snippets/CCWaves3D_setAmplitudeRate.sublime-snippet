@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCWaves3D:setAmplitudeRate(${1:float_fAmplitudeRate})
+CCWaves3D:setAmplitudeRate(${1:float_amp})
 ]]></content>
-    <tabTrigger>CCWaves3D:setAmplitudeRate</tabTrigger>
+    <tabTrigger>CCWaves3D_setAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCWaves3D:setAmplitudeRate</description>
+    <description></description>
 </snippet>
 

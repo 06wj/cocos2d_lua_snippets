@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCString:length(${1:})
 ]]></content>
-    <tabTrigger>CCString:length</tabTrigger>
+    <tabTrigger>CCString_length</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCString:length</description>
+    <description></description>
 </snippet>
 

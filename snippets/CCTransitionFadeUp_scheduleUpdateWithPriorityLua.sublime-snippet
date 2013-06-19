@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeUp:scheduleUpdateWithPriorityLua(${1:LUA_FUNCTION_nHandler},${2:int_priority})
+]]></content>
+    <tabTrigger>CCTransitionFadeUp_scheduleUpdateWithPriorityLua</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

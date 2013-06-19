@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCProgressTimer_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAtlasNode:setOpacity(${1:GLubyte_opacity})
 ]]></content>
-    <tabTrigger>CCAtlasNode:setOpacity</tabTrigger>
+    <tabTrigger>CCAtlasNode_setOpacity</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAtlasNode:setOpacity</description>
+    <description></description>
 </snippet>
 

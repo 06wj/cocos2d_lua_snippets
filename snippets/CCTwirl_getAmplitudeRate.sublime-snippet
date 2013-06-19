@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCTwirl:getAmplitudeRate()
 ]]></content>
-    <tabTrigger>CCTwirl:getAmplitudeRate</tabTrigger>
+    <tabTrigger>CCTwirl_getAmplitudeRate</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTwirl:getAmplitudeRate</description>
+    <description></description>
 </snippet>
 

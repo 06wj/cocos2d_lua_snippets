@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShatteredTiles3D:retainCount()
+]]></content>
+    <tabTrigger>CCShatteredTiles3D_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

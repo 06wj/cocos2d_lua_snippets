@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCCamera:setDirty(${1:bool_bValue})
 ]]></content>
-    <tabTrigger>CCCamera:setDirty</tabTrigger>
+    <tabTrigger>CCCamera_setDirty</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCCamera:setDirty</description>
+    <description></description>
 </snippet>
 

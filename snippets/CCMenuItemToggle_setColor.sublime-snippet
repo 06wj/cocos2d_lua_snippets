@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCMenuItemToggle:setColor(${1:ccColor3B_color})
 ]]></content>
-    <tabTrigger>CCMenuItemToggle:setColor</tabTrigger>
+    <tabTrigger>CCMenuItemToggle_setColor</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCMenuItemToggle:setColor</description>
+    <description></description>
 </snippet>
 

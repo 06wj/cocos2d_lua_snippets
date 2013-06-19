@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCSprite:setVisible(${1:bool_bVisible})
+CCSprite:setVisible(${1:bool_var})
 ]]></content>
-    <tabTrigger>CCSprite:setVisible</tabTrigger>
+    <tabTrigger>CCSprite_setVisible</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setVisible</description>
+    <description></description>
 </snippet>
 

@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleBatchNode:getBlendFunc()
 ]]></content>
-    <tabTrigger>CCParticleBatchNode:getBlendFunc</tabTrigger>
+    <tabTrigger>CCParticleBatchNode_getBlendFunc</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleBatchNode:getBlendFunc</description>
+    <description></description>
 </snippet>
 

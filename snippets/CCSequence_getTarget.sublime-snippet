@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSequence:getTarget()
+]]></content>
+    <tabTrigger>CCSequence_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

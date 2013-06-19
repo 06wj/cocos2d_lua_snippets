@@ -2,8 +2,8 @@
     <content><![CDATA[
 SimpleAudioEngine:setEffectsVolume(${1:float_volume})
 ]]></content>
-    <tabTrigger>SimpleAudioEngine:setEffectsVolume</tabTrigger>
+    <tabTrigger>SimpleAudioEngine_setEffectsVolume</tabTrigger>
     <scope>source.lua</scope>
-    <description>SimpleAudioEngine:setEffectsVolume</description>
+    <description></description>
 </snippet>
 

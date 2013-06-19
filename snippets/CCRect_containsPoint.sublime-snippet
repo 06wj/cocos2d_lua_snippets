@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCRect:containsPoint(${1:const_CCPoint_&_point})
 ]]></content>
-    <tabTrigger>CCRect:containsPoint</tabTrigger>
+    <tabTrigger>CCRect_containsPoint</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRect:containsPoint</description>
+    <description></description>
 </snippet>
 

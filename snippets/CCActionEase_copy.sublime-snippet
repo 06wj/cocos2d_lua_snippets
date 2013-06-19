@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionEase:copy(${1:})
+]]></content>
+    <tabTrigger>CCActionEase_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

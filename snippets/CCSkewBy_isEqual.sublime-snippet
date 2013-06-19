@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSkewBy:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCSkewBy_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

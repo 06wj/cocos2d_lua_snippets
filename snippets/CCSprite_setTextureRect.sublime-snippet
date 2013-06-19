@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCSprite:setTextureRect(${1:CCRect_rect},${2:bool_rotated},${3:CCSize_size})
 ]]></content>
-    <tabTrigger>CCSprite:setTextureRect</tabTrigger>
+    <tabTrigger>CCSprite_setTextureRect</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCSprite:setTextureRect</description>
+    <description></description>
 </snippet>
 

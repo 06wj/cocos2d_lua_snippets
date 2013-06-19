@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCUserDefault:getXMLFilePath(${1:})
 ]]></content>
-    <tabTrigger>CCUserDefault:getXMLFilePath</tabTrigger>
+    <tabTrigger>CCUserDefault_getXMLFilePath</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCUserDefault:getXMLFilePath</description>
+    <description></description>
 </snippet>
 

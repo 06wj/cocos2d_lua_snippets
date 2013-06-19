@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCAnimation:copy(${1:})
 ]]></content>
-    <tabTrigger>CCAnimation:copy</tabTrigger>
+    <tabTrigger>CCAnimation_copy</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCAnimation:copy</description>
+    <description></description>
 </snippet>
 

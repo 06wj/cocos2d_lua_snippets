@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionFlipX:create(${1:float_t},${2:CCScene*_s},${3:tOrientation_o_=_kCCTransitionOrientationRightOver})
+CCTransitionFlipX:create()
 ]]></content>
-    <tabTrigger>CCTransitionFlipX:create</tabTrigger>
+    <tabTrigger>CCTransitionFlipX_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionFlipX:create</description>
+    <description></description>
 </snippet>
 

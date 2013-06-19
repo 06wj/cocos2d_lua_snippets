@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCRenderTexture:create(${1:int_w},${2:int_h})
+CCRenderTexture:create()
 ]]></content>
-    <tabTrigger>CCRenderTexture:create</tabTrigger>
+    <tabTrigger>CCRenderTexture_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCRenderTexture:create</description>
+    <description></description>
 </snippet>
 

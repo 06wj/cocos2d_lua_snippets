@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCDirector:getAnimationInterval()
 ]]></content>
-    <tabTrigger>CCDirector:getAnimationInterval</tabTrigger>
+    <tabTrigger>CCDirector_getAnimationInterval</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCDirector:getAnimationInterval</description>
+    <description></description>
 </snippet>
 

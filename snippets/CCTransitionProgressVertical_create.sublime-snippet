@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CCTransitionProgressVertical:create(${1:float_t},${2:CCScene*_scene})
+CCTransitionProgressVertical:create()
 ]]></content>
-    <tabTrigger>CCTransitionProgressVertical:create</tabTrigger>
+    <tabTrigger>CCTransitionProgressVertical_create</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCTransitionProgressVertical:create</description>
+    <description></description>
 </snippet>
 

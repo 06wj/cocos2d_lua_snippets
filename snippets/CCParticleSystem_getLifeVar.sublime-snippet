@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCParticleSystem:getLifeVar(${1:})
 ]]></content>
-    <tabTrigger>CCParticleSystem:getLifeVar</tabTrigger>
+    <tabTrigger>CCParticleSystem_getLifeVar</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCParticleSystem:getLifeVar</description>
+    <description></description>
 </snippet>
 

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCardinalSplineTo:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCCardinalSplineTo_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

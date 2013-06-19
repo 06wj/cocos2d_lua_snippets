@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCW:release()
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCW_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

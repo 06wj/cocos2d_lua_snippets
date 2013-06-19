@@ -2,8 +2,8 @@
     <content><![CDATA[
 CCNode:getActionByTag(${1:int_tag})
 ]]></content>
-    <tabTrigger>CCNode:getActionByTag</tabTrigger>
+    <tabTrigger>CCNode_getActionByTag</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode:getActionByTag</description>
+    <description></description>
 </snippet>
 

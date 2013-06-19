@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:getElapsed()
+]]></content>
+    <tabTrigger>CCSpawn_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

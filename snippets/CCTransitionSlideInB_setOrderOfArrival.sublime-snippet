@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInB:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCTransitionSlideInB_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+
