@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitRows:isSingleReference()
-]]></content>
-    <tabTrigger>CCTransitionSplitRows_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

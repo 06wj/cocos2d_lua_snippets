@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXMapInfo:getParentElement(${1:})
-]]></content>
-    <tabTrigger>CCTMXMapInfo_getParentElement</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCPointArray_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

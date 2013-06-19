@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:draw()
-]]></content>
-    <tabTrigger>CCLayerColor_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

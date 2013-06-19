@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:setBatchNode(${1:CCParticleBatchNode*_node})
-]]></content>
-    <tabTrigger>CCParticleSpiral_setBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

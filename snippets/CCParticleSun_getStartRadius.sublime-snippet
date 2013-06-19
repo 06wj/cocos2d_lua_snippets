@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:getStartRadius(${1:})
-]]></content>
-    <tabTrigger>CCParticleSun_getStartRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

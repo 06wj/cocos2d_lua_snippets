@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:stopAllActions()
-]]></content>
-    <tabTrigger>CCLabelTTF_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

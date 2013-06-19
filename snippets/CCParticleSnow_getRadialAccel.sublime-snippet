@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getRadialAccel(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_getRadialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

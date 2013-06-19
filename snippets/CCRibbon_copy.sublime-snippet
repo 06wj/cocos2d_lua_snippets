@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:copy(${1:})
-]]></content>
-    <tabTrigger>CCRibbon_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

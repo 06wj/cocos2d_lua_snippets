@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:lowestAtlasIndexInChild(${1:CCSprite_*sprite})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_lowestAtlasIndexInChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

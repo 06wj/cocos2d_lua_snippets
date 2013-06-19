@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getGravity(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getGravity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

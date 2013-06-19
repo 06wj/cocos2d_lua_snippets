@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

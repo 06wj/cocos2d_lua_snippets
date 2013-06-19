@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:release()
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

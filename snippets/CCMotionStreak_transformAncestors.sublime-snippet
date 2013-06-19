@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:transformAncestors()
-]]></content>
-    <tabTrigger>CCMotionStreak_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

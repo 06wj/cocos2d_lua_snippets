@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:init(${1:})
-]]></content>
-    <tabTrigger>CCLabelTTF:init</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLabelTTF:init</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

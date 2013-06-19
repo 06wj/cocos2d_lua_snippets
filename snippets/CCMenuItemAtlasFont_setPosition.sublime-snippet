@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

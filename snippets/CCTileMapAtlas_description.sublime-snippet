@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:description()
-]]></content>
-    <tabTrigger>CCTileMapAtlas_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

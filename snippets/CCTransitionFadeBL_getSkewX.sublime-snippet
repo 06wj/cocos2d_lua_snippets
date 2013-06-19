@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

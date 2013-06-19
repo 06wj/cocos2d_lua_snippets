@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getEndSize(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getEndSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

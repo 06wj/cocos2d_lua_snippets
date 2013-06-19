@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:description()
-]]></content>
-    <tabTrigger>CCTransitionFlipX_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

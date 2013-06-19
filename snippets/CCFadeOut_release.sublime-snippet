@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOut:release()
-]]></content>
-    <tabTrigger>CCFadeOut_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

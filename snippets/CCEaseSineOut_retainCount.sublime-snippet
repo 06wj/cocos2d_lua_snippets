@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseSineOut:retainCount()
-]]></content>
-    <tabTrigger>CCEaseSineOut_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

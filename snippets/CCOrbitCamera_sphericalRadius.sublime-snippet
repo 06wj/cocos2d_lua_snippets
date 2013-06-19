@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCOrbitCamera:sphericalRadius(${1:float_*r},${2:float_*zenith},${3:float_*azimuth})
-]]></content>
-    <tabTrigger>CCOrbitCamera_sphericalRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

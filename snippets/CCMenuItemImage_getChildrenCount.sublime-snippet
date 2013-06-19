@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:getChildrenCount()
-]]></content>
-    <tabTrigger>CCMenuItemImage_getChildrenCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

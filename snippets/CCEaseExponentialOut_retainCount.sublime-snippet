@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseExponentialOut:retainCount()
-]]></content>
-    <tabTrigger>CCEaseExponentialOut_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

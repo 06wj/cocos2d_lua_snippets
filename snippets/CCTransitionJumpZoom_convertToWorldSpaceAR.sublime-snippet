@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionJumpZoom:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCTransitionJumpZoom_convertToWorldSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

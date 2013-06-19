@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

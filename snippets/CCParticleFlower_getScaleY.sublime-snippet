@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getScaleY(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

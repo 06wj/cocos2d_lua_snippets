@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCStopGrid:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCStopGrid_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCamera:init()
-]]></content>
-    <tabTrigger>CCCamera_init</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

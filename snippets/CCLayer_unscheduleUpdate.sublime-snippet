@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCLayer_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

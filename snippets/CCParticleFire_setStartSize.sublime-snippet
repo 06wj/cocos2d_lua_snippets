@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:setStartSize(${1:float_size})
-]]></content>
-    <tabTrigger>CCParticleFire_setStartSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

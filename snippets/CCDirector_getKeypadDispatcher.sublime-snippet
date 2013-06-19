@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:getKeypadDispatcher(${1:})
-]]></content>
-    <tabTrigger>CCDirector:getKeypadDispatcher</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector:getKeypadDispatcher</description>
-</snippet>
-

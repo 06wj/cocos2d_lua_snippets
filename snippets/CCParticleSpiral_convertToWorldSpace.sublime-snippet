@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:convertToWorldSpace(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCParticleSpiral_convertToWorldSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

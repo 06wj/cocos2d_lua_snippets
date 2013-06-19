@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeTR:description()
-]]></content>
-    <tabTrigger>CCTransitionFadeTR_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

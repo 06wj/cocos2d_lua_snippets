@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:description()
-]]></content>
-    <tabTrigger>CCParticleSmoke_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

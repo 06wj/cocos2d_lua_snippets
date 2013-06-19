@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpeed:copy(${1:})
-]]></content>
-    <tabTrigger>CCSpeed_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

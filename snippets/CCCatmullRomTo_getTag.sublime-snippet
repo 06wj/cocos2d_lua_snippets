@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCatmullRomTo:getTag()
-]]></content>
-    <tabTrigger>CCCatmullRomTo_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

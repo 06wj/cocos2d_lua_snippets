@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setGrid(${1:CCGridBase*_pGrid})
-]]></content>
-    <tabTrigger>CCParticleSnow_setGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

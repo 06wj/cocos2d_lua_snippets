@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipY:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipY_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

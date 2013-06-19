@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShuffleTiles:isSingleReference()
-]]></content>
-    <tabTrigger>CCShuffleTiles_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

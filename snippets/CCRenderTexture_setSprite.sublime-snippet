@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:setSprite(${1:CCSprite*_psprite})
-]]></content>
-    <tabTrigger>CCRenderTexture_setSprite</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

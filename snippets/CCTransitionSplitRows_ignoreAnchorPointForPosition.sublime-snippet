@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitRows:ignoreAnchorPointForPosition(${1:bool_newValue})
-]]></content>
-    <tabTrigger>CCTransitionSplitRows_ignoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

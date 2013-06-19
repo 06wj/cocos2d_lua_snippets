@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:isCascadeOpacityEnabled()
-]]></content>
-    <tabTrigger>CCRGBAProtocol:isCascadeOpacityEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:isCascadeOpacityEnabled</description>
-</snippet>
-

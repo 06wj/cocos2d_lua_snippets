@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:setAtlasIndex(${1:unsigned_int_uAtlasIndex})
-]]></content>
-    <tabTrigger>CCLabelTTF_setAtlasIndex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

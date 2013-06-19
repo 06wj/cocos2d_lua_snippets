@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:stopAllActions()
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

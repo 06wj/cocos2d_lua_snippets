@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getAngle(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReuseGrid:retain()
-]]></content>
-    <tabTrigger>CCReuseGrid_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

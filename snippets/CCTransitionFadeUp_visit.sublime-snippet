@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeUp:visit()
-]]></content>
-    <tabTrigger>CCTransitionFadeUp_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

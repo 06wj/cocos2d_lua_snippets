@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFollow:setBoudarySet(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCFollow_setBoudarySet</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

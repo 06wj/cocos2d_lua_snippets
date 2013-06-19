@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:getEndRadius(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_getEndRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

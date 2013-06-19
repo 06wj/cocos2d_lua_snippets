@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getGLServerState()
-]]></content>
-    <tabTrigger>CCParticleFlower_getGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

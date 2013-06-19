@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCMotionStreak_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

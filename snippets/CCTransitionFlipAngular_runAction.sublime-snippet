@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:runAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_runAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

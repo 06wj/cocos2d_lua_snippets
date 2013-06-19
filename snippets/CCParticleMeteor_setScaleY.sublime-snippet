@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

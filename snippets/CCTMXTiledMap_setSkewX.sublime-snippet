@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:setSkewX(${1:float_skewX})
-]]></content>
-    <tabTrigger>CCTMXTiledMap_setSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

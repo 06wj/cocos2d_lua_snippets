@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInB:transform()
-]]></content>
-    <tabTrigger>CCTransitionMoveInB_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

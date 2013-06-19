@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipY:getScheduler(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipY_getScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

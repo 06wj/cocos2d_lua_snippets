@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:retainCount()
-]]></content>
-    <tabTrigger>CCParticleBatchNode_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

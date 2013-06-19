@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:getUserData(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_getUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTargetedAction:copy(${1:})
-]]></content>
-    <tabTrigger>CCTargetedAction_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

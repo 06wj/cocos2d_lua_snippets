@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:nodeToWorldTransform()
-]]></content>
-    <tabTrigger>CCLayer_nodeToWorldTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

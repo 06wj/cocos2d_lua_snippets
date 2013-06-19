@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

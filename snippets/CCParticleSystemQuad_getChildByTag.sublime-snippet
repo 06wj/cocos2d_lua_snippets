@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

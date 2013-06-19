@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:draw()
-]]></content>
-    <tabTrigger>CCMenu_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

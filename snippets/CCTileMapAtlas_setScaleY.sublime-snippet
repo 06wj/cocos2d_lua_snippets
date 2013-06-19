@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCTileMapAtlas_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:retain()
-]]></content>
-    <tabTrigger>CCSprite_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

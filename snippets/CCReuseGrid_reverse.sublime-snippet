@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReuseGrid:reverse()
-]]></content>
-    <tabTrigger>CCReuseGrid_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

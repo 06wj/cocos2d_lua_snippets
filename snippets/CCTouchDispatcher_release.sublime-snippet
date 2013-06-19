@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTouchDispatcher:release()
-]]></content>
-    <tabTrigger>CCTouchDispatcher_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

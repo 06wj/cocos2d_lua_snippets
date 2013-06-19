@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCardinalSplineBy:isSingleReference()
-]]></content>
-    <tabTrigger>CCCardinalSplineBy_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

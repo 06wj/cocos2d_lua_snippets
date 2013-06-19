@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInB:getContentSize(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSlideInB_getContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

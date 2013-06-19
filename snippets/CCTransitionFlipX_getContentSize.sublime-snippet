@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:getContentSize(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_getContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

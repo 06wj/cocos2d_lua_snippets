@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getBlendFunc()
-]]></content>
-    <tabTrigger>CCParticleFlower_getBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

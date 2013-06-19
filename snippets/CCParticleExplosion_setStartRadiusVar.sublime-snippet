@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setStartRadiusVar(${1:float_startRadiusVar})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setStartRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

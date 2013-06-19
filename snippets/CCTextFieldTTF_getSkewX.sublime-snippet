@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

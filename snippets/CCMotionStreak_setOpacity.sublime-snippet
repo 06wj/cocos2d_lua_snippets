@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:setOpacity(${1:GLubyte_opacity})
-]]></content>
-    <tabTrigger>CCMotionStreak_setOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

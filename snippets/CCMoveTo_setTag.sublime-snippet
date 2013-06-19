@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveTo:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCMoveTo_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

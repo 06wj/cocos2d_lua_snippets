@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setRotatePerSecondVar(${1:float_degrees})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setRotatePerSecondVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

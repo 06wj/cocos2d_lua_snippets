@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShuffleTiles:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCShuffleTiles_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

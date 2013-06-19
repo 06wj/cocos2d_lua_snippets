@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

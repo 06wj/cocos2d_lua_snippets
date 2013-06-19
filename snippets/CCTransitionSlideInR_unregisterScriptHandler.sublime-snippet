@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

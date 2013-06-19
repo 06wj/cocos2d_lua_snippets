@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItem:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCMenuItem_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

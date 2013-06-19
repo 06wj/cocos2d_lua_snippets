@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_convertToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

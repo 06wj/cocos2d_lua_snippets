@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressInOut:getChildren(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressInOut_getChildren</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:getScaleY(${1:})
-]]></content>
-    <tabTrigger>CCMenu_getScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

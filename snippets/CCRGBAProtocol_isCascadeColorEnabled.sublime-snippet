@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:isCascadeColorEnabled()
-]]></content>
-    <tabTrigger>CCRGBAProtocol:isCascadeColorEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:isCascadeColorEnabled</description>
-</snippet>
-

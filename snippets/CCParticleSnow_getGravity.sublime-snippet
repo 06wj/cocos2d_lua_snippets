@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getGravity(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_getGravity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

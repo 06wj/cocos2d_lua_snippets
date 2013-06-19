@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:removeChildByTag(${1:int_tag},${2:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_removeChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:setKeypadEnabled(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCLayerColor_setKeypadEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

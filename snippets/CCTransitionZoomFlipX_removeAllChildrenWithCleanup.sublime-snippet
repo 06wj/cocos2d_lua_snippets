@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipX:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipX_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

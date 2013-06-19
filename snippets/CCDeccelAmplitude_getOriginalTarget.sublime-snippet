@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDeccelAmplitude:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCDeccelAmplitude_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

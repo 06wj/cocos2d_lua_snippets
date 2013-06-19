@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:postStep(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_postStep</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

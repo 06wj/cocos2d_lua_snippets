@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCString:uintValue(${1:})
-]]></content>
-    <tabTrigger>CCString_uintValue</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

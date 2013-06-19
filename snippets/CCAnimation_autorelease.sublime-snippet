@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAnimation:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCAnimation_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:getUserData(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_getUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

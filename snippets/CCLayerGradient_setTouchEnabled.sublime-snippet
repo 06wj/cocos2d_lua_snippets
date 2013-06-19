@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:setTouchEnabled(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCLayerGradient_setTouchEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

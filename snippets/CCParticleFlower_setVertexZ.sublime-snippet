@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCParticleFlower_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

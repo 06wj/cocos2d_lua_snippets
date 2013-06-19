@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerMultiplex:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCLayerMultiplex_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCatmullRomBy:getPoints(${1:})
-]]></content>
-    <tabTrigger>CCCatmullRomBy_getPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

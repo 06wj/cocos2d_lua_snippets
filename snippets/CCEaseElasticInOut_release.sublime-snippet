@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElasticInOut:release()
-]]></content>
-    <tabTrigger>CCEaseElasticInOut_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTintTo:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCTintTo_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:setMapTileSize(${1:CCSize_val})
-]]></content>
-    <tabTrigger>CCTMXLayer_setMapTileSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

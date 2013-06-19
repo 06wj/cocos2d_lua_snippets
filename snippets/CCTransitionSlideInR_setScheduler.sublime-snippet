@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

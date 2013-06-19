@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

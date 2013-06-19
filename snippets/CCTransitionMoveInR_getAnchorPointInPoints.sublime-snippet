@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

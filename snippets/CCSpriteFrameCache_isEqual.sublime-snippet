@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteFrameCache:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCSpriteFrameCache_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

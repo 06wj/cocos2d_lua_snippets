@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScheduler:setTimeScale(${1:float_fTimeScale})
-]]></content>
-    <tabTrigger>CCScheduler_setTimeScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

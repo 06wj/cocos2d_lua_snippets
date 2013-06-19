@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCLabelTTF_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

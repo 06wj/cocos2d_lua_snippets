@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:getZOrder(${1:})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_getZOrder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

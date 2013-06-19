@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setBatchNode(${1:CCParticleBatchNode*_node})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:setTag(${1:int_var})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

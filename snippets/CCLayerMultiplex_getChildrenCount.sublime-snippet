@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerMultiplex:getChildrenCount()
-]]></content>
-    <tabTrigger>CCLayerMultiplex_getChildrenCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

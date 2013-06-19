@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:insertChild(${1:CCSprite_*child},${2:unsigned_int_index})
-]]></content>
-    <tabTrigger>CCTMXLayer_insertChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

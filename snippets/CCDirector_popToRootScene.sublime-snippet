@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:popToRootScene(${1:})
-]]></content>
-    <tabTrigger>CCDirector:popToRootScene</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCDirector:popToRootScene</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCMotionStreak_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

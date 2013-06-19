@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteFrameCache:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCSpriteFrameCache_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setBlendFunc(${1:ccBlendFunc_var})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

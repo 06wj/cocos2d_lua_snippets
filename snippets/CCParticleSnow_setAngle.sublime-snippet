@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setAngle(${1:float_angle})
-]]></content>
-    <tabTrigger>CCParticleSnow_setAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRepeat:release()
-]]></content>
-    <tabTrigger>CCRepeat_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

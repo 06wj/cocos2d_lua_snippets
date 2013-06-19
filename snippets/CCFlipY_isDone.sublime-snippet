@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipY:isDone()
-]]></content>
-    <tabTrigger>CCFlipY_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:isCascadeColorEnabled(${1:})
-]]></content>
-    <tabTrigger>CCLayerRGBA:isCascadeColorEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:isCascadeColorEnabled</description>
-</snippet>
-

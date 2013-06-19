@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:setLifeVar(${1:float_lifeVar})
-]]></content>
-    <tabTrigger>CCParticleSun_setLifeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

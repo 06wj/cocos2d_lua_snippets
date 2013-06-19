@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressOutIn:getScheduler(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressOutIn_getScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

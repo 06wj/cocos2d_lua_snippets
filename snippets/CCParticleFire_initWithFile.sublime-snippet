@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:initWithFile(${1:const_char*_plistFile})
-]]></content>
-    <tabTrigger>CCParticleFire_initWithFile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

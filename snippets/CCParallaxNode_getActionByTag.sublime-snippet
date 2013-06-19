@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParallaxNode_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

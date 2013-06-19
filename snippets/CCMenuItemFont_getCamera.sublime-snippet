@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemFont_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

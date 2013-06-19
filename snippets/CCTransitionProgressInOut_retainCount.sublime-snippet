@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressInOut:retainCount()
-]]></content>
-    <tabTrigger>CCTransitionProgressInOut_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

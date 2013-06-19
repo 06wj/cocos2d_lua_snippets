@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:reverse()
-]]></content>
-    <tabTrigger>CCLiquid_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:registerScriptAccelerateHandler(${1:LUA_FUNCTION_nHandler})
-]]></content>
-    <tabTrigger>CCLayer_registerScriptAccelerateHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

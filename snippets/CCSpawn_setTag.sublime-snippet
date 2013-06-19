@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpawn:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCSpawn_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

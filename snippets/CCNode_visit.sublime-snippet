@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:visit()
-]]></content>
-    <tabTrigger>CCNode_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

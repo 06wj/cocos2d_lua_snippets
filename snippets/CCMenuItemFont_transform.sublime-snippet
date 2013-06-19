@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:transform()
-]]></content>
-    <tabTrigger>CCMenuItemFont_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

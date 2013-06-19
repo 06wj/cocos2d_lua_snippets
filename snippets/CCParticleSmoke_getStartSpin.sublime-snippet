@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:getStartSpin(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_getStartSpin</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

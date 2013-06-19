@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:getPositionY(${1:})
-]]></content>
-    <tabTrigger>CCScene_getPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setBatchNode(${1:CCParticleBatchNode*_node})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

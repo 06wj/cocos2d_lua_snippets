@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getSpeed(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

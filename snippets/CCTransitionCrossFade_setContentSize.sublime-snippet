@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:setContentSize(${1:const_CCSize_&_size})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_setContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

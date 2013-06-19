@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDelayTime:release()
-]]></content>
-    <tabTrigger>CCDelayTime_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

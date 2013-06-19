@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeUp:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCTransitionFadeUp_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

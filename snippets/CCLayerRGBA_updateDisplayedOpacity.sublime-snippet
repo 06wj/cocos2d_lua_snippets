@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:updateDisplayedOpacity(${1:GLubyte_parentOpacity})
-]]></content>
-    <tabTrigger>CCLayerRGBA:updateDisplayedOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:updateDisplayedOpacity</description>
-</snippet>
-

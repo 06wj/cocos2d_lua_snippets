@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:isFastMode(${1:})
-]]></content>
-    <tabTrigger>CCMotionStreak_isFastMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

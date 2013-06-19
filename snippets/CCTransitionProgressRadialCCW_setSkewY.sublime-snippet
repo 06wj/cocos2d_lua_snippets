@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

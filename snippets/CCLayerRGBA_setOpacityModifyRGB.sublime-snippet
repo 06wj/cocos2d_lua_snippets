@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:setOpacityModifyRGB(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCLayerRGBA:setOpacityModifyRGB</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:setOpacityModifyRGB</description>
-</snippet>
-

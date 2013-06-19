@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:getUserData(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_getUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

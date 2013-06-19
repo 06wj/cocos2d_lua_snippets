@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:getOpacity(${1:})
-]]></content>
-    <tabTrigger>CCLabelAtlas_getOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

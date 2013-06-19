@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDeccelAmplitude:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCDeccelAmplitude_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

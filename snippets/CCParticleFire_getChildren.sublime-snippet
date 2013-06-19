@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getChildren(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getChildren</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

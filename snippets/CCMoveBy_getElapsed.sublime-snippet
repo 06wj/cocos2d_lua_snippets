@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveBy:getElapsed()
-]]></content>
-    <tabTrigger>CCMoveBy_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

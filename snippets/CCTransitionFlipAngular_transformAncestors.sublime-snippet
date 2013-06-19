@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:transformAncestors()
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

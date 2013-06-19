@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:getActionManager(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_getActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

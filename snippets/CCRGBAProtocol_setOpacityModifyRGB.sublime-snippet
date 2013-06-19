@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:setOpacityModifyRGB(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCRGBAProtocol:setOpacityModifyRGB</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:setOpacityModifyRGB</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTwirl:retain()
-]]></content>
-    <tabTrigger>CCTwirl_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

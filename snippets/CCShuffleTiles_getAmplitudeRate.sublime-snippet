@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShuffleTiles:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCShuffleTiles_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

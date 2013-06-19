@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:getEmissionRate(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_getEmissionRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

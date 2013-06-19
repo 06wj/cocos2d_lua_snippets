@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setAutoRemoveOnFinish(${1:bool_var})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setAutoRemoveOnFinish</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

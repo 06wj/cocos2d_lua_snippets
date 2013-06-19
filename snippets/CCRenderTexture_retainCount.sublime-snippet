@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:retainCount()
-]]></content>
-    <tabTrigger>CCRenderTexture_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

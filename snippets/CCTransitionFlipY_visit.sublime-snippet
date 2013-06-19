@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipY:visit()
-]]></content>
-    <tabTrigger>CCTransitionFlipY_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

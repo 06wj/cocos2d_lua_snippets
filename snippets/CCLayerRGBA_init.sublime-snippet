@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:init(${1:})
-]]></content>
-    <tabTrigger>CCLayerRGBA:init</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:init</description>
-</snippet>
-

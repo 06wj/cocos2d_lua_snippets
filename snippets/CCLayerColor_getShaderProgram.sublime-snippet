@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:getShaderProgram(${1:})
-]]></content>
-    <tabTrigger>CCLayerColor_getShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

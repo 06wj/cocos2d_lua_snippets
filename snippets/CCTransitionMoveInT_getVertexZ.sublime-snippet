@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInT:getVertexZ(${1:})
-]]></content>
-    <tabTrigger>CCTransitionMoveInT_getVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

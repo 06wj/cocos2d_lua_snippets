@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRipple3D:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCRipple3D_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

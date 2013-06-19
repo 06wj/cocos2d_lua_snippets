@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:createWithTexture(${1:CCTexture2D_*pTexture},${2:CCRect_rect})
-]]></content>
-    <tabTrigger>CCSprite_createWithTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

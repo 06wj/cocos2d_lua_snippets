@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTilesetInfo:retainCount()
-]]></content>
-    <tabTrigger>CCTMXTilesetInfo_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTouch:release()
-]]></content>
-    <tabTrigger>CCTouch_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:resetSystem(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_resetSystem</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

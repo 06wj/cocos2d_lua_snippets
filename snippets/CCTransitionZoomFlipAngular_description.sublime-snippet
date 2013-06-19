@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:description()
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

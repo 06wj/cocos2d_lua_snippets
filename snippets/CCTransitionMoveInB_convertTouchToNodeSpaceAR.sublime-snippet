@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInB:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCTransitionMoveInB_convertTouchToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

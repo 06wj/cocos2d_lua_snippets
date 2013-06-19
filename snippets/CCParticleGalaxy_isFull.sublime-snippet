@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:isFull(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_isFull</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

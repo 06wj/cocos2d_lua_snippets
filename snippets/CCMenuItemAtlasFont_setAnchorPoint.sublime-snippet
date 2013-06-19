@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

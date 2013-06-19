@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:transform()
-]]></content>
-    <tabTrigger>CCParticleSun_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:getScaleY(${1:})
-]]></content>
-    <tabTrigger>CCTransitionScene_getScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

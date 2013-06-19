@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getAngleVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getAngleVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

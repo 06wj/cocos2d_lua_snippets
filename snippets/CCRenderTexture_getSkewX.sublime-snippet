@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCRenderTexture_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

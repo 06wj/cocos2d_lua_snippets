@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCRenderTexture_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

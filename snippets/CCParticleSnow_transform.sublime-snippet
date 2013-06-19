@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:transform()
-]]></content>
-    <tabTrigger>CCParticleSnow_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

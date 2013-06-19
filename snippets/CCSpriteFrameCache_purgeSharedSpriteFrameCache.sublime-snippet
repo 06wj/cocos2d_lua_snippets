@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteFrameCache:purgeSharedSpriteFrameCache()
-]]></content>
-    <tabTrigger>CCSpriteFrameCache_purgeSharedSpriteFrameCache</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

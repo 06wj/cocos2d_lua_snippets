@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCApplication:getCurrentLanguage(${1:})
-]]></content>
-    <tabTrigger>CCApplication_getCurrentLanguage</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

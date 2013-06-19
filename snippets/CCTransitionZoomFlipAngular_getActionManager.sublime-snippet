@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:getActionManager(${1:})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_getActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

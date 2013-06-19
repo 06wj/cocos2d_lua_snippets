@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeTR:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeTR_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

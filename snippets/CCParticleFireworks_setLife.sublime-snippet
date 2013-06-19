@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setLife(${1:float_life})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setLife</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

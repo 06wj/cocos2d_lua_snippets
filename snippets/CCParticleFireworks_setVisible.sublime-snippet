@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

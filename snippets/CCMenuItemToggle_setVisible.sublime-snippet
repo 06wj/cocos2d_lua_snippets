@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

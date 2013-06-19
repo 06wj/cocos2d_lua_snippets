@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewBy:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCSkewBy_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

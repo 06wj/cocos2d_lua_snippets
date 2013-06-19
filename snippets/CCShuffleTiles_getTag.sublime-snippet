@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShuffleTiles:getTag()
-]]></content>
-    <tabTrigger>CCShuffleTiles_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

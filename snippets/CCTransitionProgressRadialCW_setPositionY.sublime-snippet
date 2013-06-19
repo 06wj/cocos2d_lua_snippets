@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:setPositionY(${1:float_y})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_setPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

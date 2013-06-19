@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setLineBreakWithoutSpace(${1:bool_breakWithoutSpace})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setLineBreakWithoutSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

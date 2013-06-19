@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCAtlasNode_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

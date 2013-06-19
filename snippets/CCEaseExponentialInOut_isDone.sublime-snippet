@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseExponentialInOut:isDone()
-]]></content>
-    <tabTrigger>CCEaseExponentialInOut_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

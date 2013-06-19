@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInB:registerScriptHandler(${1:LUA_FUNCTION_funcID})
-]]></content>
-    <tabTrigger>CCTransitionSlideInB_registerScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFollow:copy(${1:})
-]]></content>
-    <tabTrigger>CCFollow_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

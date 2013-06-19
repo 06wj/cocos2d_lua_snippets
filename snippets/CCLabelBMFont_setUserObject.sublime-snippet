@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:nodeToParentTransform()
-]]></content>
-    <tabTrigger>CCTMXTiledMap_nodeToParentTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

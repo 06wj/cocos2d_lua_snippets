@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setAutoRemoveOnFinish(${1:bool_var})
-]]></content>
-    <tabTrigger>CCParticleSnow_setAutoRemoveOnFinish</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

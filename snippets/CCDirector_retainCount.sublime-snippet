@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:retainCount()
-]]></content>
-    <tabTrigger>CCDirector_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

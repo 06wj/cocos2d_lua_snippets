@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:setEndSpinVar(${1:float_var})
-]]></content>
-    <tabTrigger>CCParticleSpiral_setEndSpinVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

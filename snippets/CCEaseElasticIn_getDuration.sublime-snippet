@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElasticIn:getDuration()
-]]></content>
-    <tabTrigger>CCEaseElasticIn_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

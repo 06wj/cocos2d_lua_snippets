@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setStartRadiusVar(${1:float_startRadiusVar})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setStartRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

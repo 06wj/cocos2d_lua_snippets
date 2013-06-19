@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:retain()
-]]></content>
-    <tabTrigger>CCTMXLayer_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

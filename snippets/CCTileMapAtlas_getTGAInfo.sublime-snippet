@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:getTGAInfo(${1:})
-]]></content>
-    <tabTrigger>CCTileMapAtlas:getTGAInfo</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCTileMapAtlas:getTGAInfo</description>
-</snippet>
-

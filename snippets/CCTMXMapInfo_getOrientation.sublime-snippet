@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXMapInfo:getOrientation(${1:})
-]]></content>
-    <tabTrigger>CCTMXMapInfo_getOrientation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

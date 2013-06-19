@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

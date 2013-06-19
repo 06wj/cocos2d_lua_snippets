@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

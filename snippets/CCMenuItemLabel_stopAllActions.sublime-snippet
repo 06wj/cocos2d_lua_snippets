@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:stopAllActions()
-]]></content>
-    <tabTrigger>CCMenuItemLabel_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

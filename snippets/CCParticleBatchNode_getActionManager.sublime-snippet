@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:getActionManager(${1:})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_getActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

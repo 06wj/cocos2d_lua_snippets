@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCLabelTTF_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

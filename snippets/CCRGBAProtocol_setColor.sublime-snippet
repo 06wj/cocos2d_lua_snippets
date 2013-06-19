@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:setColor(${1:const_ccColor3B&_color})
-]]></content>
-    <tabTrigger>CCRGBAProtocol:setColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:setColor</description>
-</snippet>
-

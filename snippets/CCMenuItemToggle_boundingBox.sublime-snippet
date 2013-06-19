@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:boundingBox()
-]]></content>
-    <tabTrigger>CCMenuItemToggle_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

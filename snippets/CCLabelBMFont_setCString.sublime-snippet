@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setCString(${1:const_char_*label})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setCString</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

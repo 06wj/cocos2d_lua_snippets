@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

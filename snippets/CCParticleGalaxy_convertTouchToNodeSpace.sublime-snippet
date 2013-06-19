@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:convertTouchToNodeSpace(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_convertTouchToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

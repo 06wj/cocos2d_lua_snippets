@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFade:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionFade_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

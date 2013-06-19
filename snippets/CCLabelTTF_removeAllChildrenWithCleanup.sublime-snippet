@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCLabelTTF_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

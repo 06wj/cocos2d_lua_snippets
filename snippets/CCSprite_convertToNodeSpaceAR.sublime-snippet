@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
-]]></content>
-    <tabTrigger>CCSprite_convertToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

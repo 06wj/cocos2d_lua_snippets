@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:getVertexZ(${1:})
-]]></content>
-    <tabTrigger>CCPointArray_getVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

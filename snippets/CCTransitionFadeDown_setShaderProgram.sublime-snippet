@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_setShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getBlendFunc()
-]]></content>
-    <tabTrigger>CCParticleSnow_getBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

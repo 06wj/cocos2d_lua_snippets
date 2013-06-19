@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScheduler:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCScheduler_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

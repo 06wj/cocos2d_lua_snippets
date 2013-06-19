@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReverseTime:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCReverseTime_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

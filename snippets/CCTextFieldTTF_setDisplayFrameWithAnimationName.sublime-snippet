@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:setDisplayFrameWithAnimationName(${1:const_char_*animationName},${2:int_frameIndex})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_setDisplayFrameWithAnimationName</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

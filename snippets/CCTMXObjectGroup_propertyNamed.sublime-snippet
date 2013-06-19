@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXObjectGroup:propertyNamed(${1:const_char*_propertyName})
-]]></content>
-    <tabTrigger>CCTMXObjectGroup_propertyNamed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

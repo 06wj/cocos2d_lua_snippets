@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCParticleExplosion_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

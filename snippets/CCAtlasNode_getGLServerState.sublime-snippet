@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:getGLServerState()
-]]></content>
-    <tabTrigger>CCAtlasNode_getGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

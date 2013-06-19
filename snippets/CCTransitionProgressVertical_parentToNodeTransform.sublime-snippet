@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

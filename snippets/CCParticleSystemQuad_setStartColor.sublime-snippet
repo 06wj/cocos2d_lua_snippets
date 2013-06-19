@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setStartColor(${1:const_ccColor4F_var})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setStartColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

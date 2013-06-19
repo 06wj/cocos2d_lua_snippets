@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:isDirty()
-]]></content>
-    <tabTrigger>CCTextFieldTTF_isDirty</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

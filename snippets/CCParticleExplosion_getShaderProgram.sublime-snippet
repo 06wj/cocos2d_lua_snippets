@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getShaderProgram(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

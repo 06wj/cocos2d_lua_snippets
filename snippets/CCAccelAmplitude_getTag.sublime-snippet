@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelAmplitude:getTag()
-]]></content>
-    <tabTrigger>CCAccelAmplitude_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

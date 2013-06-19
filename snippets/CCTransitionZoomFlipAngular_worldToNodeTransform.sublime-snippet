@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:worldToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_worldToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXObjectGroup:release()
-]]></content>
-    <tabTrigger>CCTMXObjectGroup_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:copy(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

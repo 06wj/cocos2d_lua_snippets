@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:worldToNodeTransform()
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_worldToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

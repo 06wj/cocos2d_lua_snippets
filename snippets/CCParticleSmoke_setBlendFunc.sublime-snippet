@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setBlendFunc(${1:ccBlendFunc_var})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

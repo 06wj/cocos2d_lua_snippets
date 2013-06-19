@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-SimpleAudioEngine:pauseAllEffects(${1:})
-]]></content>
-    <tabTrigger>SimpleAudioEngine:pauseAllEffects</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SimpleAudioEngine:pauseAllEffects</description>
-</snippet>
-

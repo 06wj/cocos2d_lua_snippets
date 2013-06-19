@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitCols:tile(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCSplitCols_tile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

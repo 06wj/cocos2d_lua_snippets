@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipY:isSingleReference()
-]]></content>
-    <tabTrigger>CCFlipY_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

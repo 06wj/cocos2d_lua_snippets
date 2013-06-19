@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressFromTo:copy(${1:})
-]]></content>
-    <tabTrigger>CCProgressFromTo_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

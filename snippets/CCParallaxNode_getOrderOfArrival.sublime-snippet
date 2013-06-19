@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCParallaxNode_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

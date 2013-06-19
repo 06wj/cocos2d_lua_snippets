@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTimer:visit()
-]]></content>
-    <tabTrigger>CCProgressTimer_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

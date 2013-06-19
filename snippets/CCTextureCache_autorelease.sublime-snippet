@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureCache:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCTextureCache_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

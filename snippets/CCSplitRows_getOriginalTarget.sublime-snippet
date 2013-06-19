@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitRows:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCSplitRows_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

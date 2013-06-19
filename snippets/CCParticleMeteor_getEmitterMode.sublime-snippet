@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:getEmitterMode(${1:})
-]]></content>
-    <tabTrigger>CCParticleMeteor_getEmitterMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

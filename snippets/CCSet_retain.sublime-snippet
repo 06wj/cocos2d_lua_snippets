@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSet:retain()
-]]></content>
-    <tabTrigger>CCSet_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

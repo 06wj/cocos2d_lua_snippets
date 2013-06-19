@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSequence:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCSequence_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

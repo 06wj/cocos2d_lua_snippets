@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:transformAncestors()
-]]></content>
-    <tabTrigger>CCTMXLayer_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

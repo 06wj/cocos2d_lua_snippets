@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:transform()
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

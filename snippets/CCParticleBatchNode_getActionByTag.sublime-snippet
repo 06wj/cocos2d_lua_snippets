@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpBy:retain()
-]]></content>
-    <tabTrigger>CCJumpBy_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

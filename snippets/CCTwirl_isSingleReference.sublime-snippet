@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTwirl:isSingleReference()
-]]></content>
-    <tabTrigger>CCTwirl_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

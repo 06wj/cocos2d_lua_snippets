@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:setStartRadius(${1:float_startRadius})
-]]></content>
-    <tabTrigger>CCParticleRain_setStartRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

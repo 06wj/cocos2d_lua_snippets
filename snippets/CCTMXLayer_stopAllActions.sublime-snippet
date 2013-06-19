@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:stopAllActions()
-]]></content>
-    <tabTrigger>CCTMXLayer_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

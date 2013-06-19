@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getColor()
-]]></content>
-    <tabTrigger>CCSprite_getColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

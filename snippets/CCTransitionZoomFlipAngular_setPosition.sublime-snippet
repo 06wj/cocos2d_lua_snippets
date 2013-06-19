@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

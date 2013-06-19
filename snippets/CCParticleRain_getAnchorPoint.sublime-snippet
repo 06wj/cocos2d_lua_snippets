@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getAnchorPoint(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

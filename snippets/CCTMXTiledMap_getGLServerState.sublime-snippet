@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:getGLServerState()
-]]></content>
-    <tabTrigger>CCTMXTiledMap_getGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

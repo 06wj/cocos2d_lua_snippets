@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeIn:retain()
-]]></content>
-    <tabTrigger>CCFadeIn_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

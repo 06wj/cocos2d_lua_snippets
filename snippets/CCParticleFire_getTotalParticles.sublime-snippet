@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getTotalParticles(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getTotalParticles</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

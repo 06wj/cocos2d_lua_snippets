@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:setStartRadius(${1:float_startRadius})
-]]></content>
-    <tabTrigger>CCParticleFire_setStartRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

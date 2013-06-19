@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionScene_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

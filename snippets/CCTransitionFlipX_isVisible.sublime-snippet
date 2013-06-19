@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:isVisible(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_isVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

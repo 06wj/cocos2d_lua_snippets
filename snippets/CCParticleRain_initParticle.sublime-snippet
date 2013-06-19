@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:initParticle(${1:tCCParticle*_particle})
-]]></content>
-    <tabTrigger>CCParticleRain_initParticle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

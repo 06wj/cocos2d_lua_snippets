@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:getSkewY(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemLabel_getSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

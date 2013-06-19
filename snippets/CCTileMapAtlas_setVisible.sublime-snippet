@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTileMapAtlas_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

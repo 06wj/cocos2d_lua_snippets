@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getStartColorVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_getStartColorVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

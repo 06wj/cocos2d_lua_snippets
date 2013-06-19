@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

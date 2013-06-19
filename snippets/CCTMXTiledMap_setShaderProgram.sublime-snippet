@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
-]]></content>
-    <tabTrigger>CCTMXTiledMap_setShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

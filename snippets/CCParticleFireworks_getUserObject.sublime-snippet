@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getUserObject(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

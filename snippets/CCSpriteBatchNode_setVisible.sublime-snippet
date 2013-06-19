@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

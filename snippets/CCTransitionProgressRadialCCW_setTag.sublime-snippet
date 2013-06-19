@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:setTag(${1:int_var})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

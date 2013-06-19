@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setEndRadiusVar(${1:float_endRadiusVar})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setEndRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

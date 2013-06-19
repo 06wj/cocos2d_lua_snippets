@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:getTexture()
-]]></content>
-    <tabTrigger>CCParticleMeteor_getTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

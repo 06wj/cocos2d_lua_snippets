@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCTMXLayer_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

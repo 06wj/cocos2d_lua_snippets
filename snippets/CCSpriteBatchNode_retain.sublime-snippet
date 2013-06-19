@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:retain()
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

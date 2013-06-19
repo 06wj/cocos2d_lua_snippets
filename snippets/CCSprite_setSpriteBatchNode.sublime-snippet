@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:setSpriteBatchNode(${1:CCSpriteBatchNode_*pobSpriteBatchNode})
-]]></content>
-    <tabTrigger>CCSprite:setSpriteBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite:setSpriteBatchNode</description>
-</snippet>
-

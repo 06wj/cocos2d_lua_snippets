@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCParticleSpiral_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

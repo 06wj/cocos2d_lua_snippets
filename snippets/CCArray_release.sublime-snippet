@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCArray:release()
-]]></content>
-    <tabTrigger>CCArray_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

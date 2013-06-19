@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionEase:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCActionEase_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:clear(${1:float_r},${2:float_g},${3:float_b},${4:float_a})
-]]></content>
-    <tabTrigger>CCRenderTexture_clear</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

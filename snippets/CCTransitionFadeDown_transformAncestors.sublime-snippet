@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:transformAncestors()
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

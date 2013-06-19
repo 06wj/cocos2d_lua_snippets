@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:isFull(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_isFull</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

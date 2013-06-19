@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTimer:getPositionY(${1:})
-]]></content>
-    <tabTrigger>CCProgressTimer_getPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

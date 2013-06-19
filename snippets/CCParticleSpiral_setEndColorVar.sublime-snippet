@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:setEndColorVar(${1:const_ccColor4F_var})
-]]></content>
-    <tabTrigger>CCParticleSpiral_setEndColorVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

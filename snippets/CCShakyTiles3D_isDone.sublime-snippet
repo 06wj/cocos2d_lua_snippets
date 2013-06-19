@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShakyTiles3D:isDone()
-]]></content>
-    <tabTrigger>CCShakyTiles3D_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:addControlPoint(${1:CCPoint_controlPoint})
-]]></content>
-    <tabTrigger>CCPointArray_addControlPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

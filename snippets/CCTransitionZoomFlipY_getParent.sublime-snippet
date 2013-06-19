@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipY:getParent(${1:})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipY_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

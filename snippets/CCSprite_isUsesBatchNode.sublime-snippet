@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:isUsesBatchNode()
-]]></content>
-    <tabTrigger>CCSprite:isUsesBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite:isUsesBatchNode</description>
-</snippet>
-

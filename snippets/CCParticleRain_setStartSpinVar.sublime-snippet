@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:setStartSpinVar(${1:float_var})
-]]></content>
-    <tabTrigger>CCParticleRain_setStartSpinVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCTextFieldTTF_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

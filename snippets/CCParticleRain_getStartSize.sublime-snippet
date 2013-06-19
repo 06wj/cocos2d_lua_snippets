@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getStartSize(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getStartSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

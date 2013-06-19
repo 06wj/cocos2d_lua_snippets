@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOut:getTag()
-]]></content>
-    <tabTrigger>CCFadeOut_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

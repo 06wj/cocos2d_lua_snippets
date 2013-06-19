@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:createWithTexture(${1:CCTexture2D_*pTexture},${2:CCRect_rect})
-]]></content>
-    <tabTrigger>CCLabelTTF_createWithTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

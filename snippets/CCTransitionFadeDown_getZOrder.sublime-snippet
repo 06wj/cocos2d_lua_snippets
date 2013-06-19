@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:getZOrder(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_getZOrder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

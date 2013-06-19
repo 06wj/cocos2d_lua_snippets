@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionJumpZoom:getShaderProgram(${1:})
-]]></content>
-    <tabTrigger>CCTransitionJumpZoom_getShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

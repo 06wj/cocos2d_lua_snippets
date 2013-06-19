@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:getZOrder(${1:})
-]]></content>
-    <tabTrigger>CCTMXLayer_getZOrder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInT:removeFromParentAndCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionSlideInT_removeFromParentAndCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

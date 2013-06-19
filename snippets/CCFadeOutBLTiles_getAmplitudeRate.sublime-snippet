@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutBLTiles:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCFadeOutBLTiles_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

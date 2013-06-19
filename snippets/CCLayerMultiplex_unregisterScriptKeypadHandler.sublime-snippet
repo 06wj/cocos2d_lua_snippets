@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerMultiplex:unregisterScriptKeypadHandler()
-]]></content>
-    <tabTrigger>CCLayerMultiplex_unregisterScriptKeypadHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

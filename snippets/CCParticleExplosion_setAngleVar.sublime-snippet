@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setAngleVar(${1:float_angle})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setAngleVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

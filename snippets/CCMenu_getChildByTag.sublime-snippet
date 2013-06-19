@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCMenu_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipX:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipX_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

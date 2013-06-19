@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-SimpleAudioEngine:playEffect(${1:const_char*_pszFilePath},${2:bool_bLoop_=_false})
-]]></content>
-    <tabTrigger>SimpleAudioEngine_playEffect</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

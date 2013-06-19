@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCBezierBy:getElapsed()
-]]></content>
-    <tabTrigger>CCBezierBy_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPlace:reverse()
-]]></content>
-    <tabTrigger>CCPlace_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

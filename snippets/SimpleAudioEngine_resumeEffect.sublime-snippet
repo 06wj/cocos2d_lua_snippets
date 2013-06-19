@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-SimpleAudioEngine:resumeEffect(${1:unsigned_int_nSoundId})
-]]></content>
-    <tabTrigger>SimpleAudioEngine:resumeEffect</tabTrigger>
-    <scope>source.lua</scope>
-    <description>SimpleAudioEngine:resumeEffect</description>
-</snippet>
-

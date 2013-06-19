@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInL:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCTransitionMoveInL_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

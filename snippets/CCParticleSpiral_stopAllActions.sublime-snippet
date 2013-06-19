@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:stopAllActions()
-]]></content>
-    <tabTrigger>CCParticleSpiral_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

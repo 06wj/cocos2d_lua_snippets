@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:stopActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParticleSun_stopActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

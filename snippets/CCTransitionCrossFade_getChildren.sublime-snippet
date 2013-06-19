@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:getChildren(${1:})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_getChildren</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

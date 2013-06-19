@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setDisplayFrame(${1:CCSpriteFrame*_spriteFrame})
-]]></content>
-    <tabTrigger>CCParticleFlower_setDisplayFrame</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

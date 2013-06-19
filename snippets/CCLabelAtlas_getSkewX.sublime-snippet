@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:getSkewX(${1:})
-]]></content>
-    <tabTrigger>CCLabelAtlas_getSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

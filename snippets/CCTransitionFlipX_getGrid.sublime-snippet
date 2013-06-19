@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

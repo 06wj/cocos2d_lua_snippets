@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

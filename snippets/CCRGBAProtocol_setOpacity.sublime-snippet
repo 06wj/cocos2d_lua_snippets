@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:setOpacity(${1:GLubyte_opacity})
-]]></content>
-    <tabTrigger>CCRGBAProtocol:setOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:setOpacity</description>
-</snippet>
-

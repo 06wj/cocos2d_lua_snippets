@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpBy:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCJumpBy_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

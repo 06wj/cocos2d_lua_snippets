@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:getDisplayedColor(${1:})
-]]></content>
-    <tabTrigger>CCLayerRGBA:getDisplayedColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:getDisplayedColor</description>
-</snippet>
-

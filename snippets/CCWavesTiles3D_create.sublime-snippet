@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWavesTiles3D:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCWavesTiles3D_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

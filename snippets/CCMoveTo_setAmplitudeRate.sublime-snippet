@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveTo:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCMoveTo_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

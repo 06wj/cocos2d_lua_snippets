@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

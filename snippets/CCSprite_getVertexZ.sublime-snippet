@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getVertexZ(${1:})
-]]></content>
-    <tabTrigger>CCSprite_getVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

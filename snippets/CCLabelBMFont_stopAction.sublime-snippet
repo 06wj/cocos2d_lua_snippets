@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCLabelBMFont_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

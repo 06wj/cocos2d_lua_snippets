@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

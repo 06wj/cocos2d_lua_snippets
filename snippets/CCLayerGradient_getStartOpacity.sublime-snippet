@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:getStartOpacity()
-]]></content>
-    <tabTrigger>CCLayerGradient_getStartOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

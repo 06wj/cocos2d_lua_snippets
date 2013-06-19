@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:nodeToParentTransform()
-]]></content>
-    <tabTrigger>CCParallaxNode_nodeToParentTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

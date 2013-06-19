@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCParallaxNode_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

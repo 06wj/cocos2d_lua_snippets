@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getScale(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

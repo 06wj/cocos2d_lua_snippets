@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:setTangentialAccel(${1:float_t})
-]]></content>
-    <tabTrigger>CCParticleSpiral_setTangentialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:release()
-]]></content>
-    <tabTrigger>CCTransitionScene_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

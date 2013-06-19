@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

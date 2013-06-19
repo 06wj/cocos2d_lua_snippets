@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewTo:isSingleReference()
-]]></content>
-    <tabTrigger>CCSkewTo_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

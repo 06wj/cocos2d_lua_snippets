@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCParticleFire_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

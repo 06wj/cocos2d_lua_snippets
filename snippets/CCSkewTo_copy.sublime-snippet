@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewTo:copy(${1:})
-]]></content>
-    <tabTrigger>CCSkewTo_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

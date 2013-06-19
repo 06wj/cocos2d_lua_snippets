@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:setOpacity(${1:GLubyte_var})
-]]></content>
-    <tabTrigger>CCLayerGradient_setOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

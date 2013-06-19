@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:retain()
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

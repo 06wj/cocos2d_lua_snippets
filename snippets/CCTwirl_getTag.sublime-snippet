@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTwirl:getTag()
-]]></content>
-    <tabTrigger>CCTwirl_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

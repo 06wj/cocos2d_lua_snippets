@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getParent(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

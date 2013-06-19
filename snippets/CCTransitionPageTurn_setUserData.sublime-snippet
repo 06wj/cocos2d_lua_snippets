@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

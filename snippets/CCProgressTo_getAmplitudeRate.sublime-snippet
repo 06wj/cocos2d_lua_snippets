@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTo:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCProgressTo_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

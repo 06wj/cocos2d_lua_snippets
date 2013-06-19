@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipX:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipX_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

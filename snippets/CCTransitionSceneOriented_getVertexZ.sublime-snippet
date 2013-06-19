@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSceneOriented:getVertexZ(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSceneOriented_getVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

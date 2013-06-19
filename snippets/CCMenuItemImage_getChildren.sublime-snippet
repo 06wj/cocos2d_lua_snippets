@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:getChildren(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemImage_getChildren</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

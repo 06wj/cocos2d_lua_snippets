@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRepeat:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCRepeat_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

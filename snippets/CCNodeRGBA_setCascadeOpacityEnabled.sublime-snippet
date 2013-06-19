@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNodeRGBA:setCascadeOpacityEnabled(${1:bool_cascadeOpacityEnabled})
-]]></content>
-    <tabTrigger>CCNodeRGBA:setCascadeOpacityEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNodeRGBA:setCascadeOpacityEnabled</description>
-</snippet>
-

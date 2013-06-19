@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressInOut:setTag(${1:int_var})
-]]></content>
-    <tabTrigger>CCTransitionProgressInOut_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

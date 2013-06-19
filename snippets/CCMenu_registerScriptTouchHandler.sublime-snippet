@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:registerScriptTouchHandler(${1:LUA_FUNCTION_nHandler},${2:bool_bIsMultiTouches_=_false},${3:int_nPriority_=_0},${4:bool_bSwallowsTouches_=_false})
-]]></content>
-    <tabTrigger>CCMenu_registerScriptTouchHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

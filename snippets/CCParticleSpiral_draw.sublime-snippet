@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:draw()
-]]></content>
-    <tabTrigger>CCParticleSpiral_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

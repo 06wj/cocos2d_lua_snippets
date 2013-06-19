@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelAmplitude:retain()
-]]></content>
-    <tabTrigger>CCAccelAmplitude_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleBy:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCScaleBy_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

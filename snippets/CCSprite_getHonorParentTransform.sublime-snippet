@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getHonorParentTransform()
-]]></content>
-    <tabTrigger>CCSprite:getHonorParentTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite:getHonorParentTransform</description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setActionManager(${1:CCActionManager*_pActionMgr})
-]]></content>
-    <tabTrigger>CCParticleFlower_setActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

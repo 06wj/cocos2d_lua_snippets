@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getRadialAccel(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getRadialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

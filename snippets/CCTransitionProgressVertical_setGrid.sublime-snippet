@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:setGrid(${1:CCGridBase*_pGrid})
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_setGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

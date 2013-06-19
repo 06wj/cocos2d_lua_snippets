@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpTo:copy(${1:})
-]]></content>
-    <tabTrigger>CCJumpTo_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

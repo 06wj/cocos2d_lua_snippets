@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

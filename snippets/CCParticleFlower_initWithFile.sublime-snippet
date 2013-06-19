@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:initWithFile(${1:const_char*_plistFile})
-]]></content>
-    <tabTrigger>CCParticleFlower_initWithFile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

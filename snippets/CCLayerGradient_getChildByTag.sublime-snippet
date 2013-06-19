@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCLayerGradient_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

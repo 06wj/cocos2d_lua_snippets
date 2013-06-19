@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTexture2D:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTexture2D_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

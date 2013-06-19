@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getParent(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

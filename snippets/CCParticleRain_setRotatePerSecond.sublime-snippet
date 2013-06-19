@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:setRotatePerSecond(${1:float_degrees})
-]]></content>
-    <tabTrigger>CCParticleRain_setRotatePerSecond</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

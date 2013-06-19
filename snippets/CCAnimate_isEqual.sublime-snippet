@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAnimate:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCAnimate_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

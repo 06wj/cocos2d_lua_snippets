@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpBy:isSingleReference()
-]]></content>
-    <tabTrigger>CCJumpBy_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeUp:retain()
-]]></content>
-    <tabTrigger>CCTransitionFadeUp_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

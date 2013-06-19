@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCScene_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

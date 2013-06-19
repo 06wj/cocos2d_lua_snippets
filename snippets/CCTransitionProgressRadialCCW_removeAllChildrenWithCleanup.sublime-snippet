@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

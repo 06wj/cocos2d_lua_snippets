@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTimer:timerWithScriptHandler(${1:LUA_FUNCTION_funcID},${2:float_fSeconds})
-]]></content>
-    <tabTrigger>CCTimer_timerWithScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

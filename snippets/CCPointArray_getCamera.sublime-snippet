@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:getCamera(${1:})
-]]></content>
-    <tabTrigger>CCPointArray_getCamera</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

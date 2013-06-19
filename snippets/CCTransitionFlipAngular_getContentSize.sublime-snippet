@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:getContentSize(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_getContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRipple3D:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCRipple3D_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

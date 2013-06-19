@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:getDisabledColor(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_getDisabledColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

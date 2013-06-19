@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:removeChild(${1:CCNode*_child},${2:bool_cleanup})
-]]></content>
-    <tabTrigger>CCLayer_removeChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

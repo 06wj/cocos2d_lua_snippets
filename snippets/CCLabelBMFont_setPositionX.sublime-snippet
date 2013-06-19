@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

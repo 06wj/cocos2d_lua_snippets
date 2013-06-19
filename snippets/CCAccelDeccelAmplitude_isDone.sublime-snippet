@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelDeccelAmplitude:isDone()
-]]></content>
-    <tabTrigger>CCAccelDeccelAmplitude_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

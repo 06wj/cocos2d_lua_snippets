@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemImage_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

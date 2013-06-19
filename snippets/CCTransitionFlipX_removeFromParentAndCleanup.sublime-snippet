@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:removeFromParentAndCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_removeFromParentAndCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

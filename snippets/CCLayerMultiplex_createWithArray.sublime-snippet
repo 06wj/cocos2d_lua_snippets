@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerMultiplex:createWithArray(${1:CCArray*_arrayOfLayers})
-]]></content>
-    <tabTrigger>CCLayerMultiplex:createWithArray</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerMultiplex:createWithArray</description>
-</snippet>
-

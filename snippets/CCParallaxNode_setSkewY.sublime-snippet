@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCParallaxNode_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

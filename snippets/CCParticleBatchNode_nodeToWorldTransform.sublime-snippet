@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:nodeToWorldTransform()
-]]></content>
-    <tabTrigger>CCParticleBatchNode_nodeToWorldTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

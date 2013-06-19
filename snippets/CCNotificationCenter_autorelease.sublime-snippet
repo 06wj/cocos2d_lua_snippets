@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNotificationCenter:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCNotificationCenter_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

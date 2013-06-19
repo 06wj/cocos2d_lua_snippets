@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCLabelAtlas_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

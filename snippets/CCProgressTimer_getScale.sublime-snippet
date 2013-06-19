@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTimer:getScale(${1:})
-]]></content>
-    <tabTrigger>CCProgressTimer_getScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

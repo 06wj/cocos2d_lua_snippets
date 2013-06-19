@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:stopActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_stopActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

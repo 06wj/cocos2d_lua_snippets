@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCallFuncN:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCCallFuncN_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

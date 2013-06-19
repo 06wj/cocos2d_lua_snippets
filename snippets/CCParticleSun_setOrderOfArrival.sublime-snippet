@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCParticleSun_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

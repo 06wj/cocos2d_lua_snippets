@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setPosVar(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setPosVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

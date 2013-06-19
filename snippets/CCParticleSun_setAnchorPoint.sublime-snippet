@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCParticleSun_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

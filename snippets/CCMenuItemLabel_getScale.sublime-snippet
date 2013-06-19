@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:getScale(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemLabel_getScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

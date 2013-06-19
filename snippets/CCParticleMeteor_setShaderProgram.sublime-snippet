@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

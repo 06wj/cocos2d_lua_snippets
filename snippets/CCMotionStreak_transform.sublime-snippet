@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:transform()
-]]></content>
-    <tabTrigger>CCMotionStreak_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

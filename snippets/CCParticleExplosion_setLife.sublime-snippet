@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setLife(${1:float_life})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setLife</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getScheduler(${1:})
-]]></content>
-    <tabTrigger>CCSprite_getScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

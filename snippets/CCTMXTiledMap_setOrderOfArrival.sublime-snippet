@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCTMXTiledMap_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

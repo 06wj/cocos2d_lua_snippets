@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAction:create(${1:})
-]]></content>
-    <tabTrigger>CCAction:create</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCAction:create</description>
-</snippet>
-

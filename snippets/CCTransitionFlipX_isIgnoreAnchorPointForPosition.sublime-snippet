@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

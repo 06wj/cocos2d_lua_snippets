@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getPositionX(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

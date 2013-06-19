@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getDuration(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

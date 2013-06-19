@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:getGLServerState()
-]]></content>
-    <tabTrigger>CCMenuItemImage_getGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

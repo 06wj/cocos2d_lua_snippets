@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:unregisterScriptKeypadHandler()
-]]></content>
-    <tabTrigger>CCLayerColor_unregisterScriptKeypadHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

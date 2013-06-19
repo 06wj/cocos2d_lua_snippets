@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:getActionManager(${1:})
-]]></content>
-    <tabTrigger>CCDirector_getActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

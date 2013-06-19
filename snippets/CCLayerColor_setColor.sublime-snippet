@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:setColor(${1:ccColor3B_Value})
-]]></content>
-    <tabTrigger>CCLayerColor_setColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

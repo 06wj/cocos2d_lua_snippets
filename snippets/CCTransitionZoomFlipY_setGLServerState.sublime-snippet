@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipY:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipY_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

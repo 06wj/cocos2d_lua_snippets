@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitRows:release()
-]]></content>
-    <tabTrigger>CCSplitRows_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

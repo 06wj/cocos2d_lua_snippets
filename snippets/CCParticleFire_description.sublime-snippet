@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:description()
-]]></content>
-    <tabTrigger>CCParticleFire_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

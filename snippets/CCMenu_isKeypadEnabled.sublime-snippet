@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:isKeypadEnabled(${1:})
-]]></content>
-    <tabTrigger>CCMenu_isKeypadEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

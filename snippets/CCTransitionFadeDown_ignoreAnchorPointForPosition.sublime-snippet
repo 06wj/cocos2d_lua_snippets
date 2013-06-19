@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:ignoreAnchorPointForPosition(${1:bool_newValue})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_ignoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

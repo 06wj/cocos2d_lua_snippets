@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionJumpZoom:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionJumpZoom_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

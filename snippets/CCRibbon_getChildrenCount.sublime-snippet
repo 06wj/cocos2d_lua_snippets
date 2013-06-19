@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:getChildrenCount()
-]]></content>
-    <tabTrigger>CCRibbon_getChildrenCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

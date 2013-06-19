@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressInOut:getShaderProgram(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressInOut_getShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

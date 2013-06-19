@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:setSkewX(${1:float_skewX})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_setSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

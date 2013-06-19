@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:useSelfRender()
-]]></content>
-    <tabTrigger>CCSprite:useSelfRender</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite:useSelfRender</description>
-</snippet>
-

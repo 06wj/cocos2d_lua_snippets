@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:changeWidth(${1:GLfloat_w})
-]]></content>
-    <tabTrigger>CCLayerGradient_changeWidth</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

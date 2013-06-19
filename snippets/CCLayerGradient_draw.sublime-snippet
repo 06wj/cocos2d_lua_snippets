@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:draw()
-]]></content>
-    <tabTrigger>CCLayerGradient_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

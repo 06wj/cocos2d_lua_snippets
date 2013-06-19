@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:isTouchEnabled(${1:})
-]]></content>
-    <tabTrigger>CCLayerColor_isTouchEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

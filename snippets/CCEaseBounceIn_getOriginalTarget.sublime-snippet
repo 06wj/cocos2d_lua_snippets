@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceIn:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCEaseBounceIn_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

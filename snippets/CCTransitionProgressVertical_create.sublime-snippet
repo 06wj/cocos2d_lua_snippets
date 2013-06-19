@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:create()
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

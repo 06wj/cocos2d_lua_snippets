@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureCache:retain()
-]]></content>
-    <tabTrigger>CCTextureCache_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

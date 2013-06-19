@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShakyTiles3D:getGrid()
-]]></content>
-    <tabTrigger>CCShakyTiles3D_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

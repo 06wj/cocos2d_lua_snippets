@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCardinalSplineBy:isDone()
-]]></content>
-    <tabTrigger>CCCardinalSplineBy_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

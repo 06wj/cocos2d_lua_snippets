@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElasticIn:retain()
-]]></content>
-    <tabTrigger>CCEaseElasticIn_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

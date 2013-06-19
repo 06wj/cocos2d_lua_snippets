@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRotateBy:release()
-]]></content>
-    <tabTrigger>CCRotateBy_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

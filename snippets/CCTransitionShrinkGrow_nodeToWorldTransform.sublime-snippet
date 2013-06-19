@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:nodeToWorldTransform()
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_nodeToWorldTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

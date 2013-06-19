@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

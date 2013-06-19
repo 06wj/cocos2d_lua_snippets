@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWavesTiles3D:isDone()
-]]></content>
-    <tabTrigger>CCWavesTiles3D_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

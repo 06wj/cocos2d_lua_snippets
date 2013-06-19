@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:clearDepth(${1:float_depthValue})
-]]></content>
-    <tabTrigger>CCRenderTexture_clearDepth</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

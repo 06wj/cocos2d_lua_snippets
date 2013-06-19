@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRGBAProtocol:getColor()
-]]></content>
-    <tabTrigger>CCRGBAProtocol:getColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRGBAProtocol:getColor</description>
-</snippet>
-

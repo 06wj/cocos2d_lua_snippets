@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceInOut:getElapsed()
-]]></content>
-    <tabTrigger>CCEaseBounceInOut_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

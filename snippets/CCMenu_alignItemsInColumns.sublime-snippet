@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:alignItemsInColumns(${1:unsigned_int_columns},${2:va_list_args})
-]]></content>
-    <tabTrigger>CCMenu:alignItemsInColumns</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCMenu:alignItemsInColumns</description>
-</snippet>
-

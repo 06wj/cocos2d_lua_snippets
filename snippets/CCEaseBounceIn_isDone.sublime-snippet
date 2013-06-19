@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceIn:isDone()
-]]></content>
-    <tabTrigger>CCEaseBounceIn_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

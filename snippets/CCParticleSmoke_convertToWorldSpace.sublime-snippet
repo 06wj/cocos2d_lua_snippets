@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:convertToWorldSpace(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCParticleSmoke_convertToWorldSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

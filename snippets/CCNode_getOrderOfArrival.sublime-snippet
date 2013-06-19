@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCNode_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

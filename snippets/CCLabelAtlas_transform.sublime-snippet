@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:transform()
-]]></content>
-    <tabTrigger>CCLabelAtlas_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

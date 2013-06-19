@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getEndSpinVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_getEndSpinVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

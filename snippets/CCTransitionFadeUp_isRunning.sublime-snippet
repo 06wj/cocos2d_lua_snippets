@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeUp:isRunning(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeUp_isRunning</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

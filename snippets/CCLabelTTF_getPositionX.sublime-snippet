@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:getPositionX(${1:})
-]]></content>
-    <tabTrigger>CCLabelTTF_getPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

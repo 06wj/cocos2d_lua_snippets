@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCatmullRomTo:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCCatmullRomTo_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

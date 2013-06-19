@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTurnOffTiles:getDuration()
-]]></content>
-    <tabTrigger>CCTurnOffTiles_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

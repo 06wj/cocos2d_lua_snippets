@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

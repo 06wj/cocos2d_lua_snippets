@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:setPositionY(${1:float_y})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_setPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

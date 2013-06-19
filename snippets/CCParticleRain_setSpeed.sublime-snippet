@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:setSpeed(${1:float_speed})
-]]></content>
-    <tabTrigger>CCParticleRain_setSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:setContentSize(${1:const_CCSize_&_size})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_setContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgress:transform()
-]]></content>
-    <tabTrigger>CCTransitionProgress_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

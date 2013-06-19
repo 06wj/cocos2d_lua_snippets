@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCallFunc:getDuration()
-]]></content>
-    <tabTrigger>CCCallFunc_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:stopSystem(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_stopSystem</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCParticleFlower_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

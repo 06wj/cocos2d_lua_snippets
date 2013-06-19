@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:getScheduler(${1:})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_getScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

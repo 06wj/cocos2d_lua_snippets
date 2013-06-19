@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemSprite:setScaleX(${1:float_newScaleX})
-]]></content>
-    <tabTrigger>CCMenuItemSprite_setScaleX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

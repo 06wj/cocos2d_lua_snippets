@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:getChildrenCount()
-]]></content>
-    <tabTrigger>CCLayerColor_getChildrenCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

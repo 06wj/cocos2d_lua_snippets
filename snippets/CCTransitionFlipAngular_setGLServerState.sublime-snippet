@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

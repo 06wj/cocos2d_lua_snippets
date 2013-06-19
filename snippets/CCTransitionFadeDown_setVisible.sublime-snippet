@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:getVertexZ(${1:})
-]]></content>
-    <tabTrigger>CCAtlasNode_getVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

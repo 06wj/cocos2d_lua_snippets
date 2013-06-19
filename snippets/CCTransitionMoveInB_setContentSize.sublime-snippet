@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInB:setContentSize(${1:const_CCSize_&_size})
-]]></content>
-    <tabTrigger>CCTransitionMoveInB_setContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

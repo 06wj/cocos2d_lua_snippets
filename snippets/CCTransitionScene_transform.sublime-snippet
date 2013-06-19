@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:transform()
-]]></content>
-    <tabTrigger>CCTransitionScene_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

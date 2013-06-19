@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSceneOriented:isRunning(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSceneOriented_isRunning</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

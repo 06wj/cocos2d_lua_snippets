@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

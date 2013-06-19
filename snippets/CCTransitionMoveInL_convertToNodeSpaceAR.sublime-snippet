@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInL:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
-]]></content>
-    <tabTrigger>CCTransitionMoveInL_convertToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

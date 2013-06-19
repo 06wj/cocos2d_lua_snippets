@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:isActive(${1:})
-]]></content>
-    <tabTrigger>CCParticleMeteor_isActive</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

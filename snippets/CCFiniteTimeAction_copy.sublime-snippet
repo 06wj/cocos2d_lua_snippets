@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFiniteTimeAction:copy(${1:})
-]]></content>
-    <tabTrigger>CCFiniteTimeAction_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

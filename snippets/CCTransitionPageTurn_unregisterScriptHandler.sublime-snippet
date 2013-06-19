@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:unregisterScriptHandler()
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_unregisterScriptHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

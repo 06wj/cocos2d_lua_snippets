@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:setColorSpaceHolder(${1:ccColor3B_val})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_setColorSpaceHolder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCHide:copy(${1:})
-]]></content>
-    <tabTrigger>CCHide_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

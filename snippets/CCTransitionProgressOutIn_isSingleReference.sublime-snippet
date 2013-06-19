@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressOutIn:isSingleReference()
-]]></content>
-    <tabTrigger>CCTransitionProgressOutIn_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

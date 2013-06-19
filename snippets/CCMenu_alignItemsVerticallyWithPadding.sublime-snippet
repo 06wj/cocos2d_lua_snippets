@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:alignItemsVerticallyWithPadding(${1:float_padding})
-]]></content>
-    <tabTrigger>CCMenu_alignItemsVerticallyWithPadding</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

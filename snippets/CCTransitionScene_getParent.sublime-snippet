@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:getParent(${1:})
-]]></content>
-    <tabTrigger>CCTransitionScene_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

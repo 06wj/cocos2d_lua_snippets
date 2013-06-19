@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTargetedAction:getDuration()
-]]></content>
-    <tabTrigger>CCTargetedAction_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

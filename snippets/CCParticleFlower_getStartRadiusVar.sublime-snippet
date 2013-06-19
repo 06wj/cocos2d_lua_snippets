@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getStartRadiusVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getStartRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

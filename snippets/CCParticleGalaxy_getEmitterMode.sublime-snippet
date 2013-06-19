@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:getEmitterMode(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_getEmitterMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

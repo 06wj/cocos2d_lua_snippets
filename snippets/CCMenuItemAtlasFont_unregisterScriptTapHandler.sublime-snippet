@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:unregisterScriptTapHandler()
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_unregisterScriptTapHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

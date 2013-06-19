@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressInOut:setScaleX(${1:float_newScaleX})
-]]></content>
-    <tabTrigger>CCTransitionProgressInOut_setScaleX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

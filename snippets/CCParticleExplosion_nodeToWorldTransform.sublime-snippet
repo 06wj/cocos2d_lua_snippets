@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:nodeToWorldTransform()
-]]></content>
-    <tabTrigger>CCParticleExplosion_nodeToWorldTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setGravity(${1:const_CCPoint&_g})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setGravity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

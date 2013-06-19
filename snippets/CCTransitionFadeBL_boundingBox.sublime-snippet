@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:boundingBox()
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

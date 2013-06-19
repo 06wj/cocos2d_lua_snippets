@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_convertToWorldSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

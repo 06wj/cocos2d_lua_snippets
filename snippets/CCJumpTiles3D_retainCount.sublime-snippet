@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpTiles3D:retainCount()
-]]></content>
-    <tabTrigger>CCJumpTiles3D_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

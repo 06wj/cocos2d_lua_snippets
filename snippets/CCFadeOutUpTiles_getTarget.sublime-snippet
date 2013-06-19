@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutUpTiles:getTarget()
-]]></content>
-    <tabTrigger>CCFadeOutUpTiles_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

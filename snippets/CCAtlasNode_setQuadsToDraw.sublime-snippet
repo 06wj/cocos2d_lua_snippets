@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:setQuadsToDraw(${1:unsigned_int_quadsToDraw})
-]]></content>
-    <tabTrigger>CCAtlasNode_setQuadsToDraw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

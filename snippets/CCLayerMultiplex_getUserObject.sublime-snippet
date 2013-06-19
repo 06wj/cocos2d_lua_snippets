@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerMultiplex:getUserObject(${1:})
-]]></content>
-    <tabTrigger>CCLayerMultiplex_getUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

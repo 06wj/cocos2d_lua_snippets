@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPageTurn3D:copy(${1:})
-]]></content>
-    <tabTrigger>CCPageTurn3D_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

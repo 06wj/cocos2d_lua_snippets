@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-SimpleAudioEngine:unloadEffect(${1:const_char*_pszFilePath})
-]]></content>
-    <tabTrigger>SimpleAudioEngine_unloadEffect</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

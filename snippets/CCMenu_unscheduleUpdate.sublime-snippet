@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCMenu_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

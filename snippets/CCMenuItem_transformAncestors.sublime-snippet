@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItem:transformAncestors()
-]]></content>
-    <tabTrigger>CCMenuItem_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:setActionManager(${1:CCActionManager*_pActionMgr})
-]]></content>
-    <tabTrigger>CCMenuItemLabel_setActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

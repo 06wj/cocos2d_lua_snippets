@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipX3D:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCFlipX3D_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleTo:release()
-]]></content>
-    <tabTrigger>CCScaleTo_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

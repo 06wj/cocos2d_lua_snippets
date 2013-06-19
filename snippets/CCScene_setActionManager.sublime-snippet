@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:setActionManager(${1:CCActionManager*_pActionMgr})
-]]></content>
-    <tabTrigger>CCScene_setActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

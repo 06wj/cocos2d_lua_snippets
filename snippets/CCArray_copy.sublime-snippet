@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCArray:copy(${1:})
-]]></content>
-    <tabTrigger>CCArray_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

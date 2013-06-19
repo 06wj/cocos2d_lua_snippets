@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTiledGrid3DAction:getElapsed()
-]]></content>
-    <tabTrigger>CCTiledGrid3DAction_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

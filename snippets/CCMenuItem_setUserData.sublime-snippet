@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItem:setUserData(${1:void_*var})
-]]></content>
-    <tabTrigger>CCMenuItem_setUserData</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

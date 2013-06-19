@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:setOpacity(${1:GLubyte_opacity})
-]]></content>
-    <tabTrigger>CCLabelTTF_setOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

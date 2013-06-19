@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

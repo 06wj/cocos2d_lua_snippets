@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:boundingBox()
-]]></content>
-    <tabTrigger>CCParticleSun_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScheduler:retainCount()
-]]></content>
-    <tabTrigger>CCScheduler_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

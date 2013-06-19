@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCRibbon_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

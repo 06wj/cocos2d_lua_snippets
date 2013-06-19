@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:convertToWorldSpace(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_convertToWorldSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

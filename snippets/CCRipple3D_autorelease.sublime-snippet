@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRipple3D:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCRipple3D_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

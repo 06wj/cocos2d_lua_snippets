@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitRows:description()
-]]></content>
-    <tabTrigger>CCTransitionSplitRows_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

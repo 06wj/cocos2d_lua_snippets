@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getStartSpin(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getStartSpin</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

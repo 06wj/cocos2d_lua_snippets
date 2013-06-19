@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getStartRadius(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getStartRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

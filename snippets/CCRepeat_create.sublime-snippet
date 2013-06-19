@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRepeat:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCRepeat_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

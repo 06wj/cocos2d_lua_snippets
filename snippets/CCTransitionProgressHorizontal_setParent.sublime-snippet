@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

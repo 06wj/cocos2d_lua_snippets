@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCAtlasNode_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

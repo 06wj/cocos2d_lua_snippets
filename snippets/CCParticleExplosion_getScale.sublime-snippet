@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getScale(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

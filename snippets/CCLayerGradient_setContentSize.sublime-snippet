@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:setContentSize(${1:const_CCSize_&_size})
-]]></content>
-    <tabTrigger>CCLayerGradient_setContentSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

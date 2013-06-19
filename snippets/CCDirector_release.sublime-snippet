@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:release()
-]]></content>
-    <tabTrigger>CCDirector_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

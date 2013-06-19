@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_convertTouchToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

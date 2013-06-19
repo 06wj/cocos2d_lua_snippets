@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTouchDispatcher:copy(${1:})
-]]></content>
-    <tabTrigger>CCTouchDispatcher_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

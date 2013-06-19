@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:copy(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

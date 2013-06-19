@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitCols:getChildrenCount()
-]]></content>
-    <tabTrigger>CCTransitionSplitCols_getChildrenCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

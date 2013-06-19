@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:getParallaxArray(${1:})
-]]></content>
-    <tabTrigger>CCParallaxNode:getParallaxArray</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCParallaxNode:getParallaxArray</description>
-</snippet>
-

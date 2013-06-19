@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:numberOfRunningActions()
-]]></content>
-    <tabTrigger>CCTMXTiledMap_numberOfRunningActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

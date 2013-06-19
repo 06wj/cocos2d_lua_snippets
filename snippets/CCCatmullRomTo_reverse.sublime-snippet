@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCatmullRomTo:reverse()
-]]></content>
-    <tabTrigger>CCCatmullRomTo_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

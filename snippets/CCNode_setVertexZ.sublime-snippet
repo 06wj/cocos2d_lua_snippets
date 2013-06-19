@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCNode_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSceneOriented:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSceneOriented_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

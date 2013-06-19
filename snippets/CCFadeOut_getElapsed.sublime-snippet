@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOut:getElapsed()
-]]></content>
-    <tabTrigger>CCFadeOut_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:boundingBox()
-]]></content>
-    <tabTrigger>CCLabelAtlas_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

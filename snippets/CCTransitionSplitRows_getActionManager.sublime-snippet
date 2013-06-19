@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitRows:getActionManager(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSplitRows_getActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

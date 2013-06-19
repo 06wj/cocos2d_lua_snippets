@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteFrameCache:copy(${1:})
-]]></content>
-    <tabTrigger>CCSpriteFrameCache_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

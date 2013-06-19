@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:nodeToParentTransform()
-]]></content>
-    <tabTrigger>CCParticleSpiral_nodeToParentTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

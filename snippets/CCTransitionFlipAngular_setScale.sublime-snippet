@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:setScale(${1:float_scale})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_setScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

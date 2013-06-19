@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:isOpacityModifyRGB()
-]]></content>
-    <tabTrigger>CCLayerGradient_isOpacityModifyRGB</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

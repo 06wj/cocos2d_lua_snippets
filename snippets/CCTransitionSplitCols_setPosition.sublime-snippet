@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitCols:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCTransitionSplitCols_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

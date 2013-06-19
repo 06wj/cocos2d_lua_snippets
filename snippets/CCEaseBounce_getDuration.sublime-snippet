@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounce:getDuration()
-]]></content>
-    <tabTrigger>CCEaseBounce_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

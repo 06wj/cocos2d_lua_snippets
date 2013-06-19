@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerRGBA:getOpacity(${1:})
-]]></content>
-    <tabTrigger>CCLayerRGBA:getOpacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayerRGBA:getOpacity</description>
-</snippet>
-

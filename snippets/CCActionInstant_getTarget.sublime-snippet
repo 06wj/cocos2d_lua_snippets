@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionInstant:getTarget()
-]]></content>
-    <tabTrigger>CCActionInstant_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

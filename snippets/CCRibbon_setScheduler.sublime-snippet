@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCRibbon_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

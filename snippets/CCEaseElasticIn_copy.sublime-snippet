@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElasticIn:copy(${1:})
-]]></content>
-    <tabTrigger>CCEaseElasticIn_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

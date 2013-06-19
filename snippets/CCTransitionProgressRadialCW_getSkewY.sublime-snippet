@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:getSkewY(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_getSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

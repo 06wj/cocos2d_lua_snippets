@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceInOut:isSingleReference()
-]]></content>
-    <tabTrigger>CCEaseBounceInOut_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

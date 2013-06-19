@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemSprite:convertToNodeSpace(${1:CCPoint_worldPoint})
-]]></content>
-    <tabTrigger>CCMenuItemSprite_convertToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:nodeToParentTransform()
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_nodeToParentTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

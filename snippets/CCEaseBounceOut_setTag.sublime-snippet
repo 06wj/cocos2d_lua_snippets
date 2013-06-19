@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceOut:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCEaseBounceOut_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

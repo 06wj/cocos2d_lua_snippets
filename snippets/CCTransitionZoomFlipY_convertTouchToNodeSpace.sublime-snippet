@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipY:convertTouchToNodeSpace(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipY_convertTouchToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

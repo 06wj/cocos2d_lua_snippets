@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

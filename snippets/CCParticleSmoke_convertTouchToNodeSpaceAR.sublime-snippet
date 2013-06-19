@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCParticleSmoke_convertTouchToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

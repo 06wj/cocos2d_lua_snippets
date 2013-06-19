@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:setRotation(${1:float_newRotation})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_setRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

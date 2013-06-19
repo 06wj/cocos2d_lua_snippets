@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCParticleSystem_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

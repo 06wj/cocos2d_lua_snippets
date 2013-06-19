@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setEmitterMode(${1:int_mode})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setEmitterMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInB:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCTransitionMoveInB_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

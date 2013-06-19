@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCMenu_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

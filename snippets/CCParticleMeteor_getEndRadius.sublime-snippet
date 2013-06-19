@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:getEndRadius(${1:})
-]]></content>
-    <tabTrigger>CCParticleMeteor_getEndRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

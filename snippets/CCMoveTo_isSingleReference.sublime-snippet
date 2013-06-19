@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveTo:isSingleReference()
-]]></content>
-    <tabTrigger>CCMoveTo_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

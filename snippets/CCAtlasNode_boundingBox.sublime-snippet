@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:boundingBox()
-]]></content>
-    <tabTrigger>CCAtlasNode_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

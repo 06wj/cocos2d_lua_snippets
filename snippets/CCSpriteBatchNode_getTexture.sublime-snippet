@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:getTexture()
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_getTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

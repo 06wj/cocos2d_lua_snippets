@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureCache:release()
-]]></content>
-    <tabTrigger>CCTextureCache_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

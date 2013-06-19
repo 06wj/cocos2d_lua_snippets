@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:boundingBox()
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_boundingBox</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

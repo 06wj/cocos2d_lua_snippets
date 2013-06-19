@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:initParticle(${1:tCCParticle*_particle})
-]]></content>
-    <tabTrigger>CCParticleFireworks_initParticle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

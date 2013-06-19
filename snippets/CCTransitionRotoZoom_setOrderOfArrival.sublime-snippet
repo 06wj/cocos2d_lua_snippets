@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

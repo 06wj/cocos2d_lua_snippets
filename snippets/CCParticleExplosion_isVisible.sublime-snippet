@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:isVisible(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_isVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

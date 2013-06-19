@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getAngle(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

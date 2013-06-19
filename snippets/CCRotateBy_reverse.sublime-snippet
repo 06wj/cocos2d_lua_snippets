@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRotateBy:reverse()
-]]></content>
-    <tabTrigger>CCRotateBy_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressVertical:getPositionY(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressVertical_getPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

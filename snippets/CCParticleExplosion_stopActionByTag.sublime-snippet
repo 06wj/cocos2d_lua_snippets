@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:stopActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParticleExplosion_stopActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

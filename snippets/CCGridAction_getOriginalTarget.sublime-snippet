@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCGridAction:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCGridAction_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

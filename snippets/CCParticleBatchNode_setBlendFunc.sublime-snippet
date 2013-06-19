@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:setBlendFunc(${1:ccBlendFunc_blendFunc})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_setBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

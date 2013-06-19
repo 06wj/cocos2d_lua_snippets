@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpeed:retain()
-]]></content>
-    <tabTrigger>CCSpeed_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

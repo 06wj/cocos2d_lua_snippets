@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteFrameCache:removeSpriteFramesFromDictionary(${1:CCDictionary<std::string},${2:CCSpriteFrame*>_*dictionary})
-]]></content>
-    <tabTrigger>CCSpriteFrameCache:removeSpriteFramesFromDictionary</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSpriteFrameCache:removeSpriteFramesFromDictionary</description>
-</snippet>
-

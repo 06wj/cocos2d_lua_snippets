@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelAmplitude:getDuration()
-]]></content>
-    <tabTrigger>CCAccelAmplitude_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

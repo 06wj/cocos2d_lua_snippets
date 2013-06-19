@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:visit()
-]]></content>
-    <tabTrigger>CCParticleSnow_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

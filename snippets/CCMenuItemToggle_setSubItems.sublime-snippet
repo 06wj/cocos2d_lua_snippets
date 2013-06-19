@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:setSubItems(${1:CCArray*_pArrayOfItems})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_setSubItems</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

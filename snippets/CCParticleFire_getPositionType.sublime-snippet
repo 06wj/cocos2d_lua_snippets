@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getPositionType()
-]]></content>
-    <tabTrigger>CCParticleFire_getPositionType</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

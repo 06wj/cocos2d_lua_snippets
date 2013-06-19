@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFiniteTimeAction:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCFiniteTimeAction_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

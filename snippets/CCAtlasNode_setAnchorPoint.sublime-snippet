@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCAtlasNode_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

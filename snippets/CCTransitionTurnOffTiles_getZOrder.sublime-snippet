@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:getZOrder(${1:})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_getZOrder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

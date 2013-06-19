@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCLayer_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:convertTouchToNodeSpace(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_convertTouchToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

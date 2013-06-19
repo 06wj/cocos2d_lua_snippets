@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:transform()
-]]></content>
-    <tabTrigger>CCMenuItemToggle_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

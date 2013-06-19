@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

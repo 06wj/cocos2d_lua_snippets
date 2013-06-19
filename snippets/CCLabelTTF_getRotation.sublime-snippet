@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCLabelTTF_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

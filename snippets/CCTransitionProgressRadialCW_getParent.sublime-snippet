@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:getParent(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

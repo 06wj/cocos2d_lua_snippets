@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:getScale(${1:})
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_getScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

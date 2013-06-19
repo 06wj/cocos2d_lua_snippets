@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getRotatePerSecond(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getRotatePerSecond</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:runAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCLayerColor_runAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

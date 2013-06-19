@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:parentToNodeTransform()
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_parentToNodeTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

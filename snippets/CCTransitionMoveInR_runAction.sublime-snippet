@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:runAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_runAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

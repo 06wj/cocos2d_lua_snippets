@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:isDisplayStats()
-]]></content>
-    <tabTrigger>CCDirector_isDisplayStats</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

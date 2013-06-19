@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCNode_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

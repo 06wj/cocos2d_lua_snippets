@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSequence:copy(${1:})
-]]></content>
-    <tabTrigger>CCSequence_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

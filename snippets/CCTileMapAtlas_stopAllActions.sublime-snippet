@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:stopAllActions()
-]]></content>
-    <tabTrigger>CCTileMapAtlas_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

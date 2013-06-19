@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:setColor(${1:ccColor3B_color})
-]]></content>
-    <tabTrigger>CCLabelAtlas_setColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

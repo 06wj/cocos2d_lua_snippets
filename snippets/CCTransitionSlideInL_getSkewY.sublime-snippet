@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInL:getSkewY(${1:})
-]]></content>
-    <tabTrigger>CCTransitionSlideInL_getSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

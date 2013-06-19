@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystem_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

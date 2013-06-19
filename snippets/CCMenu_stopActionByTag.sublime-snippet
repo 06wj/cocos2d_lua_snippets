@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:stopActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCMenu_stopActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

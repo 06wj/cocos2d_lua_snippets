@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionInterval:reverse()
-]]></content>
-    <tabTrigger>CCActionInterval_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

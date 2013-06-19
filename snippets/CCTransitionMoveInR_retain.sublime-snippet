@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:retain()
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

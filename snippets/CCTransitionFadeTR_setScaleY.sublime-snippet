@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeTR:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCTransitionFadeTR_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

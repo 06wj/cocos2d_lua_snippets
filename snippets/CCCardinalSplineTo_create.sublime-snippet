@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCardinalSplineTo:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCCardinalSplineTo_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

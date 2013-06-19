@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getEndRadiusVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getEndRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

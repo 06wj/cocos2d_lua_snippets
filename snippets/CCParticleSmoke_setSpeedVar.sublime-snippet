@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setSpeedVar(${1:float_speed})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setSpeedVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

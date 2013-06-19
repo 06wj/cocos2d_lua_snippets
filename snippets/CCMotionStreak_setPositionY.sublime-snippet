@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:setPositionY(${1:float_y})
-]]></content>
-    <tabTrigger>CCMotionStreak_setPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

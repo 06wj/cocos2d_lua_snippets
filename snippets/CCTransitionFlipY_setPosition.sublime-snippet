@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipY:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCTransitionFlipY_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWaves:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCWaves_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

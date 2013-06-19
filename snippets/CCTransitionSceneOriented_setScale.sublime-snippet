@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSceneOriented:setScale(${1:float_scale})
-]]></content>
-    <tabTrigger>CCTransitionSceneOriented_setScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:setActionManager(${1:CCActionManager*_pActionMgr})
-]]></content>
-    <tabTrigger>CCMenuItemFont_setActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-
