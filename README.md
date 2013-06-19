@@ -1,6 +1,6 @@
-##cocos2dLuaSnippets
+##cocos2d_lua_snippets
 
-## A collection of Sublime Text 2 snippets & functions to be used with cocos2d-x lua. Most snippets are to be used specifically with .lua
+A collection of Sublime Text 2 snippets & functions to be used with cocos2d-x lua. Most snippets are to be used specifically with .lua
 
 ### Installation:
 Install with Package Control
