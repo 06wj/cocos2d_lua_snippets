@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDirector:getWinSizeInPixels()
+]]></content>
+    <tabTrigger>CCDirector_getWinSizeInPixels</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

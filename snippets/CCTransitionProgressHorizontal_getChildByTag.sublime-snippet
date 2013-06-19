@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

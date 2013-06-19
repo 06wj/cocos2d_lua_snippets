@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleBatchNode_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

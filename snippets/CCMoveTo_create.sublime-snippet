@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveTo:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCMoveTo_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

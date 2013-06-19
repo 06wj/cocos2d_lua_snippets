@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCardinalSplineBy:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCCardinalSplineBy_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

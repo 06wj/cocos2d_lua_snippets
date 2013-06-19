@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:getOpacity()
+]]></content>
+    <tabTrigger>CCLayerColor_getOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

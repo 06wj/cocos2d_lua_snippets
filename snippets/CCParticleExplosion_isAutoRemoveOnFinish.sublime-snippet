@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:isAutoRemoveOnFinish(${1:})
+]]></content>
+    <tabTrigger>CCParticleExplosion_isAutoRemoveOnFinish</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

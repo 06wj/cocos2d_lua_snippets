@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPlace:release()
+]]></content>
+    <tabTrigger>CCPlace_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

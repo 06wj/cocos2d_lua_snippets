@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:setBlendFunc(${1:ccBlendFunc_blendFunc})
+]]></content>
+    <tabTrigger>CCTMXLayer_setBlendFunc</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

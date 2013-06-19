@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTouchDispatcher:isDispatchEvents()
+]]></content>
+    <tabTrigger>CCTouchDispatcher_isDispatchEvents</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

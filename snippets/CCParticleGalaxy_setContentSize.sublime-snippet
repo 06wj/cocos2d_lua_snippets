@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setContentSize(${1:const_CCSize_&_size})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getEndRadiusVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem_getEndRadiusVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

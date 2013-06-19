@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:runAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCParticleSmoke_runAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

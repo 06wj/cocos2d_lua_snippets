@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintBy:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCTintBy_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

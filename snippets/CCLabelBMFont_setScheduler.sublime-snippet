@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCLabelBMFont_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

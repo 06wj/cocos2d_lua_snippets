@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:cleanup()
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_cleanup</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

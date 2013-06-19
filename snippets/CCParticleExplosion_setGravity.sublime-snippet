@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setGravity(${1:const_CCPoint&_g})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setGravity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

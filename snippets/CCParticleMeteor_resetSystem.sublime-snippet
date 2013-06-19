@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:resetSystem(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_resetSystem</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

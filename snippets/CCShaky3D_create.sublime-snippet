@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShaky3D:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCShaky3D_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

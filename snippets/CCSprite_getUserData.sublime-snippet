@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:getUserData(${1:})
+]]></content>
+    <tabTrigger>CCSprite_getUserData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

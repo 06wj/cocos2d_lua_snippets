@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:reverse(${1:})
+]]></content>
+    <tabTrigger>CCPointArray_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

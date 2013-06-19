@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setDisplayFrame(${1:CCSpriteFrame_*pNewFrame})
+]]></content>
+    <tabTrigger>CCLabelTTF_setDisplayFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

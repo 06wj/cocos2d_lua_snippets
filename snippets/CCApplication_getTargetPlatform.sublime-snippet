@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCApplication:getTargetPlatform(${1:})
+]]></content>
+    <tabTrigger>CCApplication_getTargetPlatform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

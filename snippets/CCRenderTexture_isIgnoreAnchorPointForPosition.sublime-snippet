@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:isIgnoreAnchorPointForPosition(${1:})
+]]></content>
+    <tabTrigger>CCRenderTexture_isIgnoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

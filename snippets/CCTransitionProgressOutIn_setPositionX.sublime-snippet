@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

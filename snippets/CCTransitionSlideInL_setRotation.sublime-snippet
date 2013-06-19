@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInL:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCTransitionSlideInL_setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

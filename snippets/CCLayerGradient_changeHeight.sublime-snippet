@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:changeHeight(${1:GLfloat_h})
+]]></content>
+    <tabTrigger>CCLayerGradient_changeHeight</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

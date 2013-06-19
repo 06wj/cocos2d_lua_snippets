@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:copy(${1:})
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

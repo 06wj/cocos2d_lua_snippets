@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionScene:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCTransitionScene_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

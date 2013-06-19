@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getRotation(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

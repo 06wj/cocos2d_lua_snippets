@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFadeIn:retainCount()
+]]></content>
+    <tabTrigger>CCFadeIn_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCMenuItemFont_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

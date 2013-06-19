@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEvent:release()
+]]></content>
+    <tabTrigger>CCEvent_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

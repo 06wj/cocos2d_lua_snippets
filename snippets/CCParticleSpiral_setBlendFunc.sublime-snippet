@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:setBlendFunc(${1:ccBlendFunc_var})
+]]></content>
+    <tabTrigger>CCParticleSpiral_setBlendFunc</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

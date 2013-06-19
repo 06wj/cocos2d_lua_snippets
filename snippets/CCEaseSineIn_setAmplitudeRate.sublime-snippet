@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseSineIn:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCEaseSineIn_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:setEndSize(${1:float_size})
+]]></content>
+    <tabTrigger>CCParticleRain_setEndSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

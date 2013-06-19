@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:initWithFile(${1:const_char*_plistFile})
+]]></content>
+    <tabTrigger>CCParticleSnow_initWithFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCParticleSpiral_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRotateTo:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCRotateTo_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

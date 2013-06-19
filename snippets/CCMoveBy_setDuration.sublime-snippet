@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveBy:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCMoveBy_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

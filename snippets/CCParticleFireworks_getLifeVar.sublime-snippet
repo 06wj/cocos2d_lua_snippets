@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:getLifeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleFireworks_getLifeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

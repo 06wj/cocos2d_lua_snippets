@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:setGrid(${1:CCGridBase*_pGrid})
+]]></content>
+    <tabTrigger>CCLayerColor_setGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

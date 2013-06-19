@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:nodeToParentTransform()
+]]></content>
+    <tabTrigger>CCParticleFire_nodeToParentTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

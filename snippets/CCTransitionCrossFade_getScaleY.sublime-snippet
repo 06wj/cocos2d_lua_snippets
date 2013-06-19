@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:getScaleY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_getScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setTag(${1:int_var})
+]]></content>
+    <tabTrigger>CCMenu_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

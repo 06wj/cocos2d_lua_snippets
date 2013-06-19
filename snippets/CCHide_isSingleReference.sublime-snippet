@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCHide:isSingleReference()
+]]></content>
+    <tabTrigger>CCHide_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

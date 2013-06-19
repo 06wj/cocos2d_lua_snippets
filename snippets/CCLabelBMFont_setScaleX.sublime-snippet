@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCLabelBMFont_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

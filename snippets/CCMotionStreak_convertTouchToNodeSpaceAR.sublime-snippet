@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCMotionStreak_convertTouchToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

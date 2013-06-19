@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:getDescendants()
+]]></content>
+    <tabTrigger>CCTMXLayer_getDescendants</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

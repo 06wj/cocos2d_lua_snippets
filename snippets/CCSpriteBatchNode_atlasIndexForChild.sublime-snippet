@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:atlasIndexForChild(${1:CCSprite_*sprite},${2:int_z})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_atlasIndexForChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

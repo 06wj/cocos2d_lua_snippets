@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setBlendFunc(${1:ccBlendFunc_var})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setBlendFunc</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

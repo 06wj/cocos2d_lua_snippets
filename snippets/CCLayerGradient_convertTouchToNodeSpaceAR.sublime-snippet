@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
+]]></content>
+    <tabTrigger>CCLayerGradient_convertTouchToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

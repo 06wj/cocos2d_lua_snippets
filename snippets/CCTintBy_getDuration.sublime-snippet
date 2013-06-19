@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintBy:getDuration()
+]]></content>
+    <tabTrigger>CCTintBy_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

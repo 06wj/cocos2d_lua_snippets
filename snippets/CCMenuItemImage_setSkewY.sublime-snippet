@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:setSkewY(${1:float_skewY})
+]]></content>
+    <tabTrigger>CCMenuItemImage_setSkewY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCBlink_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

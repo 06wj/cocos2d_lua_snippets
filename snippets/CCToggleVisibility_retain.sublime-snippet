@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCToggleVisibility:retain()
+]]></content>
+    <tabTrigger>CCToggleVisibility_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

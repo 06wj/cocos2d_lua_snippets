@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:actionWithSize(${1:CCSize_vector})
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_actionWithSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

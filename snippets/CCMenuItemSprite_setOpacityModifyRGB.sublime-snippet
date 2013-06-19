@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:setOpacityModifyRGB(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCMenuItemSprite_setOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

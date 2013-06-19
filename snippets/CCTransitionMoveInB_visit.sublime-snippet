@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInB:visit()
+]]></content>
+    <tabTrigger>CCTransitionMoveInB_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

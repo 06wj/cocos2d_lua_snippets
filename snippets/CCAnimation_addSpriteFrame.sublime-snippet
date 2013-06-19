@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimation:addSpriteFrame(${1:CCSpriteFrame_*pFrame})
+]]></content>
+    <tabTrigger>CCAnimation_addSpriteFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

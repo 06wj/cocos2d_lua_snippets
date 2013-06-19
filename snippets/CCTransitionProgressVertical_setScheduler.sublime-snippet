@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressVertical:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCTransitionProgressVertical_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShuffleTiles:release()
+]]></content>
+    <tabTrigger>CCShuffleTiles_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

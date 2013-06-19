@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:startElement(${1:void_*ctx},${2:const_char_*name},${3:const_char_**atts})
+]]></content>
+    <tabTrigger>CCTMXMapInfo_startElement</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

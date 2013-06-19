@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:getEndSize(${1:})
+]]></content>
+    <tabTrigger>CCParticleFlower_getEndSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

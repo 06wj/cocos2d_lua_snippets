@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseInOut:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCEaseInOut_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

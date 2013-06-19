@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:ignoreAnchorPointForPosition(${1:bool_newValue})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_ignoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

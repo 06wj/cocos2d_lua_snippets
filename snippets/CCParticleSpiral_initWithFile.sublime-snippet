@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:initWithFile(${1:const_char*_plistFile})
+]]></content>
+    <tabTrigger>CCParticleSpiral_initWithFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

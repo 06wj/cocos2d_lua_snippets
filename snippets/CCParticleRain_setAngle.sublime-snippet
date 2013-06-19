@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:setAngle(${1:float_angle})
+]]></content>
+    <tabTrigger>CCParticleRain_setAngle</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

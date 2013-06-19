@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:getPositionX(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_getPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

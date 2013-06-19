@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCFlipY_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleSmoke_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

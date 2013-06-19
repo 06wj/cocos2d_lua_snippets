@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:getSelectedIndex(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemToggle_getSelectedIndex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

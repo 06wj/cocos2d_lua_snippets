@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionEase:getTarget()
+]]></content>
+    <tabTrigger>CCActionEase_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

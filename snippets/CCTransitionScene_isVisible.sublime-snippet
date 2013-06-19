@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionScene:isVisible(${1:})
+]]></content>
+    <tabTrigger>CCTransitionScene_isVisible</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCSprite_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

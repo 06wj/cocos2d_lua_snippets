@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:description()
+]]></content>
+    <tabTrigger>CCMenuItem_description</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

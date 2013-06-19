@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:setEndRadius(${1:float_endRadius})
+]]></content>
+    <tabTrigger>CCParticleFlower_setEndRadius</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

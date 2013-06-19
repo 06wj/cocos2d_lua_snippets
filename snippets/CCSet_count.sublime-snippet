@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSet:count(${1:})
+]]></content>
+    <tabTrigger>CCSet_count</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

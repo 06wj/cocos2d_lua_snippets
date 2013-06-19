@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCSpawn_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

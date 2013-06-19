@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

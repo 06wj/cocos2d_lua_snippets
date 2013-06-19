@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionRotoZoom:getScaleX(${1:})
+]]></content>
+    <tabTrigger>CCTransitionRotoZoom_getScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

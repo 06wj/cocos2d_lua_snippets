@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:release()
+]]></content>
+    <tabTrigger>CCSpeed_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

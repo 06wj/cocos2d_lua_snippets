@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionManager:getActionByTag(${1:unsigned_int_tag},${2:CCObject_*pTarget})
+]]></content>
+    <tabTrigger>CCActionManager_getActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

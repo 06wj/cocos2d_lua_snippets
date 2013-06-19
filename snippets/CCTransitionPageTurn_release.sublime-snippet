@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:release()
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

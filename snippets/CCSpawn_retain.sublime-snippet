@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:retain()
+]]></content>
+    <tabTrigger>CCSpawn_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:setSkewX(${1:float_skewX})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_setSkewX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseSineInOut:isDone()
+]]></content>
+    <tabTrigger>CCEaseSineInOut_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

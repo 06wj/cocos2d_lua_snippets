@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShakyTiles3D:getElapsed()
+]]></content>
+    <tabTrigger>CCShakyTiles3D_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

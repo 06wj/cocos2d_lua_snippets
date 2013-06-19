@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:appendChild(${1:CCSprite_*child})
+]]></content>
+    <tabTrigger>CCTMXLayer_appendChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

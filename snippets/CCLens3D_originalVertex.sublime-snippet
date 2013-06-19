@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:originalVertex(${1:const_CCPoint&_pos})
+]]></content>
+    <tabTrigger>CCLens3D_originalVertex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

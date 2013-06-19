@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:getStoringCharacters(${1:})
+]]></content>
+    <tabTrigger>CCTMXMapInfo_getStoringCharacters</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

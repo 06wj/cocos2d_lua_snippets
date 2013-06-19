@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCOrbitCamera:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCOrbitCamera_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

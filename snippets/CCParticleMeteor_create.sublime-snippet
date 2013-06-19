@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:create()
+]]></content>
+    <tabTrigger>CCParticleMeteor_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

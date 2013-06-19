@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:getStartSizeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun_getStartSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCObject:retain()
+]]></content>
+    <tabTrigger>CCObject_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

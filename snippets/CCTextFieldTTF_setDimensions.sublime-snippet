@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setDimensions(${1:CCSize_&dim})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setDimensions</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

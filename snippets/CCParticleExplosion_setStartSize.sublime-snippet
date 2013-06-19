@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setStartSize(${1:float_size})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setStartSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

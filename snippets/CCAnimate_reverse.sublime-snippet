@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimate:reverse()
+]]></content>
+    <tabTrigger>CCAnimate_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

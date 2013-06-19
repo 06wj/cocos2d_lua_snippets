@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:setPosVar(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleFlower_setPosVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

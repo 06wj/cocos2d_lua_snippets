@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCLayer_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

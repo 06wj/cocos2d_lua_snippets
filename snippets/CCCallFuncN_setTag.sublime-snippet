@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCallFuncN:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCCallFuncN_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

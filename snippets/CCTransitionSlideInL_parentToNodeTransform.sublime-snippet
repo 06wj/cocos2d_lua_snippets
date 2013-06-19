@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSlideInL:parentToNodeTransform()
+]]></content>
+    <tabTrigger>CCTransitionSlideInL_parentToNodeTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

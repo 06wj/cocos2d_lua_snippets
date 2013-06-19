@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBezierBy:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCBezierBy_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

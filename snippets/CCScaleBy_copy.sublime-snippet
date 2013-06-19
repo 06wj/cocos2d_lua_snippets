@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleBy:copy(${1:})
+]]></content>
+    <tabTrigger>CCScaleBy_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

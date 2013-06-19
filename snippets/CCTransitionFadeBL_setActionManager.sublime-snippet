@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeBL:setActionManager(${1:CCActionManager*_pActionMgr})
+]]></content>
+    <tabTrigger>CCTransitionFadeBL_setActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

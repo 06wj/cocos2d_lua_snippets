@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

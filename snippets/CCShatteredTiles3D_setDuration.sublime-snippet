@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShatteredTiles3D:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCShatteredTiles3D_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

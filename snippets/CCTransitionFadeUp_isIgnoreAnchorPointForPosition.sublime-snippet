@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFadeUp:isIgnoreAnchorPointForPosition(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFadeUp_isIgnoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

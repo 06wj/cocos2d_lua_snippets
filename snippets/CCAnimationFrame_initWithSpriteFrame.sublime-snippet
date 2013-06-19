@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimationFrame:initWithSpriteFrame(${1:CCSpriteFrame*_spriteFrame},${2:float_delayUnits},${3:CCDictionary*_userInfo})
+]]></content>
+    <tabTrigger>CCAnimationFrame_initWithSpriteFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

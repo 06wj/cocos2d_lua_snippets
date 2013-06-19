@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:isFull(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_isFull</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

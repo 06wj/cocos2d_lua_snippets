@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipX3D:getGrid()
+]]></content>
+    <tabTrigger>CCFlipX3D_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

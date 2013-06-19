@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:getScaleY(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_getScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

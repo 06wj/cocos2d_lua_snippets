@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCRibbon_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

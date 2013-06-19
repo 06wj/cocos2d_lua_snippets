@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipX:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipX_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionInterval:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCActionInterval_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

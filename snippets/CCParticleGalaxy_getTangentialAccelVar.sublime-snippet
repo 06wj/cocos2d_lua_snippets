@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getTangentialAccelVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getTangentialAccelVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:replaceControlPoint(${1:CCPoint_&controlPoint},${2:unsigned_int_index})
+]]></content>
+    <tabTrigger>CCPointArray_replaceControlPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setEndRadiusVar(${1:float_endRadiusVar})
+]]></content>
+    <tabTrigger>CCParticleSnow_setEndRadiusVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

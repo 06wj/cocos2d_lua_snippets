@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getTextureRect()
+]]></content>
+    <tabTrigger>CCLabelTTF_getTextureRect</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

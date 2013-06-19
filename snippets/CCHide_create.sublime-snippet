@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCHide:create(${1:})
+]]></content>
+    <tabTrigger>CCHide_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

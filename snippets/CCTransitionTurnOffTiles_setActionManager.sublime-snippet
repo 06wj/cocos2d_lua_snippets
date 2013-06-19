@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:setActionManager(${1:CCActionManager*_pActionMgr})
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_setActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

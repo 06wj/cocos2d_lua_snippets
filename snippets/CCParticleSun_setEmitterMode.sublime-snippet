@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:setEmitterMode(${1:int_mode})
+]]></content>
+    <tabTrigger>CCParticleSun_setEmitterMode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

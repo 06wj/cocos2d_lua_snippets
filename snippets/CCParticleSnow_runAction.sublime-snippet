@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:runAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCParticleSnow_runAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

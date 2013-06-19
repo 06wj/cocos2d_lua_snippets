@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:create()
+]]></content>
+    <tabTrigger>CCParticleSnow_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

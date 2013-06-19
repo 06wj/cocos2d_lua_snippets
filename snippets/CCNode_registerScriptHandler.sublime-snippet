@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCNode:registerScriptHandler(${1:LUA_FUNCTION_funcID})
+]]></content>
+    <tabTrigger>CCNode_registerScriptHandler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

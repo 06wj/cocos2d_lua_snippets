@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
+]]></content>
+    <tabTrigger>CCParallaxNode_reorderChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

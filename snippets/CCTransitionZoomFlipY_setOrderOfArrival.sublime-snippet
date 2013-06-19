@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipY:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipY_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpawn:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCSpawn_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

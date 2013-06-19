@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setDirty(${1:bool_bDirty})
+]]></content>
+    <tabTrigger>CCLabelTTF_setDirty</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

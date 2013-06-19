@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCParticleSun_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

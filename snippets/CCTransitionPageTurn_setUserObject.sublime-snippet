@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

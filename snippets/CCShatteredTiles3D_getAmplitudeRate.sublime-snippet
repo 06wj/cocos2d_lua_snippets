@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShatteredTiles3D:getAmplitudeRate()
+]]></content>
+    <tabTrigger>CCShatteredTiles3D_getAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

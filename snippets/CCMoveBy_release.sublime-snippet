@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMoveBy:release()
+]]></content>
+    <tabTrigger>CCMoveBy_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

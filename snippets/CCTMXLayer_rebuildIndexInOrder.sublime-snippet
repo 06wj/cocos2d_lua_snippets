@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:rebuildIndexInOrder(${1:CCSprite_*parent},${2:unsigned_int_index})
+]]></content>
+    <tabTrigger>CCTMXLayer_rebuildIndexInOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

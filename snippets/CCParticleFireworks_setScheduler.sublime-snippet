@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setScheduler(${1:CCScheduler*_pScheduler})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setScheduler</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

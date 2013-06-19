@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressVertical:nodeToWorldTransform()
+]]></content>
+    <tabTrigger>CCTransitionProgressVertical_nodeToWorldTransform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

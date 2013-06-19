@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:setAngleVar(${1:float_angle})
+]]></content>
+    <tabTrigger>CCParticleSun_setAngleVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

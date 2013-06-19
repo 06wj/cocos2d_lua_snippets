@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:getStartRadiusVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_getStartRadiusVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

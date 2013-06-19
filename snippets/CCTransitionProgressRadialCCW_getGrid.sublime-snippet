@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCCW:getGrid(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCCW_getGrid</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

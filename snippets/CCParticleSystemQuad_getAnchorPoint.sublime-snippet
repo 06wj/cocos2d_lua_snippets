@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:getAnchorPoint(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_getAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

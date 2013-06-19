@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCOrbitCamera:startWithTarget(${1:CCNode_*pTarget})
+]]></content>
+    <tabTrigger>CCOrbitCamera_startWithTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

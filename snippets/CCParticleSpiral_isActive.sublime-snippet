@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:isActive(${1:})
+]]></content>
+    <tabTrigger>CCParticleSpiral_isActive</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

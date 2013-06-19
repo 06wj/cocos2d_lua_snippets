@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:getOrderOfArrival(${1:})
+]]></content>
+    <tabTrigger>CCScene_getOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

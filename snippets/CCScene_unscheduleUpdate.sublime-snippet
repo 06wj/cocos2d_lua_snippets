@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:unscheduleUpdate()
+]]></content>
+    <tabTrigger>CCScene_unscheduleUpdate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

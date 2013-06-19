@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElastic:release()
+]]></content>
+    <tabTrigger>CCEaseElastic_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

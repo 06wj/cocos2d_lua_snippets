@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressInOut:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionProgressInOut_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

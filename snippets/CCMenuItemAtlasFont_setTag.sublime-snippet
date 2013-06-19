@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:setTag(${1:int_var})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

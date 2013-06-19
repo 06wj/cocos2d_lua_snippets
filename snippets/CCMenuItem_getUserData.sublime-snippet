@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:getUserData(${1:})
+]]></content>
+    <tabTrigger>CCMenuItem_getUserData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

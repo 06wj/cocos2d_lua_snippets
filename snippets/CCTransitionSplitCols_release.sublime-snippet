@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:release()
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

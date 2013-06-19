@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleTo:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCScaleTo_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

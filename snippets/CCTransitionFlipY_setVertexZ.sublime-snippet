@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:setVertexZ(${1:float_var})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_setVertexZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

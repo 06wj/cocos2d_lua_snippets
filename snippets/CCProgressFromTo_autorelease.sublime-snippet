@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressFromTo:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCProgressFromTo_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

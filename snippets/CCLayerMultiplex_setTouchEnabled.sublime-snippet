@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:setTouchEnabled(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_setTouchEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

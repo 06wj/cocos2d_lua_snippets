@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:getQuadsToDraw(${1:})
+]]></content>
+    <tabTrigger>CCLabelAtlas_getQuadsToDraw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

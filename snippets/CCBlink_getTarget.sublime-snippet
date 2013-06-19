@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:getTarget()
+]]></content>
+    <tabTrigger>CCBlink_getTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

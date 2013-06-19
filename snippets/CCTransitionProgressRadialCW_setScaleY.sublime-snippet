@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCW:setScaleY(${1:float_newScaleY})
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCW_setScaleY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

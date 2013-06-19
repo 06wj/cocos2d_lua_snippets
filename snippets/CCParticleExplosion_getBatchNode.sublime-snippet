@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:getBatchNode()
+]]></content>
+    <tabTrigger>CCParticleExplosion_getBatchNode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

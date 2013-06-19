@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:isFlipX()
+]]></content>
+    <tabTrigger>CCLabelTTF_isFlipX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

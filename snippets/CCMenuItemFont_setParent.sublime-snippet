@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCMenuItemFont_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

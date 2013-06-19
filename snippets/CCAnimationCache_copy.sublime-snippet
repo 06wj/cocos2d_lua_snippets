@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimationCache:copy(${1:})
+]]></content>
+    <tabTrigger>CCAnimationCache_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

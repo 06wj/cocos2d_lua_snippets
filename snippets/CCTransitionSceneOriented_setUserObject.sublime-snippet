@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSceneOriented:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionSceneOriented_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

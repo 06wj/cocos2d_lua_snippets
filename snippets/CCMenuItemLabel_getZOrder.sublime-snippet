@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:getZOrder(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemLabel_getZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

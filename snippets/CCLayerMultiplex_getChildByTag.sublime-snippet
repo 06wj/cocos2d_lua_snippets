@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

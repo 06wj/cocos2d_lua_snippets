@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:isActive(${1:})
+]]></content>
+    <tabTrigger>CCParticleSun_isActive</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

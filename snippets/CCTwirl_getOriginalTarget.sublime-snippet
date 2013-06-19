@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCTwirl_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

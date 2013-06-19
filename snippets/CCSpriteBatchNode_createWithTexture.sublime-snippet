@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpriteBatchNode:createWithTexture(${1:CCTexture2D*_tex},${2:unsigned_int_capacity})
+]]></content>
+    <tabTrigger>CCSpriteBatchNode_createWithTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

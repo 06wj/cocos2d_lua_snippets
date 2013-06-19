@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:isSingleReference()
+]]></content>
+    <tabTrigger>CCSpeed_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

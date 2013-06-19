@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipAngular:draw()
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipAngular_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setScaleX(${1:float_newScaleX})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getZOrder(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setContentSize(${1:const_CCSize_&_size})
+]]></content>
+    <tabTrigger>CCParticleSnow_setContentSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

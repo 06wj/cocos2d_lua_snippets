@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:transform()
+]]></content>
+    <tabTrigger>CCLabelTTF_transform</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTouch:isSingleReference()
+]]></content>
+    <tabTrigger>CCTouch_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getSourcePosition(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getSourcePosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

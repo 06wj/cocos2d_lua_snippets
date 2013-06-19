@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:draw()
+]]></content>
+    <tabTrigger>CCRibbon_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

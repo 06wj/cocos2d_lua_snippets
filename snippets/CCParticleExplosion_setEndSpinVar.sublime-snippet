@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setEndSpinVar(${1:float_var})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setEndSpinVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

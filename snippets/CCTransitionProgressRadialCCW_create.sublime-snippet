@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressRadialCCW:create()
+]]></content>
+    <tabTrigger>CCTransitionProgressRadialCCW_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipY:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCFlipY_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

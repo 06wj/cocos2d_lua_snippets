@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWavesTiles3D:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCWavesTiles3D_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

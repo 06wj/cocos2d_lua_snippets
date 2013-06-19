@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:insertControlPoint(${1:CCPoint_&controlPoint},${2:unsigned_int_index})
+]]></content>
+    <tabTrigger>CCPointArray_insertControlPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

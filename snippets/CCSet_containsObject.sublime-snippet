@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSet:containsObject(${1:CCObject_*pObject})
+]]></content>
+    <tabTrigger>CCSet_containsObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

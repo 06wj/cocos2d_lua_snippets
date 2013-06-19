@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:setBatchNode(${1:CCParticleBatchNode*_node})
+]]></content>
+    <tabTrigger>CCParticleFire_setBatchNode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

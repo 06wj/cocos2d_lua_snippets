@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCSprite_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

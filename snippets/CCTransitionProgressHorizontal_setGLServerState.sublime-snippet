@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

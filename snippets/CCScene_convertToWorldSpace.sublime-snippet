@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:convertToWorldSpace(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCScene_convertToWorldSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

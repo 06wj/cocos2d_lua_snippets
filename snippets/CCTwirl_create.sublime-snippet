@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCTwirl_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTMXLayer_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

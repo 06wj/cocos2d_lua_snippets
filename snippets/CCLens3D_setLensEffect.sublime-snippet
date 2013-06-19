@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:setLensEffect(${1:float_fLensEffect})
+]]></content>
+    <tabTrigger>CCLens3D_setLensEffect</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

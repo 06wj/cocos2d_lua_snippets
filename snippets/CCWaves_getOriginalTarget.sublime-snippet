@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCWaves_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

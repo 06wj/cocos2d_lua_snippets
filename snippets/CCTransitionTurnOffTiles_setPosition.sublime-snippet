@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

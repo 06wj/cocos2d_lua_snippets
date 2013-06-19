@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWaves:getTag()
+]]></content>
+    <tabTrigger>CCWaves_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

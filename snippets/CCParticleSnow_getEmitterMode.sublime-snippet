@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:getEmitterMode(${1:})
+]]></content>
+    <tabTrigger>CCParticleSnow_getEmitterMode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

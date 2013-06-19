@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:setStartSizeVar(${1:float_size})
+]]></content>
+    <tabTrigger>CCParticleSpiral_setStartSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

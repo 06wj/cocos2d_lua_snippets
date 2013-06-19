@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:getRotatePerSecondVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleFireworks_getRotatePerSecondVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

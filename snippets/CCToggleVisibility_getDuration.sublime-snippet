@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCToggleVisibility:getDuration()
+]]></content>
+    <tabTrigger>CCToggleVisibility_getDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

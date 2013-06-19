@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setDisplayFrame(${1:CCSpriteFrame_*pNewFrame})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setDisplayFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

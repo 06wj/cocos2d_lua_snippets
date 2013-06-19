@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:updateQuadWithParticle(${1:tCCParticle*_particle},${2:const_CCPoint&_newPosition})
+]]></content>
+    <tabTrigger>CCParticleMeteor_updateQuadWithParticle</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:setEyeXYZ(${1:float_fEyeX},${2:float_fEyeY},${3:float_fEyeZ})
+]]></content>
+    <tabTrigger>CCCamera_setEyeXYZ</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

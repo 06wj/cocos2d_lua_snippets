@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:setMaxS(${1:GLfloat_val})
+]]></content>
+    <tabTrigger>CCTexture2D_setMaxS</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

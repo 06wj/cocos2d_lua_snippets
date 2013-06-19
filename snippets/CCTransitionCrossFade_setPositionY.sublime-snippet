@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

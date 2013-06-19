@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:isIgnoreAnchorPointForPosition(${1:})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_isIgnoreAnchorPointForPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

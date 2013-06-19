@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressOutIn:getRotation(${1:})
+]]></content>
+    <tabTrigger>CCTransitionProgressOutIn_getRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

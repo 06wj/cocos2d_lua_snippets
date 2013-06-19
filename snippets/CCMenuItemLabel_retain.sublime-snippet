@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemLabel:retain()
+]]></content>
+    <tabTrigger>CCMenuItemLabel_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

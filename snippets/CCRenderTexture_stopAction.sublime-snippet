@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCRenderTexture_stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

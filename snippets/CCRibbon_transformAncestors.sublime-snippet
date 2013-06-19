@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:transformAncestors()
+]]></content>
+    <tabTrigger>CCRibbon_transformAncestors</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

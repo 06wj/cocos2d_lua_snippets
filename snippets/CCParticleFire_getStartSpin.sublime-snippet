@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getStartSpin(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getStartSpin</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

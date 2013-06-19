@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:addPointAt(${1:CCPoint_location},${2:float_width})
+]]></content>
+    <tabTrigger>CCRibbon_addPointAt</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:stopAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCParticleBatchNode_stopAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

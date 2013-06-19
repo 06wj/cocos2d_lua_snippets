@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCBlink_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

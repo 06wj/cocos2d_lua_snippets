@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:visit()
+]]></content>
+    <tabTrigger>CCRenderTexture_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

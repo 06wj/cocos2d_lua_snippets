@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setHorizontalAlignment(${1:CCTextAlignment_alignment})
+]]></content>
+    <tabTrigger>CCLabelTTF_setHorizontalAlignment</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

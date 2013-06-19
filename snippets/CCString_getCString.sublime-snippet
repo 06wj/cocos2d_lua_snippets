@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCString:getCString(${1:})
+]]></content>
+    <tabTrigger>CCString_getCString</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

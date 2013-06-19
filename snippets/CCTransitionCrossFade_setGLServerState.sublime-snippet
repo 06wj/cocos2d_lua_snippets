@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionCrossFade:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCTransitionCrossFade_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

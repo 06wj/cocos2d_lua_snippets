@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTintBy:isDone()
+]]></content>
+    <tabTrigger>CCTintBy_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

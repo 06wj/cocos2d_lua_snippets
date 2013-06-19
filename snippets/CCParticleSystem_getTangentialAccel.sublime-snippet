@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystem:getTangentialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystem_getTangentialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

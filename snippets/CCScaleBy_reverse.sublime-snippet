@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleBy:reverse()
+]]></content>
+    <tabTrigger>CCScaleBy_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:autorelease(${1:})
+]]></content>
+    <tabTrigger>CCLayer_autorelease</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

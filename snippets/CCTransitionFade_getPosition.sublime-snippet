@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:getPosition(${1:float*_x_=_0},${2:float*_y_=_0})
+]]></content>
+    <tabTrigger>CCTransitionFade_getPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

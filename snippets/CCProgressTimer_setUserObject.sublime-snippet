@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressTimer:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCProgressTimer_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

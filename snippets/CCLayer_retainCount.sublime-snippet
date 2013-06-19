@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:retainCount()
+]]></content>
+    <tabTrigger>CCLayer_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipY:copy(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFlipY_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

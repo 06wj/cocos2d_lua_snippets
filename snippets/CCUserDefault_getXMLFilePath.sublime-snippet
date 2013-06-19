@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCUserDefault:getXMLFilePath(${1:})
+]]></content>
+    <tabTrigger>CCUserDefault_getXMLFilePath</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

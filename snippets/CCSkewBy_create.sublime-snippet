@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSkewBy:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCSkewBy_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

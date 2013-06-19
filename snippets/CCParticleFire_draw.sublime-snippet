@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:draw()
+]]></content>
+    <tabTrigger>CCParticleFire_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

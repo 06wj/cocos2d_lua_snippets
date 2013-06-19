@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSpeed:setTag(${1:int_nTag})
+]]></content>
+    <tabTrigger>CCSpeed_setTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

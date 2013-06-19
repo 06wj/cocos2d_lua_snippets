@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:copy(${1:})
+]]></content>
+    <tabTrigger>CCCamera_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:isSingleReference()
+]]></content>
+    <tabTrigger>CCScene_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:clearStencil(${1:int_stencilValue})
+]]></content>
+    <tabTrigger>CCRenderTexture_clearStencil</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

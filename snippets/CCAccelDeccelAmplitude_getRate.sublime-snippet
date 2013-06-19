@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAccelDeccelAmplitude:getRate()
+]]></content>
+    <tabTrigger>CCAccelDeccelAmplitude_getRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

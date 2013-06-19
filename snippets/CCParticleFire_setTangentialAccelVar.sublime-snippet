@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:setTangentialAccelVar(${1:float_t})
+]]></content>
+    <tabTrigger>CCParticleFire_setTangentialAccelVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

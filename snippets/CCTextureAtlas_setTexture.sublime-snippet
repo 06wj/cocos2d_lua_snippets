@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureAtlas:setTexture(${1:CCTexture2D*_val})
+]]></content>
+    <tabTrigger>CCTextureAtlas_setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

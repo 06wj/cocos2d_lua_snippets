@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setSpeedVar(${1:float_speed})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setSpeedVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

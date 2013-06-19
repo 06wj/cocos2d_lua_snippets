@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:createWithTexture(${1:CCTexture2D*_tex},${2:unsigned_int_capacity})
+]]></content>
+    <tabTrigger>CCTMXLayer_createWithTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

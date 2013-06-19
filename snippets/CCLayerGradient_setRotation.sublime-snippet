@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerGradient:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCLayerGradient_setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

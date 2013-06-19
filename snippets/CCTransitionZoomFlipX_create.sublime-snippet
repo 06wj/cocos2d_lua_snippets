@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipX:create()
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipX_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSequence:isDone()
+]]></content>
+    <tabTrigger>CCSequence_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

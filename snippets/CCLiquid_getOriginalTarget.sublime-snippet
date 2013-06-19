@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLiquid:getOriginalTarget()
+]]></content>
+    <tabTrigger>CCLiquid_getOriginalTarget</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

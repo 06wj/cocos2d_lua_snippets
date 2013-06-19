@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:isBlendAdditive(${1:})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_isBlendAdditive</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

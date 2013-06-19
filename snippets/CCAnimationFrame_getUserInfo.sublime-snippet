@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimationFrame:getUserInfo(${1:})
+]]></content>
+    <tabTrigger>CCAnimationFrame_getUserInfo</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

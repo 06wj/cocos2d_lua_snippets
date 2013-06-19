@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:setKeypadEnabled(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_setKeypadEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

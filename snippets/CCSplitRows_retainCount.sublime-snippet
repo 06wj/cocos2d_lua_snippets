@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSplitRows:retainCount()
+]]></content>
+    <tabTrigger>CCSplitRows_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

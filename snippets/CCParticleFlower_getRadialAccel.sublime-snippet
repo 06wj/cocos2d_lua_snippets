@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFlower:getRadialAccel(${1:})
+]]></content>
+    <tabTrigger>CCParticleFlower_getRadialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

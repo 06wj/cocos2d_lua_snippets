@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCReuseGrid:getTag()
+]]></content>
+    <tabTrigger>CCReuseGrid_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

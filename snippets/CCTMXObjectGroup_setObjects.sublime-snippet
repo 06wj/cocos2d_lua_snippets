@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXObjectGroup:setObjects(${1:CCArray*_val})
+]]></content>
+    <tabTrigger>CCTMXObjectGroup_setObjects</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

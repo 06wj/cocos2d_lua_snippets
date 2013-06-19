@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionScene:description()
+]]></content>
+    <tabTrigger>CCTransitionScene_description</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

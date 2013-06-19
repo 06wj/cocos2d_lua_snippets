@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

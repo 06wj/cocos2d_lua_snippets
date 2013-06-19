@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:setActionManager(${1:CCActionManager*_pActionMgr})
+]]></content>
+    <tabTrigger>CCParticleRain_setActionManager</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

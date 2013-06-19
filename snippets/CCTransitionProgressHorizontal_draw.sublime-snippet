@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:draw()
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

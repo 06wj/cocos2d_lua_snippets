@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getParticleCount(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getParticleCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseIn:getElapsed()
+]]></content>
+    <tabTrigger>CCEaseIn_getElapsed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

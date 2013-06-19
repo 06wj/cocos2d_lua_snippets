@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTileMapAtlas:setTile(${1:ccColor3B_tile},${2:CCPoint_position})
+]]></content>
+    <tabTrigger>CCTileMapAtlas_setTile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

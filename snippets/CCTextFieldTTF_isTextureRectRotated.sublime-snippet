@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:isTextureRectRotated()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_isTextureRectRotated</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

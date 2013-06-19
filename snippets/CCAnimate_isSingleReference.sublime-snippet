@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimate:isSingleReference()
+]]></content>
+    <tabTrigger>CCAnimate_isSingleReference</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

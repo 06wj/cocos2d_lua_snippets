@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemImage:setNormalSpriteFrame(${1:CCSpriteFrame*_frame})
+]]></content>
+    <tabTrigger>CCMenuItemImage_setNormalSpriteFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

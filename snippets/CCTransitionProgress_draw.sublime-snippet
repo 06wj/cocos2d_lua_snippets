@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgress:draw()
+]]></content>
+    <tabTrigger>CCTransitionProgress_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

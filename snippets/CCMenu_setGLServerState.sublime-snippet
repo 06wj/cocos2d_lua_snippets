@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setGLServerState(${1:ccGLServerState_state})
+]]></content>
+    <tabTrigger>CCMenu_setGLServerState</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

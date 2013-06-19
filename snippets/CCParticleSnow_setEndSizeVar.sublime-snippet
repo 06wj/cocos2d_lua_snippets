@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:setEndSizeVar(${1:float_size})
+]]></content>
+    <tabTrigger>CCParticleSnow_setEndSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

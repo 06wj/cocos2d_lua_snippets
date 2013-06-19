@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:create()
+]]></content>
+    <tabTrigger>CCMenu_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

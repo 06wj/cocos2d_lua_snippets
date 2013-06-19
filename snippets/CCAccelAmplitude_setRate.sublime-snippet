@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAccelAmplitude:setRate(${1:float_fRate})
+]]></content>
+    <tabTrigger>CCAccelAmplitude_setRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

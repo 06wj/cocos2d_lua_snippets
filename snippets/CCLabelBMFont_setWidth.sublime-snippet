@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:setWidth(${1:float_width})
+]]></content>
+    <tabTrigger>CCLabelBMFont_setWidth</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

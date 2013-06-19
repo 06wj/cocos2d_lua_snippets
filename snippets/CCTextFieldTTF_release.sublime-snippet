@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:release()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

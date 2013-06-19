@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:getScaleX(${1:})
+]]></content>
+    <tabTrigger>CCPointArray_getScaleX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

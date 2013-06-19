@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setTouchEnabled(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCMenu_setTouchEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

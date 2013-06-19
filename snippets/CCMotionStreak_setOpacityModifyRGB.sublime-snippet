@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:setOpacityModifyRGB(${1:bool_bValue})
+]]></content>
+    <tabTrigger>CCMotionStreak_setOpacityModifyRGB</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

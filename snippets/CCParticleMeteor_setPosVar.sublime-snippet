@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setPosVar(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setPosVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

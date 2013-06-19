@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:getEndSize(${1:})
+]]></content>
+    <tabTrigger>CCParticleMeteor_getEndSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextureCache:removeTextureForKey(${1:const_char_*textureKeyName})
+]]></content>
+    <tabTrigger>CCTextureCache_removeTextureForKey</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

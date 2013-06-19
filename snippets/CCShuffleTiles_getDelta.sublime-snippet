@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCShuffleTiles:getDelta(${1:CCSize_pos})
+]]></content>
+    <tabTrigger>CCShuffleTiles_getDelta</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

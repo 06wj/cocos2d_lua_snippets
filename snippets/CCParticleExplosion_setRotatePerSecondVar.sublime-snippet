@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setRotatePerSecondVar(${1:float_degrees})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setRotatePerSecondVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

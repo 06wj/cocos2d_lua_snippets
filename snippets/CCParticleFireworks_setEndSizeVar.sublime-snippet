@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setEndSizeVar(${1:float_size})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setEndSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

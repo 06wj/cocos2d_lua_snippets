@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItem:visit()
+]]></content>
+    <tabTrigger>CCMenuItem_visit</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

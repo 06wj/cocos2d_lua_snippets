@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:setAngle(${1:float_angle})
+]]></content>
+    <tabTrigger>CCParticleSpiral_setAngle</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

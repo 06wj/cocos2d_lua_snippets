@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseBounceOut:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCEaseBounceOut_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

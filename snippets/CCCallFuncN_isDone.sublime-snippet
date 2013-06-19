@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCallFuncN:isDone()
+]]></content>
+    <tabTrigger>CCCallFuncN_isDone</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

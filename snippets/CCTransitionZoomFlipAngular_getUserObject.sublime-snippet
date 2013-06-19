@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionZoomFlipAngular:getUserObject(${1:})
+]]></content>
+    <tabTrigger>CCTransitionZoomFlipAngular_getUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

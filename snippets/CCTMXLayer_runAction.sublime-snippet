@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:runAction(${1:CCAction*_action})
+]]></content>
+    <tabTrigger>CCTMXLayer_runAction</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

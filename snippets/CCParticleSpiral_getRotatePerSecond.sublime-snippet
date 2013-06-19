@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSpiral:getRotatePerSecond(${1:})
+]]></content>
+    <tabTrigger>CCParticleSpiral_getRotatePerSecond</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

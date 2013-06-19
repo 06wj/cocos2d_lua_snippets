@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:getShaderProgram(${1:})
+]]></content>
+    <tabTrigger>CCTransitionFade_getShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

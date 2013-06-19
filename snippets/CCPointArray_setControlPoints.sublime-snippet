@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:setControlPoints(${1:std::vector<CCPoint*>_*controlPoints})
+]]></content>
+    <tabTrigger>CCPointArray_setControlPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

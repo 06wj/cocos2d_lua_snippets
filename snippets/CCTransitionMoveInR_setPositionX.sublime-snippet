@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionMoveInR:setPositionX(${1:float_x})
+]]></content>
+    <tabTrigger>CCTransitionMoveInR_setPositionX</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:setBatchNode(${1:CCSpriteBatchNode*_pBatchNode})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_setBatchNode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

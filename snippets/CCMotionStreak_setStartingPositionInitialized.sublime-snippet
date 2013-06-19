@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMotionStreak:setStartingPositionInitialized(${1:bool_bStartingPositionInitialized})
+]]></content>
+    <tabTrigger>CCMotionStreak_setStartingPositionInitialized</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

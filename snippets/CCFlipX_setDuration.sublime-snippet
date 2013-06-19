@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFlipX:setDuration(${1:float_duration})
+]]></content>
+    <tabTrigger>CCFlipX_setDuration</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

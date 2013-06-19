@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:release()
+]]></content>
+    <tabTrigger>CCParticleSmoke_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

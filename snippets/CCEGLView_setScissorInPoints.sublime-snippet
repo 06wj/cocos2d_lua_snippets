@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEGLView:setScissorInPoints(${1:float_x_},${2:float_y_},${3:float_w_},${4:float_h})
+]]></content>
+    <tabTrigger>CCEGLView_setScissorInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

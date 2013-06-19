@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLens3D:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCLens3D_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

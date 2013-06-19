@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFire:getEndSizeVar(${1:})
+]]></content>
+    <tabTrigger>CCParticleFire_getEndSizeVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

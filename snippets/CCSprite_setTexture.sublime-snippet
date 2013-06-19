@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:setTexture(${1:CCTexture2D_*texture})
+]]></content>
+    <tabTrigger>CCSprite_setTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

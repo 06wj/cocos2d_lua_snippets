@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressVertical:release()
+]]></content>
+    <tabTrigger>CCTransitionProgressVertical_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

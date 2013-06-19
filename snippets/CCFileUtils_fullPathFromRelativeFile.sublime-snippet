@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFileUtils:fullPathFromRelativeFile(${1:const_char_*pszFilename},${2:const_char_*pszRelativeFile})
+]]></content>
+    <tabTrigger>CCFileUtils_fullPathFromRelativeFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

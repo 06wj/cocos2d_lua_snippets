@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCActionCamera:reverse()
+]]></content>
+    <tabTrigger>CCActionCamera_reverse</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

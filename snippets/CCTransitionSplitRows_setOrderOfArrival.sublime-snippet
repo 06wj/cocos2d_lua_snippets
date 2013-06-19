@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

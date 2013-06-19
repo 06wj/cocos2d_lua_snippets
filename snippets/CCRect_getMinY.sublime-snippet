@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRect:getMinY(${1:})
+]]></content>
+    <tabTrigger>CCRect_getMinY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

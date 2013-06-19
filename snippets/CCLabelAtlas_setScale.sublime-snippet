@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelAtlas:setScale(${1:float_scale})
+]]></content>
+    <tabTrigger>CCLabelAtlas_setScale</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:addChild(${1:CCNode_*_child},${2:int_zOrder},${3:int_tag})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_addChild</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

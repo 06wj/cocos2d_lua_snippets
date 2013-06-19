@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setTangentialAccel(${1:float_t})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setTangentialAccel</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCString:copy(${1:})
+]]></content>
+    <tabTrigger>CCString_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

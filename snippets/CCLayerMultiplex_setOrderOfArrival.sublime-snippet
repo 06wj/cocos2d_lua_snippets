@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerMultiplex:setOrderOfArrival(${1:int_order})
+]]></content>
+    <tabTrigger>CCLayerMultiplex_setOrderOfArrival</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

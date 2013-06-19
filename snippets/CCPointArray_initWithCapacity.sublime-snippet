@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:initWithCapacity(${1:unsigned_int_capacity})
+]]></content>
+    <tabTrigger>CCPointArray_initWithCapacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

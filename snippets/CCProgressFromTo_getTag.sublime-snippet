@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCProgressFromTo:getTag()
+]]></content>
+    <tabTrigger>CCProgressFromTo_getTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

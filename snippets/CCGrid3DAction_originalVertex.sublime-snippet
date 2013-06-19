@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGrid3DAction:originalVertex(${1:const_CCPoint&_pos})
+]]></content>
+    <tabTrigger>CCGrid3DAction_originalVertex</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

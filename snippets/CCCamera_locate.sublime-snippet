@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCamera:locate()
+]]></content>
+    <tabTrigger>CCCamera_locate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

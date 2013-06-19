@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFlipAngular:release()
+]]></content>
+    <tabTrigger>CCTransitionFlipAngular_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

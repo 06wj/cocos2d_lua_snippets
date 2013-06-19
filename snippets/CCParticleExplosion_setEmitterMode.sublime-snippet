@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setEmitterMode(${1:int_mode})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setEmitterMode</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

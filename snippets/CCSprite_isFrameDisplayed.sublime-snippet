@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCSprite:isFrameDisplayed(${1:CCSpriteFrame_*pFrame})
+]]></content>
+    <tabTrigger>CCSprite_isFrameDisplayed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCGridAction:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCGridAction_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

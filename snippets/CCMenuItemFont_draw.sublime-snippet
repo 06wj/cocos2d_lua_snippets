@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemFont:draw()
+]]></content>
+    <tabTrigger>CCMenuItemFont_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

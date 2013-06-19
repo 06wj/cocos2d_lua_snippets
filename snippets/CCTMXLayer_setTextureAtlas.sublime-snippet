@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXLayer:setTextureAtlas(${1:CCTextureAtlas*_textureAtlas})
+]]></content>
+    <tabTrigger>CCTMXLayer_setTextureAtlas</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

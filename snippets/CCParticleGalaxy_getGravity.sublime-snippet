@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:getGravity(${1:})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_getGravity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

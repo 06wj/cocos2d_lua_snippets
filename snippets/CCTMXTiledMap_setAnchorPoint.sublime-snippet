@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXTiledMap:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCTMXTiledMap_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

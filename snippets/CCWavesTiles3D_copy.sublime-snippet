@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCWavesTiles3D:copy(${1:})
+]]></content>
+    <tabTrigger>CCWavesTiles3D_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

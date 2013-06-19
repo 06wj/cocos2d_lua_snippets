@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:convertToNodeSpaceAR(${1:CCPoint_worldPoint})
+]]></content>
+    <tabTrigger>CCPointArray_convertToNodeSpaceAR</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

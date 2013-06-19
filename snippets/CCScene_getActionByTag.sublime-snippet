@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:getActionByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCScene_getActionByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

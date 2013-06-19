@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCPointArray:getUserObject(${1:})
+]]></content>
+    <tabTrigger>CCPointArray_getUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

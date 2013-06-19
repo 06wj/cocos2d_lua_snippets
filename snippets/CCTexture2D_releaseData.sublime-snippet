@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTexture2D:releaseData(${1:void*_data})
+]]></content>
+    <tabTrigger>CCTexture2D_releaseData</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

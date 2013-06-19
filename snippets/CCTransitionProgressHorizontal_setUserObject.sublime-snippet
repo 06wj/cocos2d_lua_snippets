@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionProgressHorizontal:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionProgressHorizontal_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

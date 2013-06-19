@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParallaxNode:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCParallaxNode_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:setRotation(${1:float_newRotation})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_setRotation</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

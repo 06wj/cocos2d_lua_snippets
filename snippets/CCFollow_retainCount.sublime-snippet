@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCFollow:retainCount()
+]]></content>
+    <tabTrigger>CCFollow_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

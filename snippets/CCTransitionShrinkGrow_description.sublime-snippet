@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:description()
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow_description</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

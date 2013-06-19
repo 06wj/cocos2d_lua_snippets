@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelBMFont:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCLabelBMFont_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

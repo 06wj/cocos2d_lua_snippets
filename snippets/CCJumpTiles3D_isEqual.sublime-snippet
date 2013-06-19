@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCJumpTiles3D:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCJumpTiles3D_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

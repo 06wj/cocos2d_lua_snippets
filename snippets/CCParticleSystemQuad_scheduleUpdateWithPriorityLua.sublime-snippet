@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:scheduleUpdateWithPriorityLua(${1:LUA_FUNCTION_nHandler},${2:int_priority})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_scheduleUpdateWithPriorityLua</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

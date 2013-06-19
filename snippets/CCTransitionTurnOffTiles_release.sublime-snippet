@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionTurnOffTiles:release()
+]]></content>
+    <tabTrigger>CCTransitionTurnOffTiles_release</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

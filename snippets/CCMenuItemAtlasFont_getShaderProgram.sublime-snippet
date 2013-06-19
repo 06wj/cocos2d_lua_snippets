@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:getShaderProgram(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_getShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

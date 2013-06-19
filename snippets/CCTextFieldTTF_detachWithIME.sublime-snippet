@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:detachWithIME(${1:})
+]]></content>
+    <tabTrigger>CCTextFieldTTF_detachWithIME</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

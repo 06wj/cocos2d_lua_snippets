@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCatmullRomBy:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCCatmullRomBy_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setEndColorVar(${1:const_ccColor4F_var})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setEndColorVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

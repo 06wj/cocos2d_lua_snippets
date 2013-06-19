@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCEaseElasticInOut:create(${1:float_d})
+]]></content>
+    <tabTrigger>CCEaseElasticInOut_create</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

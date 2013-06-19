@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:retainCount()
+]]></content>
+    <tabTrigger>CCDictionary_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleBatchNode:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCParticleBatchNode_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

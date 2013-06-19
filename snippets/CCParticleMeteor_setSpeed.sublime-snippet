@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setSpeed(${1:float_speed})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setSpeed</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

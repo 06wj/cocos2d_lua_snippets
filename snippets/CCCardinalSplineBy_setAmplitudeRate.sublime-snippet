@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCCardinalSplineBy:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCCardinalSplineBy_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

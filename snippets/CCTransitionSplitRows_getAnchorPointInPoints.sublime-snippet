@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitRows:getAnchorPointInPoints(${1:})
+]]></content>
+    <tabTrigger>CCTransitionSplitRows_getAnchorPointInPoints</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

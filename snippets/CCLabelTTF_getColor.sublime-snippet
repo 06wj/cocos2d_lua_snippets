@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:getColor()
+]]></content>
+    <tabTrigger>CCLabelTTF_getColor</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

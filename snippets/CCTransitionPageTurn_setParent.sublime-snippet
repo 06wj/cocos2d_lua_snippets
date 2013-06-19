@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionPageTurn:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCTransitionPageTurn_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

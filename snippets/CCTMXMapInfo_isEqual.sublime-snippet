@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTMXMapInfo:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTMXMapInfo_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

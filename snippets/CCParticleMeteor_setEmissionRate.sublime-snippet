@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleMeteor:setEmissionRate(${1:float_rate})
+]]></content>
+    <tabTrigger>CCParticleMeteor_setEmissionRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

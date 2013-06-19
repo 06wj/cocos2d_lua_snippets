@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCAnimation:setLoops(${1:unsigned_int_uLoops})
+]]></content>
+    <tabTrigger>CCAnimation_setLoops</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSnow:getEndSize(${1:})
+]]></content>
+    <tabTrigger>CCParticleSnow_getEndSize</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

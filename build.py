@@ -6,9 +6,11 @@ from os.path import getsize, splitext
 import json
 
 luaDir = "tolua++"
-# snippetsDir = "C://Users//06wj//AppData//Roaming//Sublime Text 2//Packages//User//snippets"
 snippetsDir = "snippets"
-template = codecs.open("template.sublime-snippet", "r", "utf-8").read()
+templatePath = "template.sublime-snippet"
+
+
+template = codecs.open(templatePath, "r", "utf-8").read()
 data = {}
 
 def cleanDir( Dir ):
@@ -27,6 +29,7 @@ def cleanDir( Dir ):
                 shutil.rmtree(filePath,True)
     return True
 
+os.makedirs(snippetsDir, exist_ok=True)
 cleanDir(snippetsDir)
 
 #                     class    AAA    :       {func }

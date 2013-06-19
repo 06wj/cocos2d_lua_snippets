@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:getTexture()
+]]></content>
+    <tabTrigger>CCParticleSmoke_getTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

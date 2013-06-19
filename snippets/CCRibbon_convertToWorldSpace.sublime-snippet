@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRibbon:convertToWorldSpace(${1:CCPoint_nodePoint})
+]]></content>
+    <tabTrigger>CCRibbon_convertToWorldSpace</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

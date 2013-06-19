@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSystemQuad:setParent(${1:CCNode_*_var})
+]]></content>
+    <tabTrigger>CCParticleSystemQuad_setParent</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

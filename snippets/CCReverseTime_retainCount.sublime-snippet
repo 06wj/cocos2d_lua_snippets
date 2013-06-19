@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCReverseTime:retainCount()
+]]></content>
+    <tabTrigger>CCReverseTime_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleFireworks:setPosition(${1:CCPoint_pos})
+]]></content>
+    <tabTrigger>CCParticleFireworks_setPosition</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

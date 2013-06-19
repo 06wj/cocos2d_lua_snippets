@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionSplitCols:setPositionY(${1:float_y})
+]]></content>
+    <tabTrigger>CCTransitionSplitCols_setPositionY</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

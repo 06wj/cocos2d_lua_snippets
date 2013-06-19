@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleRain:getTexture()
+]]></content>
+    <tabTrigger>CCParticleRain_getTexture</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

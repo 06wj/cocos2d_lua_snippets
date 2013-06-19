@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemSprite:getOpacity(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemSprite_getOpacity</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

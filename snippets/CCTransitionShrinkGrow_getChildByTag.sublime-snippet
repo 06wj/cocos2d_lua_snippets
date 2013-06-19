@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionShrinkGrow:getChildByTag(${1:int_tag})
+]]></content>
+    <tabTrigger>CCTransitionShrinkGrow_getChildByTag</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

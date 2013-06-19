@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemAtlasFont:copy(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemAtlasFont_copy</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

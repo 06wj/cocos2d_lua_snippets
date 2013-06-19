@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCDictionary:count(${1:})
+]]></content>
+    <tabTrigger>CCDictionary_count</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

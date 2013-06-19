@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCArray:containsObject(${1:CCObject*_object})
+]]></content>
+    <tabTrigger>CCArray_containsObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

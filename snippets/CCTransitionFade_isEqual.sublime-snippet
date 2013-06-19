@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTransitionFade:isEqual(${1:const_CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCTransitionFade_isEqual</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

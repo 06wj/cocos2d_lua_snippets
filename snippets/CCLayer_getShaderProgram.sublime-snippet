@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayer:getShaderProgram(${1:})
+]]></content>
+    <tabTrigger>CCLayer_getShaderProgram</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenu:setAnchorPoint(${1:CCPoint_point})
+]]></content>
+    <tabTrigger>CCMenu_setAnchorPoint</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

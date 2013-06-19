@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCMenuItemToggle:isEnabled(${1:})
+]]></content>
+    <tabTrigger>CCMenuItemToggle_isEnabled</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

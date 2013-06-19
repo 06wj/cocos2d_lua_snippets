@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTwirl:retainCount()
+]]></content>
+    <tabTrigger>CCTwirl_retainCount</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

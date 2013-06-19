@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLayerColor:setUserObject(${1:CCObject*_pObject})
+]]></content>
+    <tabTrigger>CCLayerColor_setUserObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

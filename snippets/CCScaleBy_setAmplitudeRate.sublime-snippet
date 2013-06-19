@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScaleBy:setAmplitudeRate(${1:float_amp})
+]]></content>
+    <tabTrigger>CCScaleBy_setAmplitudeRate</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

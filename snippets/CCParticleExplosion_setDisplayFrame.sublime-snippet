@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleExplosion:setDisplayFrame(${1:CCSpriteFrame*_spriteFrame})
+]]></content>
+    <tabTrigger>CCParticleExplosion_setDisplayFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

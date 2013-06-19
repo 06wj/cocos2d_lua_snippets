@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSmoke:initWithFile(${1:const_char*_plistFile})
+]]></content>
+    <tabTrigger>CCParticleSmoke_initWithFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleSun:setStartRadius(${1:float_startRadius})
+]]></content>
+    <tabTrigger>CCParticleSun_setStartRadius</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

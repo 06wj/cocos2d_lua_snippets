@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCLabelTTF:setString(${1:const_char_*label})
+]]></content>
+    <tabTrigger>CCLabelTTF_setString</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

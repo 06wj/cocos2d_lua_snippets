@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCTextFieldTTF:draw()
+]]></content>
+    <tabTrigger>CCTextFieldTTF_draw</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

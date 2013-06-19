@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCScene:getZOrder(${1:})
+]]></content>
+    <tabTrigger>CCScene_getZOrder</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

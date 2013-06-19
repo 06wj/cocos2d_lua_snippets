@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCRenderTexture:saveToFile(${1:const_char_*name},${2:tCCImageFormat_format})
+]]></content>
+    <tabTrigger>CCRenderTexture_saveToFile</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

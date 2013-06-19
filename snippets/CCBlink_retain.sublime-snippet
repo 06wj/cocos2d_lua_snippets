@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCBlink:retain()
+]]></content>
+    <tabTrigger>CCBlink_retain</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+

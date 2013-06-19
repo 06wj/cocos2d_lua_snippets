@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CCParticleGalaxy:setRadialAccelVar(${1:float_t})
+]]></content>
+    <tabTrigger>CCParticleGalaxy_setRadialAccelVar</tabTrigger>
+    <scope>source.lua</scope>
+    <description></description>
+</snippet>
+
