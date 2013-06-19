@@ -15,7 +15,6 @@ data = {}
 
 def cleanDir( Dir ):
     print("cleanDir:", Dir)
-    print("wait...")
     if os.path.isdir( Dir ):
         paths = os.listdir( Dir )
         for path in paths:
@@ -26,6 +25,7 @@ def cleanDir( Dir ):
                 except os.error:
                     autoRun.exception( "remove %s error." %filePath )#引入logging
             elif os.path.isdir( filePath ):
+                print("clean", filePath)
                 shutil.rmtree(filePath,True)
     return True
 
@@ -53,7 +53,9 @@ def outPut(klass, func, args):
             i+=1
         args = args[:-1]
     tpl = tpl.replace("%args", args)
-    ff = codecs.open(os.path.join(snippetsDir, klass+"_"+func)+".sublime-snippet", "w", "utf-8")
+    tempDir = os.path.join(snippetsDir, klass)
+    os.makedirs(tempDir, exist_ok=True)
+    ff = codecs.open(os.path.join(tempDir, klass+"_"+func)+".sublime-snippet", "w", "utf-8")
     ff.write(tpl)
     ff.close()
 
