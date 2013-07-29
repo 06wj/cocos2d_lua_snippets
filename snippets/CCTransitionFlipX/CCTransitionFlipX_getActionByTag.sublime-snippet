@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipX:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionFlipX_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

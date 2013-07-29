@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:release()
-]]></content>
-    <tabTrigger>CCPointArray_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

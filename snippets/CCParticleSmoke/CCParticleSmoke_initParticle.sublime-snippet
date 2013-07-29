@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:initParticle(${1:tCCParticle*_particle})
-]]></content>
-    <tabTrigger>CCParticleSmoke_initParticle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

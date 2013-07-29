@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:isSelected(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_isSelected</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

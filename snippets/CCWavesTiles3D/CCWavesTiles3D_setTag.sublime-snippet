@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWavesTiles3D:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCWavesTiles3D_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

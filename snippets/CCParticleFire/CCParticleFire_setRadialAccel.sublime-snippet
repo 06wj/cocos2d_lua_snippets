@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:setRadialAccel(${1:float_t})
-]]></content>
-    <tabTrigger>CCParticleFire_setRadialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getRadialAccelVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getRadialAccelVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

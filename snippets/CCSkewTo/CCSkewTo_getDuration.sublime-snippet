@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewTo:getDuration()
-]]></content>
-    <tabTrigger>CCSkewTo_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

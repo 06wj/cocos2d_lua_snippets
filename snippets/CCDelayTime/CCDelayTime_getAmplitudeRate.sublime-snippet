@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDelayTime:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCDelayTime_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

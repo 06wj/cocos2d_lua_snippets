@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_convertToWorldSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

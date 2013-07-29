@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:sortAllChildren(${1:})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_sortAllChildren</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

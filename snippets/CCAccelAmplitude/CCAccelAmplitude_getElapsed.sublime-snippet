@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelAmplitude:getElapsed()
-]]></content>
-    <tabTrigger>CCAccelAmplitude_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

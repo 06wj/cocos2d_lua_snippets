@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRotateBy:isSingleReference()
-]]></content>
-    <tabTrigger>CCRotateBy_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

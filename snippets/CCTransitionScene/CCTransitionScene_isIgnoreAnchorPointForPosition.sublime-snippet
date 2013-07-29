@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCTransitionScene_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

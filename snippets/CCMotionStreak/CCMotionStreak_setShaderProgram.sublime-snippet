@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
-]]></content>
-    <tabTrigger>CCMotionStreak_setShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

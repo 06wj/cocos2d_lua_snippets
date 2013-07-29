@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:getColor(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemLabel_getColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

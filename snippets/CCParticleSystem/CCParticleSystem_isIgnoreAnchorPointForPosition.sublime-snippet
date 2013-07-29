@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystem_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

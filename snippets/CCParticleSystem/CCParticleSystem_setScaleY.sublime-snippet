@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCParticleSystem_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

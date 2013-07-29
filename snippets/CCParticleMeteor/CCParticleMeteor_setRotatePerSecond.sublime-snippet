@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setRotatePerSecond(${1:float_degrees})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setRotatePerSecond</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

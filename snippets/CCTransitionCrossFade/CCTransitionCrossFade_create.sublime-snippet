@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:create()
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOut:isSingleReference()
-]]></content>
-    <tabTrigger>CCFadeOut_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

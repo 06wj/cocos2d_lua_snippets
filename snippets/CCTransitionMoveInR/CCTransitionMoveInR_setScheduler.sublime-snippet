@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

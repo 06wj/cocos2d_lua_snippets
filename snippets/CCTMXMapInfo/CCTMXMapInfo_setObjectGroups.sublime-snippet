@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXMapInfo:setObjectGroups(${1:CCArray*_val})
-]]></content>
-    <tabTrigger>CCTMXMapInfo_setObjectGroups</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

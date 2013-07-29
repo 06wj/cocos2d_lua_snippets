@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

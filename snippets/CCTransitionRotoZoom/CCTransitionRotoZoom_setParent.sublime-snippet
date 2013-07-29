@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

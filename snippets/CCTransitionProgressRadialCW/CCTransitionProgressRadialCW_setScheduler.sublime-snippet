@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

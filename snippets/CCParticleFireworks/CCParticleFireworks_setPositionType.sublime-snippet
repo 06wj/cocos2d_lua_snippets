@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setPositionType(${1:tCCPositionType_type})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setPositionType</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

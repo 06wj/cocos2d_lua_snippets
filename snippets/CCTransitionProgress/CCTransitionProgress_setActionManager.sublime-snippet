@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgress:setActionManager(${1:CCActionManager*_pActionMgr})
-]]></content>
-    <tabTrigger>CCTransitionProgress_setActionManager</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

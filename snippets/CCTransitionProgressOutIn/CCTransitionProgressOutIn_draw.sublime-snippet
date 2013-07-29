@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressOutIn:draw()
-]]></content>
-    <tabTrigger>CCTransitionProgressOutIn_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

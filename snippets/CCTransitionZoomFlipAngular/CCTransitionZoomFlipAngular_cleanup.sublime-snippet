@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipAngular:cleanup()
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipAngular_cleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

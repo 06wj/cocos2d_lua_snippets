@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitCols:getGLServerState()
-]]></content>
-    <tabTrigger>CCTransitionSplitCols_getGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

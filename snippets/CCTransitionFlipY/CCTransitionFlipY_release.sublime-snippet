@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipY:release()
-]]></content>
-    <tabTrigger>CCTransitionFlipY_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

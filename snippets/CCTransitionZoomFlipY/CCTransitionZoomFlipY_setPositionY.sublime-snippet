@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipY:setPositionY(${1:float_y})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipY_setPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

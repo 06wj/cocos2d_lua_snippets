@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setScaleX(${1:float_newScaleX})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setScaleX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

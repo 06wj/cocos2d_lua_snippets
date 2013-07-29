@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setStartRadius(${1:float_startRadius})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setStartRadius</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

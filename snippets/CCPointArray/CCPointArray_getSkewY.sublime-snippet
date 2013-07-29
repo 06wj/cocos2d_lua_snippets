@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:getSkewY(${1:})
-]]></content>
-    <tabTrigger>CCPointArray_getSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

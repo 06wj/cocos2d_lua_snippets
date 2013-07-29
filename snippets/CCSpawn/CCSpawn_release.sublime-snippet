@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpawn:release()
-]]></content>
-    <tabTrigger>CCSpawn_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

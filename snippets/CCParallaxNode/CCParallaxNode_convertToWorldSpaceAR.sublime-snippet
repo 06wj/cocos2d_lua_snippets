@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:convertToWorldSpaceAR(${1:CCPoint_nodePoint})
-]]></content>
-    <tabTrigger>CCParallaxNode_convertToWorldSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

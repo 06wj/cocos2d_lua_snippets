@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSceneOriented:stopAllActions()
-]]></content>
-    <tabTrigger>CCTransitionSceneOriented_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

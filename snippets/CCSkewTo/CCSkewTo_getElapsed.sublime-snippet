@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewTo:getElapsed()
-]]></content>
-    <tabTrigger>CCSkewTo_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

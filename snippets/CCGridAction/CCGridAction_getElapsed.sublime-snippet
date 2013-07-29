@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCGridAction:getElapsed()
-]]></content>
-    <tabTrigger>CCGridAction_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

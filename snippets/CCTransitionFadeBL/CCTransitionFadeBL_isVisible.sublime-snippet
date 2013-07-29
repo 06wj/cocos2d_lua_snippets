@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:isVisible(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_isVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

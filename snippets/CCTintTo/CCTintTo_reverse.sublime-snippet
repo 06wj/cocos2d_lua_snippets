@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTintTo:reverse()
-]]></content>
-    <tabTrigger>CCTintTo_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInL:setSkewX(${1:float_skewX})
-]]></content>
-    <tabTrigger>CCTransitionMoveInL_setSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

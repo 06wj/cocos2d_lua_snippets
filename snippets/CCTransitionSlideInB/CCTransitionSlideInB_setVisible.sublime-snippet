@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInB:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionSlideInB_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

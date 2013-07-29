@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:transform()
-]]></content>
-    <tabTrigger>CCParticleFireworks_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

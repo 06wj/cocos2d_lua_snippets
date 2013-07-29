@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getSpeedVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getSpeedVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

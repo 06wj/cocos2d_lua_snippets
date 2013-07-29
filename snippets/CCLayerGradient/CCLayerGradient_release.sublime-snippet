@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:release()
-]]></content>
-    <tabTrigger>CCLayerGradient_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

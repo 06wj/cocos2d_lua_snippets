@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTargetedAction:isSingleReference()
-]]></content>
-    <tabTrigger>CCTargetedAction_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

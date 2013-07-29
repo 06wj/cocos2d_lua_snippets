@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTexture2D:release()
-]]></content>
-    <tabTrigger>CCTexture2D_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

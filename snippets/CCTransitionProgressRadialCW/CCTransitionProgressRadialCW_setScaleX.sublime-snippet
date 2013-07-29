@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:setScaleX(${1:float_newScaleX})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_setScaleX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

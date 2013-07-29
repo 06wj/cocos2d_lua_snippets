@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCBezierTo:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCBezierTo_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipY:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipY_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItem:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCMenuItem_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

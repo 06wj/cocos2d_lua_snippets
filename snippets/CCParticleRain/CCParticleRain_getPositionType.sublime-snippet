@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getPositionType()
-]]></content>
-    <tabTrigger>CCParticleRain_getPositionType</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

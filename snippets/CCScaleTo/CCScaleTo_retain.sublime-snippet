@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleTo:retain()
-]]></content>
-    <tabTrigger>CCScaleTo_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

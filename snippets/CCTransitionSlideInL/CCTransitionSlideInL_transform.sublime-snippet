@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInL:transform()
-]]></content>
-    <tabTrigger>CCTransitionSlideInL_transform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

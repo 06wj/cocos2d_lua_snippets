@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitCols:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCTransitionSplitCols_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

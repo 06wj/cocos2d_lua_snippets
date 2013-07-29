@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRotateTo:getTag()
-]]></content>
-    <tabTrigger>CCRotateTo_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

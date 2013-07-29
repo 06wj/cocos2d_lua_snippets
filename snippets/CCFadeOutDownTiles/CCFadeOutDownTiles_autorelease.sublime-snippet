@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutDownTiles:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCFadeOutDownTiles_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

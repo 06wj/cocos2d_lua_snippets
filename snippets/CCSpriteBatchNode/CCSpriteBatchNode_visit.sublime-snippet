@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:visit()
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionJumpZoom:retain()
-]]></content>
-    <tabTrigger>CCTransitionJumpZoom_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

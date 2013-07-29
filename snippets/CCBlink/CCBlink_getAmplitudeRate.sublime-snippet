@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCBlink:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCBlink_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

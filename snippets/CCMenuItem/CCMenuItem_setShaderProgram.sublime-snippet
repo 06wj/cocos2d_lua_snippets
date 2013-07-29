@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItem:setShaderProgram(${1:CCGLProgram*_pShaderProgram})
-]]></content>
-    <tabTrigger>CCMenuItem_setShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

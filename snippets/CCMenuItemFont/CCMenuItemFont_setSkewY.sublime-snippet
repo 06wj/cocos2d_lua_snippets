@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCMenuItemFont_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

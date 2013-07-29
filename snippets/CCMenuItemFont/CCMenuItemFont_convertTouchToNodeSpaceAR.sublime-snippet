@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:convertTouchToNodeSpaceAR(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCMenuItemFont_convertTouchToNodeSpaceAR</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

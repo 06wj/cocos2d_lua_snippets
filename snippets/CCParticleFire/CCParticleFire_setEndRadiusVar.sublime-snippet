@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:setEndRadiusVar(${1:float_endRadiusVar})
-]]></content>
-    <tabTrigger>CCParticleFire_setEndRadiusVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

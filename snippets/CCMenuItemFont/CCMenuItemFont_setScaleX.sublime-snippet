@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:setScaleX(${1:float_newScaleX})
-]]></content>
-    <tabTrigger>CCMenuItemFont_setScaleX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

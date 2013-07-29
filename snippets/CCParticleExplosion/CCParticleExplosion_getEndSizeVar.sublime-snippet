@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getEndSizeVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getEndSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

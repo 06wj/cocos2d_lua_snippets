@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseRateAction:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCEaseRateAction_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

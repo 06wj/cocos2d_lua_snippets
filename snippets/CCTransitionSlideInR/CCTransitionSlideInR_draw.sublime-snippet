@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:draw()
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

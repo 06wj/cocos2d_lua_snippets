@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWaves:isSingleReference()
-]]></content>
-    <tabTrigger>CCWaves_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

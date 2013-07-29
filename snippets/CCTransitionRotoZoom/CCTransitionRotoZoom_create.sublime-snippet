@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:create()
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

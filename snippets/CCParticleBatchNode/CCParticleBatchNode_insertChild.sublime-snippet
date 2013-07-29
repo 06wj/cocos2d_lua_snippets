@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:insertChild(${1:CCParticleSystem*_pSystem},${2:unsigned_int_index})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_insertChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

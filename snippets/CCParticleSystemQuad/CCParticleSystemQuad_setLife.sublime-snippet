@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setLife(${1:float_life})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setLife</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

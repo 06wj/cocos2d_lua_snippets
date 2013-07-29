@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getPositionY(${1:})
-]]></content>
-    <tabTrigger>CCSprite_getPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

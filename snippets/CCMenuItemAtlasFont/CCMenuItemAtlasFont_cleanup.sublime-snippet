@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:cleanup()
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_cleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

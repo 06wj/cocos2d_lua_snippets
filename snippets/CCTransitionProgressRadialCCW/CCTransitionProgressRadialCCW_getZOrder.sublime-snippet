@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:getZOrder(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_getZOrder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

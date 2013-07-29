@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:copy(${1:})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

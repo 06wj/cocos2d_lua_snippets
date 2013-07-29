@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCardinalSplineBy:retainCount()
-]]></content>
-    <tabTrigger>CCCardinalSplineBy_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

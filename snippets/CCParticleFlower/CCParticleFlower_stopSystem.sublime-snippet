@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:stopSystem(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_stopSystem</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCTileMapAtlas_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

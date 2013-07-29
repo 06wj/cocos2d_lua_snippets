@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeIn:copy(${1:})
-]]></content>
-    <tabTrigger>CCFadeIn_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

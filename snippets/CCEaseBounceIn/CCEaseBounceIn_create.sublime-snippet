@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounceIn:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCEaseBounceIn_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

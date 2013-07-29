@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemLabel:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCMenuItemLabel_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

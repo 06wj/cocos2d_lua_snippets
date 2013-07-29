@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFollow:retain()
-]]></content>
-    <tabTrigger>CCFollow_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

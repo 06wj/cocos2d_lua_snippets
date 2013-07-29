@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCRibbon_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

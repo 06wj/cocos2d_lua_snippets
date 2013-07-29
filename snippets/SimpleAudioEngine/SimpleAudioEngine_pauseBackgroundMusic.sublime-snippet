@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-SimpleAudioEngine:pauseBackgroundMusic(${1:})
-]]></content>
-    <tabTrigger>SimpleAudioEngine_pauseBackgroundMusic</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

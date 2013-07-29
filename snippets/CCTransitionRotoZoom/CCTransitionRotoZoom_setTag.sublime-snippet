@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:setTag(${1:int_var})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

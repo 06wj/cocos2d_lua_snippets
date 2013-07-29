@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:cleanup()
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_cleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

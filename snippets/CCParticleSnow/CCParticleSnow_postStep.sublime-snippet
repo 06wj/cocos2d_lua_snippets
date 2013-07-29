@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:postStep(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_postStep</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

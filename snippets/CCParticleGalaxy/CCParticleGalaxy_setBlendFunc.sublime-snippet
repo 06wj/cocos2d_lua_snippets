@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setBlendFunc(${1:ccBlendFunc_var})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setBlendFunc</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

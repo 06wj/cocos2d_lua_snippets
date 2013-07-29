@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSkewBy:reverse()
-]]></content>
-    <tabTrigger>CCSkewBy_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

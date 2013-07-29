@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

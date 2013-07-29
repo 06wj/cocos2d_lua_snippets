@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:unscheduleUpdate()
-]]></content>
-    <tabTrigger>CCSprite_unscheduleUpdate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

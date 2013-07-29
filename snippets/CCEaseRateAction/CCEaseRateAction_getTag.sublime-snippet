@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseRateAction:getTag()
-]]></content>
-    <tabTrigger>CCEaseRateAction_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

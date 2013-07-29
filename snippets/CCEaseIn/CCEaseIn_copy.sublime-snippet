@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseIn:copy(${1:})
-]]></content>
-    <tabTrigger>CCEaseIn_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

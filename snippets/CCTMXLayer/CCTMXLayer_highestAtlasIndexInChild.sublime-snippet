@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:highestAtlasIndexInChild(${1:CCSprite_*sprite})
-]]></content>
-    <tabTrigger>CCTMXLayer_highestAtlasIndexInChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

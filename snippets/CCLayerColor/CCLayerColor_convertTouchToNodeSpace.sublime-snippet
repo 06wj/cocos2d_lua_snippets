@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:convertTouchToNodeSpace(${1:CCTouch_*_touch})
-]]></content>
-    <tabTrigger>CCLayerColor_convertTouchToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

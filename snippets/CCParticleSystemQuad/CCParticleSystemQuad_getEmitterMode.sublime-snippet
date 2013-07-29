@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getEmitterMode(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getEmitterMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

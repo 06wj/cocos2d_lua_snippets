@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

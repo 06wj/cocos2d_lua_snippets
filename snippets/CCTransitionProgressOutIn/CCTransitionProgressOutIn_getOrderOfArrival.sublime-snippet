@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressOutIn:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressOutIn_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

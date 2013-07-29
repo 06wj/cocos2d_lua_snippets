@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:runAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_runAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

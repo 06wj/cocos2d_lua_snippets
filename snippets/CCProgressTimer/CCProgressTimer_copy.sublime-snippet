@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTimer:copy(${1:})
-]]></content>
-    <tabTrigger>CCProgressTimer_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

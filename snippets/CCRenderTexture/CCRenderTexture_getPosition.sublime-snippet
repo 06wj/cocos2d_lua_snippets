@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:getPosition(${1:float*_x_=_0},${2:float*_y_=_0})
-]]></content>
-    <tabTrigger>CCRenderTexture_getPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

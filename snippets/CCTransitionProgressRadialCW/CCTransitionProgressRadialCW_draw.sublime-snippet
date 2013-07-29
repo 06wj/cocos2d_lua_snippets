@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:draw()
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

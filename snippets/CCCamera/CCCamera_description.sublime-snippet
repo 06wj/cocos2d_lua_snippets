@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCamera:description()
-]]></content>
-    <tabTrigger>CCCamera_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

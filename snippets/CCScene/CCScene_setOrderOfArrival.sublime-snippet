@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCScene_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

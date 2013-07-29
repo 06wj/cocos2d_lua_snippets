@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDelayTime:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCDelayTime_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

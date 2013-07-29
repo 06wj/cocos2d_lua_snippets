@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_reorderChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

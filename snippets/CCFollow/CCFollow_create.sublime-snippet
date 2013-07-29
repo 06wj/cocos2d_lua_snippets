@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFollow:create(${1:CCNode_*pFollowedNode})
-]]></content>
-    <tabTrigger>CCFollow_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:getSourcePosition(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_getSourcePosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

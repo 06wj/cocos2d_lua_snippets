@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setBatchNode(${1:CCParticleBatchNode*_node})
-]]></content>
-    <tabTrigger>CCParticleSnow_setBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReuseGrid:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCReuseGrid_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

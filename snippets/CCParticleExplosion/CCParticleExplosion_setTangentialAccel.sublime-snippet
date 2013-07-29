@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setTangentialAccel(${1:float_t})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setTangentialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitCols:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCSplitCols_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

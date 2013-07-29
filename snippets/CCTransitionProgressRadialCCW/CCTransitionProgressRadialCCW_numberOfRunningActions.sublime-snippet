@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:numberOfRunningActions()
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_numberOfRunningActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

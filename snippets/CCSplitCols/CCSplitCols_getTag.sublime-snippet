@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitCols:getTag()
-]]></content>
-    <tabTrigger>CCSplitCols_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

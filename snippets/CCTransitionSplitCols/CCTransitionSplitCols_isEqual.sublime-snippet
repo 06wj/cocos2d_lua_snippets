@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitCols:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTransitionSplitCols_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

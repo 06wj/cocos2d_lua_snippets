@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTintTo:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCTintTo_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

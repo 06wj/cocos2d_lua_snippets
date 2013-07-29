@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:setLabel(${1:CCNode*_pLabel})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_setLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

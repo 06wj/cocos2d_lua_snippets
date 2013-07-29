@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRepeatForever:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCRepeatForever_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

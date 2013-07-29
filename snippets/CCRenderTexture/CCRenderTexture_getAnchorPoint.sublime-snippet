@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:getAnchorPoint(${1:})
-]]></content>
-    <tabTrigger>CCRenderTexture_getAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

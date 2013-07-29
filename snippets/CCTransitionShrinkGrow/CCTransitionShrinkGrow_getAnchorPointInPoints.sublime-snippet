@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

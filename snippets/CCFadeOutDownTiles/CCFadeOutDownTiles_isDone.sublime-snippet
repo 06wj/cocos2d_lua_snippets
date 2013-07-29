@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutDownTiles:isDone()
-]]></content>
-    <tabTrigger>CCFadeOutDownTiles_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

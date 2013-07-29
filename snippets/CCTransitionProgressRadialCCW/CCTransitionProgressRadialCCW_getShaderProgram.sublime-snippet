@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:getShaderProgram(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_getShaderProgram</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:numberOfRunningActions()
-]]></content>
-    <tabTrigger>CCParticleSmoke_numberOfRunningActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

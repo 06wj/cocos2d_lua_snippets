@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressTo:isDone()
-]]></content>
-    <tabTrigger>CCProgressTo_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

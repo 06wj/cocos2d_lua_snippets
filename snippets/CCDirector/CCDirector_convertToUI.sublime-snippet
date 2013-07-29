@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:convertToUI(${1:CCPoint_obPoint})
-]]></content>
-    <tabTrigger>CCDirector_convertToUI</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:increaseAtlasCapacity(${1:})
-]]></content>
-    <tabTrigger>CCTMXLayer_increaseAtlasCapacity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

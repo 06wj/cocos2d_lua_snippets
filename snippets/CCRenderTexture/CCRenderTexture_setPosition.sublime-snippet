@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCRenderTexture_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

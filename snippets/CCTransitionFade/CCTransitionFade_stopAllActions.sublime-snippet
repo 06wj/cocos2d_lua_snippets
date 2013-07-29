@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFade:stopAllActions()
-]]></content>
-    <tabTrigger>CCTransitionFade_stopAllActions</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

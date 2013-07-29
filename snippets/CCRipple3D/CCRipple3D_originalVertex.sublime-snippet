@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRipple3D:originalVertex(${1:const_CCPoint&_pos})
-]]></content>
-    <tabTrigger>CCRipple3D_originalVertex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

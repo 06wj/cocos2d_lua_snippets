@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCLayer_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

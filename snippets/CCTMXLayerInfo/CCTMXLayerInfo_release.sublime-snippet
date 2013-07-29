@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayerInfo:release()
-]]></content>
-    <tabTrigger>CCTMXLayerInfo_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

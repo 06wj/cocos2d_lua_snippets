@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

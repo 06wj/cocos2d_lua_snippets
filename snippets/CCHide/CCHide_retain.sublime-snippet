@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCHide:retain()
-]]></content>
-    <tabTrigger>CCHide_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

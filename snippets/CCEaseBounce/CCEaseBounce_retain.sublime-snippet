@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounce:retain()
-]]></content>
-    <tabTrigger>CCEaseBounce_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

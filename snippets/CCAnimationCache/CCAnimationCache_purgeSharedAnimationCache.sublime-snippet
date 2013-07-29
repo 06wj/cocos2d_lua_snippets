@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAnimationCache:purgeSharedAnimationCache()
-]]></content>
-    <tabTrigger>CCAnimationCache_purgeSharedAnimationCache</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

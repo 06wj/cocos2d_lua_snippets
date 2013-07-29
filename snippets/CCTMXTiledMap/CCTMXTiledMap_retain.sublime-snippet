@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:retain()
-]]></content>
-    <tabTrigger>CCTMXTiledMap_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

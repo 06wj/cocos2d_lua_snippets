@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCLayer_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

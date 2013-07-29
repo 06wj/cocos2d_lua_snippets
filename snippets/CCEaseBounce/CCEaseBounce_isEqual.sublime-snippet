@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounce:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCEaseBounce_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

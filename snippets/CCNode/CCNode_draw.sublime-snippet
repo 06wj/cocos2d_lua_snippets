@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:draw()
-]]></content>
-    <tabTrigger>CCNode_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

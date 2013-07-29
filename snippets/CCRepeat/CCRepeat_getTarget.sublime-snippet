@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRepeat:getTarget()
-]]></content>
-    <tabTrigger>CCRepeat_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

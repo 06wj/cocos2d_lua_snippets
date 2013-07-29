@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCamera:retainCount()
-]]></content>
-    <tabTrigger>CCCamera_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

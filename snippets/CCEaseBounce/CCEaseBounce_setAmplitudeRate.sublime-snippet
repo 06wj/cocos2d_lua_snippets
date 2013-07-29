@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounce:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCEaseBounce_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

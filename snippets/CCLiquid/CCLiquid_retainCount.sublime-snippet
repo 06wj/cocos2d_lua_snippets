@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:retainCount()
-]]></content>
-    <tabTrigger>CCLiquid_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

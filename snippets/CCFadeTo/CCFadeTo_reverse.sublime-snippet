@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeTo:reverse()
-]]></content>
-    <tabTrigger>CCFadeTo_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

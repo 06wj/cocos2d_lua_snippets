@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:unregisterScriptTouchHandler(${1:})
-]]></content>
-    <tabTrigger>CCLayerGradient_unregisterScriptTouchHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

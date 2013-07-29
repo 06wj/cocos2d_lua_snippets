@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseExponentialOut:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCEaseExponentialOut_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

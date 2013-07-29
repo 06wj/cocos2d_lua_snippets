@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInT:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCTransitionSlideInT_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

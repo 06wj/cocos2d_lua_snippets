@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:retain()
-]]></content>
-    <tabTrigger>CCRibbon_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

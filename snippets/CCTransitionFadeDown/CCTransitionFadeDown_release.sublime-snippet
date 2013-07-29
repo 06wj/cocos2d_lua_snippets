@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:release()
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWaves:isDone()
-]]></content>
-    <tabTrigger>CCWaves_isDone</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

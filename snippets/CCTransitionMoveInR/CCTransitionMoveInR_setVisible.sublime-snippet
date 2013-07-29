@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInR:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionMoveInR_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

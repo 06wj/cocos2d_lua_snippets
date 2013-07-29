@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:isFlipY()
-]]></content>
-    <tabTrigger>CCTextFieldTTF_isFlipY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

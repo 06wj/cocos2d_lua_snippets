@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:convertToNodeSpace(${1:CCPoint_worldPoint})
-]]></content>
-    <tabTrigger>CCParticleSnow_convertToNodeSpace</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

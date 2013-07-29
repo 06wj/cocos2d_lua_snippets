@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:getStartColorVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSun_getStartColorVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

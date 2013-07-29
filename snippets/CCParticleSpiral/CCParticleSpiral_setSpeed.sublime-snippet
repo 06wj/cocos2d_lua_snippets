@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:setSpeed(${1:float_speed})
-]]></content>
-    <tabTrigger>CCParticleSpiral_setSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

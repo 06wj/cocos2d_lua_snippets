@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipX:getTag()
-]]></content>
-    <tabTrigger>CCFlipX_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCParticleFireworks_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:getRotatePerSecond(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_getRotatePerSecond</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

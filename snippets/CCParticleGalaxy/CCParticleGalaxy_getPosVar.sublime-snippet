@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:getPosVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_getPosVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

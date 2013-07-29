@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:cleanup()
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_cleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

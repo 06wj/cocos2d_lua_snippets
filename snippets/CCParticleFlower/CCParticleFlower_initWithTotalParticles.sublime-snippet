@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:initWithTotalParticles(${1:unsigned_int_number})
-]]></content>
-    <tabTrigger>CCParticleFlower_initWithTotalParticles</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

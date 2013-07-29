@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDeccelAmplitude:retainCount()
-]]></content>
-    <tabTrigger>CCDeccelAmplitude_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

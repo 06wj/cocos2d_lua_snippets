@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCParticleSmoke_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

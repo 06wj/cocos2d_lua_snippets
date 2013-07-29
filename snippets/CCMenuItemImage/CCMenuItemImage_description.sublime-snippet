@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:description()
-]]></content>
-    <tabTrigger>CCMenuItemImage_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

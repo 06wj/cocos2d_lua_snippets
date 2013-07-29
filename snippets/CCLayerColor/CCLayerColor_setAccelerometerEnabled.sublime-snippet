@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerColor:setAccelerometerEnabled(${1:bool_bValue})
-]]></content>
-    <tabTrigger>CCLayerColor_setAccelerometerEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

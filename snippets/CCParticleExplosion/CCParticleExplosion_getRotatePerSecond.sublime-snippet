@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:getRotatePerSecond(${1:})
-]]></content>
-    <tabTrigger>CCParticleExplosion_getRotatePerSecond</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

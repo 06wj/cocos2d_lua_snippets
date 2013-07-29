@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setOrderOfArrival(${1:int_order})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

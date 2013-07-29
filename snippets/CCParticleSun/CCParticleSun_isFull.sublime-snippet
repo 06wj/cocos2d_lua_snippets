@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:isFull(${1:})
-]]></content>
-    <tabTrigger>CCParticleSun_isFull</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

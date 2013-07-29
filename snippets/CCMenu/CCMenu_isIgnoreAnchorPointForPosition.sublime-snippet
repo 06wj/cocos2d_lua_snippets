@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCMenu_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

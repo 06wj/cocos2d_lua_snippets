@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:isSingleReference()
-]]></content>
-    <tabTrigger>CCNode_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

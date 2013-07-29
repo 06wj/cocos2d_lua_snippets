@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setSkewX(${1:float_skewX})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

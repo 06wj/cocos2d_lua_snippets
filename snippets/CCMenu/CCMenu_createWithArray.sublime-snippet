@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:createWithArray(${1:CCArray*_pArrayOfItems})
-]]></content>
-    <tabTrigger>CCMenu_createWithArray</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

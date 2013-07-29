@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleBy:getTarget()
-]]></content>
-    <tabTrigger>CCScaleBy_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

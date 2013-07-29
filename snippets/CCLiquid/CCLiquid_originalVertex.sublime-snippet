@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:originalVertex(${1:const_CCPoint&_pos})
-]]></content>
-    <tabTrigger>CCLiquid_originalVertex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

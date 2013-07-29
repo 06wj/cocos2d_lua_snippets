@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCCatmullRomTo:retain()
-]]></content>
-    <tabTrigger>CCCatmullRomTo_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCParticleRain_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

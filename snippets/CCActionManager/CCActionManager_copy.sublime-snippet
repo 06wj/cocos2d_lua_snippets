@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionManager:copy(${1:})
-]]></content>
-    <tabTrigger>CCActionManager_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

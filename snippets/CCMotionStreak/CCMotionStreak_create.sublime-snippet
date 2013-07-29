@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:create()
-]]></content>
-    <tabTrigger>CCMotionStreak_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

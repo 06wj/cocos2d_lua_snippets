@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShatteredTiles3D:getTarget()
-]]></content>
-    <tabTrigger>CCShatteredTiles3D_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

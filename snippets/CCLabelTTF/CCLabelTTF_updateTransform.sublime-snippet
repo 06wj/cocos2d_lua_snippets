@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:updateTransform()
-]]></content>
-    <tabTrigger>CCLabelTTF_updateTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

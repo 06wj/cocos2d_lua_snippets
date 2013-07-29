@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSplitRows:setScaleY(${1:float_newScaleY})
-]]></content>
-    <tabTrigger>CCTransitionSplitRows_setScaleY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

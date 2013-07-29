@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

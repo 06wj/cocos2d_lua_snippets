@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTargetedAction:getForcedTarget()
-]]></content>
-    <tabTrigger>CCTargetedAction_getForcedTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

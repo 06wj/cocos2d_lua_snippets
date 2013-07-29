@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setSourcePosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCParticleFlower_setSourcePosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

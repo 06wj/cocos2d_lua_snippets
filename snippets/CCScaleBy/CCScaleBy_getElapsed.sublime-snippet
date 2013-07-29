@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleBy:getElapsed()
-]]></content>
-    <tabTrigger>CCScaleBy_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

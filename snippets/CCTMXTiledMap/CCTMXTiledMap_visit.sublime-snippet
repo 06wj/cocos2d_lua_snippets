@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:visit()
-]]></content>
-    <tabTrigger>CCTMXTiledMap_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

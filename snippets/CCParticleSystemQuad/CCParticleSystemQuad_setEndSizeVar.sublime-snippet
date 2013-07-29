@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:setEndSizeVar(${1:float_size})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_setEndSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:stopSystem(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_stopSystem</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

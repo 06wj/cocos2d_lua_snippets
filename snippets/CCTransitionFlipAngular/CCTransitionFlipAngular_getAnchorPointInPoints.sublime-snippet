@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:getAnchorPointInPoints(${1:})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_getAnchorPointInPoints</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

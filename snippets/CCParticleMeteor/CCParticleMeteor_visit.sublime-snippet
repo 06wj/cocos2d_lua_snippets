@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:visit()
-]]></content>
-    <tabTrigger>CCParticleMeteor_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

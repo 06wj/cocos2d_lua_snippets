@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureAtlas:removeQuadAtIndex(${1:unsigned_int_index})
-]]></content>
-    <tabTrigger>CCTextureAtlas_removeQuadAtIndex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

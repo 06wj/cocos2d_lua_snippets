@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCOrbitCamera:isSingleReference()
-]]></content>
-    <tabTrigger>CCOrbitCamera_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

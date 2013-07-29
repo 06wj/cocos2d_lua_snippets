@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:getEndSizeVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_getEndSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

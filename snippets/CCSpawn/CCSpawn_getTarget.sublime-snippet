@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpawn:getTarget()
-]]></content>
-    <tabTrigger>CCSpawn_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

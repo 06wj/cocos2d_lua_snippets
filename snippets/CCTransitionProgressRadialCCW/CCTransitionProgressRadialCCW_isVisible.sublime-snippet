@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCCW:isVisible(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCCW_isVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

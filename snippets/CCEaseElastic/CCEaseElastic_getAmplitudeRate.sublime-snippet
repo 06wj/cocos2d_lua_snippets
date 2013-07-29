@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElastic:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCEaseElastic_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

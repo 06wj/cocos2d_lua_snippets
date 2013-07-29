@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCLiquid_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureAtlas:updateQuad(${1:ccV3F_C4B_T2F_Quad*_quad},${2:unsigned_int_index})
-]]></content>
-    <tabTrigger>CCTextureAtlas_updateQuad</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

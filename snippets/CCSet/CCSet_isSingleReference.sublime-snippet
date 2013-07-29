@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSet:isSingleReference()
-]]></content>
-    <tabTrigger>CCSet_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

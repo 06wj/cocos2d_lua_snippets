@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:setLabel(${1:CCNode*_pLabel})
-]]></content>
-    <tabTrigger>CCMenuItemFont_setLabel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

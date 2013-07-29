@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInT:release()
-]]></content>
-    <tabTrigger>CCTransitionMoveInT_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

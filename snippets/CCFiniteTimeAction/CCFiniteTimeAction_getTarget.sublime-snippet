@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFiniteTimeAction:getTarget()
-]]></content>
-    <tabTrigger>CCFiniteTimeAction_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

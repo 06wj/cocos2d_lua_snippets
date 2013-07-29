@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAtlasNode:retain()
-]]></content>
-    <tabTrigger>CCAtlasNode_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

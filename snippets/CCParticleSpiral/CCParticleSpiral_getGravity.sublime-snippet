@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:getGravity(${1:})
-]]></content>
-    <tabTrigger>CCParticleSpiral_getGravity</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

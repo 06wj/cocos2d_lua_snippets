@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:getPositionY(${1:})
-]]></content>
-    <tabTrigger>CCRibbon_getPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

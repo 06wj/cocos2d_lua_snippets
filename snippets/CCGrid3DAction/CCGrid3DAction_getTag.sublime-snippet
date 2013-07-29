@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCGrid3DAction:getTag()
-]]></content>
-    <tabTrigger>CCGrid3DAction_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

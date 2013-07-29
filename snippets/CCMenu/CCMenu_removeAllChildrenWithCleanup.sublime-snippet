@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:removeAllChildrenWithCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCMenu_removeAllChildrenWithCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

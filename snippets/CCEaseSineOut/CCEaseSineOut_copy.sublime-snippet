@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseSineOut:copy(${1:})
-]]></content>
-    <tabTrigger>CCEaseSineOut_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

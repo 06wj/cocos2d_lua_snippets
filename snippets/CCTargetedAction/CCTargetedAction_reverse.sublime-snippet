@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTargetedAction:reverse()
-]]></content>
-    <tabTrigger>CCTargetedAction_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

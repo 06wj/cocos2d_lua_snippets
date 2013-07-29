@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCParticleSmoke_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

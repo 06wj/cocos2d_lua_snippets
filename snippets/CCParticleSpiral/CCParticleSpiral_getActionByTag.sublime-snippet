@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:getActionByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCParticleSpiral_getActionByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

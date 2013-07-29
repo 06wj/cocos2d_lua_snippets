@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCTMXTiledMap_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

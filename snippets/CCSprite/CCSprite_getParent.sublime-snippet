@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:getParent(${1:})
-]]></content>
-    <tabTrigger>CCSprite_getParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

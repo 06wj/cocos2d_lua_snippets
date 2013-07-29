@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setStartColor(${1:const_ccColor4F_var})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setStartColor</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

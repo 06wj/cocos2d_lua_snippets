@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCLiquid_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:getGrid(${1:})
-]]></content>
-    <tabTrigger>CCMenu_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

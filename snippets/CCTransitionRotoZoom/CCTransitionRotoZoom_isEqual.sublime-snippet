@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

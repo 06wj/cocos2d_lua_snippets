@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:getSpeed(${1:})
-]]></content>
-    <tabTrigger>CCParticleSun_getSpeed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

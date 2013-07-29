@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBackIn:create(${1:float_d})
-]]></content>
-    <tabTrigger>CCEaseBackIn_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

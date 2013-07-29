@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:disableParticle(${1:unsigned_int_particleIndex})
-]]></content>
-    <tabTrigger>CCParticleBatchNode_disableParticle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

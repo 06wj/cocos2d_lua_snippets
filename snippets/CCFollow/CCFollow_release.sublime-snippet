@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFollow:release()
-]]></content>
-    <tabTrigger>CCFollow_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

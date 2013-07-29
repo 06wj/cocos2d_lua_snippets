@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseRateAction:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCEaseRateAction_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

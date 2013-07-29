@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:textFieldWithPlaceHolder(${1:const_char_*placeholder},${2:const_char_*fontName},${3:float_fontSize})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_textFieldWithPlaceHolder</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

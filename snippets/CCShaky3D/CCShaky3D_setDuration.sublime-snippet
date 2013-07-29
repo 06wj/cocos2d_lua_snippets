@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShaky3D:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCShaky3D_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

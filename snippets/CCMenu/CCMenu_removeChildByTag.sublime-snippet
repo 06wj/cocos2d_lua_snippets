@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:removeChildByTag(${1:int_tag},${2:bool_cleanup})
-]]></content>
-    <tabTrigger>CCMenu_removeChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

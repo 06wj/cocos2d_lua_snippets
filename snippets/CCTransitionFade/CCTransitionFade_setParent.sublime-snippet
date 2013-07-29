@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFade:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionFade_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

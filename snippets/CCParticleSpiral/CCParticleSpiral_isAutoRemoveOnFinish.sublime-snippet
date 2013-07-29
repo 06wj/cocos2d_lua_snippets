@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:isAutoRemoveOnFinish(${1:})
-]]></content>
-    <tabTrigger>CCParticleSpiral_isAutoRemoveOnFinish</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

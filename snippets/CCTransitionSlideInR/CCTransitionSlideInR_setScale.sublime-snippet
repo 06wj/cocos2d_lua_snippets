@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInR:setScale(${1:float_scale})
-]]></content>
-    <tabTrigger>CCTransitionSlideInR_setScale</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

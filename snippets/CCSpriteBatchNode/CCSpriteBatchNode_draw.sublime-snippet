@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:draw()
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

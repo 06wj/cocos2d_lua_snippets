@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:removeFromParentAndCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCLayer_removeFromParentAndCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

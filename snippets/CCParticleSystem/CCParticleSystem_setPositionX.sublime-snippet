@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCParticleSystem_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

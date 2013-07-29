@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:getTarget()
-]]></content>
-    <tabTrigger>CCLiquid_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

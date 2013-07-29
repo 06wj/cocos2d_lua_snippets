@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCShaky3D:reverse()
-]]></content>
-    <tabTrigger>CCShaky3D_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

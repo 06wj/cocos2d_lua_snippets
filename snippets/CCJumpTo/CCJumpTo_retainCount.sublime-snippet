@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpTo:retainCount()
-]]></content>
-    <tabTrigger>CCJumpTo_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

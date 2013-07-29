@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReverseTime:copy(${1:})
-]]></content>
-    <tabTrigger>CCReverseTime_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

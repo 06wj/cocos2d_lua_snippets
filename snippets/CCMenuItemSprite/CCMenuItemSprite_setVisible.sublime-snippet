@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemSprite:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCMenuItemSprite_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

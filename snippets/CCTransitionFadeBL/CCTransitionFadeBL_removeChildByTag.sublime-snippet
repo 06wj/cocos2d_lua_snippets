@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:removeChildByTag(${1:int_tag},${2:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_removeChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

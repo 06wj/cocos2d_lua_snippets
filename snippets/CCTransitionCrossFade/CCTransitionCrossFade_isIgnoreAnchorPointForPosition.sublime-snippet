@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionCrossFade:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCTransitionCrossFade_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

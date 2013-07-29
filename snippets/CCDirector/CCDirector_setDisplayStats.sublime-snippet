@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDirector:setDisplayStats(${1:bool_bDisplayStats})
-]]></content>
-    <tabTrigger>CCDirector_setDisplayStats</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

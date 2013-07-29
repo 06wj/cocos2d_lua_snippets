@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:draw()
-]]></content>
-    <tabTrigger>CCPointArray_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

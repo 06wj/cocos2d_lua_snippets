@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSpiral:postStep(${1:})
-]]></content>
-    <tabTrigger>CCParticleSpiral_postStep</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:removeFromParentAndCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCSprite_removeFromParentAndCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

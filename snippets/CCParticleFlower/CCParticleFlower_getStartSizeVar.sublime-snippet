@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getStartSizeVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getStartSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

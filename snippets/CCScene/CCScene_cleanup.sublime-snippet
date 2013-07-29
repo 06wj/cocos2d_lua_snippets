@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:cleanup()
-]]></content>
-    <tabTrigger>CCScene_cleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

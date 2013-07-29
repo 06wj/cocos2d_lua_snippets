@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureAtlas:getTotalQuads(${1:})
-]]></content>
-    <tabTrigger>CCTextureAtlas_getTotalQuads</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitCols:retain()
-]]></content>
-    <tabTrigger>CCSplitCols_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:reorderBatch(${1:bool_reorder})
-]]></content>
-    <tabTrigger>CCTMXLayer_reorderBatch</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

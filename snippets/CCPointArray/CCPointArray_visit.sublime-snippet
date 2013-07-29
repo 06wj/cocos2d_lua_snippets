@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPointArray:visit()
-]]></content>
-    <tabTrigger>CCPointArray_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

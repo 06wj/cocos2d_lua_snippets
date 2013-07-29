@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:setFlipX(${1:bool_bFlipX})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_setFlipX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

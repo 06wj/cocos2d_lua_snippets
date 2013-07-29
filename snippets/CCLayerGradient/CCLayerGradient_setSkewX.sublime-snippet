@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayerGradient:setSkewX(${1:float_skewX})
-]]></content>
-    <tabTrigger>CCLayerGradient_setSkewX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

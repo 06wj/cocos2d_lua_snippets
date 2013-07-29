@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveTo:isEqual(${1:const_CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCMoveTo_isEqual</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

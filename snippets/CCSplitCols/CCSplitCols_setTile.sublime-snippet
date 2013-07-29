@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSplitCols:setTile(${1:CCPoint_pos},${2:ccQuad3_coords})
-]]></content>
-    <tabTrigger>CCSplitCols_setTile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCParticleFlower_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

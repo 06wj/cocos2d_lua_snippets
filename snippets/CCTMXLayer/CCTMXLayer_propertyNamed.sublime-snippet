@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:propertyNamed(${1:const_char_*propertyName})
-]]></content>
-    <tabTrigger>CCTMXLayer_propertyNamed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

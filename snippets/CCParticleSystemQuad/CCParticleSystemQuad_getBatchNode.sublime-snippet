@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getBatchNode()
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getBatchNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

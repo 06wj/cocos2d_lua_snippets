@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelAtlas:ignoreAnchorPointForPosition(${1:bool_newValue})
-]]></content>
-    <tabTrigger>CCLabelAtlas_ignoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

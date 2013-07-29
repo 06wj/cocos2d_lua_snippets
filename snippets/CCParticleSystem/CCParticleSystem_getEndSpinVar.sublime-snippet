@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:getEndSpinVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystem_getEndSpinVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

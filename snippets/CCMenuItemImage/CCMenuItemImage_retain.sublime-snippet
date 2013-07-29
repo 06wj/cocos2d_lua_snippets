@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemImage:retain()
-]]></content>
-    <tabTrigger>CCMenuItemImage_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

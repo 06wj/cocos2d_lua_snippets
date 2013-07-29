@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDictionary:allKeys(${1:})
-]]></content>
-    <tabTrigger>CCDictionary_allKeys</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

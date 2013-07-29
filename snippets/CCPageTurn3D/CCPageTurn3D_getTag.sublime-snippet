@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCPageTurn3D:getTag()
-]]></content>
-    <tabTrigger>CCPageTurn3D_getTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

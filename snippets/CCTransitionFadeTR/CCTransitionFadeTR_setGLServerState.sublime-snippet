@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeTR:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCTransitionFadeTR_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

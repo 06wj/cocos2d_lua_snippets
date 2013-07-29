@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setEndSpin(${1:float_var})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setEndSpin</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

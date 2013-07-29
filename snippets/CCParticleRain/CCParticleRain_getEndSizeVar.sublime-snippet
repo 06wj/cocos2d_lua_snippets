@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getEndSizeVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getEndSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:sideOfLine(${1:CCPoint_p},${2:CCPoint_l1},${3:CCPoint_l2})
-]]></content>
-    <tabTrigger>CCRibbon_sideOfLine</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

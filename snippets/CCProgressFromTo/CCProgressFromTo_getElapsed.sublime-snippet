@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressFromTo:getElapsed()
-]]></content>
-    <tabTrigger>CCProgressFromTo_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

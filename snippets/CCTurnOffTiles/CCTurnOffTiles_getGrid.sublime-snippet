@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTurnOffTiles:getGrid()
-]]></content>
-    <tabTrigger>CCTurnOffTiles_getGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

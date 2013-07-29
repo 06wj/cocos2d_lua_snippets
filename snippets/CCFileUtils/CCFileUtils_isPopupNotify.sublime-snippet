@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFileUtils:isPopupNotify(${1:})
-]]></content>
-    <tabTrigger>CCFileUtils_isPopupNotify</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

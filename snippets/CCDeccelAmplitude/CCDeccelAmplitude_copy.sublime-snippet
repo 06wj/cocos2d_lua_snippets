@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDeccelAmplitude:copy(${1:})
-]]></content>
-    <tabTrigger>CCDeccelAmplitude_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

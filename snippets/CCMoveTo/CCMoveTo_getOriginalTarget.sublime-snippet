@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMoveTo:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCMoveTo_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

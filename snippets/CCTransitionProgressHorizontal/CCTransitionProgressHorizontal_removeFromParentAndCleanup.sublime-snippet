@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:removeFromParentAndCleanup(${1:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_removeFromParentAndCleanup</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

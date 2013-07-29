@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCMotionStreak_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

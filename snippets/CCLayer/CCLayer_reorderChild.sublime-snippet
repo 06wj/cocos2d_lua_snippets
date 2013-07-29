@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
-]]></content>
-    <tabTrigger>CCLayer_reorderChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

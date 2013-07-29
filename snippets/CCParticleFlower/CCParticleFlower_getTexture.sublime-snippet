@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getTexture()
-]]></content>
-    <tabTrigger>CCParticleFlower_getTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

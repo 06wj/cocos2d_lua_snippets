@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressRadialCW:isIgnoreAnchorPointForPosition(${1:})
-]]></content>
-    <tabTrigger>CCTransitionProgressRadialCW_isIgnoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextureCache:copy(${1:})
-]]></content>
-    <tabTrigger>CCTextureCache_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

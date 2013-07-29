@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCBezierTo:copy(${1:})
-]]></content>
-    <tabTrigger>CCBezierTo_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

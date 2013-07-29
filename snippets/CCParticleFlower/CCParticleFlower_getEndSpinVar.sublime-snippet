@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:getEndSpinVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFlower_getEndSpinVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCNode:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCNode_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

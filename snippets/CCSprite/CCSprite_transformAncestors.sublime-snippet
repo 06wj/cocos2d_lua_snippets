@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:transformAncestors()
-]]></content>
-    <tabTrigger>CCSprite_transformAncestors</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

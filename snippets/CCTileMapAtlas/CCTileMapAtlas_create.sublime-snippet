@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTileMapAtlas:create()
-]]></content>
-    <tabTrigger>CCTileMapAtlas_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

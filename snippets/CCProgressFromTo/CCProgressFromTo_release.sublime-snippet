@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressFromTo:release()
-]]></content>
-    <tabTrigger>CCProgressFromTo_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

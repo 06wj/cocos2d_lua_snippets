@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutUpTiles:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCFadeOutUpTiles_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

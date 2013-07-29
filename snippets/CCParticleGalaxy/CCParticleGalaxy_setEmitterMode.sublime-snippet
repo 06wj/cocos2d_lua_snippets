@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleGalaxy:setEmitterMode(${1:int_mode})
-]]></content>
-    <tabTrigger>CCParticleGalaxy_setEmitterMode</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

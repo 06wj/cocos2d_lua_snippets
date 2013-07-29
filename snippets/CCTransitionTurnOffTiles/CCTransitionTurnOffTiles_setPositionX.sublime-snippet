@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

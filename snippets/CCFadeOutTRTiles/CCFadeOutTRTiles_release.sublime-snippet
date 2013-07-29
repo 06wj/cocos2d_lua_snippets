@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFadeOutTRTiles:release()
-]]></content>
-    <tabTrigger>CCFadeOutTRTiles_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

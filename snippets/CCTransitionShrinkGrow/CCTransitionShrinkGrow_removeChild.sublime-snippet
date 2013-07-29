@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionShrinkGrow:removeChild(${1:CCNode*_child},${2:bool_cleanup})
-]]></content>
-    <tabTrigger>CCTransitionShrinkGrow_removeChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

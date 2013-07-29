@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXTiledMap:getProperties(${1:})
-]]></content>
-    <tabTrigger>CCTMXTiledMap_getProperties</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressOutIn:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionProgressOutIn_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

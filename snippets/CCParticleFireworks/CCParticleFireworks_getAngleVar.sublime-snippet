@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getAngleVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFireworks_getAngleVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

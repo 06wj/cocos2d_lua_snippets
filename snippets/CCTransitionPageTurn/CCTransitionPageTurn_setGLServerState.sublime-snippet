@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

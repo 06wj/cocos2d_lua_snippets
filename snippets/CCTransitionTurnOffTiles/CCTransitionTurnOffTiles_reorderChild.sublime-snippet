@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:reorderChild(${1:CCNode_*_child},${2:int_zOrder})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_reorderChild</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

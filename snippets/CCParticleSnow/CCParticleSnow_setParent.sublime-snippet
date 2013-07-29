@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCParticleSnow_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

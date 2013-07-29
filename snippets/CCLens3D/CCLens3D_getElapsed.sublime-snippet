@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLens3D:getElapsed()
-]]></content>
-    <tabTrigger>CCLens3D_getElapsed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

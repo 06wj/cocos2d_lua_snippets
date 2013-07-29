@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgressHorizontal:description()
-]]></content>
-    <tabTrigger>CCTransitionProgressHorizontal_description</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleRain:getRadialAccelVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleRain_getRadialAccelVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

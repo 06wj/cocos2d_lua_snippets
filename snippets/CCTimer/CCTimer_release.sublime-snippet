@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTimer:release()
-]]></content>
-    <tabTrigger>CCTimer_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

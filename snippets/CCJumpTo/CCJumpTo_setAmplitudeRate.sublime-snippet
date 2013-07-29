@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpTo:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCJumpTo_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

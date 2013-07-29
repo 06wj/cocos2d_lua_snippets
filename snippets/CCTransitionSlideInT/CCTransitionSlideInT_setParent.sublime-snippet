@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionSlideInT:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCTransitionSlideInT_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCUserDefault:setStringForKey(${1:const_char*_pKey},${2:std::string_value})
-]]></content>
-    <tabTrigger>CCUserDefault_setStringForKey</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

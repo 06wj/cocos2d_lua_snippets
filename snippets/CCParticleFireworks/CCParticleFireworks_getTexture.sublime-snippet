@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:getTexture()
-]]></content>
-    <tabTrigger>CCParticleFireworks_getTexture</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCStopGrid:isSingleReference()
-]]></content>
-    <tabTrigger>CCStopGrid_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

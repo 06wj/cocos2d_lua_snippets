@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelBMFont:setFntFile(${1:const_char*_fntFile})
-]]></content>
-    <tabTrigger>CCLabelBMFont_setFntFile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

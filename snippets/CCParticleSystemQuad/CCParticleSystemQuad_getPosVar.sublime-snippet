@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystemQuad:getPosVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSystemQuad_getPosVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

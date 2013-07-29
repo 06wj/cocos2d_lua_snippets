@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionCamera:release()
-]]></content>
-    <tabTrigger>CCActionCamera_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipX:getDuration()
-]]></content>
-    <tabTrigger>CCFlipX_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

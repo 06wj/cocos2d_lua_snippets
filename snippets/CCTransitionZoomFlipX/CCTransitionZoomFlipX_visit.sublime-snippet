@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionZoomFlipX:visit()
-]]></content>
-    <tabTrigger>CCTransitionZoomFlipX_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLayer:setPositionY(${1:float_y})
-]]></content>
-    <tabTrigger>CCLayer_setPositionY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

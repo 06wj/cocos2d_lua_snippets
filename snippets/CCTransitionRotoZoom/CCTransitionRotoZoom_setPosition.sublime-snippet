@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionRotoZoom:setPosition(${1:CCPoint_pos})
-]]></content>
-    <tabTrigger>CCTransitionRotoZoom_setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

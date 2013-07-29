@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRenderTexture:newCCImage(${1:})
-]]></content>
-    <tabTrigger>CCRenderTexture_newCCImage</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:setTextureRect(${1:CCRect_rect},${2:bool_rotated},${3:CCSize_size})
-]]></content>
-    <tabTrigger>CCLabelTTF_setTextureRect</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParallaxNode:create()
-]]></content>
-    <tabTrigger>CCParallaxNode_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

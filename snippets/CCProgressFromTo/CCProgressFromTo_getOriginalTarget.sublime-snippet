@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCProgressFromTo:getOriginalTarget()
-]]></content>
-    <tabTrigger>CCProgressFromTo_getOriginalTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:release()
-]]></content>
-    <tabTrigger>CCRibbon_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelDeccelAmplitude:setTag(${1:int_nTag})
-]]></content>
-    <tabTrigger>CCAccelDeccelAmplitude_setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

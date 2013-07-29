@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:isFrameDisplayed(${1:CCSpriteFrame_*pFrame})
-]]></content>
-    <tabTrigger>CCLabelTTF_isFrameDisplayed</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

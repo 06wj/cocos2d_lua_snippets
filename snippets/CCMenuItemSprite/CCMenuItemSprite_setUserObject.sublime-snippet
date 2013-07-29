@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemSprite:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCMenuItemSprite_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

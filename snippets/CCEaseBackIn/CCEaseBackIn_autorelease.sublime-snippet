@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBackIn:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCEaseBackIn_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

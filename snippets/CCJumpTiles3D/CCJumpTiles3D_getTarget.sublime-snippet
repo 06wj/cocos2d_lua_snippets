@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCJumpTiles3D:getTarget()
-]]></content>
-    <tabTrigger>CCJumpTiles3D_getTarget</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

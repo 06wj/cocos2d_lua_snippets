@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:unselected(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemFont_unselected</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

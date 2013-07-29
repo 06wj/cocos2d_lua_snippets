@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInT:create()
-]]></content>
-    <tabTrigger>CCTransitionMoveInT_create</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

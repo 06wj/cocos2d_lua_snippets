@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseIn:retain()
-]]></content>
-    <tabTrigger>CCEaseIn_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

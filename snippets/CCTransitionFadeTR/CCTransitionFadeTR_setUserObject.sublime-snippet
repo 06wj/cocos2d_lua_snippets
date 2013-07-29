@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeTR:setUserObject(${1:CCObject*_pObject})
-]]></content>
-    <tabTrigger>CCTransitionFadeTR_setUserObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

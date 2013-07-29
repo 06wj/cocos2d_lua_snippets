@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCOrbitCamera:reverse()
-]]></content>
-    <tabTrigger>CCOrbitCamera_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

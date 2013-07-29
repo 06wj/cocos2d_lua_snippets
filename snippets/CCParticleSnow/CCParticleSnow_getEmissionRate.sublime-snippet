@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:getEmissionRate(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_getEmissionRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

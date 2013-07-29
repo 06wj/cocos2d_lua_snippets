@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:createWithSpriteFrameName(${1:const_char_*pszSpriteFrameName})
-]]></content>
-    <tabTrigger>CCLabelTTF_createWithSpriteFrameName</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

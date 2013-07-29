@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:retain()
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

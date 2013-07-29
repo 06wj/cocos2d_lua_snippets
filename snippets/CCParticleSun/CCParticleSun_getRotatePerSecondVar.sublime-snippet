@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:getRotatePerSecondVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleSun_getRotatePerSecondVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

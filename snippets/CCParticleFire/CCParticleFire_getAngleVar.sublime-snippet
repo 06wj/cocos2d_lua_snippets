@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:getAngleVar(${1:})
-]]></content>
-    <tabTrigger>CCParticleFire_getAngleVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

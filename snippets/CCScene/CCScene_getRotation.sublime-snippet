@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScene:getRotation(${1:})
-]]></content>
-    <tabTrigger>CCScene_getRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

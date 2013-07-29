@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFileUtils:getWritablePath(${1:})
-]]></content>
-    <tabTrigger>CCFileUtils_getWritablePath</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

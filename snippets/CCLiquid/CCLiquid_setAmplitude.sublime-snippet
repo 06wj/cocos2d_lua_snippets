@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:setAmplitude(${1:float_fAmplitude})
-]]></content>
-    <tabTrigger>CCLiquid_setAmplitude</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

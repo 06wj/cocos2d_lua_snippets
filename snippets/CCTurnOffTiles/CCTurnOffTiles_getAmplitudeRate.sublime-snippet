@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTurnOffTiles:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCTurnOffTiles_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:setDisplayFrame(${1:CCSpriteFrame*_spriteFrame})
-]]></content>
-    <tabTrigger>CCParticleSnow_setDisplayFrame</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

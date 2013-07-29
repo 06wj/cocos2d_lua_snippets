@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSystem:setEmissionRate(${1:float_rate})
-]]></content>
-    <tabTrigger>CCParticleSystem_setEmissionRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

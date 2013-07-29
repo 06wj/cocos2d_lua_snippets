@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemSprite:stopAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCMenuItemSprite_stopAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

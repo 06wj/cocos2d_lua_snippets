@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:setPositionX(${1:float_x})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_setPositionX</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

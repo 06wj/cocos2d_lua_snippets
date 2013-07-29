@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeBL:setGrid(${1:CCGridBase*_pGrid})
-]]></content>
-    <tabTrigger>CCTransitionFadeBL_setGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

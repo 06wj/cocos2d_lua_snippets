@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWaves3D:vertex(${1:const_CCPoint&_pos})
-]]></content>
-    <tabTrigger>CCWaves3D_vertex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

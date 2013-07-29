@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setLifeVar(${1:float_lifeVar})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setLifeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

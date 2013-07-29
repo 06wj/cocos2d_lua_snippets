@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCDictionary:copy(${1:})
-]]></content>
-    <tabTrigger>CCDictionary_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

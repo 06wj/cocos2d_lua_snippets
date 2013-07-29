@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLabelTTF:setGrid(${1:CCGridBase*_pGrid})
-]]></content>
-    <tabTrigger>CCLabelTTF_setGrid</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

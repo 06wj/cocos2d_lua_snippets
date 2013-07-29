@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFire:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCParticleFire_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

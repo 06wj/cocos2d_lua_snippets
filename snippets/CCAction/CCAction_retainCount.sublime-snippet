@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAction:retainCount()
-]]></content>
-    <tabTrigger>CCAction_retainCount</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

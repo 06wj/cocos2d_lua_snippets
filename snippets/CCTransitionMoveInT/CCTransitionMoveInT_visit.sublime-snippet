@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionMoveInT:visit()
-]]></content>
-    <tabTrigger>CCTransitionMoveInT_visit</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

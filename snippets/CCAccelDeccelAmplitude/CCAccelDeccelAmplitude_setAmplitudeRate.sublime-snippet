@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAccelDeccelAmplitude:setAmplitudeRate(${1:float_amp})
-]]></content>
-    <tabTrigger>CCAccelDeccelAmplitude_setAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

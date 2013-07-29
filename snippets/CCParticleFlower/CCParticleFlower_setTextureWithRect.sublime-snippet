@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFlower:setTextureWithRect(${1:CCTexture2D_*texture},${2:const_CCRect&_rect})
-]]></content>
-    <tabTrigger>CCParticleFlower_setTextureWithRect</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

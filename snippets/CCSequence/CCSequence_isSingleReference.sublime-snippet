@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSequence:isSingleReference()
-]]></content>
-    <tabTrigger>CCSequence_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemFont:retain()
-]]></content>
-    <tabTrigger>CCMenuItemFont_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

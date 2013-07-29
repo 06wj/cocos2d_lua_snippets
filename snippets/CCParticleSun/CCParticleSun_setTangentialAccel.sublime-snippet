@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSun:setTangentialAccel(${1:float_t})
-]]></content>
-    <tabTrigger>CCParticleSun_setTangentialAccel</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

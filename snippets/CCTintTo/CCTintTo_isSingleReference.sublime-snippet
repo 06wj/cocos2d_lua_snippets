@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTintTo:isSingleReference()
-]]></content>
-    <tabTrigger>CCTintTo_isSingleReference</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

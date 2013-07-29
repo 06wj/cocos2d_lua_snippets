@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFlipX:retain()
-]]></content>
-    <tabTrigger>CCFlipX_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

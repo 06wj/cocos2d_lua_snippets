@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCActionEase:reverse()
-]]></content>
-    <tabTrigger>CCActionEase_reverse</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

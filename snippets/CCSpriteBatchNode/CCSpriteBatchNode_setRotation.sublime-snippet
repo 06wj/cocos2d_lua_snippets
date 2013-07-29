@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:setRotation(${1:float_newRotation})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_setRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

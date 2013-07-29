@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseBounce:copy(${1:})
-]]></content>
-    <tabTrigger>CCEaseBounce_copy</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

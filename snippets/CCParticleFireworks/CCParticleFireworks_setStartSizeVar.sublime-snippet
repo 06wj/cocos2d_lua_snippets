@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleFireworks:setStartSizeVar(${1:float_size})
-]]></content>
-    <tabTrigger>CCParticleFireworks_setStartSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

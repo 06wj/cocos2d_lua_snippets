@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:setVisible(${1:bool_var})
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_setVisible</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

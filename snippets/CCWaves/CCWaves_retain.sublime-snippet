@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCWaves:retain()
-]]></content>
-    <tabTrigger>CCWaves_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

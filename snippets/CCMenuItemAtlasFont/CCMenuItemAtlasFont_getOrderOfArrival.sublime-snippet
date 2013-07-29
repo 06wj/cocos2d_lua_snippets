@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemAtlasFont:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCMenuItemAtlasFont_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCGrid3DAction:setVertex(${1:const_CCPoint&_pos},${2:const_ccVertex3F&_vertex})
-]]></content>
-    <tabTrigger>CCGrid3DAction_setVertex</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

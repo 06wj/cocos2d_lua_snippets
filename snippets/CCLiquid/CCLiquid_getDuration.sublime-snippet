@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCLiquid:getDuration()
-]]></content>
-    <tabTrigger>CCLiquid_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

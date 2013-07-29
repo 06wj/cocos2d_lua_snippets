@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFade:getChildByTag(${1:int_tag})
-]]></content>
-    <tabTrigger>CCTransitionFade_getChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

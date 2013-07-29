@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionPageTurn:draw()
-]]></content>
-    <tabTrigger>CCTransitionPageTurn_draw</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

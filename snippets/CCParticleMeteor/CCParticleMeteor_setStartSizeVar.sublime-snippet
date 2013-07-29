@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleMeteor:setStartSizeVar(${1:float_size})
-]]></content>
-    <tabTrigger>CCParticleMeteor_setStartSizeVar</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

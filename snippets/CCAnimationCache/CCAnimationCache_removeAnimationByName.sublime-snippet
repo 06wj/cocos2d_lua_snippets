@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCAnimationCache:removeAnimationByName(${1:const_char*_name})
-]]></content>
-    <tabTrigger>CCAnimationCache_removeAnimationByName</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

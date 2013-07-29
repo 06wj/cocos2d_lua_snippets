@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSprite:nodeToWorldTransform()
-]]></content>
-    <tabTrigger>CCSprite_nodeToWorldTransform</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

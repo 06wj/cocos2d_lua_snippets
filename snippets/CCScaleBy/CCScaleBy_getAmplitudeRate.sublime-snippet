@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCScaleBy:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCScaleBy_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMotionStreak:ignoreAnchorPointForPosition(${1:bool_newValue})
-]]></content>
-    <tabTrigger>CCMotionStreak_ignoreAnchorPointForPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

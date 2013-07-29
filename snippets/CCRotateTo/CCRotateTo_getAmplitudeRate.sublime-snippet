@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRotateTo:getAmplitudeRate()
-]]></content>
-    <tabTrigger>CCRotateTo_getAmplitudeRate</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

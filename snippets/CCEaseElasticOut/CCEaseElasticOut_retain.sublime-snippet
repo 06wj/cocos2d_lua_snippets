@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCEaseElasticOut:retain()
-]]></content>
-    <tabTrigger>CCEaseElasticOut_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenuItemToggle:setParent(${1:CCNode_*_var})
-]]></content>
-    <tabTrigger>CCMenuItemToggle_setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:resetSystem(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_resetSystem</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

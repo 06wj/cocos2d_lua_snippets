@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCGridAction:getDuration()
-]]></content>
-    <tabTrigger>CCGridAction_getDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

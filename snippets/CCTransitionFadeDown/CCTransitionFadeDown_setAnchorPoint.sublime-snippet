@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:setAnchorPoint(${1:CCPoint_point})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_setAnchorPoint</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

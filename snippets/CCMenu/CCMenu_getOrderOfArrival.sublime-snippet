@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCMenu:getOrderOfArrival(${1:})
-]]></content>
-    <tabTrigger>CCMenu_getOrderOfArrival</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

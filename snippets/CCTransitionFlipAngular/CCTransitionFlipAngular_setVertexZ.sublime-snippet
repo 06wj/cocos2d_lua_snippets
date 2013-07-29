@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFlipAngular:setVertexZ(${1:float_var})
-]]></content>
-    <tabTrigger>CCTransitionFlipAngular_setVertexZ</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

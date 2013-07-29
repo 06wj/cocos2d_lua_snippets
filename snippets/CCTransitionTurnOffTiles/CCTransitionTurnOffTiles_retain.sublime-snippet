@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionTurnOffTiles:retain()
-]]></content>
-    <tabTrigger>CCTransitionTurnOffTiles_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

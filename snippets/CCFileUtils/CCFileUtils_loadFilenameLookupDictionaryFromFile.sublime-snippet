@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCFileUtils:loadFilenameLookupDictionaryFromFile(${1:const_char*_filename})
-]]></content>
-    <tabTrigger>CCFileUtils_loadFilenameLookupDictionaryFromFile</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

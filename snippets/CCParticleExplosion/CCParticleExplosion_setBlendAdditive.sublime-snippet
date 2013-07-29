@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleExplosion:setBlendAdditive(${1:bool_value})
-]]></content>
-    <tabTrigger>CCParticleExplosion_setBlendAdditive</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSnow:isAutoRemoveOnFinish(${1:})
-]]></content>
-    <tabTrigger>CCParticleSnow_isAutoRemoveOnFinish</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

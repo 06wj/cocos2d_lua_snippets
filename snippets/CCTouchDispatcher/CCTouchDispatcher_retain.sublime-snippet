@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTouchDispatcher:retain()
-]]></content>
-    <tabTrigger>CCTouchDispatcher_retain</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

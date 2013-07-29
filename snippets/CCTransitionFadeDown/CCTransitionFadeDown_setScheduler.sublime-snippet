@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionFadeDown:setScheduler(${1:CCScheduler*_pScheduler})
-]]></content>
-    <tabTrigger>CCTransitionFadeDown_setScheduler</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

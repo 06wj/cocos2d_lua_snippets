@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCSpriteBatchNode:setTextureAtlas(${1:CCTextureAtlas*_textureAtlas})
-]]></content>
-    <tabTrigger>CCSpriteBatchNode_setTextureAtlas</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

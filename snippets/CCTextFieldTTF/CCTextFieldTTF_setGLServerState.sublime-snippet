@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTextFieldTTF:setGLServerState(${1:ccGLServerState_state})
-]]></content>
-    <tabTrigger>CCTextFieldTTF_setGLServerState</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

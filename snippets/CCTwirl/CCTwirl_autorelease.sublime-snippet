@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTwirl:autorelease(${1:})
-]]></content>
-    <tabTrigger>CCTwirl_autorelease</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCRibbon:isRunning(${1:})
-]]></content>
-    <tabTrigger>CCRibbon_isRunning</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

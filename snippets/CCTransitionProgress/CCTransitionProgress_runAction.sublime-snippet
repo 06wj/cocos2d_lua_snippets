@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionProgress:runAction(${1:CCAction*_action})
-]]></content>
-    <tabTrigger>CCTransitionProgress_runAction</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

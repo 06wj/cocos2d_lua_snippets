@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTransitionScene:setSkewY(${1:float_skewY})
-]]></content>
-    <tabTrigger>CCTransitionScene_setSkewY</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

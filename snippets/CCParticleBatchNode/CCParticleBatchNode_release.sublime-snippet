@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleBatchNode:release()
-]]></content>
-    <tabTrigger>CCParticleBatchNode_release</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

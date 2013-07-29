@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCParticleSmoke:addParticle(${1:})
-]]></content>
-    <tabTrigger>CCParticleSmoke_addParticle</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

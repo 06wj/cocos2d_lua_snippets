@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCTMXLayer:setupTiles(${1:})
-]]></content>
-    <tabTrigger>CCTMXLayer_setupTiles</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-

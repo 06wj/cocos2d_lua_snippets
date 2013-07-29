@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[
-CCReuseGrid:setDuration(${1:float_duration})
-]]></content>
-    <tabTrigger>CCReuseGrid_setDuration</tabTrigger>
-    <scope>source.lua</scope>
-    <description></description>
-</snippet>
-
