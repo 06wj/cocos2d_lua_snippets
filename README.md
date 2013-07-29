@@ -7,4 +7,7 @@ Install with Package Control
 
 ### Tab Triggers:
 
-e.g:"CCSprite_setPosition" => "CCSprite:setPosition(CCPoint_pos)"
+e.g:
+
+- "CCSprite_setPosition" => setPosition(CCPoint_pos)"
+- "CCSprite_create" => "CCSprite:create(const_char_*pszFileName)"
