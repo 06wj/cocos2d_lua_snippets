@@ -35,7 +35,8 @@ def cleanDir( Dir ):
                 shutil.rmtree(filePath,True)
     return True
 
-os.makedirs(snippetsDir, exist_ok=True)
+if not os.path.exists(snippetsDir):
+    os.makedirs(snippetsDir)
 cleanDir(snippetsDir)
 
 #                     class    AAA    :       {func }
